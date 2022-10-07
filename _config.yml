@@ -8,4 +8,4 @@ include:
   - CONTRIBUTING.md
   - README.md
   
-theme: jekyll-theme-cayman
+theme: modernist
