@@ -8,4 +8,4 @@ include:
   - CONTRIBUTING.md
   - README.md
   
-theme: modernist
+theme: pages-themes/modernist@v0.2.0
