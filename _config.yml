@@ -1,5 +1,6 @@
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
 relative_links:
   enabled: true
