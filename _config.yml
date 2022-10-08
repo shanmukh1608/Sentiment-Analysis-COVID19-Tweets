@@ -9,4 +9,4 @@ include:
   - CONTRIBUTING.md
   - README.md
   
-theme: pages-themes/modernist@v0.2.0
+theme: jekyll-theme-cayman
