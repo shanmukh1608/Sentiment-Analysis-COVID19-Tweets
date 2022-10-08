@@ -1,5 +1,5 @@
 # Sentiment Analysis of COVID-19 Tweets
-
+Group 11 - ML 7641 (Fall 2022)
 Team Members:
 1. Harsha Vaddi - hvaddi3
 2. Manvith M Reddy - mreddy43
@@ -7,8 +7,13 @@ Team Members:
 4. Shanmukh Karra - skarra33
 5. Sai Sri Harsha Pinninti - spinninti6
 
-# ML 7641 (Fall 2022) - Project Group 11
 # Project Proposal
+
+## Links
+* [Presentation Video](https://gtvault.sharepoint.com/:v:/s/ML7641Group/EbxlMAj5A85InPjVNTXYOxsB57fuOYIhNaEYB0DQmTki7Q?e=aSr94n)
+* [Presentation (PPT)](https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw?e=h4C4Md)
+* [Gantt Chart](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EbdIFInSHgtCnq1xi3FxrikBSQiLFQ_IHpAhqi9xQHOyHw?e=84Ur5Y)
+* [Proposal Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ)
 
 ## Introduction/Background
 Social media is playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
