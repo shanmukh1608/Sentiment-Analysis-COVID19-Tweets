@@ -9,4 +9,4 @@ include:
   - CONTRIBUTING.md
   - README.md
   
-theme: jekyll-theme-cayman
+remote_theme: vfvong/jekyll-theme-tao
