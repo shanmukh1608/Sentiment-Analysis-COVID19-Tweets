@@ -1,4 +1,4 @@
-# ML 7641 (Fall 2022) - Project Group 11
+# Sentiment Analysis of COVID-19 Tweets
 
 Team Members:
 1. Harsha Vaddi - hvaddi3
@@ -7,9 +7,8 @@ Team Members:
 4. Shanmukh Karra - skarra33
 5. Sai Sri Harsha Pinninti - spinninti6
 
+# ML 7641 (Fall 2022) - Project Group 11
 # Project Proposal
-
-## Project Name: Sentiment Analysis of COVID-19 Tweets
 
 ## Introduction/Background
 Social media is playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
