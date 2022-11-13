@@ -99,9 +99,51 @@ The Multinomial Naive Bayes Model achieved an Accuracy of 0.693.
 | macro avg    | 0.70      | 0.69   | 0.69     | 24000   |
 | weighted avg | 0.70      | 0.69   | 0.69     | 24000   |
 
+#### Decision Tree
 
+The Decision tree classifier achieved an Accuracy of 0.743.
 
-By fine-tuning our clusters using metrics like Beta-CV, elbow-method, we can see the prevalent clusters/topics and if/how they vary through the various waves of covid. Using various metrics like precision, recall, f1-score, we will be able to compare our machine learning models and see which perform best. Upon further analysis, we will be able to tell what topics invoked generally positive comments on twitter and which topics invoked generally negative sentiments.
+|              | Precision | Recall | f1-score | Support |
+|--------------|-----------|--------|----------|---------|
+| negative     | 0.73      | 0.71   | 0.72     | 8088    |
+| neutral      | 0.74      | 0.79   | 0.76     | 8042    |
+| Positive     | 0.77      | 0.73   | 0.75     | 7870    |
+|              |           |        |          |         |
+| accuracy     |           |        | 0.74     | 24000   |
+| macro avg    | 0.74      | 0.74   | 0.74     | 24000   |
+| weighted avg | 0.74      | 0.74   | 0.74     | 24000   |
+
+#### Random Forest
+
+The Random Forest classifier achieved an Accuracy of 0.790.
+
+|              | Precision | Recall | f1-score | Support |
+|--------------|-----------|--------|----------|---------|
+| negative     | 0.84      | 0.70   | 0.77     | 8088    |
+| neutral      | 0.71      | 0.91   | 0.80     | 8042    |
+| Positive     | 0.86      | 0.76   | 0.80     | 7870    |
+|              |           |        |          |         |
+| accuracy     |           |        | 0.79     | 24000   |
+| macro avg    | 0.80      | 0.79   | 0.79     | 24000   |
+| weighted avg | 0.80      | 0.79   | 0.79     | 24000   |
+
+#### Neural Network
+
+The Neural Network (MLP) achieved an Accuracy of 0.748.
+
+|              | Precision | Recall | f1-score | Support |
+|--------------|-----------|--------|----------|---------|
+| negative     | 0.85      | 0.60   | 0.70     | 8088    |
+| neutral      | 0.65      | 0.95   | 0.77     | 8042    |
+| Positive     | 0.84      | 0.70   | 0.76     | 7870    |
+|              |           |        |          |         |
+| accuracy     |           |        | 0.75     | 24000   |
+| macro avg    | 0.78      | 0.75   | 0.74     | 24000   |
+| weighted avg | 0.78      | 0.75   | 0.74     | 24000   |
+
+#### SVM
+
+The SVM classifier was not able to train to completetion due to the RAM limitations on Google Colab. We aim to find ways to train the model by using more advanced preprocessing and dimensionality reduction techniques.
 
 ## References
 [1] Kaur, H., Ahsaan, S.U., Alankar, B. et al. “A Proposed Sentiment Analysis Deep Learning Algorithm for Analyzing COVID-19 Tweets.” Inf Syst Front 23, 1417–1429 (2021). https://doi.org/10.1007/s10796-021-10135-7. 
