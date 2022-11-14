@@ -44,25 +44,6 @@ To process this data,we first identified the relevant months based on the waves 
 The tweet data at this point comprised of various languages, the tweets were filtered by english to maintain homogeneity, all the words were converted to lowercase, punctuation and stop words were removed. To understand the sentiment of our tweets they were then passed to TextBlob which is a lexicon based sentiment analyzer that can be used for sentiment analysis. These values formed the truth labels for our dataset. For modeling we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
 
 ### Data Analysis
-We plan to use a variety of techniques to improve/understand our dataset:
-* Time-Series Analysis
-* Dimensionality Reduction
-* TF-IDF, etc.
-
-### Unsupervised Learning
-We plan to use a variety of clustering techniques to identify the salient groups within our dataset. 
-* K-Means
-* DBSCAN
-* Topic Modeling using LDA, etc.
-
-### Supervised Learning
-We aim to train various supervised machine learning models that will be able to give the sentiment of a tweet. We can compare these models to see which ones are performing best. 
-* SVM
-* Random Forest
-* Logistic Regression, etc.
-
-## Results and Discussion
-
 ### Vectorization
 After the data was preprocessed, we converted the tweets into vectors to feed into our models. We applied the Bag of Words representation using the CountVectorizer from Scikit Learn. We limited our features to 500 as we didn't find a sharp increase in accuracy with more and we noticed RAM issues when training models with more than 500 features. We then standardized features by removing the mean and scaling to unit variance using StandardScaler from Scikit Learn. Standardization of a dataset is a common preprocessing technique for many machine learning estimators: they might behave badly if the individual features do not more or less look like standard normally distributed data. 
 
@@ -76,6 +57,8 @@ We trained our data on several popular machine learning algorithms like :
 * Random Forest
 * Neural Network (MLP)
 * SVM
+
+## Results and Discussion
 
 We also used several different metrics to compare the performance of the models like :
 * Accuracy
