@@ -43,26 +43,91 @@ To process this data,we first identified the relevant months based on the waves 
 
 The tweet data at this point comprised of various languages, the tweets were filtered by english to maintain homogeneity, all the words were converted to lowercase, punctuation and stop words were removed. To understand the sentiment of our tweets they were then passed to TextBlob which is a lexicon based sentiment analyzer that can be used for sentiment analysis. These values formed the truth labels for our dataset. For modeling we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
 
+
 ### Data Analysis
-We plan to use a variety of techniques to improve/understand our dataset:
-* Time-Series Analysis
-* Dimensionality Reduction
-* TF-IDF, etc.
+#### Vectorization
+After the data was preprocessed, we converted the tweets into vectors to feed into our models. We applied the Bag of Words representation using the CountVectorizer from Scikit Learn. We limited our features to 500 as we didn't find a sharp increase in accuracy with more and we noticed RAM issues when training models with more than 500 features. We then standardized features by removing the mean and scaling to unit variance using StandardScaler from Scikit Learn. Standardization of a dataset is a common preprocessing technique for many machine learning estimators: they might behave badly if the individual features do not more or less look like standard normally distributed data. 
 
-### Unsupervised Learning
-We plan to use a variety of clustering techniques to identify the salient groups within our dataset. 
-* K-Means
-* DBSCAN
-* Topic Modeling using LDA, etc.
+#### Unsupervised Learning
+To reduce the number of features in our model further, we used the unsupervised learning technique Principal Component Analysis (PCA). PCA uses the Singular Value Decomposition of the data to project it to a lower dimensional space. The input data is centered but not scaled for each feature before applying the SVD. Instead of manually setting the number of components, we set the variance of the input that is supposed to be explained by the generated components to 95%. PCA returned 419 features which we then used to train our models.
 
-### Supervised Learning
-We aim to train various supervised machine learning models that will be able to give the sentiment of a tweet. We can compare these models to see which ones are performing best. 
-* SVM
+#### Supervised Learning
+We trained our data on several popular machine learning algorithms like :
+* Multinomial Naive Bayes
+* Decision Tree
 * Random Forest
-* Logistic Regression, etc.
+* Neural Network (MLP)
+* SVM
 
-## Potential results and Discussion
-By fine-tuning our clusters using metrics like Beta-CV, elbow-method, we can see the prevalent clusters/topics and if/how they vary through the various waves of covid. Using various metrics like precision, recall, f1-score, we will be able to compare our machine learning models and see which perform best. Upon further analysis, we will be able to tell what topics invoked generally positive comments on twitter and which topics invoked generally negative sentiments.
+## Results and Discussion
+
+We also used several different metrics to compare the performance of the models like :
+* Accuracy
+* Precision
+* Recall
+* F1-score
+* Support
+
+#### Multinomial Naive Bayes
+
+The Multinomial Naive Bayes Model achieved an Accuracy of 0.693.
+
+
+|              | Precision | Recall | f1-score | Support |
+|--------------|-----------|--------|----------|---------|
+| negative     | 0.73      | 0.62   | 0.67     | 8088    |
+| neutral      | 0.65      | 0.78   | 0.70     | 8042    |
+| Positive     | 0.72      | 0.69   | 0.70     | 7870    |
+|              |           |        |          |         |
+| accuracy     |           |        | 0.69     | 24000   |
+| macro avg    | 0.70      | 0.69   | 0.69     | 24000   |
+| weighted avg | 0.70      | 0.69   | 0.69     | 24000   |
+
+#### Decision Tree
+
+The Decision tree classifier achieved an Accuracy of 0.743.
+
+|              | Precision | Recall | f1-score | Support |
+|--------------|-----------|--------|----------|---------|
+| negative     | 0.73      | 0.71   | 0.72     | 8088    |
+| neutral      | 0.74      | 0.79   | 0.76     | 8042    |
+| Positive     | 0.77      | 0.73   | 0.75     | 7870    |
+|              |           |        |          |         |
+| accuracy     |           |        | 0.74     | 24000   |
+| macro avg    | 0.74      | 0.74   | 0.74     | 24000   |
+| weighted avg | 0.74      | 0.74   | 0.74     | 24000   |
+
+#### Random Forest
+
+The Random Forest classifier achieved an Accuracy of 0.790.
+
+|              | Precision | Recall | f1-score | Support |
+|--------------|-----------|--------|----------|---------|
+| negative     | 0.84      | 0.70   | 0.77     | 8088    |
+| neutral      | 0.71      | 0.91   | 0.80     | 8042    |
+| Positive     | 0.86      | 0.76   | 0.80     | 7870    |
+|              |           |        |          |         |
+| accuracy     |           |        | 0.79     | 24000   |
+| macro avg    | 0.80      | 0.79   | 0.79     | 24000   |
+| weighted avg | 0.80      | 0.79   | 0.79     | 24000   |
+
+#### Neural Network
+
+The Neural Network (MLP) achieved an Accuracy of 0.748.
+
+|              | Precision | Recall | f1-score | Support |
+|--------------|-----------|--------|----------|---------|
+| negative     | 0.85      | 0.60   | 0.70     | 8088    |
+| neutral      | 0.65      | 0.95   | 0.77     | 8042    |
+| Positive     | 0.84      | 0.70   | 0.76     | 7870    |
+|              |           |        |          |         |
+| accuracy     |           |        | 0.75     | 24000   |
+| macro avg    | 0.78      | 0.75   | 0.74     | 24000   |
+| weighted avg | 0.78      | 0.75   | 0.74     | 24000   |
+
+#### SVM
+
+The SVM classifier was not able to train to completetion due to the RAM limitations on Google Colab. We aim to find ways to train the model by using more advanced preprocessing and dimensionality reduction techniques.
 
 ## References
 [1] Kaur, H., Ahsaan, S.U., Alankar, B. et al. “A Proposed Sentiment Analysis Deep Learning Algorithm for Analyzing COVID-19 Tweets.” Inf Syst Front 23, 1417–1429 (2021). https://doi.org/10.1007/s10796-021-10135-7. 
