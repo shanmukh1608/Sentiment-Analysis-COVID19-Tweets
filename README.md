@@ -10,10 +10,10 @@ Team Members:
 # Midterm Report
 
 ## Links 
-* [Presentation Video](Proposal)(https://gtvault.sharepoint.com/:v:/s/ML7641Group/EbxlMAj5A85InPjVNTXYOxsB57fuOYIhNaEYB0DQmTki7Q?e=aSr94n)
-* [Presentation (PPT)](Proposal)(https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw?e=h4C4Md)
-* [Gantt Chart](Proposal)(https://gtvault.sharepoint.com/:x:/s/ML7641Group/EbdIFInSHgtCnq1xi3FxrikBSQiLFQ_IHpAhqi9xQHOyHw?e=84Ur5Y)
-* [Proposal Contribution Table](updated)(https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ)
+* [Presentation Video](https://gtvault.sharepoint.com/:v:/s/ML7641Group/EbxlMAj5A85InPjVNTXYOxsB57fuOYIhNaEYB0DQmTki7Q?e=aSr94n)(Proposal)
+* [Presentation (PPT)](https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw?e=h4C4Md)(Proposal)
+* [Gantt Chart](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EbdIFInSHgtCnq1xi3FxrikBSQiLFQ_IHpAhqi9xQHOyHw?e=84Ur5Y)(Proposal)
+* [Proposal Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ)(updated)
 
 ## Introduction/Background
 Social media is playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
