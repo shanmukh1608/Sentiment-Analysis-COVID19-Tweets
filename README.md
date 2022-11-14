@@ -128,6 +128,8 @@ The Neural Network (MLP) achieved an Accuracy of 0.748.
 
 The SVM classifier was not able to train to completetion due to the RAM limitations on Google Colab. We aim to find ways to train the model by using more advanced preprocessing and dimensionality reduction techniques.
 
+Overall, the models performed decently for the amount of data given to it. Out of the millions of tweets we collected, we only pushed 120,000 tweets into the model. In the future, we aim to give the models more and better data in order to improve results. The best performing model was the Random Forest classifier which gave us an accuracy of 79% with high average recall, precision and f1 score as well. We believe it performed best because of its nature as an ensemble model which combines multiple decision trees to reduce the generalization error of the prediction. Naive bayes performed the worst relatively and the neural network will probably perform better when more data is fed into the model.
+
 ## References
 [1] Kaur, H., Ahsaan, S.U., Alankar, B. et al. “A Proposed Sentiment Analysis Deep Learning Algorithm for Analyzing COVID-19 Tweets.” Inf Syst Front 23, 1417–1429 (2021). https://doi.org/10.1007/s10796-021-10135-7. 
 
