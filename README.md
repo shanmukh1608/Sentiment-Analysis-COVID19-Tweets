@@ -46,7 +46,7 @@ To process this data,we first identified the relevant months based on the waves 
 To understand the sentiment of our tweets they were then passed to TextBlob which is a lexicon based sentiment analyzer that can be used for sentiment analysis. These values formed the truth labels for our dataset. For modeling, we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png" 
-                       alt="Distribution of Labels in Sample Dataset"/></p>
+                      <figcaption>Fig.1 - Distribution of Labels in the Sample Dataset</figcaption>/></p>
 <!-- ![alt text](https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png)[alt] -->
 
 ### Data Processing
