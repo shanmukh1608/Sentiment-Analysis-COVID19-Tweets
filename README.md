@@ -44,9 +44,13 @@ The amount of tweets in the dataset was too large for us to handle on local mach
 To process this data,we first identified the relevant months based on the waves of the COVID-19 pandemic and then hydrated a representative sample of the tweets from each month and stored it in "jsonl" format for easier sharing. The tweet data at this point comprised of various languages, the tweets were filtered by english to maintain homogeneity, all the words were converted to lowercase, punctuation and stop words were removed. Some of the tweets returned contained only either blank spaces or empty strings, we dropped these rows as they constituted a very small percentage of our dataset (0.1%).
 
 To understand the sentiment of our tweets they were then passed to TextBlob which is a lexicon based sentiment analyzer that can be used for sentiment analysis. These values formed the truth labels for our dataset. For modeling, we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
-<p align="center">
+<figure>
+  <img src="https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png"  alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Distribution of Labels in the Sample Dataset.</figcaption>
+</figure>
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png" 
-                      <figcaption>Fig.1 - Distribution of Labels in the Sample Dataset</figcaption>/></p>
+                      <figcaption>Fig.1 - Distribution of Labels in the Sample Dataset</figcaption>/></p> -->
 <!-- ![alt text](https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png)[alt] -->
 
 ### Data Processing
@@ -119,7 +123,7 @@ The Neural Network (MLP) achieved an Accuracy of 0.748.
 
 The SVM classifier was not able to train to completion due to the time complexity being (O(n_samples^2 * n_features)). Since this is a language based dataset it is important to retain features to capture the sentiment of the tweet effectively. The training time for SVM cannot be reduced further without sacrificing information.
 
-## Conclusion
+## Summary
 In the study so far, we have processed about 6 months of data representing the tweets during multiple waves of COVID-19. We have utilized PCA for feature selection and have trained several supervised models to compare their performance in classifying the sentiment of these tweets. The models were compared using four different metrics. We found that Random Forest performs better than the rest of the models with only the Neural Network (MLP) showing a comparable performance based on the metrics that we have tested. 
 
 ## References
