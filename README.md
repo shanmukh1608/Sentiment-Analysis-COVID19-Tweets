@@ -40,17 +40,17 @@ The dataset in the link consists of unhydrated tweets, which means that they onl
 The data was sourced using the "twarc" module which allows us to retrieve data by referencing the tweet id through twitter's API. Twitter's API times out the python script after a certain number of requests or when the rate of requests to the server exceeds a certain amount. We tried solving this by exploring other modules such as "tweepy" and "twint". tweepy ran into the same issue as twarc as both utilize twitter's API for their data , twint on the other hand is deprecated after twitter's update to API version 2.0. We finally resolved this issue by running the program using twarc on multiple systems using different API keys.
 
 The amount of tweets in the dataset was too large for us to handle on local machines. The unhydrated tweets for one year amounts to approximately 6 Gigabytes of Data. The data was further split into approximately 800 text files for each month in the year.
-To process this data,we first identified the relevant months based on the waves of the COVID-19 pandemic and then hydrated a representative sample of the tweets from each month and stored it in "jsonl" format for easier sharing.
 
-The tweet data at this point comprised of various languages, the tweets were filtered by english to maintain homogeneity, all the words were converted to lowercase, punctuation and stop words were removed. To understand the sentiment of our tweets they were then passed to TextBlob which is a lexicon based sentiment analyzer that can be used for sentiment analysis. These values formed the truth labels for our dataset. For modeling, we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
+To process this data,we first identified the relevant months based on the waves of the COVID-19 pandemic and then hydrated a representative sample of the tweets from each month and stored it in "jsonl" format for easier sharing. The tweet data at this point comprised of various languages, the tweets were filtered by english to maintain homogeneity, all the words were converted to lowercase, punctuation and stop words were removed. Some of the tweet returned contained only either blank spaces or empty strings, we dropped these rows as they constituted a very small percentage of our dataset (0.1%).
+
+To understand the sentiment of our tweets they were then passed to TextBlob which is a lexicon based sentiment analyzer that can be used for sentiment analysis. These values formed the truth labels for our dataset. For modeling, we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png" 
                        alt="Distribution of Labels in Sample Dataset"/></p>
 <!-- ![alt text](https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png)[alt] -->
 
 ### Data Processing
-#### Vectorization
-After the data was preprocessed, we converted the tweets into vectors to feed into our models. We applied the Bag of Words representation using the CountVectorizer from Scikit Learn. We limited our features to 500 as we didn't find a sharp increase in accuracy with greater number of features and we ran into RAM limitations when training models with more than 500 features. We then standardized features by subtracting the mean and scaling to unit variance using StandardScaler from Scikit Learn. Standardization of a dataset is a common preprocessing technique for many machine learning estimators: they might behave badly if the individual features do not more or less look like standard normally distributed data. 
+After the data was preprocessed, we converted the tweets into vectors to feed into our models. We applied the Bag of Words representation using the CountVectorizer from Scikit Learn. We limited our features to 500 as we didn't find a sharp increase in accuracy with greater number of features and we ran into RAM limitations when training models with more than 500 features. We then standardized features by subtracting the mean and scaling to unit variance using StandardScaler from Scikit Learn. Standardization of a dataset is a common preprocessing technique for many machine learning estimators: they might behave badly if the individual features do not more or less look like standard normally distributed data. The data was divided into an 80:20 split for training and testing respectively.
 
 #### Unsupervised Learning
 To reduce the number of features in our model further, we used the unsupervised learning technique Principal Component Analysis (PCA). PCA uses the Singular Value Decomposition of the data to project it to a lower dimensional space. Instead of manually setting the number of components, we set the variance of the input that is supposed to be explained by the generated components to 95%. PCA returned 419 features which we then used to train our models.
@@ -117,7 +117,10 @@ The Neural Network (MLP) achieved an Accuracy of 0.748.
 
 #### SVM
 
-The SVM classifier was not able to train to completetion due to the RAM limitations on Google Colab. We aim to find ways to train the model by using more advanced preprocessing and dimensionality reduction techniques.
+The SVM classifier was not able to train to completion due to the time complexity being (O(n_samples^2 * n_features)). Since this is a language based dataset it is important to retain features to capture the sentiment of the tweet effectively. The training time for SVM cannot be reduced further without sacrificing information.
+
+## Conclusion
+In the study so far, we have processed about 6 months of data representing the tweets during multiple waves of COVID-19. We have utilized PCA for feature selection and have trained several supervised models to compare their performance in classifying the sentiment of these tweets. The models were compared using four different metrics. We found that Random Forest performs better than the rest of the models with only the Neural Network (MLP) showing a comparable performance based on the metrics that we have tested. 
 
 ## References
 [1] Kaur, H., Ahsaan, S.U., Alankar, B. et al. “A Proposed Sentiment Analysis Deep Learning Algorithm for Analyzing COVID-19 Tweets.” Inf Syst Front 23, 1417–1429 (2021). https://doi.org/10.1007/s10796-021-10135-7. 
