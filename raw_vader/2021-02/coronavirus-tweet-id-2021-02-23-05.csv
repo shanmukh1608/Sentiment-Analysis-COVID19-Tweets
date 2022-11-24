@@ -1,0 +1,280 @@
+,created_at,full_text,sentiment_score
+0,2021-02-23 04:59:55+00:00,"RT Do you think we're having fun outside during pandemic? 
+We're protesting against military coup who detained our Elected Gover...","{'neg': 0.213, 'neu': 0.659, 'pos': 0.128, 'compound': -0.296}"
+1,2021-02-23 04:59:55+00:00,"RT 500,000 lives lost to COVID-19. It's an unfathomable number, but each one represents a family that will never again be whole. To...","{'neg': 0.069, 'neu': 0.882, 'pos': 0.048, 'compound': -0.128}"
+2,2021-02-23 04:59:55+00:00,"RT Today, our nation passed another grim milestone in this pandemic: 500,000 lives lost. Join us as we honor their memory.","{'neg': 0.211, 'neu': 0.599, 'pos': 0.19, 'compound': -0.1531}"
+3,2021-02-23 04:59:55+00:00,"RT Job shaming in a pandemic is so weird lol, those of us in employment are blessed but please the market is mad right now...","{'neg': 0.177, 'neu': 0.6, 'pos': 0.223, 'compound': 0.1327}"
+4,2021-02-23 04:59:55+00:00,"RT Today we remember the 500,000 lives lost to COVID. 
+
+It didn't have to be this way.","{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.3182}"
+5,2021-02-23 04:59:55+00:00,"All the teachers in Oregon have been vaccinated, so if and when schools open wouldn't it be a delight that no one would have to wear a mask in the classroom?","{'neg': 0.063, 'neu': 0.826, 'pos': 0.111, 'compound': 0.4019}"
+6,2021-02-23 04:59:55+00:00,"RT It should also be pointed out that Ted Cruz was IN MEXICO and should, per CDC guidelines, be quarantining in his home.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+7,2021-02-23 04:59:55+00:00,RT Covid-19: European Union Has Now Secured Access To 2.6-Billion Vaccine Doses - The Rag,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4019}"
+8,2021-02-23 04:59:55+00:00,Check out this tweet on #makaticity,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+9,2021-02-23 04:59:56+00:00,"RT NEW: Movie theaters in New York City can reopen on March 5 at 25% capacity, with no more than 50 people per screen.
+
+Assign...","{'neg': 0.084, 'neu': 0.916, 'pos': 0.0, 'compound': -0.296}"
+10,2021-02-23 04:59:56+00:00,"RT also dropped the best album during this pandemic, of any genre.","{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.6369}"
+11,2021-02-23 04:59:56+00:00,"RT Our hearts break as we listen to Amazing Grace and mourn more than 500,000 lives lost to COVID-19 in America. At the Wh...","{'neg': 0.146, 'neu': 0.543, 'pos': 0.311, 'compound': 0.7783}"
+12,2021-02-23 04:59:56+00:00,"RT Coronavirus vaccine doses given per 100 people
+
+Israel: 85
+UAE: 56
+UK: 26
+US: 18
+Turkey: 7.7
+Poland: 7.1
+Norway: 6.8
+Sp...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+13,2021-02-23 04:59:56+00:00,RT fire Meghan McCain and hire someone who's actually smarter than a paper napkin,"{'neg': 0.138, 'neu': 0.69, 'pos': 0.172, 'compound': 0.1531}"
+14,2021-02-23 04:59:56+00:00,"RT a close to iron law of American policymaking:
+
+if you make people apply / prove their eligiblity for a service / come for...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+15,2021-02-23 04:59:56+00:00,"RT More Americans have died of COVID-19 than there are residents in Newark, New Jersey-the birthplace of the iconic","{'neg': 0.177, 'neu': 0.823, 'pos': 0.0, 'compound': -0.5945}"
+16,2021-02-23 04:59:56+00:00,RT If Internet Explorer was a country...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+17,2021-02-23 04:59:56+00:00,"RT Today we remember the 500,000 lives lost to COVID. 
+
+It didn't have to be this way.","{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.3182}"
+18,2021-02-23 04:59:56+00:00,He's the worst!! I have been saying it for months!! The CDC is corrupt too!! 7.1% death rate needed for epidemic threshold...covid barely even scrapes 1% case fatality rate for 10+ month!! They are culpable!!,"{'neg': 0.299, 'neu': 0.701, 'pos': 0.0, 'compound': -0.94}"
+19,2021-02-23 04:59:56+00:00,"RT This bothers me so much--
+
+There are still no official CDC guidelines for ventilation for schools--no rules on adequate air...","{'neg': 0.167, 'neu': 0.753, 'pos': 0.079, 'compound': -0.2732}"
+20,2021-02-23 04:59:57+00:00,Pandemic changed my hustle ! #,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+21,2021-02-23 04:59:57+00:00,"RT Biden tells Americans who have lost loved ones to Covid-19 he understands the pain they're going through: ""You're gonna be ok.""","{'neg': 0.196, 'neu': 0.667, 'pos': 0.137, 'compound': -0.1779}"
+22,2021-02-23 04:59:57+00:00,RT What Chuck is telling you here is that the Senate janitorial staff did not get to take a week off of work like t...,"{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.3612}"
+23,2021-02-23 04:59:57+00:00,"Already it has been a year of lockdown... Now it's unsustainable even for middle class, then why complain about poors... Now it will spike and complete 2nd wave 
+https://t.co/55SvBbLGAM","{'neg': 0.082, 'neu': 0.918, 'pos': 0.0, 'compound': -0.3612}"
+24,2021-02-23 04:59:57+00:00,RT THIS DID NOT AGE WELL,"{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.2057}"
+25,2021-02-23 04:59:57+00:00,RT I once told my husband that I was jealous of Finnish PhD students because they got given a sword when they graduate. Sa...,"{'neg': 0.115, 'neu': 0.885, 'pos': 0.0, 'compound': -0.4588}"
+26,2021-02-23 04:59:57+00:00,"RT ""Today, I ask all Americans to remember -- remember those we lost and those who are left behind."" -- President Biden on the m...","{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.3182}"
+27,2021-02-23 04:59:57+00:00,"RT Our local governments, businesses &amp; families must be the focus of #COVID19 relief. #CA39 cities should be able to receive...","{'neg': 0.0, 'neu': 0.866, 'pos': 0.134, 'compound': 0.4767}"
+28,2021-02-23 04:59:58+00:00,"RT Jim Jordan is one of the only reps to repeatedly vote AGAINST coronavirus relief.
+
+He said no to:
+
+ Stimulus checks
+S...","{'neg': 0.087, 'neu': 0.791, 'pos': 0.123, 'compound': 0.2263}"
+29,2021-02-23 04:59:58+00:00,"RT Haunting to be listening to the bells of Washington National Cathedral tolling 500 times, one for every 1,000 Americans...","{'neg': 0.1, 'neu': 0.9, 'pos': 0.0, 'compound': -0.2732}"
+30,2021-02-23 04:59:58+00:00,"//real talk
+
+The feeling of being alone is very common during online school... back then (pre pandemic) you can be tired nd afraid with friends... and just vent it out together or laugh it out together to cope
+
+Now.... ","{'neg': 0.104, 'neu': 0.722, 'pos': 0.174, 'compound': 0.5106}"
+31,2021-02-23 04:59:58+00:00,RT Last Week Tonight on meatpacking plants &amp; COVID is such a gut-punch reminder that every time investigations expose ser...,"{'neg': 0.078, 'neu': 0.922, 'pos': 0.0, 'compound': -0.1531}"
+32,2021-02-23 04:59:58+00:00,"RT (1/2) Study showing no excess mortality in Taiwan in 2020, &amp; a decrease in pneumonia &amp; influenza deaths, probably due to the...","{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.296}"
+33,2021-02-23 04:59:58+00:00,RT European Commission Orders 150-Million More Covid-19 Vaccine Doses From Moderna - The Rag,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+34,2021-02-23 04:59:58+00:00,"RT A devastating milestone: 500,000 people have died of COVID-19. If we took one minute of silence for each death, we wou...","{'neg': 0.383, 'neu': 0.617, 'pos': 0.0, 'compound': -0.9153}"
+35,2021-02-23 04:59:58+00:00,"RT Retweet if you think Governors Gavin Newsom, Andrew Cuomo and Mike DeWine should resign over their abuse of power duri...","{'neg': 0.258, 'neu': 0.742, 'pos': 0.0, 'compound': -0.765}"
+36,2021-02-23 04:59:58+00:00,"Life back to normal by 21 June at earliest, Boris Johnson announces via ~@BorisJohnson--&gt;Sorry to break the news to you--&gt;BUT #COVID19 will be here until you all #STOP trying to play/mock GOD!~ #HumbleYourselves","{'neg': 0.087, 'neu': 0.837, 'pos': 0.076, 'compound': -0.1007}"
+37,2021-02-23 04:59:58+00:00,"RT Today we remember the 500,000 lives lost to COVID. 
+
+It didn't have to be this way.","{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.3182}"
+38,2021-02-23 04:59:58+00:00,RT Yogrishi Swami Ramdev has donated a Real-Time Polymerase Chain Reaction (RT-PCR) machine for COVID-19 tests to Governme...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+39,2021-02-23 04:59:58+00:00,"RT also dropped the best album during this pandemic, of any genre.","{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.6369}"
+40,2021-02-23 04:59:59+00:00,"RT Maryland ranks 49th in vaccine distribution right now; even with the winter storm, I now have had both doses on the Modern...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+41,2021-02-23 04:59:59+00:00,"RT This bothers me so much--
+
+There are still no official CDC guidelines for ventilation for schools--no rules on adequate air...","{'neg': 0.167, 'neu': 0.753, 'pos': 0.079, 'compound': -0.2732}"
+42,2021-02-23 04:59:59+00:00,RT need a party like this after the pandemic ,"{'neg': 0.0, 'neu': 0.574, 'pos': 0.426, 'compound': 0.6369}"
+43,2021-02-23 04:59:59+00:00,RT Reuters: U.S. HOUSE BUDGET COMMITTEE APPROVES $1.9 TRILLION COVID-19 AID BILL,"{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.5319}"
+44,2021-02-23 04:59:59+00:00,"RT Just. Devastating. The government just didn't ""protect us"" when it should have says","{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.7568}"
+45,2021-02-23 04:59:59+00:00,RT Fun fact: the covid crisis has produced over 1200 new words in German over the past year. Personal favourites are coronamude (...,"{'neg': 0.144, 'neu': 0.739, 'pos': 0.116, 'compound': -0.2023}"
+46,2021-02-23 04:59:59+00:00,"RT Just. Devastating. The government just didn't ""protect us"" when it should have says","{'neg': 0.351, 'neu': 0.649, 'pos': 0.0, 'compound': -0.7568}"
+47,2021-02-23 04:59:59+00:00,"RT To all of you who have loved ones counted among the half million American lives that have been lost to covid, our hearts gri...","{'neg': 0.071, 'neu': 0.677, 'pos': 0.252, 'compound': 0.7845}"
+48,2021-02-23 04:59:59+00:00,"RT Somalia has no #Oxygen Plant to produce O2 in COVID19 centers. The O2 plant cost is 80,000$ and it will save hundreds o...","{'neg': 0.08, 'neu': 0.803, 'pos': 0.117, 'compound': 0.25}"
+49,2021-02-23 04:59:59+00:00,RT If Daft Punk can wear a mask for 28 years surely you can wear one to buy tomatoes,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}"
+50,2021-02-23 04:59:59+00:00,Agreed.,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2732}"
+51,2021-02-23 04:59:59+00:00,"RT ""Kids are resilient"" is one of the most B.S lines to come out of the pandemic.
+
+If kids are so resilient, why do we ha...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+52,2021-02-23 04:59:59+00:00,COVID-19 seed,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+53,2021-02-23 04:59:59+00:00,"RT BREAKING: The U.S. death toll from COVID-19 tops 500,000, a staggering total that nearly equals the number of Americans killed in W...","{'neg': 0.263, 'neu': 0.594, 'pos': 0.144, 'compound': -0.7003}"
+54,2021-02-23 04:59:59+00:00,No set guidelines for schools. Let that sink in.,"{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}"
+55,2021-02-23 04:59:59+00:00,RT If Daft Punk can wear a mask for 28 years surely you can wear one to buy tomatoes,"{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}"
+56,2021-02-23 05:00:00+00:00,RT With all due respect. If you are terrified of Corona then please stay in your house. But stop demanding your neighbors live in...,"{'neg': 0.252, 'neu': 0.626, 'pos': 0.122, 'compound': -0.6059}"
+57,2021-02-23 05:00:00+00:00,RT #NewsAlert | AIMIM MP tests positive for covid.,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.5574}"
+58,2021-02-23 05:00:00+00:00,RT Grabe. The boys are really lucky to have A'TIN. Mukhang iwo-world tour pa nga kayo thru series of LED BB ad on your cb/new e...,"{'neg': 0.0, 'neu': 0.89, 'pos': 0.11, 'compound': 0.4754}"
+59,2021-02-23 05:00:00+00:00,I uncertainly regret to inform you of Stanford's post-COVID future.,"{'neg': 0.394, 'neu': 0.606, 'pos': 0.0, 'compound': -0.6369}"
+60,2021-02-23 05:00:00+00:00,"#AchievingWoman: The proprietor of Dassa by Design and Dassa Interiors Michelle Langi left the USA to settle back in Kenya and do business
+https://t.co/PFJLEAIofw","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+61,2021-02-23 05:00:00+00:00,"Several top newspapers ran with Patanjali's claim that #Coronil was the first ""evidence-based medicine"" for coronavirus and that the WHO had recognised it.
+
+So is all the hype around Coronil justified?
+
+@GorwayGlobal
+
+https://t.co/aSfcsXNBsb","{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.5423}"
+62,2021-02-23 05:00:00+00:00,"Vietnam transitions from successful pandemic containment to strong economic recovery: AMRO 
+
+https://t.co/Y9gHiW1S1x","{'neg': 0.0, 'neu': 0.585, 'pos': 0.415, 'compound': 0.7964}"
+63,2021-02-23 05:00:00+00:00,"Most of these suggestions came from delegates who were on the frontline fighting #COVID19. According to #China's NHC, in total, the agency received and acted on 1436 suggestions from delegates to China's national legislature in 2020, up from 934 in 2019. (2/3)","{'neg': 0.057, 'neu': 0.943, 'pos': 0.0, 'compound': -0.3612}"
+64,2021-02-23 05:00:00+00:00,"#ICYMI: Currently, there are 28,488 active Covid-19 cases undergoing medical treatment or quarantine: 88.1% are mild, 5.7% are asymptomatic, 2.7% are critical, 2.6% are severe and 0.85% are moderate.  #PressOnePH
+
+Story here:https://t.co/IsJpPLGYfn","{'neg': 0.134, 'neu': 0.792, 'pos': 0.074, 'compound': -0.296}"
+65,2021-02-23 05:00:00+00:00,"Events are returning to and 100 jobs are available to support those events. has the story.
+https://t.co/AXgr5m7xTn","{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4019}"
+66,2021-02-23 05:00:00+00:00,"RT American families have lost more than 500,000 sons and daughters, mothers and fathers to COVID-19. Today and every day, we're remem...","{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.3182}"
+67,2021-02-23 05:00:00+00:00,Here's a look at how digital technologies are reshaping the healthcare industry during the COVID-19 pandemic,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+68,2021-02-23 05:00:00+00:00,"Chaos erupted at Steve Biko Academic Hospital -- one of the country's Covid-19 vaccination sites -- on Sunday when hundreds of health-care workers who had battled to register on an electronic vaccine data system descended on the site.
+https://t.co/YyfOc9FP9N","{'neg': 0.138, 'neu': 0.862, 'pos': 0.0, 'compound': -0.7096}"
+69,2021-02-23 05:00:00+00:00,"""We need to look elsewhere for the viral origin.""
+
+An Australian scientist who was among the team of researchers sent to China to investigate the origins of Covid-19 has cast doubt on the virus' 'ground zero'. |","{'neg': 0.065, 'neu': 0.935, 'pos': 0.0, 'compound': -0.3612}"
+70,2021-02-23 05:00:00+00:00,CDC study: Teachers key to COVID-19 infections in 1 district,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+71,2021-02-23 05:00:00+00:00,"Keeping indoor air quality fresh and clean is an important, much-ignored solution to improve our health, more so in the face of a virus that preys on weak respiratory systems.
+
+https://t.co/I1hRozaLG1
+
+#AirPollution #Air","{'neg': 0.069, 'neu': 0.644, 'pos': 0.286, 'compound': 0.7964}"
+72,2021-02-23 05:00:00+00:00,"Around 10 covid cases were reported from six blocks of a society in Ambalipura 
+
+https://t.co/wseBBrNMNR","{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.2263}"
+73,2021-02-23 05:00:00+00:00,"#Biden has held a ceremony at the White House to honor the nation's 500,000 #COVID19 deaths. It's been almost a year since the 1st covid case was reported in the country. The US remains the worst hit country worldwide, with infections surpassing 28 million. Giles Gibson reports.","{'neg': 0.078, 'neu': 0.86, 'pos': 0.061, 'compound': -0.2263}"
+74,2021-02-23 05:00:00+00:00,"As schools are reopened in #Malawi, one tip for keeping students safe from #COVID19 is planning students' exits and entry into classrooms as much as possible.","{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.4404}"
+75,2021-02-23 05:00:00+00:00,"Health officials have issued an urgent COVID-19 warning for more than 110,000 Sydneysiders after the virus was detected in their sewage.
+
+https://t.co/z0t9KQFK6U","{'neg': 0.099, 'neu': 0.826, 'pos': 0.074, 'compound': -0.1531}"
+76,2021-02-23 05:00:00+00:00,Menfi: working to secure coronavirus vaccine as soon as possible,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.34}"
+77,2021-02-23 05:00:00+00:00,"if anyone is thinking about starting a trading account, avoid like the plague (or covid cuz 2021)","{'neg': 0.112, 'neu': 0.761, 'pos': 0.127, 'compound': 0.0772}"
+78,2021-02-23 05:00:00+00:00,"#UttarPradesh Chief Minister #YogiAdityanath (@myogiadityanath) has asked officials to remain on alert over rising cases of #COVID19 in states including Maharashtra, Kerala, Madhya Pradesh, Chhattisgarh, Punjab, Haryana and Kerala.","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.296}"
+79,2021-02-23 05:00:00+00:00,"World's Pharmacy India leads the way once again! Hon'ble PM 
+@narendramodi proposes special visas for doctors, nurses &amp; regional air ambulance in a workshop on COVID-19 Management with health leaders, experts and officials of 10 neighbouring countries. Take a look to know more!","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.508}"
+80,2021-02-23 05:00:00+00:00,Blood donations are crucial right now. How does your COVID-19 status impact your ability to give that life-saving gift? the information you need to know. ,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.6369}"
+81,2021-02-23 05:00:00+00:00,"Malaysian hoteliers are concerned about the industry, with over 100 hotels already closed since the pandemic
+
+https://t.co/jL71ZK5O9O
+
+#Malaysia #hotelindustry #pandemic #tourism","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+82,2021-02-23 05:00:00+00:00,"In an effort to stay connected with the community and help those who are most vulnerable to catching COVID-19, this police department has started offering rides to seniors who can't get to their vaccination appointments.","{'neg': 0.058, 'neu': 0.871, 'pos': 0.071, 'compound': 0.1298}"
+83,2021-02-23 05:00:00+00:00,"The Investigators: Crooks pose as government agency to scam Mid-Southerners
+
+https://t.co/fftx3HD6un","{'neg': 0.27, 'neu': 0.73, 'pos': 0.0, 'compound': -0.5719}"
+84,2021-02-23 05:00:00+00:00,"""We don't see any slowdown in the roll out by all means,"" said Mats Granryd, Director general of GSMA, on the outlook for 5G and Covid-19's effect on the telecommunications industry.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+85,2021-02-23 05:00:00+00:00,"Ano ang favorite #KeyChen moments niyo throughout the show? Time to rewatch It all over again. 
+
+Boys' Lockdown starring Ali King and Alec Kevin is FREE on WeTV iflix! 
+
+#BoysLockdown #AliKing #AlecKevin","{'neg': 0.0, 'neu': 0.804, 'pos': 0.196, 'compound': 0.8087}"
+86,2021-02-23 05:00:00+00:00,"It's not clear what the threshold should be that allows people to let their guards - and masks - down. But we will get there relatively soon, according to experts. Until then, mask up. ","{'neg': 0.046, 'neu': 0.954, 'pos': 0.0, 'compound': -0.1511}"
+87,2021-02-23 05:00:00+00:00,"More than 4,000 variants of SARS-CoV-2 have been detected.
+
+https://t.co/gk2ebhRhPo","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+88,2021-02-23 05:00:00+00:00,"The pandemic is taking a toll on food freebies. 
+","{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.4215}"
+89,2021-02-23 05:00:00+00:00,"Need A COVID Vaccine? Get Texted To Get One That's About To Expire. 
+
+https://t.co/UrEgMgsztS","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+90,2021-02-23 05:00:00+00:00,"A bill to bar government agencies from requiring employees to receive COVID-19 vaccinations (except for health workers who need the vaccine to work) won bipartisan approval from the Utah House of Representatives Monday. | By #utpol #utleg
+https://t.co/oQRYBfnfzU","{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.7783}"
+91,2021-02-23 05:00:00+00:00,"RT Mr. President, we are not afraid of the exams. We have prepared for it But we are afraid of covid-19 because we have n...","{'neg': 0.0, 'neu': 0.943, 'pos': 0.057, 'compound': 0.1154}"
+92,2021-02-23 05:00:00+00:00,"The #COVID19 has been on a downward since 8th January and should move to #level1. On the other hand, continued #lockdown means sustained upward trend in excess deaths.
+
+#mentalhealth #data
+cc:@RevMeshoe","{'neg': 0.0, 'neu': 0.904, 'pos': 0.096, 'compound': 0.4939}"
+93,2021-02-23 05:00:00+00:00,"Since Alaska's COVID-19 disaster declaration expired earlier this month, the vaccination process has slowed down in the state. But Dr. Anne Zink says the state remains committed to getting vaccines to Alaskans.","{'neg': 0.072, 'neu': 0.852, 'pos': 0.075, 'compound': 0.0258}"
+94,2021-02-23 05:00:00+00:00,"RT 6LACK says Wizkid's #MadeinLagos is the best worldwide album to drop during this pandemic.
+
+A Wiz/6Lack Collab would slap...","{'neg': 0.084, 'neu': 0.683, 'pos': 0.233, 'compound': 0.5719}"
+95,2021-02-23 05:00:00+00:00,RT Insist or incentivize? Companies are deciding whether to make vaccines mandatory,"{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.0772}"
+96,2021-02-23 05:00:00+00:00,"RT In the mist of a pandemic.. And all the bad restrictions of online studying.. You didn't quit..
+
+Do not quit now bcz thi...","{'neg': 0.132, 'neu': 0.868, 'pos': 0.0, 'compound': -0.5423}"
+97,2021-02-23 05:00:00+00:00,"Coronavirus: Five states account for 86% of cases reported on Monday 
+
+Overall, India's active coronavirus cases increased by 4,421 on Monday. This is the sharpest increase in active cases since November-end.","{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.8316}"
+98,2021-02-23 05:00:00+00:00,"The Egyptian Export Council for Food Industries announced that the sector's exports in 2020 reached $ 3.5 billion, the same level as in 2019, despite the circumstances of the Coronavirus pandemic.
+
+https://t.co/D8hnBfIRlA","{'neg': 0.0, 'neu': 0.957, 'pos': 0.043, 'compound': 0.1027}"
+99,2021-02-23 05:00:00+00:00,RT President Biden cares. He feels your pain of loss. He lost his 1st wife &amp; daughter in a car accident. He lost Beau to brain...,"{'neg': 0.366, 'neu': 0.551, 'pos': 0.083, 'compound': -0.8519}"
+100,2021-02-23 05:00:01+00:00,RT Chinese scientists have published a paper in the journal Cell Research showing #influenza A virus can aggravate #COVID...,"{'neg': 0.163, 'neu': 0.837, 'pos': 0.0, 'compound': -0.5423}"
+101,2021-02-23 05:00:01+00:00,"BidenHarris,Fake Media,Big Tech, Liberals
+LYING, using COVID, dividing Our Country ,spreading racial Unrest and Hatred !! Attacking Our Constitution !! Millions of Americans NO Trust! Opening Border to 80,000 disease carrying illegals-STUPID !!","{'neg': 0.377, 'neu': 0.623, 'pos': 0.0, 'compound': -0.9512}"
+102,2021-02-23 05:00:01+00:00,Palestinians in #Gaza begin a limited #COVID19 vaccination program after receiving doses donated by #Russia and the #UAE.,"{'neg': 0.101, 'neu': 0.899, 'pos': 0.0, 'compound': -0.2263}"
+103,2021-02-23 05:00:01+00:00,"RT Before Covid-19, scores of the nation's private colleges were already facing a financial health pandemic. Things are worse but...","{'neg': 0.097, 'neu': 0.903, 'pos': 0.0, 'compound': -0.2617}"
+104,2021-02-23 05:00:01+00:00,RT It's not on until it's on homies,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+105,2021-02-23 05:00:02+00:00,Asian shares mostly higher amid coronavirus vaccine optimism,"{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.6908}"
+106,2021-02-23 05:00:02+00:00,"RT I'm in the hospital with Covid. I am depressed, I am scared and I'm feeling very alone. I am asking for prayers no matter...","{'neg': 0.308, 'neu': 0.644, 'pos': 0.048, 'compound': -0.7945}"
+107,2021-02-23 05:00:02+00:00,#PODover  #POCalais Open for business running an optimised schedule due to CoVid-19 measures.,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.4019}"
+108,2021-02-23 05:00:02+00:00,Intel's Christine Boles explains how the pandemic accelerated the need for companies to complete their IIoT transformations. #iamintel,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+109,2021-02-23 05:00:02+00:00,LATEST | ON RECORD: Mayor Edgardo Labella won't allow another lockdown for Cebu City. Read here:,"{'neg': 0.1, 'neu': 0.9, 'pos': 0.0, 'compound': -0.1695}"
+110,2021-02-23 05:00:02+00:00,RT aries are really spending their birthdays in lockdown twice ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+111,2021-02-23 05:00:02+00:00,Officials at Rutland Regional Medical Center are encouraging area residents who are 70 or older to sign up for a COVID-19 vaccination as soon as possible.,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.5267}"
+112,2021-02-23 05:00:02+00:00,"RT Yes, this! 
+It's infuriating this is not being addressed.
+#Ventilation 
+#PPE
+#SocialDistancing 
+In the 1918 pandemic, they un...","{'neg': 0.158, 'neu': 0.727, 'pos': 0.115, 'compound': -0.2481}"
+113,2021-02-23 05:00:02+00:00,"'Soul-destroying' Ageism In Recruitment Could Be Final Straw For Over-50s Made Redundant During The Pandemic, ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+114,2021-02-23 05:00:02+00:00,"RT 225,280 people were administered the #COVID19 #vaccine across #Bangladesh on Feb 22; a total of 23,081,57 (2.3 million+) peop...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+115,2021-02-23 05:00:02+00:00," New remote jobs!
+* Video Editor
+* Fee for Service Clinician
+* Canva, Social Media &amp; Graphic Design Expert - Flyers, Social Posts, Menus
+* and 10 others 
+
+https://t.co/7WsKZwM28C
+#stayhome","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+116,2021-02-23 05:00:03+00:00,"RT COVID-19 update: As at 22 February 2021, Zimbabwe had 35 862 confirmed cases, including 32 216 recoveries and 1 441 deaths. h...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+117,2021-02-23 05:00:03+00:00,"RT President Biden: We have lost more Americans to COVID-19 in one year than Americans who died in World War I, World War II and...","{'neg': 0.395, 'neu': 0.605, 'pos': 0.0, 'compound': -0.9287}"
+118,2021-02-23 05:00:03+00:00,"RT In 7 days, it's 1 year since Trumps speech. At the convention,idiots laughed about COVID. On 2/28, Trump said ""ne...","{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.4588}"
+119,2021-02-23 05:00:03+00:00,Hello! What do you think of the roadmap out of the pandemic as announced by the PM? What would you do differently? #EarlyBreakfast,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+120,2021-02-23 05:00:03+00:00,"RT Joe Biden had a plan for COVID-19 right up until he actually took office.
+
+Biden's inaction has led to the deadliest month...","{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.25}"
+121,2021-02-23 05:00:03+00:00,"No one is shocked that has been appropriately red-pilled. Time to take your medicine, people...","{'neg': 0.257, 'neu': 0.743, 'pos': 0.0, 'compound': -0.5423}"
+122,2021-02-23 05:00:03+00:00,"Time: 05:00 * Temp: 8.1degC * Wind: SW 8.9 to 29.1mph * Pressure: 1000.1hPa * Rain: 0.8mm * Hum: 95% * ET: 0.1mm * Solar: 0.0W/m2 * UV Index: 0.0 * Sunrise: 07:25 * Sunset: 17:47 * Cloudbase: 440ft * #conlig, #bangor * #stayathome *","{'neg': 0.048, 'neu': 0.952, 'pos': 0.0, 'compound': -0.296}"
+123,2021-02-23 05:00:03+00:00,"RT All museums, cinemas and theatres in #PhnomPenh capital and #Kandal province will be shut down for two weeks to contain...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+124,2021-02-23 05:00:03+00:00,COVID-19 and the kidney #COVID19KidneyIssues,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+125,2021-02-23 05:00:03+00:00,denormalise dat shit u covid carrier,"{'neg': 0.419, 'neu': 0.581, 'pos': 0.0, 'compound': -0.5574}"
+126,2021-02-23 05:00:03+00:00,RT Greg i have to thank you for the laughter during all the whose live shows. (I recent...,"{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.6908}"
+127,2021-02-23 05:00:03+00:00,Can COVID vaccines stop transmission? Scientists race to find answers.   #Covid19 #Research #Science #Sante #lifesciences #biotech #technology,"{'neg': 0.121, 'neu': 0.879, 'pos': 0.0, 'compound': -0.296}"
+128,2021-02-23 05:00:03+00:00,"Hey &amp; Australian people,
+
+We get it, you don't want us and you don't want covid to enter your country because of us.
+
+Fine. Return our money then!
+We paid you for a year because you promised to open border several times!
+
+WE HAVE LIFE &amp; FUTURE TOO!
+
+#justiceon5march","{'neg': 0.046, 'neu': 0.855, 'pos': 0.098, 'compound': 0.5764}"
+129,2021-02-23 05:00:03+00:00,COVID-19: Apple-funded COPAN ships 15 million coronavirus sample collection kits,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+130,2021-02-23 05:00:03+00:00,"Covid-19 has led to the slowdown in the auto insurance business as people work from home, and a shift toward homeowners insurance.  ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+131,2021-02-23 05:00:03+00:00,"RT When you hear absurd lies about how many people communists killed, you can reply with this. Nearly every death was preve...","{'neg': 0.371, 'neu': 0.629, 'pos': 0.0, 'compound': -0.9042}"
+132,2021-02-23 05:00:03+00:00,"Reports say mislabeled #Covid nursing home deaths. While that is egregious, he did not cause any deaths. Please stop spreading fake news.","{'neg': 0.199, 'neu': 0.714, 'pos': 0.086, 'compound': -0.4588}"
+133,2021-02-23 05:00:03+00:00,"RT The Dems' COVID spending bases state aid on unemployment rate, not just population. So California (9% unemployment) and...","{'neg': 0.263, 'neu': 0.737, 'pos': 0.0, 'compound': -0.7239}"
+134,2021-02-23 05:00:03+00:00,"'Soul-destroying' Ageism In Recruitment Could Be Final Straw For Over-50s Made Redundant During The Pandemic, 
+https://t.co/deJh9u1c2Q","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+135,2021-02-23 05:00:04+00:00,#POFreight :  to avoid travel delays please get a COVID-19 test early in your journey. Directions to the nearest sites offering COVID-19 tests using this map: (no need to take a test when returning to France after spending less than 48 hours in the UK),"{'neg': 0.046, 'neu': 0.905, 'pos': 0.048, 'compound': 0.0258}"
+136,2021-02-23 05:00:04+00:00,RT THIS DID NOT AGE WELL,"{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.2057}"
+137,2021-02-23 05:00:04+00:00,"""Health &amp; Wellness Happenings"" 
+
+#Health #Wellness #Covid 
+
+via","{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.7003}"
+138,2021-02-23 05:00:04+00:00,RT COVID-19 new variant 501Y.V2 symptoms to be aware of.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+139,2021-02-23 05:00:04+00:00,"#CurrentConditions as of 9:00 pm #HorseshoeBay - #DepartureBay last scheduled sailing at 10:10 pm - 83% vehicle deck space avail. Reserved traffic flowing normally.  Keep in the know here: ^oj
+
+ Travel safe. Wear a mask.
+ Here for your essential travel","{'neg': 0.0, 'neu': 0.931, 'pos': 0.069, 'compound': 0.4404}"
+140,2021-02-23 05:00:04+00:00,"Thank You Seniors Rachel, Camielle and Emily with the Covid Season to not miss a game all year- TRUE LEADERS!","{'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.7763}"
+141,2021-02-23 05:00:04+00:00,"The site of a popular Vancouver Island music festival is offering to host campers this summer, as a ban on gatherings in B.C. remains in effect due to COVID-19.  ","{'neg': 0.101, 'neu': 0.73, 'pos': 0.169, 'compound': 0.34}"
+142,2021-02-23 05:00:04+00:00,"Vaccines Adapted for Variants Will Not Need Lengthy Testing, F.D.A. Says - The New York Times #NewYorkTimes #News #Bot","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+143,2021-02-23 05:00:04+00:00,Its happening outbreak confirmed,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+144,2021-02-23 05:00:04+00:00,"RT #COVID19 threatens everyone.
+
+Human rights uplift everyone.
+
+Respecting human rights in this time of crisis is essenti...","{'neg': 0.269, 'neu': 0.602, 'pos': 0.129, 'compound': -0.5423}"
+145,2021-02-23 05:00:04+00:00,RT The Biden administration has announced several changes to the Paycheck Protection Program in an effort to reach minority-...,"{'neg': 0.0, 'neu': 0.942, 'pos': 0.058, 'compound': 0.0258}"
+146,2021-02-23 05:00:04+00:00,the people that go to the most packed places with NO MASK are the ones complaining about the pandemic the most,"{'neg': 0.199, 'neu': 0.801, 'pos': 0.0, 'compound': -0.5766}"
+147,2021-02-23 05:00:04+00:00,A Japanese expert from the World Health Organization (@WHO) who visited #Wuhan earlier this month has trashed China's insistence that the novel coronavirus had originally intruded into the country from abroad through a cold chain. #COVID19Research,"{'neg': 0.0, 'neu': 0.938, 'pos': 0.062, 'compound': 0.3182}"
+148,2021-02-23 05:00:04+00:00,"RT MUM, I'M NOT TALKING ABOUT THAT!! MEOW MEOW!! I NEED FOOD  STAT, ASAP!  #cat #cats #catlovers #love #black #blackcat...","{'neg': 0.0, 'neu': 0.78, 'pos': 0.22, 'compound': 0.7482}"
+149,2021-02-23 05:00:04+00:00,"RT I'm 76. President Biden's covid memorial speech was one of the great speeches in my life. 
+Never before a great soft...","{'neg': 0.12, 'neu': 0.73, 'pos': 0.15, 'compound': 0.2037}"
+150,2021-02-23 05:00:04+00:00,"Deaths from COVID-19 in the United States fell for a third straight week last week, as cases and hospitalizations both showed steep drops. ","{'neg': 0.0, 'neu': 0.817, 'pos': 0.183, 'compound': 0.5719}"
+151,2021-02-23 05:00:05+00:00,RT Our number of coronavirus dead is equivalent to an unthinkable Hollywood cataclysm.,"{'neg': 0.259, 'neu': 0.663, 'pos': 0.078, 'compound': -0.6124}"
+152,2021-02-23 05:00:05+00:00,"RT 150,000 hot meals &amp; food parcels during #COVID19 
+
+Our wonderful Langar Aid team ( ) is providing hot meals an...","{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.5719}"

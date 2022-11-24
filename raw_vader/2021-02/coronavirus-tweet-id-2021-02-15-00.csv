@@ -1,0 +1,233 @@
+,created_at,full_text,sentiment_score
+0,2021-02-14 23:59:55+00:00,"RT Roses Are Red
+Violets are Blue
+We're in the middle of a pandemic, I'm spiritually and mentally depleted &amp; not feeling all t...","{'neg': 0.056, 'neu': 0.944, 'pos': 0.0, 'compound': -0.0951}"
+1,2021-02-14 23:59:55+00:00,RT How are Pro Wrestling promotions not allowed to run at full capacity when our malls look like this. #ProWrestling #COVID...,"{'neg': 0.0, 'neu': 0.889, 'pos': 0.111, 'compound': 0.3612}"
+2,2021-02-14 23:59:55+00:00,"RT We won the House, the Senate and the Presidency. We won two historic seats in Georgia. We are about to pass a COVID relief...","{'neg': 0.0, 'neu': 0.677, 'pos': 0.323, 'compound': 0.8885}"
+3,2021-02-14 23:59:55+00:00,The worst thing about Covid-19 is that it kills people.,"{'neg': 0.487, 'neu': 0.513, 'pos': 0.0, 'compound': -0.8225}"
+4,2021-02-14 23:59:55+00:00,"RT We won the House, the Senate and the Presidency. We won two historic seats in Georgia. We are about to pass a COVID relief...","{'neg': 0.0, 'neu': 0.677, 'pos': 0.323, 'compound': 0.8885}"
+5,2021-02-14 23:59:55+00:00,"Indiana Logs 1,233 New COVID-19 Infections and 24 Deaths","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+6,2021-02-14 23:59:55+00:00,"RT CNN's left-wing media pundit ignores bombshell development in nursing home scandal 
+https://t.co/Ai1TNqK4cz","{'neg': 0.312, 'neu': 0.688, 'pos': 0.0, 'compound': -0.6124}"
+7,2021-02-14 23:59:55+00:00,"RT Could add 'Climate Change' as a tab on its website? It's COP26 in Glasgow, there's tonnes of news to collate, ther...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+8,2021-02-14 23:59:55+00:00,RT This is important. Ron DeSantis is in the news again for making excuses about his callous coronavirus response. We are the o...,"{'neg': 0.0, 'neu': 0.924, 'pos': 0.076, 'compound': 0.2023}"
+9,2021-02-14 23:59:55+00:00,"RT Yesterday, it was revealed that 60% of Covid deaths in the UK were disabled people. The same day, Tory MP Charles Walker w...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+10,2021-02-14 23:59:55+00:00,"RT Stay home. Protect the NHS. Save some lives but not those lives. 
+
+Oh, and let fresh air in. 
+
+Fury at 'do not resuscitate'...","{'neg': 0.158, 'neu': 0.627, 'pos': 0.215, 'compound': -0.0516}"
+11,2021-02-14 23:59:55+00:00,Biden to join virtual G7 event Friday with global leaders on Covid-19 efforts,"{'neg': 0.0, 'neu': 0.845, 'pos': 0.155, 'compound': 0.296}"
+12,2021-02-14 23:59:55+00:00,RT Thank you for your leadership. The Covid Bill in the House increases stimulus checks to $2000 for the wo...,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}"
+13,2021-02-14 23:59:55+00:00,RT Lawyer says PS145m test and trace contract given to private company 'not lawful',"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+14,2021-02-14 23:59:56+00:00,RT This is important. Ron DeSantis is in the news again for making excuses about his callous coronavirus response. We are the o...,"{'neg': 0.0, 'neu': 0.924, 'pos': 0.076, 'compound': 0.2023}"
+15,2021-02-14 23:59:56+00:00,"RT 12th Aug 2020
+The NPHET recommends that the HSE examines the feasibility and develops a proposal, as appropriate, for the inc...","{'neg': 0.0, 'neu': 0.917, 'pos': 0.083, 'compound': 0.2263}"
+16,2021-02-14 23:59:56+00:00,"RT Nobody writes stories about not dying by not contracting COVID-19.
+
+So maybe it's time to praise the Lab Researchers who dev...","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.5574}"
+17,2021-02-14 23:59:56+00:00,"RT See how Alberta's #COVID19 status compares to other  provinces/territories here
+https://t.co/nWFcw0QmDc
+#COVID19AB","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+18,2021-02-14 23:59:56+00:00,RT The state's positivity rate dropped once again and now sits at 6.78%. Gov. Beshear also reported 10 new deaths in the Commonwea...,"{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.5106}"
+19,2021-02-14 23:59:56+00:00,"If he'd been smart enough to take hold of this pandemic and actually freaking do something about it, he would probably have been re-elected.","{'neg': 0.102, 'neu': 0.8, 'pos': 0.098, 'compound': -0.0258}"
+20,2021-02-14 23:59:56+00:00,So why is the Vic government saying no international arrivals during lockdown when 6 aircraft (at least) have arrived in the last 2 days?,"{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.296}"
+21,2021-02-14 23:59:56+00:00,"RT CNN's left-wing media pundit ignores bombshell development in nursing home scandal 
+https://t.co/Ai1TNqK4cz","{'neg': 0.312, 'neu': 0.688, 'pos': 0.0, 'compound': -0.6124}"
+22,2021-02-14 23:59:56+00:00,RT BC stands for Before Coronavirus now. Sorry Jesus take a hike,"{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.0772}"
+23,2021-02-14 23:59:56+00:00,"RT Beautiful People, Happy Valentines Day. Limited edition cover. 450 copies. 1 copy per person. All postage will be trac...","{'neg': 0.072, 'neu': 0.642, 'pos': 0.287, 'compound': 0.7717}"
+24,2021-02-14 23:59:56+00:00,RT Israeli study finds 94% drop in symptomatic COVID-19 cases with Pfizer vaccine,"{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.2732}"
+25,2021-02-14 23:59:56+00:00,The latest The Med Time News ! Thanks to #trumpmccarthy #covid19,"{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.4926}"
+26,2021-02-14 23:59:56+00:00,And this is in the Summer!!!!!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+27,2021-02-14 23:59:56+00:00,RT Scientists said claims about China creating the coronavirus were misleading. They went viral anyway.,"{'neg': 0.151, 'neu': 0.726, 'pos': 0.123, 'compound': -0.128}"
+28,2021-02-14 23:59:56+00:00,"In lockdown?....Tres interessant and good for him. It is a bit risky popping that on Piers feed as he lives to roast what he calls ""Covidiots"" and yet he is free to bend any number of rules","{'neg': 0.043, 'neu': 0.78, 'pos': 0.177, 'compound': 0.6908}"
+29,2021-02-14 23:59:57+00:00,"RT Talk to a dr and get an *Ivermectin stash, in case ...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+30,2021-02-14 23:59:57+00:00,"RT CORONAVIRUS: 92% drop in severe cases of infection among those who took two doses of Pfizer vaccine, according to study...","{'neg': 0.198, 'neu': 0.802, 'pos': 0.0, 'compound': -0.5719}"
+31,2021-02-14 23:59:57+00:00,I thought I had long work days last week at #3DXW21. It's nothing compared to #pharmacists vaccinating 1000's for #covid this week. Thank you @SaintVincentMA #pharmacy department,"{'neg': 0.0, 'neu': 0.912, 'pos': 0.088, 'compound': 0.3612}"
+32,2021-02-14 23:59:57+00:00,"Roses are red.
+Violets are blue.
+Please respect social distancing.
+Because I can't see you 
+#DisabilityValentines","{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.6597}"
+33,2021-02-14 23:59:57+00:00,"RT Nobody writes stories about not dying by not contracting COVID-19.
+
+So maybe it's time to praise the Lab Researchers who dev...","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.5574}"
+34,2021-02-14 23:59:57+00:00,RT Definitive assessment of the many weaknesses of the CDC guidelines,"{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.3612}"
+35,2021-02-14 23:59:57+00:00,"Current arctic outbreak is comparable to historic ones from 1899, 1905, 1977 and 1989. Incredibly, still 20-30 degrees below avg in the Plains by Friday.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+36,2021-02-14 23:59:57+00:00,RT A $15 minimum wage is not a radical idea. What's radical is the fact that millions of Americans are forced to work for star...,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.4588}"
+37,2021-02-14 23:59:57+00:00,RT His disappointment was obvious on earlier when Joe O'Brien was taking the report from the NZ journalist when she h...,"{'neg': 0.142, 'neu': 0.858, 'pos': 0.0, 'compound': -0.5106}"
+38,2021-02-14 23:59:57+00:00,RT We would know a lot more if Prez #Biden declassified intelligence on #COVID19. Why are we protecting #China?#coronavirus...,"{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.4767}"
+39,2021-02-14 23:59:57+00:00,Does anyone truly believe that Dan will open up on Wednesday? I bet he wants to have another weekend of lockdown to limit movement and gatherings.,"{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.4404}"
+40,2021-02-14 23:59:57+00:00,RT CDC: 'Just Because You Got The Vaccine Doesn't Mean You Should Go Outside Or Ever Experience Joy Again',"{'neg': 0.0, 'neu': 0.826, 'pos': 0.174, 'compound': 0.5859}"
+41,2021-02-14 23:59:57+00:00,Please don't extend this lockdown for a small no of cases. There will always be a small risk if we open up again after this 5 day lockdown.  Think of others who do it tough with lockdown measures.,"{'neg': 0.172, 'neu': 0.774, 'pos': 0.054, 'compound': -0.4621}"
+42,2021-02-14 23:59:57+00:00,"RT Thank you for the #vaccine Master Qui-Gon, to think I'll soon be able to go out and see stars from other places of #Leed...","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.3612}"
+43,2021-02-14 23:59:57+00:00,"Guinea declares first Ebola outbreak since 2016, after confirming 7 new cases linked to a funeral via","{'neg': 0.135, 'neu': 0.865, 'pos': 0.0, 'compound': -0.3612}"
+44,2021-02-14 23:59:57+00:00,RT Europe's oldest person celebrates 117th birthday after beating COVID-19,"{'neg': 0.204, 'neu': 0.544, 'pos': 0.252, 'compound': 0.1779}"
+45,2021-02-14 23:59:57+00:00,"The Dems could've stopped the violence at any time (or allowed Trump to) but didn't in order to win 11/3. The Left is about power only, and the ends justifies the means. Those deaths are inconsequential. The US is both physically sick (covid) and mentally sick (socialism).","{'neg': 0.215, 'neu': 0.699, 'pos': 0.087, 'compound': -0.7717}"
+46,2021-02-14 23:59:57+00:00,CoVid bubbles. Infection igloos. Epidemic enclosures? Stupidity habitats. Denial deathpods.,"{'neg': 0.244, 'neu': 0.756, 'pos': 0.0, 'compound': -0.4404}"
+47,2021-02-14 23:59:58+00:00,"RT CNN's left-wing media pundit ignores bombshell development in nursing home scandal 
+https://t.co/Ai1TNqK4cz","{'neg': 0.312, 'neu': 0.688, 'pos': 0.0, 'compound': -0.6124}"
+48,2021-02-14 23:59:58+00:00,"MSM and GOP frame back to school as teacher union resistance.
+
+If anyone reads CDC guidance (as Peter points out) this is NOT premised on variants but still the Q is:
+When will the school be in compliance with CDC toolkit?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+49,2021-02-14 23:59:58+00:00,I may have ordered $500 worth of computer gear so if this lockdown isn't extended imma be slightly disappointed....,"{'neg': 0.129, 'neu': 0.783, 'pos': 0.088, 'compound': -0.228}"
+50,2021-02-14 23:59:58+00:00,RT Thank you for your leadership. The Covid Bill in the House increases stimulus checks to $2000 for the wo...,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}"
+51,2021-02-14 23:59:58+00:00,"RT Florida must be a blue state because it has 1,827,378 COVID19 infections and DeSantis said it affects only blue states.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+52,2021-02-14 23:59:58+00:00,"RT #Coronavirus Takes 215,700 Lives in 480 Cities in #Iran 
+Regime's Health Ministry: The mutated #virus  has entered the cir...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+53,2021-02-14 23:59:58+00:00,"RT Dr. Peter Daszak tried to attenuate certain common sense of CCP culture to NY Times ""If NOT have meals in the meeting, it...","{'neg': 0.0, 'neu': 0.916, 'pos': 0.084, 'compound': 0.2732}"
+54,2021-02-14 23:59:58+00:00,This just doesn't seem to be correct at all. What about those teachers who were masked and gathered to teach remotely and one died from Covid? I might be wrong but this makes no sense to me.,"{'neg': 0.174, 'neu': 0.826, 'pos': 0.0, 'compound': -0.7311}"
+55,2021-02-14 23:59:58+00:00,RT A lucrative deal between the government and a company run by a couple with multiple links to the Tory party will be exami...,"{'neg': 0.0, 'neu': 0.895, 'pos': 0.105, 'compound': 0.4019}"
+56,2021-02-14 23:59:59+00:00,"RT Nobody writes stories about not dying by not contracting COVID-19.
+
+So maybe it's time to praise the Lab Researchers who dev...","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.5574}"
+57,2021-02-14 23:59:59+00:00,How did you get the magic elves!? Was there a lot of paperwork to fill out? I hear that the magic elves 2.0 keep Covid out of school too!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+58,2021-02-14 23:59:59+00:00,We were delighted when library member Jo told us about a new skill she'd learnt from a library book during lockdown...,"{'neg': 0.0, 'neu': 0.858, 'pos': 0.142, 'compound': 0.5106}"
+59,2021-02-14 23:59:59+00:00,"What Tenants Should Expect from Their Landlords Right Now #CRE #NewNormal #COVID-19 #TenantTips    
+https://t.co/jFUqXE93bF","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+60,2021-02-14 23:59:59+00:00,RT The republican party is unfit to govern and a threat to your life.,"{'neg': 0.188, 'neu': 0.663, 'pos': 0.149, 'compound': -0.1779}"
+61,2021-02-14 23:59:59+00:00,"Hug your children, keep them close and listen. Leave the light on, show them how to exhale. I worry too, there is so much ahead, but we are in a River of shit right now.","{'neg': 0.194, 'neu': 0.756, 'pos': 0.05, 'compound': -0.7096}"
+62,2021-02-14 23:59:59+00:00,"RT Who else wants to see Kevin McCarthy defeated so we can end the lies about vote by mail, end the lies about the pandemic,...","{'neg': 0.283, 'neu': 0.717, 'pos': 0.0, 'compound': -0.8271}"
+63,2021-02-14 23:59:59+00:00,"I think heads shrink over time, unless, like me, you have lockdown chubby cheeks
+
+It's the bloody masks !","{'neg': 0.141, 'neu': 0.749, 'pos': 0.11, 'compound': -0.1759}"
+64,2021-02-14 23:59:59+00:00,"RT CORONAVIRUS: 92% drop in severe cases of infection among those who took two doses of Pfizer vaccine, according to study...","{'neg': 0.198, 'neu': 0.802, 'pos': 0.0, 'compound': -0.5719}"
+65,2021-02-14 23:59:59+00:00,"RT Many Gina Carano defenders initially labeled her casting on The Mandalorian as ""SJW PROPAGANDA""
+
+When she was discovered...","{'neg': 0.13, 'neu': 0.808, 'pos': 0.062, 'compound': -0.347}"
+66,2021-02-14 23:59:59+00:00,RT Dr. Jensen explains why cancer diagnoses are down 50% during the pandemic and why it is important to not skip routine scree...,"{'neg': 0.162, 'neu': 0.772, 'pos': 0.066, 'compound': -0.5574}"
+67,2021-02-14 23:59:59+00:00,"RT Only a barbaric system would allow millions of people to lose their health insurance during a deadly pandemic. 
+
+We need Me...","{'neg': 0.11, 'neu': 0.813, 'pos': 0.077, 'compound': -0.2023}"
+68,2021-02-14 23:59:59+00:00,RT Bioethicists already have declared in situations like this is appropriate to get shots into any willing and...,"{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.3612}"
+69,2021-02-14 23:59:59+00:00,RT A $15 minimum wage is not a radical idea. What's radical is the fact that millions of Americans are forced to work for star...,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.4588}"
+70,2021-02-14 23:59:59+00:00,"RT Oh this is going to be particularly awful, even if it doesn't spread through the ward. Ppl in inpatient care need advocates...","{'neg': 0.12, 'neu': 0.764, 'pos': 0.116, 'compound': -0.024}"
+71,2021-02-14 23:59:59+00:00,"#EmployeeEngagement Practices During #COVID19
+https://t.co/szWcWn88eS 
+
+#HR #Engagedly","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+72,2021-02-14 23:59:59+00:00,"Thoughts: Don't feed into drama, even during a #pandemic #backstreetboys","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+73,2021-02-14 23:59:59+00:00,RT 5:09pm - Visibility is decreasing and snow accumulations are increasing along Interstate 30 in west Fort Worth. Expect adve...,"{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.2263}"
+74,2021-02-15 00:00:00+00:00,"RT Why is the senate in recess when they should be interviewing US Attorneys, confirming cabinet members like Merrick Gar...","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}"
+75,2021-02-15 00:00:00+00:00,San Antonio mass vaccination site has not received vaccines in 3 weeks and will be closing as well.,"{'neg': 0.0, 'neu': 0.89, 'pos': 0.11, 'compound': 0.2732}"
+76,2021-02-15 00:00:00+00:00,"Oh my gawd Daddy betta' stay home , ya?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+77,2021-02-15 00:00:00+00:00,no! not now! we're already dealing with one pandemic!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+78,2021-02-15 00:00:00+00:00,"We should support greatly because of the COVID-19 pandemic, the UK Vaccine Task Force.","{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4019}"
+79,2021-02-15 00:00:00+00:00,"Be there Lahorites, if you are a reader, or just be there anyways
+p.s: Wear a mask and social distance.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+80,2021-02-15 00:00:00+00:00,"""Like an answered prayer"": Colorado educators celebrate receiving coronavirus vaccine after disruptive school year
+
+https://t.co/3ixbfivQ71
+
+#Jeffco #EdColo","{'neg': 0.102, 'neu': 0.622, 'pos': 0.276, 'compound': 0.5994}"
+81,2021-02-15 00:00:00+00:00,"On this Valentine's Day, Americans are searching for ways to celebrate love amid so much heartache and isolation as the coronavirus pandemic stretches past its year anniversary.
+
+https://t.co/cv9eJgIkBT","{'neg': 0.076, 'neu': 0.702, 'pos': 0.222, 'compound': 0.7351}"
+82,2021-02-15 00:00:00+00:00,"The #pandemic has showed the critical importance of limiting the impact of #disinformation on our societies. Yearly profit generated by disinformation websites come to $235 M, estimates the Global Disinformation Index","{'neg': 0.064, 'neu': 0.784, 'pos': 0.151, 'compound': 0.4767}"
+83,2021-02-15 00:00:00+00:00,"RT Miley is here to wish you a Happy Valentines Day filled with a fuck ton of fucking. 
+
+Unfortunately Hannah is here to remin...","{'neg': 0.19, 'neu': 0.614, 'pos': 0.196, 'compound': 0.0534}"
+84,2021-02-15 00:00:00+00:00,A new EPA report says this coronavirus-killing material can be made into things such as doorknobs and handrails,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+85,2021-02-15 00:00:00+00:00,"RT 18/TOM MCINERNEY former USAF Lt. Gen., has appeared on multiple Q-promoting content channels including Ann Vandersteel and  M...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+86,2021-02-15 00:00:00+00:00,"""Pregnant individuals who meet the criteria for #COVID19 vaccines should not be denied the opportunity to be vaccinated."" Pregnant women may have a higher-risk of contracting serious COVID-19 symptoms -- they must be allowed to take the vaccine.","{'neg': 0.031, 'neu': 0.843, 'pos': 0.125, 'compound': 0.6002}"
+87,2021-02-15 00:00:00+00:00,"RT Those who lost a loved one due to #COVID19 can get help with funeral expenses. Families can now receive up to $7,000. f...","{'neg': 0.153, 'neu': 0.637, 'pos': 0.21, 'compound': 0.4215}"
+88,2021-02-15 00:00:00+00:00,#COVID19 vaccines are rolling out but patients are still surging as we enter Winter. If you have recovered from the #coronavirus the antibodies in your plasma can help save the life of up to 4 patients &amp; supplies are low. Go to for info &amp; to donate!,"{'neg': 0.048, 'neu': 0.803, 'pos': 0.149, 'compound': 0.7574}"
+89,2021-02-15 00:00:00+00:00,"Whether you call it Valentine's Day or Singles Awareness
+Day, do your best to make safer choices. Wear a mask. Wash your hands. Keep your distance. #StopTheSpread of COVID-19. We can #EndThePandemic if we all lead by example and with a little love. #YourActionsSaveLives","{'neg': 0.0, 'neu': 0.79, 'pos': 0.21, 'compound': 0.8981}"
+90,2021-02-15 00:00:00+00:00,Doughnuts &amp; dire consequences: This is how unhealthy food and drink brands profited off a pandemic. New research from the and on virtue signalling during #COVID19SA. #BhekisisaResource,"{'neg': 0.186, 'neu': 0.667, 'pos': 0.148, 'compound': -0.3182}"
+91,2021-02-15 00:00:00+00:00,WHO infectious disease expert Dominic Dwyer said tracing raw data of initial cases is standard practice for any outbreak investigation.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+92,2021-02-15 00:00:00+00:00,"Book your night chaperone for your Orlando student travel groups today! COVID-19 protocols in place to keep the students safe &amp; healthy!
+
+#studenttravel #studenttours #nightchaperone #OrangeMoonSSS #nightsecurity 
+#covidsafety #travel #overnightsupervision #Orlando","{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.7339}"
+93,2021-02-15 00:00:00+00:00,Covid-19 has killed over 2.41M people and infected more than 109.35M globally. Follow this thread for all the coronavirus-related developments for February 15:,"{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.8271}"
+94,2021-02-15 00:00:00+00:00,RT Exactly what said.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+95,2021-02-15 00:00:00+00:00,"RT Piers Morgan supports the idea of banning anyone who hasn't had a covid vaccine from flying to another country.
+
+I don't re...","{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3612}"
+96,2021-02-15 00:00:00+00:00,"RT Dr. Peter Daszak tried to attenuate certain common sense of CCP culture to NY Times ""If NOT have meals in the meeting, it...","{'neg': 0.0, 'neu': 0.916, 'pos': 0.084, 'compound': 0.2732}"
+97,2021-02-15 00:00:00+00:00,A Narre Warren church leader has been fined after dozens of worshippers attended a religious gathering in defiance of strict coronavirus lockdown rules   ,"{'neg': 0.0, 'neu': 0.924, 'pos': 0.076, 'compound': 0.2023}"
+98,2021-02-15 00:00:00+00:00,RT Seems we are being shafted,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+99,2021-02-15 00:00:00+00:00,"RT And these are all now updated as well
+
+https://t.co/abC6bIPYq9
+#COVID19AB","{'neg': 0.0, 'neu': 0.826, 'pos': 0.174, 'compound': 0.2732}"
+100,2021-02-15 00:00:00+00:00,"It's Day 3 of Victoria's 5-day Lockdown, with 1 new locally-acquired case recorded today.
+
+Senior Reporter has the latest.
+
+MORE DETAILS: #COVID19Vic #VictoriaLockdown","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+101,2021-02-15 00:00:00+00:00,"House Democrats issued a change in the planned coronavirus relief package that would narrow eligibility for higher-income Americans. | By 
+
+https://t.co/bdF0IJspGR","{'neg': 0.0, 'neu': 0.866, 'pos': 0.134, 'compound': 0.4767}"
+102,2021-02-15 00:00:00+00:00,"A Catholic doctor called on Sunday for an independent inquiry into reports that COVID-19 patients with learning disabilities have been given ""do not resuscitate"" notices during the second wave of the virus in the U.K.
+
+https://t.co/zfJM7cBGFN","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+103,2021-02-15 00:00:00+00:00,"Less than 5,500 new #COVID-19 #coronavirus incidences reported on #Sunday in #Florida ... 
+
+| #COVID19 | #SARSCoV2 | #infections | #PublicHealth | #Illness | By via 
+
+https://t.co/DVWb0DMmfF","{'neg': 0.094, 'neu': 0.906, 'pos': 0.0, 'compound': -0.4019}"
+104,2021-02-15 00:00:01+00:00,RT Ron DeSantis isn't a leader. A leader protects their people and takes ownership of that charge. Retweet if you know that it'...,"{'neg': 0.0, 'neu': 0.905, 'pos': 0.095, 'compound': 0.3182}"
+105,2021-02-15 00:00:01+00:00,"COVID vaccines for the underserved, Sata SHM Fellow,  -JGIM Editorial, #GIMPubs + more!  -","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+106,2021-02-15 00:00:01+00:00,"Latest worldwide COVID-19 data: 109,371,585 cases, 2,410,682 deaths.
+
+A 2.2% fatality rate.","{'neg': 0.29, 'neu': 0.71, 'pos': 0.0, 'compound': -0.6705}"
+107,2021-02-15 00:00:01+00:00,"RT ""This isn't a wave, it's a forest fire"": experts predict rise of COVID variant cases
+https://t.co/MUxVBp803o","{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.34}"
+108,2021-02-15 00:00:01+00:00,RT The republican party is unfit to govern and a threat to your life.,"{'neg': 0.188, 'neu': 0.663, 'pos': 0.149, 'compound': -0.1779}"
+109,2021-02-15 00:00:01+00:00,".@leighsales asks why the Vic. Government has called a lockdown with so few cases and questions if the gov can trust its own COVID and Health system. 
+
+Dan Andrews: This is a very different virus. If you want to look at systems that can't handle things, have a look at Europe.","{'neg': 0.0, 'neu': 0.914, 'pos': 0.086, 'compound': 0.5574}"
+110,2021-02-15 00:00:01+00:00,RT I wish people would stop blaming the Democrats for Republicans' failure to convict. Dems are looking at the big picture a...,"{'neg': 0.296, 'neu': 0.612, 'pos': 0.092, 'compound': -0.7184}"
+111,2021-02-15 00:00:01+00:00,"RT Amen 
+
+#Quebec #Montreal #COVID #aujourdhui #dimanche #sundayvibes #SundayMotivation","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+112,2021-02-15 00:00:01+00:00,"RT Sitting here stewing another Victorian lockdown, I have some questions
+https://t.co/EcUChv9hLW","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+113,2021-02-15 00:00:01+00:00,"RT We wear full PPE for taking a swab because there is a 1 in 200 chance of a positive, but HQ staf...","{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4215}"
+114,2021-02-15 00:00:02+00:00,"RT Hydroxychloroquine is a safe, effective drug.  After almost a year it has been deemed safe for early use with the Chinese V...","{'neg': 0.0, 'neu': 0.692, 'pos': 0.308, 'compound': 0.836}"
+115,2021-02-15 00:00:02+00:00,RT A $15 minimum wage is not a radical idea. What's radical is the fact that millions of Americans are forced to work for star...,"{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.4588}"
+116,2021-02-15 00:00:02+00:00,RT This is important. Ron DeSantis is in the news again for making excuses about his callous coronavirus response. We are the o...,"{'neg': 0.0, 'neu': 0.924, 'pos': 0.076, 'compound': 0.2023}"
+117,2021-02-15 00:00:02+00:00,RT I admit to being a JPAI fanboy and this is a reminder of what an impressive thinker he is and why it's worth taking the time...,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.7184}"
+118,2021-02-15 00:00:02+00:00,RT I sometimes see people making the mistaken assumption that once a group that make up X% of COVID hospitalisations/death...,"{'neg': 0.116, 'neu': 0.884, 'pos': 0.0, 'compound': -0.3612}"
+119,2021-02-15 00:00:02+00:00,"RT Finance Minister Designate, Ken Ofori-Atta is leaving Accra for the US to treat post-COVID-19 recovery complications....","{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.4019}"
+120,2021-02-15 00:00:02+00:00,Gov. Brown advises residents to stay home as utility crews are being helped by out-of-state reinforcements. ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+121,2021-02-15 00:00:02+00:00,"RT We  our community. Wishing you a happy #ValentinesDay, King County.
+
+We also want to show some love to our team members...","{'neg': 0.0, 'neu': 0.619, 'pos': 0.381, 'compound': 0.8779}"
+122,2021-02-15 00:00:02+00:00,RT BREAKING: Landlords evicting hundreds during lockdown with government's new 'eviction ban' loopholes: Number of evicti...,"{'neg': 0.316, 'neu': 0.622, 'pos': 0.062, 'compound': -0.743}"
+123,2021-02-15 00:00:02+00:00,"RT People ""demanding"" an end to lockdown. You're arguing with a virus. If it gallops, unchecked, through the under 50s it will...","{'neg': 0.197, 'neu': 0.803, 'pos': 0.0, 'compound': -0.5994}"
+124,2021-02-15 00:00:02+00:00,"Our research shows coronavirus 'winners', 'losers', and a lot of resilience. Understanding that can help us target support better, writes for","{'neg': 0.11, 'neu': 0.519, 'pos': 0.37, 'compound': 0.7906}"
+125,2021-02-15 00:00:02+00:00,"RT Nobody writes stories about not dying by not contracting COVID-19.
+
+So maybe it's time to praise the Lab Researchers who dev...","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.5574}"
+126,2021-02-15 00:00:02+00:00,"RT Fact: More Americans have now died from COVID-19 than the number of US troops killed during World War II
+
+Please sign my pe...","{'neg': 0.347, 'neu': 0.549, 'pos': 0.104, 'compound': -0.886}"
+127,2021-02-15 00:00:02+00:00,"RT Travel Stories and Highlights 3-book series
+176 Stories 
+156 Highlights
+111 Authors, Writers &amp; Poets
+https://t.co/UpJC1...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+128,2021-02-15 00:00:02+00:00,"Hawaiian Ukulele Instrumental Music - Aloha Holiday Chill Music for Unwinding, Leisure, Relax
+
+Please check the full version on #youtube
+https://t.co/H3fUUMN3Ab
+
+#BGMC #BGMClife #HawaiianBGMchannel #StayHome
+#Hawaiian #Leisure Relax","{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.8689}"
+129,2021-02-15 00:00:02+00:00,"RT The University of Oxford will test their Covid-19 vaccine developed with AstraZeneca in children for the first time, a poten...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+130,2021-02-15 00:00:02+00:00,"Love In Lockdown: Aging Your Relationship?
+
+https://t.co/1vURmdLooj","{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6369}"
+131,2021-02-15 00:00:02+00:00,New dividers at the Andover/North Andover YMCA to promote social distancing. Make a reservation and come work out with us!,"{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.4389}"
+132,2021-02-15 00:00:02+00:00," Popular tweet among scientists, including RTs from profiles not included in Science Pulse [3/3]","{'neg': 0.0, 'neu': 0.823, 'pos': 0.177, 'compound': 0.4215}"
+133,2021-02-15 00:00:02+00:00,"RT 3 cases in Auckland, terus lockdown for 3 days.....and other parts into level 2
+..this is how it's done.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+134,2021-02-15 00:00:02+00:00,"RT New Zealand has 3 new cases and immediately implements a full lockdown in Auckland
+
+UK has 13,308 new cases and immediate...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+135,2021-02-15 00:00:02+00:00,"""The real point is to make sure that the science is consistent with our guidance.""","{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.3182}"
+136,2021-02-15 00:00:02+00:00,"If you were scheduled to have your COVID-19 vaccination Monday, your appointment has been canceled.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"

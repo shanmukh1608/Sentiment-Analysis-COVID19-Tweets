@@ -1,0 +1,315 @@
+,created_at,full_text,sentiment_score
+0,2020-11-09 15:59:54+00:00,"RT As Pence claims credit, Pfizer says it did NOT join in the administration's partnership.
+
+Pfizer head of vaccine develop...","{'neg': 0.084, 'neu': 0.8, 'pos': 0.116, 'compound': 0.1808}"
+1,2020-11-09 15:59:54+00:00,"RT Here's that moment when told why he said ""no"" to taxpayer dollars: ""I wanted to lib...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+2,2020-11-09 15:59:54+00:00,"Covid19
+Climate
+Economy
+Civil Rights
+Uni Hlthcare","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+3,2020-11-09 15:59:54+00:00,"RT Pence breaks silence to take credit for Pfizer vaccine - and drugs company immediately denies Trump involved
+
+Pfizer h...","{'neg': 0.12, 'neu': 0.769, 'pos': 0.111, 'compound': -0.0516}"
+4,2020-11-09 15:59:54+00:00,RT Three weeks ago the record for COVID-19 patients in ICU in Kansas was 128. Last week we hit 183. This is obviously not susta...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+5,2020-11-09 15:59:54+00:00,RT Dr. Fauci says the news that Pfizer's vaccine is more than 90% effective bodes well for others in development. Follow live upda...,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.6666}"
+6,2020-11-09 15:59:54+00:00,"Trumps fucks with big pharma, big pharma releases pandemic which kills his re-election bid, big pharma comes out with vaccine literally the next business day after he loses.  Lol come on.  The only question is whether or not they had the vaccine the whole time.","{'neg': 0.169, 'neu': 0.778, 'pos': 0.053, 'compound': -0.7269}"
+7,2020-11-09 15:59:55+00:00,Already doing what a president is supposed to do! #BidenTransition,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+8,2020-11-09 15:59:55+00:00,"RT Notable: Biden puts scientists and doctors on his Covid advisory board, not unqualified family members and Fox News co...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+9,2020-11-09 15:59:55+00:00,Just had an Email from my hospital trust saying that a person is leaving leaflets round the hospital site with links to websites. I hope that if they find the person shove him/her in a room with a Covid positive patient and no protection and see how long they stick to that belief,"{'neg': 0.036, 'neu': 0.803, 'pos': 0.161, 'compound': 0.8225}"
+10,2020-11-09 15:59:55+00:00,RT So wants US to believe that even though they had nothing to do with *German en...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+11,2020-11-09 15:59:55+00:00,"RT #DYK? Hand sanitizers are not as effective when hands are visibly dirty or greasy. If your hands are visibly dirty or greasy, A...","{'neg': 0.265, 'neu': 0.634, 'pos': 0.101, 'compound': -0.6315}"
+12,2020-11-09 15:59:55+00:00,One of their own facts: no masks anywhere among these protesting Trump supporters as the pandemic reaches its highest peak yet.,"{'neg': 0.192, 'neu': 0.651, 'pos': 0.157, 'compound': -0.2263}"
+13,2020-11-09 15:59:55+00:00,"RT Chinese American Drives Three Hours to Protest Election Fraud, Tells Americans Not to Stay Home","{'neg': 0.293, 'neu': 0.707, 'pos': 0.0, 'compound': -0.7003}"
+14,2020-11-09 15:59:55+00:00,RT I have a PhD and cannot for the life of me parce a single coherent message from this stream-of-consciousness prose poem by t...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+15,2020-11-09 15:59:55+00:00,RT Dr. Fauci says the news that Pfizer's vaccine is more than 90% effective bodes well for others in development. Follow live upda...,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.6666}"
+16,2020-11-09 15:59:55+00:00,RT Gov. Cuomo says the 'Bad News' in Pfizer Covid Vaccine Breakthrough is Trump Will Determine How it Gets Distributed,"{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.5423}"
+17,2020-11-09 15:59:55+00:00,RT The COVID-19 vaccine must be free for everyone when it's ready.,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.7003}"
+18,2020-11-09 15:59:55+00:00,RT Pfizer didn't join the public-private partnership or take any public money.,"{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.2235}"
+19,2020-11-09 15:59:55+00:00,RT .@JoeBiden and I are ready to get COVID-19 under control. We're ready to rebuild our economy. We're ready to meet the cha...,"{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.7579}"
+20,2020-11-09 15:59:55+00:00,RT COVID-19 is still here. Please continue to wear a mask and practice social distancing.,"{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.3182}"
+21,2020-11-09 15:59:55+00:00,"RT As Pence claims credit, Pfizer says it did NOT join in the administration's partnership.
+
+Pfizer head of vaccine develop...","{'neg': 0.084, 'neu': 0.8, 'pos': 0.116, 'compound': 0.1808}"
+22,2020-11-09 15:59:55+00:00,RT Loved every minute of this opportunity ,"{'neg': 0.0, 'neu': 0.412, 'pos': 0.588, 'compound': 0.7992}"
+23,2020-11-09 15:59:55+00:00,RT If it's the fact that turns out to be an anti Covid vaxxer that finally wakes up the media to what a horrible l...,"{'neg': 0.201, 'neu': 0.799, 'pos': 0.0, 'compound': -0.7003}"
+24,2020-11-09 15:59:55+00:00,RT President-elect Biden added whistleblower Dr. Rick Bright as a member of his coronavirus advisory board. Awesome.,"{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.7906}"
+25,2020-11-09 15:59:55+00:00,Just saw Atul Gawande will be on Biden's Covid task force and laughed out loud because the grownups are actually in charge again THANK GOD.,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.8429}"
+26,2020-11-09 15:59:55+00:00,"RT Welcome to America.
+It's hard to believe Texas still voted for the man who enabled these deaths.","{'neg': 0.069, 'neu': 0.784, 'pos': 0.147, 'compound': 0.3818}"
+27,2020-11-09 15:59:55+00:00,RT BREAKING--Ukraine prime minister Zelensky and his chief of staff both confirm to test positive for #COVID19. More world lead...,"{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.5574}"
+28,2020-11-09 15:59:55+00:00,RT Why isn't the coronavirus cases and death count on all the fake news screens anymore?,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.7906}"
+29,2020-11-09 15:59:55+00:00,RT Recklessly irresponsible comment by the guy whose horrible decisions caused massive nursing home deaths.  Ask @Janice...,"{'neg': 0.299, 'neu': 0.701, 'pos': 0.0, 'compound': -0.7506}"
+30,2020-11-09 15:59:55+00:00,"RT If Arnab Goswami can't meet his family for Covid situation...
+
+Then how will Mumbai Police interrogate him in Covid Situati...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+31,2020-11-09 15:59:56+00:00,"Against what strain of the virus? This sounds like a flu shot that is often not effective since they can only guess which strains will come up. There's still too many variables 
+
+Pfizer says COVID-19 vaccine is looking 90% effective
+https://t.co/mm0LOHRUKQ","{'neg': 0.174, 'neu': 0.712, 'pos': 0.114, 'compound': -0.2392}"
+32,2020-11-09 15:59:56+00:00,"I was on a ventilator Oct. 28th (non-Covid), yet voted Blue in-person on Nov. 3rd. Screw these lazy, under-educated morons.
+
+Yes, I'm aware that voter suppression is a huge problem. But so is apathy.","{'neg': 0.241, 'neu': 0.672, 'pos': 0.087, 'compound': -0.6331}"
+33,2020-11-09 15:59:56+00:00,"RT Big news from Pfizer, with apparent high efficacy (&gt;90%) based on 94 confirmed COVID-19 cases at their interim analysis....","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+34,2020-11-09 15:59:56+00:00,"RT Big news: Pfizer published data this morning showing its coronavirus vaccine may be more than 90% effective. 
+
+This is unprece...","{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.5209}"
+35,2020-11-09 15:59:56+00:00,"RT ""Covid will vanish after the election"" ... said all the loons who think every govt on the planet joined in a covenant w...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+36,2020-11-09 15:59:56+00:00,"RT As Pence claims credit, Pfizer says it did NOT join in the administration's partnership.
+
+Pfizer head of vaccine develop...","{'neg': 0.084, 'neu': 0.8, 'pos': 0.116, 'compound': 0.1808}"
+37,2020-11-09 15:59:56+00:00,"RT As Pence claims credit, Pfizer says it did NOT join in the administration's partnership.
+
+Pfizer head of vaccine develop...","{'neg': 0.084, 'neu': 0.8, 'pos': 0.116, 'compound': 0.1808}"
+38,2020-11-09 15:59:56+00:00,The level of stupidity here is astounding.,"{'neg': 0.271, 'neu': 0.467, 'pos': 0.262, 'compound': -0.0258}"
+39,2020-11-09 15:59:56+00:00,"They've all been lying their way through this pandemic. That's what it is - lies, not 'stretching the truth' or 'manipulating the facts', just lies.
+Williams has become a great liar for Doug Fraud!","{'neg': 0.409, 'neu': 0.51, 'pos': 0.08, 'compound': -0.9408}"
+40,2020-11-09 15:59:56+00:00,RT Preliminary news that the Pfizer/BioNTech vaccine is effective demonstrates the power of science against COVID. We must se...,"{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.4767}"
+41,2020-11-09 15:59:56+00:00,"Immigrants made the vaccine 
+
+https://t.co/Qr6Pw3t0lV","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+42,2020-11-09 15:59:56+00:00,RT Biden names his Coronavirus Advisory Board today and will meet with the real science experts later. He will also deliver rem...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+43,2020-11-09 15:59:56+00:00,Happy to see Dr. Ezekiel Emanuel on President-Elect Biden's coronavirus task force. A step in the right direction for US pandemic response.,"{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.5719}"
+44,2020-11-09 15:59:57+00:00,"RT 2020 has been a year like no other for independent butchers' shops, with many playing a huge role in their supporting com...","{'neg': 0.074, 'neu': 0.606, 'pos': 0.32, 'compound': 0.743}"
+45,2020-11-09 15:59:57+00:00,RT The managing editor for Covid Tracking Project said that S.Dakota is among several states that does not provide a complete t...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+46,2020-11-09 15:59:57+00:00,"RT Here's the thing about all these calls for kindness/empathy for Cult45ers: y'all voted to keep your boots on our necks,...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+47,2020-11-09 15:59:57+00:00,Agree. Dr. Emmanuel is brilliant &amp;thought provoking but this position &amp;explanation behind it is fraught. Now w power to guide policy over the age group most harmed by COVID makes it dangerous. We need a #geriatrician to provide the counter narrative,"{'neg': 0.202, 'neu': 0.716, 'pos': 0.083, 'compound': -0.7899}"
+48,2020-11-09 15:59:57+00:00,"Research shows the poorest &amp; most vulnerable communities often rely on informal food systems for food.
+
+Listen to the in-depth interview w on why if safety guidelines are followed, informal vendors can trade as safely as supermarkets","{'neg': 0.127, 'neu': 0.738, 'pos': 0.134, 'compound': 0.079}"
+49,2020-11-09 15:59:57+00:00,RT Utah just declared a State of Emergency due to #COVID19.  FYI the infection rate in #Nebraska is higher.,"{'neg': 0.117, 'neu': 0.768, 'pos': 0.114, 'compound': -0.0173}"
+50,2020-11-09 15:59:57+00:00,RT DOW soars almost 1600 points after Biden win and Covid-19 vaccine news!  Hey tRump...How do you like them apples?,"{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.7644}"
+51,2020-11-09 15:59:57+00:00,40k with only 94 getting covid,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+52,2020-11-09 15:59:57+00:00,RT The people who should lead our country forward are the ones who have been building it all along: the multiracial working cl...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+53,2020-11-09 15:59:57+00:00,RT President-elect Biden announces coronavirus task force made up of physicians and health experts,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+54,2020-11-09 15:59:57+00:00,RT Amazing list! All stellar candidates. Heard such great things about Dr. Eric Goosby. It's a new day!!!,"{'neg': 0.0, 'neu': 0.638, 'pos': 0.362, 'compound': 0.877}"
+55,2020-11-09 15:59:57+00:00,RT We would firstly like thank the majority of the community for abiding by the new restrictions over bonfire night. There...,"{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.6124}"
+56,2020-11-09 15:59:57+00:00,"RT The rolling average of new daily US coronavirus cases has climbed 150% in roughly the last month:
+
+Right now: 108,737
+5 day...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+57,2020-11-09 15:59:57+00:00,#KWS getting a kicking today as it is seen as a Covid play. I've got a loose stop below the recent flag.,"{'neg': 0.174, 'neu': 0.734, 'pos': 0.093, 'compound': -0.2732}"
+58,2020-11-09 15:59:57+00:00,"RT ""I'm here because I still have good deeds to do.""
+
+This 108-year old Italian has survived the Spanish flu, two World Wars, and...","{'neg': 0.191, 'neu': 0.617, 'pos': 0.191, 'compound': -0.0}"
+59,2020-11-09 15:59:57+00:00,RT Imagine rooting for people to die from corona so you can be right. Only Ross Gerber.,"{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.5994}"
+60,2020-11-09 15:59:57+00:00,RT Dr. Fauci says the news that Pfizer's vaccine is more than 90% effective bodes well for others in development. Follow live upda...,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.6666}"
+61,2020-11-09 15:59:57+00:00,"RT Our friends at provide extraordinary resources - many of which (book clubs, writing classes, a career day, h...","{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.4767}"
+62,2020-11-09 15:59:57+00:00,"That is the biggest crock 'o crap. trump*(i) has done NOTHING helpful during this pandemic, unless you count ridiculing the experts YOU brought in to help, the expert who has spent 50 years studying for this particular emergency.","{'neg': 0.224, 'neu': 0.717, 'pos': 0.059, 'compound': -0.7672}"
+63,2020-11-09 15:59:57+00:00,"RT And, as Pence claims credit, Trump administration is refusing to sign off on transition which a source says could also slow do...","{'neg': 0.103, 'neu': 0.798, 'pos': 0.099, 'compound': -0.0258}"
+64,2020-11-09 15:59:57+00:00,RT We might wonder how to contact someone we haven't been in touch with for a while or if our attempt is too soon since the las...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+65,2020-11-09 15:59:57+00:00,RT .@JoeBiden and I are ready to get COVID-19 under control. We're ready to rebuild our economy. We're ready to meet the cha...,"{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.7579}"
+66,2020-11-09 15:59:57+00:00,"RT CW // COVID
+
+My grandma has been keeping track of COVID-19 stats since March. This notebook is over half full now.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+67,2020-11-09 15:59:57+00:00,"RT More than 237,000 Americans have died from COVID-19 since the pandemic began, and the 7-day rolling average of new coronavirus cas...","{'neg': 0.146, 'neu': 0.854, 'pos': 0.0, 'compound': -0.5574}"
+68,2020-11-09 15:59:57+00:00,"RT Nope. Per Bloomberg: ""Pfizer raced to verify the data, which were still blinded to almost everyone at the company. Early...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+69,2020-11-09 15:59:57+00:00,"It became obvious when the new season started after #COVID19 that #KenJennings was being groomed for #AlexTrebek's replacement.  I like Ken, but would love it if they split the role w/ #JeopardyJames.
+
+RIP Alex, sure will miss you!
+
+#Jeopardy","{'neg': 0.119, 'neu': 0.669, 'pos': 0.212, 'compound': 0.6948}"
+70,2020-11-09 15:59:57+00:00,RT Pfizer and BioNTech say their COVID-19 vaccine is more than 90% effective,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.5209}"
+71,2020-11-09 15:59:57+00:00,Europe is closing. Portugal becomes the last country to restore quarantine. Coronavirus cases have exceeded 50 million globally,"{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.296}"
+72,2020-11-09 15:59:57+00:00,RT Our work isn't over: The Trump administration is trying to strip health care away from millions of Americans by dismant...,"{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.4939}"
+73,2020-11-09 15:59:57+00:00,"RT Very encouraging news. If this and/or other vaccine candidates prove out, we will need to mount a massive national proje...","{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.5709}"
+74,2020-11-09 15:59:57+00:00,RT Why now?  ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+75,2020-11-09 15:59:57+00:00,"My wife had Corona, it never infected me or my kids.  Both of my in laws had Covid, my father in law would be in the top 1% from the most vulnerable, it didn't kill him either.
+I've see it up close and personal, the majority rely on news updates from bias media. #justsaying","{'neg': 0.059, 'neu': 0.806, 'pos': 0.134, 'compound': 0.6781}"
+76,2020-11-09 15:59:57+00:00,"RT In the middle of a raging pandemic, the Supreme Court will hear a case Tuesday to overturn the entire ACA.
+
+President-Ele...","{'neg': 0.126, 'neu': 0.741, 'pos': 0.133, 'compound': 0.0516}"
+77,2020-11-09 15:59:57+00:00,All thanks to Pfizer and their progress on the COVID vaccine,"{'neg': 0.0, 'neu': 0.612, 'pos': 0.388, 'compound': 0.6908}"
+78,2020-11-09 15:59:57+00:00,RT Unholy Trinity: The three co-chairs of Biden's COVID-19 panel-Nat'l mask mandate is only the beginning,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+79,2020-11-09 15:59:58+00:00,"RT GREAT NEWS: Under President Trump, the United States is developing safe and effective vaccines in record time.
+ 
+https...","{'neg': 0.0, 'neu': 0.524, 'pos': 0.476, 'compound': 0.9278}"
+80,2020-11-09 15:59:58+00:00,Pfizer's COVID-19 vaccine proves 90% effective in first results from Phase 3 clinical trial,"{'neg': 0.0, 'neu': 0.807, 'pos': 0.193, 'compound': 0.4767}"
+81,2020-11-09 15:59:58+00:00,"Play shit games, win shit prizes","{'neg': 0.414, 'neu': 0.057, 'pos': 0.529, 'compound': 0.25}"
+82,2020-11-09 15:59:58+00:00,"RT Shocking, truly shocking. When is going to wake up to the reality of the mental trauma man...","{'neg': 0.327, 'neu': 0.558, 'pos': 0.116, 'compound': -0.6486}"
+83,2020-11-09 15:59:58+00:00,"A Coronavirus Update for Employers: This article summarizes recent actions taken by both the federal and state governments affecting employer-provided health benefits as well as certain other related issues.
+
+https://t.co/Dy6CtqLMYK
+
+#COVID19 #MarshMMA","{'neg': 0.0, 'neu': 0.81, 'pos': 0.19, 'compound': 0.7003}"
+84,2020-11-09 15:59:58+00:00,"Even when a vaccine comes out, testing will still be required. And $XSPA isn't only for COVID, they will distribute any health needs. $PFE said they will only have around 50M vaccine doses, that's only one state's worth, so I have no confidence lost here.","{'neg': 0.055, 'neu': 0.84, 'pos': 0.105, 'compound': 0.1088}"
+85,2020-11-09 15:59:58+00:00,"RT ""Daddy, what did you do during the pandemic?""
+""Well sweetie,"" I explained as I sat her on my knee, ""I threw parties. Big, cro...","{'neg': 0.0, 'neu': 0.733, 'pos': 0.267, 'compound': 0.7906}"
+86,2020-11-09 15:59:58+00:00,They usually do.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+87,2020-11-09 15:59:58+00:00,"You know you have healing to do when seeing the names of the task force makes you emotional.
+
+https://t.co/5ysrMAM3gS","{'neg': 0.0, 'neu': 0.918, 'pos': 0.082, 'compound': 0.1531}"
+88,2020-11-09 15:59:58+00:00,President Elect will shortly be speaking about his plans to tackle COVID-19 &amp; the #BlackLivesMatter movement.#PresidentElectBiden #VicePresidentElectHarris,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+89,2020-11-09 15:59:58+00:00,RT You gonna take the vaccine?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+90,2020-11-09 15:59:58+00:00,'NEW TRADITION': How a #Georgetown woman is striving to bring residents together in a pandemic-safe way to shop locally and have some fun this holiday season:,"{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.7525}"
+91,2020-11-09 15:59:58+00:00,All done ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+92,2020-11-09 15:59:58+00:00,"RT After Trump's presidency -- whenever that happens -- will we finally see all of the hoaxes debunked, such as the ""injec...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+93,2020-11-09 15:59:58+00:00,"So then you may be the guy who gets a bad case of COVID that forever changes your life, knowing you could have prevented that for free. That's the balance and reality","{'neg': 0.095, 'neu': 0.786, 'pos': 0.119, 'compound': -0.0258}"
+94,2020-11-09 15:59:58+00:00,RT .@JoeBiden and I are ready to get COVID-19 under control. We're ready to rebuild our economy. We're ready to meet the cha...,"{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.7579}"
+95,2020-11-09 15:59:58+00:00,"RT As Pence claims credit, Pfizer says it did NOT join in the administration's partnership.
+
+Pfizer head of vaccine develop...","{'neg': 0.084, 'neu': 0.8, 'pos': 0.116, 'compound': 0.1808}"
+96,2020-11-09 15:59:58+00:00,"Over 30 officials, players of Hearts of Oak test positive for COVID-19","{'neg': 0.0, 'neu': 0.559, 'pos': 0.441, 'compound': 0.836}"
+97,2020-11-09 15:59:58+00:00,ohmygod txt really are comfort boys :((,"{'neg': 0.0, 'neu': 0.683, 'pos': 0.317, 'compound': 0.4173}"
+98,2020-11-09 15:59:58+00:00,"More Than 61,000 Children Tested Positive for COVID-19 Last Week, Setting New 7-Day Record","{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.5574}"
+99,2020-11-09 15:59:58+00:00,RT President-elect Biden announces coronavirus task force made up of physicians and health experts,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+100,2020-11-09 15:59:58+00:00,RT Pfizer didn't take federal $$ and opted out of Warp Speed,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+101,2020-11-09 15:59:58+00:00,"RT HUGE NEWS: Pfizer Coronavirus Vaccine trial is EFFECTIVE, preventing infection in 90% of its volunteers. 
+
+https://t.co/zC...","{'neg': 0.05, 'neu': 0.637, 'pos': 0.313, 'compound': 0.7761}"
+102,2020-11-09 15:59:58+00:00,"RT After his Covid test ending his Masters this was the Consecutive Active Majors streak
+
+Sergio Garcia          84
+Adam Scott...","{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4019}"
+103,2020-11-09 15:59:58+00:00,RT We're in the middle of a pandemic and Sen. David Perdue is still pushing a lawsuit that will allow insurance companies to deny...,"{'neg': 0.158, 'neu': 0.772, 'pos': 0.07, 'compound': -0.34}"
+104,2020-11-09 15:59:59+00:00,"RT The trump administration takes full responsibility for a vaccine which has nothing to do with them, and zero responsibili...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+105,2020-11-09 15:59:59+00:00,"RT New this morning: full COVID-19 pandemic board is unveiled:
+
+CO-CHAIRS
+Dr. David Kessler
+Dr. Vivek Murthy
+Dr. M...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+106,2020-11-09 15:59:59+00:00,"RT It's truly amazing what Biden has been able to accomplish since winning the election, Especially after 47 years of doin...","{'neg': 0.0, 'neu': 0.569, 'pos': 0.431, 'compound': 0.9169}"
+107,2020-11-09 15:59:59+00:00,RT Dr. Fauci says the news that Pfizer's vaccine is more than 90% effective bodes well for others in development. Follow live upda...,"{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.6666}"
+108,2020-11-09 15:59:59+00:00,"I'm seeing this response a lot.... but throughout college season, how many kids have got the virus on the football field? It is a test first area, its actually safer than going to the grocery store. Most of this is due to what kids do outside of football.","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.5719}"
+109,2020-11-09 15:59:59+00:00,RT revealing,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+110,2020-11-09 15:59:59+00:00,Is this sarcasm? Or Scaracasm?,"{'neg': 0.361, 'neu': 0.639, 'pos': 0.0, 'compound': -0.3094}"
+111,2020-11-09 15:59:59+00:00,NEW from Jon Runs Ad Promoting COVID Relief Programs That He Opposed - via --&gt; #GASen #gapol,"{'neg': 0.0, 'neu': 0.728, 'pos': 0.272, 'compound': 0.6808}"
+112,2020-11-09 15:59:59+00:00,"RT 50% OFF!
+Startup Business Plan Keynote Presentation Template
+https://t.co/lMSPnZUAta
+
+#DigitalMarketing #BigData #startups #...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+113,2020-11-09 15:59:59+00:00,SUCH A LIAR.  YOU CAN'T BE GONE SOON ENOUGH.  STRIP THIS SECURITY CLEARANCE FROM THIS LOSER!,"{'neg': 0.325, 'neu': 0.557, 'pos': 0.118, 'compound': -0.7043}"
+114,2020-11-09 15:59:59+00:00,"It wasn't developed under Warp Speed, dumbass. And Trump's plan has always been to ignore covid and let people die. You're disgusting.","{'neg': 0.427, 'neu': 0.573, 'pos': 0.0, 'compound': -0.9246}"
+115,2020-11-09 15:59:59+00:00,Hello,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+116,2020-11-09 15:59:59+00:00,"RT Tomorrow, #SCOTUS will hear the Republican lawsuit to overturn the entire #ACA, ending its protections for 135 million...","{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.2263}"
+117,2020-11-09 15:59:59+00:00,RT According to a recent #survey conducted by for about 61% of #US #jobseekers have looked for a #job...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+118,2020-11-09 15:59:59+00:00,RT Pfizer Inc says its experimental COVID-19 vaccine is more than 90% effective,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.5209}"
+119,2020-11-09 15:59:59+00:00,"RT Very encouraging news. If this and/or other vaccine candidates prove out, we will need to mount a massive national proje...","{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.5709}"
+120,2020-11-09 15:59:59+00:00,Bricks!!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+121,2020-11-09 15:59:59+00:00,"RT The #COVID19 hotline will open for the day in a few minutes, and will stay open until 4:30PM.  901-222-...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+122,2020-11-09 15:59:59+00:00,"RT As Pence claims credit, Pfizer says it did NOT join in the administration's partnership.
+
+Pfizer head of vaccine develop...","{'neg': 0.084, 'neu': 0.8, 'pos': 0.116, 'compound': 0.1808}"
+123,2020-11-09 15:59:59+00:00,"RT 10 million infections. TEN MILLION. 
+
+238k dead. 
+
+Thank you,  for getting a task force up and running. We can be...","{'neg': 0.167, 'neu': 0.736, 'pos': 0.097, 'compound': -0.4215}"
+124,2020-11-09 15:59:59+00:00,Thank you V.P. Momala.,"{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}"
+125,2020-11-09 15:59:59+00:00,"Can Amul snag a piece of the halwai's mithai in a COVID era #Diwali?
+
+Top dairy brand Amul is upping its presence in the mithai (traditional sweets) market in India.
+
+Amul's Mithai portfolio currently has close to 30 products, arou...https://t.co/Vl3c3gCpmJ","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.6124}"
+126,2020-11-09 15:59:59+00:00,"RT Antibody testing, and the AbC-19 Rapid Test in particular, can play an instrumental role in assessing initial immune r...","{'neg': 0.0, 'neu': 0.796, 'pos': 0.204, 'compound': 0.5574}"
+127,2020-11-09 15:59:59+00:00,No plan announced yet but it shouldn't differ much than the German one. This might help,"{'neg': 0.084, 'neu': 0.731, 'pos': 0.185, 'compound': 0.4497}"
+128,2020-11-09 16:00:00+00:00,"COVID-19 Strike Wave Interactive Map
+https://t.co/cO4WwEAC6P","{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.128}"
+129,2020-11-09 16:00:00+00:00,"RT With two months left in the Trump presidency, oversight is as important as ever.
+
+Here's what we're still investigating...","{'neg': 0.0, 'neu': 0.913, 'pos': 0.087, 'compound': 0.2023}"
+130,2020-11-09 16:00:00+00:00,"RT NYC Health Dept has added significant new data to its covid website. Includes  real-time positivity by zip code, data on...","{'neg': 0.0, 'neu': 0.788, 'pos': 0.212, 'compound': 0.6249}"
+131,2020-11-09 16:00:00+00:00,Emily I'm sure you don't want to be responsible for a delay in transition during a deadly pandemic.  Pls do the right thing.  It's your duty to the COUNTRY. ,"{'neg': 0.105, 'neu': 0.718, 'pos': 0.177, 'compound': 0.3352}"
+132,2020-11-09 16:00:00+00:00,"The Lancet, one of the world's oldest &amp; most esteemed medical journals, also called for removing Donald Trump from office, slamming Trump's ""inconsistent &amp; incoherent national response"" to the coronavirus pandemic. 
+
+","{'neg': 0.0, 'neu': 0.904, 'pos': 0.096, 'compound': 0.4927}"
+133,2020-11-09 16:00:00+00:00,RT So many people have wonderful memories of this tradition - hopefully we can get these pandemic numbers trending in the right dir...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7506}"
+134,2020-11-09 16:00:00+00:00,"RT The trump administration takes full responsibility for a vaccine which has nothing to do with them, and zero responsibili...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+135,2020-11-09 16:00:00+00:00,Epidemiologists and virologists disagree with the #AAP government's attempt to call it a third wave of #Coronavirus cases in #Delhi. All of them think it's the first wave that has been continuing. #ArvindKejriwal #COVID19,"{'neg': 0.073, 'neu': 0.927, 'pos': 0.0, 'compound': -0.3818}"
+136,2020-11-09 16:00:00+00:00,"#Australian fast bowler #MitchellStarc is the latest cricketer to express his concern surrounding the #biobubbles created for playing cricket series amid the #COVID19 pandemic, saying it is ""not sustainable""","{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.4215}"
+137,2020-11-09 16:00:00+00:00,"BBC News - Covid vaccine: First 'milestone' vaccine offers 90% protection
+https://t.co/Mw2hVoMG17","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+138,2020-11-09 16:00:00+00:00,"As #COVID19 continues to threaten democracy, strengthening legislatures across the globe is more important than ever.  
+
+How and empowered Hon. Anabel Belloso in #ElSalvador to provide critical oversight in times of crisis","{'neg': 0.218, 'neu': 0.654, 'pos': 0.128, 'compound': -0.5729}"
+139,2020-11-09 16:00:00+00:00,"Financial assistance is available to eligible groups in the voluntary, community and social enterprise sector through the Covid-19 Community Support Grant (Connectivity). Further information, including details of how to apply, is available at","{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.6369}"
+140,2020-11-09 16:00:00+00:00,"In the age of social distancing, getting connected can be tough. This week's family fun challenge is all about connecting with loved ones and growing connections!","{'neg': 0.045, 'neu': 0.637, 'pos': 0.318, 'compound': 0.8398}"
+141,2020-11-09 16:00:00+00:00,"most of the cases are from those who are &lt;19 and 20-49 yo combined, yet I have not seen any youth advisories, young people focus groups, or any other active Youth engagement strategy by the gov'n to understand how they can decrease Youth/young adult exposure 
+
+#onpoli #cdnpoli","{'neg': 0.0, 'neu': 0.888, 'pos': 0.112, 'compound': 0.6908}"
+142,2020-11-09 16:00:00+00:00,"Novavax's ( $NVAX ) coronavirus vaccine candidate was granted fast-track designation by the The drugmaker's shares are higher.
+https://t.co/lRSWphIw2w","{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.4939}"
+143,2020-11-09 16:00:00+00:00,"Is this lockdown good for me?  We begeven ons tussen de big boys in #Division1!  
+-
+-
+-
+#fifa #fifa21 #fifaultimateteam #fifa21ultimateteam #fut #fut21 #fifafut #roadtoglory #rtg #ea #easports #easportsfifa #football #soccer #voetbal #youtube #subscribe #divisionrivals","{'neg': 0.0, 'neu': 0.916, 'pos': 0.084, 'compound': 0.4926}"
+144,2020-11-09 16:00:00+00:00,"RT It's only been a week since the election and already Joe Biden has discovered a vaccine for Covid-19. 
+
+Now we know...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+145,2020-11-09 16:00:00+00:00,"$VERB #SocialDistancing #WorkFromHome #VideoMarketing #SocialMediaMarketing #WorkFromPhone
+
+VERB is offering #VerbGO to help the #Coronavirus #StayAtHome initiative!
+
+https://t.co/ALsykJ5dwY
+https://t.co/Wa2UhECaRQ","{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.4574}"
+146,2020-11-09 16:00:00+00:00,Harrogate's independent bars say a Government concession on selling takeaway drinks during the new lockdown may not be enough if they have to suffer a prolonged closure of the food and drinks sector.,"{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.5423}"
+147,2020-11-09 16:00:00+00:00,A birthday treat before lockdown!,"{'neg': 0.0, 'neu': 0.572, 'pos': 0.428, 'compound': 0.4574}"
+148,2020-11-09 16:00:00+00:00,RT It's starting to become quite clear Covid was a mirage and business as usual means eternal wars.,"{'neg': 0.16, 'neu': 0.711, 'pos': 0.129, 'compound': -0.1796}"
+149,2020-11-09 16:00:00+00:00,RT good morning ya'll!,"{'neg': 0.0, 'neu': 0.484, 'pos': 0.516, 'compound': 0.4926}"
+150,2020-11-09 16:00:00+00:00,Service Alert: LA Metro bus &amp; rail has adjusted service. For more information please visit:,"{'neg': 0.0, 'neu': 0.731, 'pos': 0.269, 'compound': 0.5829}"
+151,2020-11-09 16:00:00+00:00,"If you have an appointment, or are concerned about the health of you or your baby, it's important that you get seen!
+
+Just speak to your midwife or maternity team. Your NHS is here to see you, safely... #HealthierFutures","{'neg': 0.0, 'neu': 0.875, 'pos': 0.125, 'compound': 0.6476}"
+152,2020-11-09 16:00:00+00:00,"The Black Doctors Consortium is offering free #COVID19 testing and flu shots from noon to 4pm on Tuesday.
+ 
+The event is being held at the St. Matthew AME Church at 728 N. 43rd St. in Philadelphia.
+
+Learn more 
+https://t.co/eieXXqbKvr","{'neg': 0.061, 'neu': 0.862, 'pos': 0.077, 'compound': 0.1779}"
+153,2020-11-09 16:00:00+00:00,"2020 looks to be a robust one for both equity and debt financing in #biotech and #pharma overall, despite the impacts of COVID-19. Details in our 2020 Biotech Briefing:","{'neg': 0.078, 'neu': 0.846, 'pos': 0.075, 'compound': -0.0258}"
+154,2020-11-09 16:00:00+00:00,RT .@JoeBiden and I are ready to get COVID-19 under control. We're ready to rebuild our economy. We're ready to meet the cha...,"{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.7579}"
+155,2020-11-09 16:00:00+00:00,"EDITORIAL: We're not out of this pandemic yet, and our city may not receive any more funding. We have trouble seeing the senior center linked to COVID.","{'neg': 0.094, 'neu': 0.906, 'pos': 0.0, 'compound': -0.4019}"
+156,2020-11-09 16:00:00+00:00,"RT GREAT NEWS: Under President Trump, the United States is developing safe and effective vaccines in record time.
+ 
+https...","{'neg': 0.0, 'neu': 0.524, 'pos': 0.476, 'compound': 0.9278}"
+157,2020-11-09 16:00:00+00:00,"Voters have selected Biden to tackle #COVID19 and move us forward to a better future. It's time we come together to ensure the will of the people prevails and the leader we have chosen is sworn in as President. #ncpol #Elections2020 
+https://t.co/JOVnXpxYDK","{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.6705}"
+158,2020-11-09 16:00:00+00:00,"Officials are not happy with Western New Yorkers and the high COVID-19 infection rate. Over the weekend, the region went from a 4.3% virus positivity rate to a 4.8%.","{'neg': 0.09, 'neu': 0.811, 'pos': 0.099, 'compound': 0.0777}"
+159,2020-11-09 16:00:00+00:00,RT Pfizer and BioNTech say their COVID-19 vaccine is more than 90% effective,"{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.5209}"
+160,2020-11-09 16:00:00+00:00,"RT One scratch on Arnab's hand &amp; Cabinet, Governor, President are all concerned about his health
+
+Varavara Rao was denied prop...","{'neg': 0.116, 'neu': 0.757, 'pos': 0.127, 'compound': 0.0772}"
+161,2020-11-09 16:00:00+00:00,"Almost every physical aspect of 2020 has been affected by COVID-19, not to mention the mental aspects as well
+https://t.co/7NUzzUVqrJ","{'neg': 0.074, 'neu': 0.829, 'pos': 0.097, 'compound': 0.128}"
+162,2020-11-09 16:00:01+00:00,"Crocheting has turned into a creative outlet for many during #COVID19. 
+
+Our team partnered with local artist London Kaye to spread a message of love in Venice #LAvsHate #yarnbomb
+
+","{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.7964}"
+163,2020-11-09 16:00:01+00:00,"Keep a routine
+
+Connect with others - stay in touch with loved ones with a video chat or phone call
+
+Maybe you could join an online community for peer support
+
+#mentalhealth #lockdown","{'neg': 0.0, 'neu': 0.767, 'pos': 0.233, 'compound': 0.8316}"
+164,2020-11-09 16:00:01+00:00,"#OPENENROLLMENT NOW OPEN! #MEDICARE Enrollment runs thru Dec 7, 2020. #ACA Enrollment runs thru Dec 15, 2020. Enroll ONLINE, by PHONE or at AOI Office! (AOI adheres to CDC Covid Guidelines) Call TODAY, we are here to HELP! 321-676-4118","{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.6496}"
+165,2020-11-09 16:00:01+00:00,"Public Integrity and other media organizations sued to get the names of businesses who received PPP loans for less than $150,000. And we won.
+https://t.co/AIuVme1Hkn","{'neg': 0.0, 'neu': 0.785, 'pos': 0.215, 'compound': 0.743}"
+166,2020-11-09 16:00:01+00:00,"We've got a special offer to make sure you can still get hold of your favourite daily paper during lockdown. 
+
+Sign up today to get free delivery of the Daily Mirror for six weeks. 
+
+https://t.co/JHJpEIFntN","{'neg': 0.0, 'neu': 0.794, 'pos': 0.206, 'compound': 0.8074}"
+167,2020-11-09 16:00:01+00:00,"Why Consider Outside Advisors to Operate Safer During the COVID-19 #Pandemic with #Coronavirus #BacktoWork #pophealth #pandemic #hcldr #University
+#CollegeReopening","{'neg': 0.0, 'neu': 0.865, 'pos': 0.135, 'compound': 0.4215}"
+168,2020-11-09 16:00:01+00:00,"""I can't take away the uncertainty, but what I can promise you is I won't be holding stuff back, I will always be open &amp; I will always answer your questions"" - CEO on how to communicate a COVID-19 restructure
+
+https://t.co/iolKcXXlis
+
+#BuildBackBetter","{'neg': 0.038, 'neu': 0.896, 'pos': 0.066, 'compound': 0.3071}"
+169,2020-11-09 16:00:01+00:00,"Starting today, Weedsport Junior-Senior High School will switch to remote learning after three students test positive for COVID-19.
+https://t.co/ubcjiCRprQ","{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.5574}"
+170,2020-11-09 16:00:01+00:00,"The Arizona Department of Health Services reported just three new cases of COVID-19, and no additional deaths from the virus, on Sunday, Nov. 8 in Mohave County.#KingmanMinerNews
+https://t.co/lbhOmWVAsI","{'neg': 0.075, 'neu': 0.925, 'pos': 0.0, 'compound': -0.296}"
+171,2020-11-09 16:00:01+00:00,"COVID-19 - how business is adapting in the face of adversity
+Read more  https://t.co/HIXU7jpz9X 
+Plant &amp; Works Engineering 
+ Please re-tweet  #Plant #Works #Engineering #PWEMag #ukmfg #PlantAssetManagementExpo","{'neg': 0.096, 'neu': 0.825, 'pos': 0.079, 'compound': -0.128}"
+172,2020-11-09 16:00:01+00:00,RT .@JoeBiden and I are ready to get COVID-19 under control. We're ready to rebuild our economy. We're ready to meet the cha...,"{'neg': 0.0, 'neu': 0.727, 'pos': 0.273, 'compound': 0.7579}"
+173,2020-11-09 16:00:01+00:00,"The stakes are especially high this year because Biden will take office amid a raging pandemic.
+","{'neg': 0.185, 'neu': 0.815, 'pos': 0.0, 'compound': -0.5267}"
+174,2020-11-09 16:00:01+00:00,RT Among the things that stand out on Biden's new COVID advisory panel: the list of members doesn't include anyone from Biden'...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"

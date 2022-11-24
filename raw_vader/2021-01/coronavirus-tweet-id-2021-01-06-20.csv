@@ -1,0 +1,335 @@
+,created_at,full_text,sentiment_score
+0,2021-01-06 19:59:54+00:00,"BREAKING NEWS
+US Capital goes into a security lockdown as fanatical demonstrators storm Congress &amp; attempt a COUP after listening to an incendiary speech from Trump. 
+So this is democracy eh?
+#TrumpsAmerica
+#CivilWar 
+#CongressLockdown","{'neg': 0.0, 'neu': 0.932, 'pos': 0.068, 'compound': 0.34}"
+1,2021-01-06 19:59:54+00:00,"RT The Capitol has been breeched. We are in lock down. Thank you, POTUS!","{'neg': 0.0, 'neu': 0.823, 'pos': 0.177, 'compound': 0.4199}"
+2,2021-01-06 19:59:55+00:00,Don't miss those days. Do you have to stay all night or get to go home on call? We use to let our officer go home for the night.,"{'neg': 0.0, 'neu': 0.951, 'pos': 0.049, 'compound': 0.1139}"
+3,2021-01-06 19:59:55+00:00,RT I'd also like to know whether there was any discussion of deploying the supplemental DOJ and DHS law enforcement we saw at Lafay...,"{'neg': 0.0, 'neu': 0.902, 'pos': 0.098, 'compound': 0.3612}"
+4,2021-01-06 19:59:55+00:00,RT are you happy? all members of congress are sheltering in place. YOU HAVE SUCCESSFULLY ATTEMPTED SEDITION,"{'neg': 0.14, 'neu': 0.556, 'pos': 0.303, 'compound': 0.6249}"
+5,2021-01-06 19:59:55+00:00,"RT Well everyone is sheltering in place, here's an idea to pass the time. 
+
+How about drawing up new articles of impeachment...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.2732}"
+6,2021-01-06 19:59:55+00:00,"THIS HAS TO BE A SICK JOKE
+
+Pro-Trump protesters force US Capitol into lockdown as Congress meets to certify 2020 election results ","{'neg': 0.213, 'neu': 0.682, 'pos': 0.105, 'compound': -0.4588}"
+7,2021-01-06 19:59:55+00:00,"At this point, it seems like ""lock down"" is subjective.","{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}"
+8,2021-01-06 19:59:55+00:00,"RT Please don't clap us. Just wear a mask, wash your hands and respect lockdown ","{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.6597}"
+9,2021-01-06 19:59:55+00:00,RT It is laugh out loud funny to me that people are still pretending had more support in this country than,"{'neg': 0.0, 'neu': 0.609, 'pos': 0.391, 'compound': 0.8718}"
+10,2021-01-06 19:59:55+00:00,"RT Shocking scenes in D.C. show Trump supporters smashing windows and breaking inside the Capitol building, which is on lockdow...","{'neg': 0.114, 'neu': 0.763, 'pos': 0.123, 'compound': 0.0516}"
+11,2021-01-06 19:59:55+00:00,"Where are the flasbangs, gas and rubber bullets? This mob is unruly, attempting sedition. Lock them down!","{'neg': 0.162, 'neu': 0.838, 'pos': 0.0, 'compound': -0.4753}"
+12,2021-01-06 19:59:55+00:00,Congress might be learning empathy for MSD and all kids in America in real-time. The hard way. #guncontrol #msdstrong,"{'neg': 0.072, 'neu': 0.928, 'pos': 0.0, 'compound': -0.1027}"
+13,2021-01-06 19:59:55+00:00,RT Is there a vacation fund I can contribute to once the pandemic is over?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+14,2021-01-06 19:59:55+00:00,"RT BREAKING: There have been shots fired inside the Capitol!
+
+Evacuation. Lockdown. 
+
+The MSM is being very casual about this...","{'neg': 0.162, 'neu': 0.75, 'pos': 0.087, 'compound': -0.4213}"
+15,2021-01-06 19:59:55+00:00,RT hey do u not have like a hundred of this at home?????? HARRY WEAR A MASK ITS NOT THAT HARD,"{'neg': 0.128, 'neu': 0.795, 'pos': 0.077, 'compound': -0.303}"
+16,2021-01-06 19:59:55+00:00,BRUH.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+17,2021-01-06 19:59:55+00:00,"RT 1/3 For the first time since the beginning of the pandemic, more than 30% of the tests conducted yesterday at our laborato...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+18,2021-01-06 19:59:55+00:00,"RT I'm in the Capitol. I'm safe, and my team and I are sheltering in place.
+
+The President of the United States has incited a rio...","{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.6908}"
+19,2021-01-06 19:59:55+00:00,"RT This assault on our nation's Capitol is a coup attempt and all those involved should be prosecuted as such.
+
+Also, for those D...","{'neg': 0.225, 'neu': 0.775, 'pos': 0.0, 'compound': -0.7506}"
+20,2021-01-06 19:59:55+00:00,RT I'm sheltering in place in my office. The building next door has been evacuated. I can't believe I have to write this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+21,2021-01-06 19:59:55+00:00,"DC under curfew. Protestors breached the Capitol pushing it into lockdown. Shots have been fired in the House chamber. 
+
+This is fucking dystopia. This is unacceptable.","{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.765}"
+22,2021-01-06 19:59:55+00:00,"RT BREAKING: #Trump Supporters Break Glass windows at Capitol, trying to storm in. 
+
+Building on lockdown, session in recess...","{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}"
+23,2021-01-06 19:59:55+00:00,RT BREAKING: The U.S. Capitol is on lockdown after pro-Trump protestors breached the building as Congress began to certify Electora...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+24,2021-01-06 19:59:55+00:00,"RT Please don't clap us. Just wear a mask, wash your hands and respect lockdown ","{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.6597}"
+25,2021-01-06 19:59:55+00:00,RT DUP used a veto to block public health measures. NI covid nos spiked. DUP minister prioritises 11+ at all costs. DUP MP...,"{'neg': 0.116, 'neu': 0.884, 'pos': 0.0, 'compound': -0.4404}"
+26,2021-01-06 19:59:55+00:00,RT Now imagine if they were black,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+27,2021-01-06 19:59:55+00:00,RT Also this:,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+28,2021-01-06 19:59:55+00:00,RT during a pandemic?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+29,2021-01-06 19:59:55+00:00,RT And how much y'all wanna bet at least 20 of them mfs got covid.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+30,2021-01-06 19:59:55+00:00,".@realdonaldtrump
+staring an army to fight the THREATENED US LIVES!
+@DeptofDefense
+MUST PUT ENTIRE US ON
+LOCK DOWN &amp; REMOVE THE CRIMINAL!
+THE DOJ MEMO IS NOT,
+NOT IN THE U. S.CONSTITUTION!","{'neg': 0.281, 'neu': 0.719, 'pos': 0.0, 'compound': -0.907}"
+31,2021-01-06 19:59:55+00:00,RT BREAKING: The U.S. Capitol is on lockdown after pro-Trump protestors breached the building as Congress began to certify Electora...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+32,2021-01-06 19:59:55+00:00,"RT Shocking scenes in D.C. show Trump supporters smashing windows and breaking inside the Capitol building, which is on lockdow...","{'neg': 0.114, 'neu': 0.763, 'pos': 0.123, 'compound': 0.0516}"
+33,2021-01-06 19:59:55+00:00,"Surely the headline should be 
+
+US National Guard appear to have used up all their tear gas, batons, tazers and bullets on peaceful BLM protestors.","{'neg': 0.0, 'neu': 0.79, 'pos': 0.21, 'compound': 0.7269}"
+34,2021-01-06 19:59:55+00:00,"Democracy in lockdown/disaster in the making, it started well it will end well","{'neg': 0.0, 'neu': 0.724, 'pos': 0.276, 'compound': 0.4939}"
+35,2021-01-06 19:59:55+00:00,"RT Every person who denied that this was an attempted coup has blood on their hands. You've helped kill people for years, w...","{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.8225}"
+36,2021-01-06 19:59:55+00:00,And increasing the Covid cases which will surely result from this!,"{'neg': 0.0, 'neu': 0.758, 'pos': 0.242, 'compound': 0.4926}"
+37,2021-01-06 19:59:55+00:00,"RT Have asked before but what is the point in having stricter Covid guidance than law?
+
+People see something in  guidance but...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+38,2021-01-06 19:59:55+00:00,RT these idiots have waited years to turn their online civil war era fetish message boards into a real thing and the gove...,"{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.5994}"
+39,2021-01-06 19:59:55+00:00,Shaheen Bagh was very close. Covid saved us.,"{'neg': 0.0, 'neu': 0.696, 'pos': 0.304, 'compound': 0.4703}"
+40,2021-01-06 19:59:55+00:00,I'm at home on Covid leave. My heart hurts for the city.,"{'neg': 0.246, 'neu': 0.514, 'pos': 0.24, 'compound': 0.2263}"
+41,2021-01-06 19:59:55+00:00,What's going on in the US is incredible but unsurprising. A fervently loyal fan base storming the Capitol during a global pandemic on the whims of a mentally unsound leader sounds like fiction.,"{'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.8847}"
+42,2021-01-06 19:59:55+00:00,RT Well done Rogan! We are sure would be proud of what you have been doing to support your local community. ,"{'neg': 0.0, 'neu': 0.618, 'pos': 0.382, 'compound': 0.8588}"
+43,2021-01-06 19:59:56+00:00,"RT Not to mention the majority of the domestic terrorists storming the Capitol aren't wearing masks, effectively creating a massi...","{'neg': 0.253, 'neu': 0.661, 'pos': 0.086, 'compound': -0.6492}"
+44,2021-01-06 19:59:56+00:00,They will definitely need to sanitize the #CapitolBuilding &amp; #Chamber from #Covid19 &amp; #MAGA #cooties,"{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4019}"
+45,2021-01-06 19:59:56+00:00,"RT Could #COVID19 Increase Your Risk of #Dementia?https://t.co/wYov0IZ9AU 
+
+#coronavirus #Alzheimers","{'neg': 0.169, 'neu': 0.645, 'pos': 0.185, 'compound': 0.0516}"
+46,2021-01-06 19:59:56+00:00,"Super interesting question. We did give mAb, mainly because HCW was +COVID &lt;7 days after 1st vaccine dose; and then delayed 2nd dose vaccine per CDC recs but it's unclear to me what the biological basis for that rec is.","{'neg': 0.089, 'neu': 0.814, 'pos': 0.097, 'compound': 0.09}"
+47,2021-01-06 19:59:56+00:00,RT DUP used a veto to block public health measures. NI covid nos spiked. DUP minister prioritises 11+ at all costs. DUP MP...,"{'neg': 0.116, 'neu': 0.884, 'pos': 0.0, 'compound': -0.4404}"
+48,2021-01-06 19:59:56+00:00,Yikes. Pandemic killed this game but IMO it wasn't really fantastic to begin with. Felt more like a gimmicky cash grab on Minecraft's popularity,"{'neg': 0.2, 'neu': 0.575, 'pos': 0.225, 'compound': 0.2212}"
+49,2021-01-06 19:59:56+00:00,"RT I'm in the Capitol. I'm safe, and my team and I are sheltering in place.
+
+The President of the United States has incited a rio...","{'neg': 0.0, 'neu': 0.808, 'pos': 0.192, 'compound': 0.6908}"
+50,2021-01-06 19:59:56+00:00,RT BREAKING: Trump supporters who rallied outside the U.S. Capitol clashed with police officers and breached the front steps of the C...,"{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.4404}"
+51,2021-01-06 19:59:56+00:00,"RT In the last 24 hours in the UK, more deaths were reported from Covid-19 than Australia has suffered during the entire cour...","{'neg': 0.127, 'neu': 0.873, 'pos': 0.0, 'compound': -0.4939}"
+52,2021-01-06 19:59:56+00:00,"RT This aged well. $2,000 checks. Now.","{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.2732}"
+53,2021-01-06 19:59:56+00:00,"RT Yes. Capitol is now in complete chaos. 
+
+Pence has been pulled from the senate chamber.","{'neg': 0.181, 'neu': 0.686, 'pos': 0.132, 'compound': -0.25}"
+54,2021-01-06 19:59:56+00:00,RT DEVELOPING: House chamber was abruptly adjourned amid a debate on the Electoral College certification after the Capitol bu...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+55,2021-01-06 19:59:56+00:00,"RT More importantly, due to the Pandemic, I can't see my Mom, Jeannette. So we spoke on the phone. She told me not to go ou...","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.3804}"
+56,2021-01-06 19:59:56+00:00,Bro wtf happened I leave for one hour and the capitol is on lock down what,"{'neg': 0.263, 'neu': 0.737, 'pos': 0.0, 'compound': -0.6124}"
+57,2021-01-06 19:59:56+00:00,RT BREAKING: The U.S. Capitol is on lockdown after pro-Trump protestors breached the building as Congress began to certify Electora...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+58,2021-01-06 19:59:56+00:00,RT 1.  Our COVID-19 paper on Immunological memory to SARS-CoV-2 assessed for up to 8 months after infection is out today...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+59,2021-01-06 19:59:56+00:00,"RT I'm currently sheltering in place. The Capitol building has been breached and both chambers are locked down.
+
+This is the c...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+60,2021-01-06 19:59:56+00:00,"Sam, again -- Don't know. But, the Philly DA story initially covered as a ""Trump supporter: having done it. 
+
+I DON'T SUPPORT STORMING THE CAPITOL. But, I know people who are desperate because of the lockdown and job losses. It is easy for secure people to condemn=what I'm saying.","{'neg': 0.162, 'neu': 0.685, 'pos': 0.153, 'compound': -0.1533}"
+61,2021-01-06 19:59:56+00:00,"RT anyone who told people to stay home and avoid counterprotesting this should never be taken seriously again
+
+this is what happ...","{'neg': 0.093, 'neu': 0.843, 'pos': 0.064, 'compound': -0.1734}"
+62,2021-01-06 19:59:56+00:00,"RT Here we go again...lockdown 3  
+
+New tune from 'T-Strain' - Bartender ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+63,2021-01-06 19:59:56+00:00,So BLM was a riot and this is protesting?,"{'neg': 0.478, 'neu': 0.522, 'pos': 0.0, 'compound': -0.7506}"
+64,2021-01-06 19:59:56+00:00,RT Could I PLEASE beg the people living in SW6 &amp; London at large to respect social distancing. Bishops Park was HEAVING today...,"{'neg': 0.0, 'neu': 0.774, 'pos': 0.226, 'compound': 0.7297}"
+65,2021-01-06 19:59:56+00:00,AP NewsAlert: Senate Recesses Electoral College Debate After Protesters Force Lockdown of Capitol ,"{'neg': 0.137, 'neu': 0.863, 'pos': 0.0, 'compound': -0.2263}"
+66,2021-01-06 19:59:56+00:00,RT Breaking News: Vice President Mike Pence was rushed from the Senate chamber and the Capitol building was placed on lockdown as...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+67,2021-01-06 19:59:56+00:00,"RT Every person who denied that this was an attempted coup has blood on their hands. You've helped kill people for years, w...","{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.8225}"
+68,2021-01-06 19:59:56+00:00,RT This is #TrumpsAmerica I am in disbelief. I mean I cannot believe the damage this one man has done to our country over...,"{'neg': 0.0, 'neu': 0.897, 'pos': 0.103, 'compound': 0.3875}"
+69,2021-01-06 19:59:56+00:00,"RT The Capitol building is under lockdown, evacuations underway, guns drawn in the House chamber. 
+
+Sen. Ted Cruz just sent...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+70,2021-01-06 19:59:57+00:00,RT Oh my goodness we are sheltering in place in the Senate,"{'neg': 0.0, 'neu': 0.786, 'pos': 0.214, 'compound': 0.4588}"
+71,2021-01-06 19:59:57+00:00,"I just realised that because of Corona, most sensible people will probably not go to the inauguration, but loads of Trump supporters will. Sad times.","{'neg': 0.134, 'neu': 0.742, 'pos': 0.124, 'compound': -0.0772}"
+72,2021-01-06 19:59:57+00:00,capitals on lockdown lmao 2021 let's go,"{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.5994}"
+73,2021-01-06 19:59:57+00:00,"Please, for Humanity, for once ~ do the right thing. With one word you have the power to stop this madness.","{'neg': 0.215, 'neu': 0.696, 'pos': 0.089, 'compound': -0.5065}"
+74,2021-01-06 19:59:57+00:00,im hugging everybody when this covid shit is done,"{'neg': 0.269, 'neu': 0.522, 'pos': 0.209, 'compound': -0.2023}"
+75,2021-01-06 19:59:57+00:00,"My Irish Granny would say "" Put the hose on them......""","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+76,2021-01-06 19:59:57+00:00,RT The US Capitol is now on lockdown.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+77,2021-01-06 19:59:57+00:00,"RT Thousands of pro-Trump protesters are attempting to storm the U.S. Capitol, forcing the building to lock down. 2 other Congress...","{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.2263}"
+78,2021-01-06 19:59:57+00:00,So much for social distancing America,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+79,2021-01-06 19:59:57+00:00,"RT BREAKING: Super Army Soldiers (Sgt Mac ""Maccy D's"" McMacson and Cpl Gaz ""Gazzer"" McGaz) on #COVID19 #MaskPatrol in Watford f...","{'neg': 0.0, 'neu': 0.837, 'pos': 0.163, 'compound': 0.5994}"
+80,2021-01-06 19:59:57+00:00,RT I'm sheltering in place in my office. The building next door has been evacuated. I can't believe I have to write this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+81,2021-01-06 19:59:57+00:00,RT I'm sheltering in place in my office. The building next door has been evacuated. I can't believe I have to write this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+82,2021-01-06 19:59:57+00:00,RT View from inside the Capitol as people gather on the West Front. The Capitol is currently on lockdown.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+83,2021-01-06 19:59:57+00:00,"RT The Capitol building is under lockdown, evacuations underway, guns drawn in the House chamber. 
+
+Sen. Ted Cruz just sent...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+84,2021-01-06 19:59:57+00:00,RT A lot of this is integrated into the year 6 unit on rivers. #BeaconCurriculum,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+85,2021-01-06 19:59:57+00:00,"First: they Republicans said ""we can't impeach, the people will decide!""
+
+Then: when the people decide they try everything to overturn tbe peoples will.
+
+NOW: Trump supports breached the security perimeter of the Capital, forcing it to get evacuated and go on lockdown...
+
+WTF!?","{'neg': 0.089, 'neu': 0.804, 'pos': 0.107, 'compound': -0.2998}"
+86,2021-01-06 19:59:57+00:00,akfjsod this is a sign the world is ending they're literally BREAKING IN-,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+87,2021-01-06 19:59:57+00:00,"RT There are people who make millions of dollars out of covid19, if you think they would help end the pandemic, you better th...","{'neg': 0.0, 'neu': 0.797, 'pos': 0.203, 'compound': 0.6808}"
+88,2021-01-06 19:59:57+00:00,So will totally blind people who cannot socially distance because they cannot see be included in vulnerable groups for vaccination?  In the first lockdown RNIB had to campaign for them to be included as vulnerable.  Disgusting!!,"{'neg': 0.257, 'neu': 0.743, 'pos': 0.0, 'compound': -0.8762}"
+89,2021-01-06 19:59:57+00:00,"Curious about how COVID-19 impacted Marine, Air, and Ground transportation in 2020? Roi Mit of uses GPS data to track transportation trends. 
+
+Story on #Transportation #TravelTrends #GPS","{'neg': 0.0, 'neu': 0.919, 'pos': 0.081, 'compound': 0.3182}"
+90,2021-01-06 19:59:57+00:00,"RT BREAKING: Pence was just quickly escorted out. US Capitol is on lockdown, Senate sources tell me.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+91,2021-01-06 19:59:57+00:00,"RT anyone who told people to stay home and avoid counterprotesting this should never be taken seriously again
+
+this is what happ...","{'neg': 0.093, 'neu': 0.843, 'pos': 0.064, 'compound': -0.1734}"
+92,2021-01-06 19:59:57+00:00,Who r these people,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+93,2021-01-06 19:59:57+00:00,"RT At this point, this headline is just to mock the Nigerian govt.","{'neg': 0.189, 'neu': 0.811, 'pos': 0.0, 'compound': -0.4215}"
+94,2021-01-06 19:59:57+00:00,RT Great free app to help older adults prevent falls during lockdown!,"{'neg': 0.0, 'neu': 0.41, 'pos': 0.59, 'compound': 0.8883}"
+95,2021-01-06 19:59:57+00:00,"RT This assault on our nation's Capitol is a coup attempt and all those involved should be prosecuted as such.
+
+Also, for those D...","{'neg': 0.225, 'neu': 0.775, 'pos': 0.0, 'compound': -0.7506}"
+96,2021-01-06 19:59:57+00:00,Australian international departures outpace arrivals during coronavirus pandemic,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+97,2021-01-06 19:59:57+00:00,"RT Everyone in this MAGA mob is potentially carrying a deadly airborne disease. That's a weapon, they breached security which...","{'neg': 0.097, 'neu': 0.796, 'pos': 0.106, 'compound': 0.0516}"
+98,2021-01-06 19:59:57+00:00,More pet owners to get help during pandemic as Humane Society program expands via,"{'neg': 0.0, 'neu': 0.745, 'pos': 0.255, 'compound': 0.4767}"
+99,2021-01-06 19:59:58+00:00,N95 is recommended to use but they are only given to healthcare workers these masks are okay I even have a similar ones as well,"{'neg': 0.0, 'neu': 0.775, 'pos': 0.225, 'compound': 0.6597}"
+100,2021-01-06 19:59:58+00:00,"Any attempt at a cost benefit analysis? The proverbial martian would assume that covid was the only disease or problem facing mankind? And a tory government effectively discouraging business, especially SMEs Wow, disastrous.","{'neg': 0.207, 'neu': 0.573, 'pos': 0.219, 'compound': 0.1468}"
+101,2021-01-06 19:59:58+00:00,"A member of Congress from Michigan.
+
+https://t.co/5cs82qujLB","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+102,2021-01-06 19:59:58+00:00,"RT I'm currently sheltering in place. The Capitol building has been breached and both chambers are locked down.
+
+This is the c...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+103,2021-01-06 19:59:58+00:00,"RT Annnnnd they're locking the doors to the House chamber right now. 
+
+We are in lockdown.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+104,2021-01-06 19:59:58+00:00,RT  EMA has recommended granting a conditional marketing authorisation for COVID-19 Vaccine Moderna to prevent #COVID19 in peop...,"{'neg': 0.0, 'neu': 0.743, 'pos': 0.257, 'compound': 0.4939}"
+105,2021-01-06 19:59:58+00:00,Never would I have thought that we would have violence and a lockdown at our nations Capitol until your dad started to incite violence 4-5 yrs ago!!! FUCK ALL OF YOU!!!! You are scum!,"{'neg': 0.305, 'neu': 0.695, 'pos': 0.0, 'compound': -0.9393}"
+106,2021-01-06 19:59:58+00:00,"1/4 Covid-19 Update
+
+New Cases
+
+Florida: 15,431
+Miami-Dade: 3,347
+
+Positivity Rate
+
+Florida: 12.74%
+Miami-Dade: 10.96%
+
+New Deaths
+
+Florida: 100
+Miami-Dade: 1
+
+https://t.co/wp6yMwa99W","{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.5106}"
+107,2021-01-06 19:59:58+00:00,RT We are having to help out broke &amp; broken 1000's #ExcludedUK with heating &amp; food bills as they've been failed by,"{'neg': 0.308, 'neu': 0.602, 'pos': 0.09, 'compound': -0.7579}"
+108,2021-01-06 19:59:58+00:00,RT I'm currently in lockdown in the House chamber as the President of the United States incites his supporters to violence a...,"{'neg': 0.142, 'neu': 0.66, 'pos': 0.198, 'compound': 0.1531}"
+109,2021-01-06 19:59:58+00:00,"RT Well everyone is sheltering in place, here's an idea to pass the time. 
+
+How about drawing up new articles of impeachment...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.2732}"
+110,2021-01-06 19:59:58+00:00,"RT If you get bored of watching the coup attempt unfold live on television, Pitt men's basketball is back from a COVID-relat...","{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.2732}"
+111,2021-01-06 19:59:58+00:00,"RT anyone who told people to stay home and avoid counterprotesting this should never be taken seriously again
+
+this is what happ...","{'neg': 0.093, 'neu': 0.843, 'pos': 0.064, 'compound': -0.1734}"
+112,2021-01-06 19:59:58+00:00,"RT For the first time, members on the House floor seem to be aware of the potential threat outside. Capitol police are being in...","{'neg': 0.129, 'neu': 0.871, 'pos': 0.0, 'compound': -0.5267}"
+113,2021-01-06 19:59:58+00:00,RT COVID test should be free. FREE.,"{'neg': 0.0, 'neu': 0.405, 'pos': 0.595, 'compound': 0.8091}"
+114,2021-01-06 19:59:58+00:00,"RT BREAKING: #Trump Supporters Break Glass windows at Capitol, trying to storm in. 
+
+Building on lockdown, session in recess...","{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}"
+115,2021-01-06 19:59:58+00:00,Is this enough like antifa yet to call out these people?,"{'neg': 0.0, 'neu': 0.8, 'pos': 0.2, 'compound': 0.3612}"
+116,2021-01-06 19:59:58+00:00,"RT US Capitol on lockdown as Trump demonstrators swarm the building during Biden certification debate
+
+Latest:","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+117,2021-01-06 19:59:58+00:00,RT I'm currently in lockdown in the House chamber as the President of the United States incites his supporters to violence a...,"{'neg': 0.142, 'neu': 0.66, 'pos': 0.198, 'compound': 0.1531}"
+118,2021-01-06 19:59:58+00:00,"RT Please don't clap us. Just wear a mask, wash your hands and respect lockdown ","{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.6597}"
+119,2021-01-06 19:59:58+00:00,RT The fact that Arizona has the highest rate of covid in the WORLD and we aren't on any kind of shut down BLOWS MY MF MIND,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+120,2021-01-06 19:59:58+00:00,RT BREAKING: The U.S. Capitol is on lockdown after pro-Trump protestors breached the building as Congress began to certify Electora...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+121,2021-01-06 19:59:58+00:00,"RT Outside the Capitol, which is now on lockdown.
+
+:","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+122,2021-01-06 19:59:59+00:00,RT BREAKING: The U.S. Capitol is on lockdown after pro-Trump protestors breached the building as Congress began to certify Electora...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+123,2021-01-06 19:59:59+00:00,Are you sure America is real ? It's not fiction?,"{'neg': 0.0, 'neu': 0.772, 'pos': 0.228, 'compound': 0.3939}"
+124,2021-01-06 19:59:59+00:00,"Sorry, let me balance that with a picture from Israel's current ""lockdown""","{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.0772}"
+125,2021-01-06 19:59:59+00:00,RT Not to mention the profligate spread of the coronavirus!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+126,2021-01-06 19:59:59+00:00,"What's your point?  Again, my point was made by you.  They didn't add all those deaths up on top of the initial epidemic that lasted only six months.  For the same reason they don't add up all flu deaths since the beginning of time, they should start over the count each season.","{'neg': 0.048, 'neu': 0.919, 'pos': 0.033, 'compound': -0.2023}"
+127,2021-01-06 19:59:59+00:00,Each government is responsible for its own people... Fraud Covid-19 tests and fraudulent papers work let them sleep we had Major issues here,"{'neg': 0.239, 'neu': 0.683, 'pos': 0.078, 'compound': -0.6908}"
+128,2021-01-06 19:59:59+00:00,"RT I'm married to an Australian. I returned to Australia from the UK in October.
+
+This is my experience of what happened...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+129,2021-01-06 19:59:59+00:00,"RT This is an attack on the government of the United States of America.
+
+Putin and Xi can't stop laughing.","{'neg': 0.217, 'neu': 0.606, 'pos': 0.177, 'compound': -0.2593}"
+130,2021-01-06 19:59:59+00:00,"RT Ford slams feds over pilot program that will start inoculating inmates with COVID-19 vaccine on Friday
+https://t.co/5Kc63jV9wN ht...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+131,2021-01-06 19:59:59+00:00,"Was just told by a friend it's a total lockdown in Basel, Switzerland &amp; streetlights have been turned off. They do not want people to go out at night.","{'neg': 0.039, 'neu': 0.859, 'pos': 0.102, 'compound': 0.4548}"
+132,2021-01-06 19:59:59+00:00,"RT Violent Trump supporters have stormed the Capitol.
+
+We're on lockdown right now in the Chamber.
+
+Blood will be on the hand...","{'neg': 0.134, 'neu': 0.655, 'pos': 0.21, 'compound': 0.296}"
+133,2021-01-06 19:59:59+00:00,RT Loefller buying stock in body bags in January when she was warned about the approaching pandemic.....nothing qualifies you m...,"{'neg': 0.1, 'neu': 0.9, 'pos': 0.0, 'compound': -0.2732}"
+134,2021-01-06 19:59:59+00:00,"RT BREAKING: #Trump Supporters Break Glass windows at Capitol, trying to storm in. 
+
+Building on lockdown, session in recess...","{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}"
+135,2021-01-06 19:59:59+00:00,Nations around the world are laughing/disappointed/upset. There's a global pandemic going on and here we are us selfish Americans arguing over nothing of real importance. Yep sums up the current state of the union in a nutshell. Always looking for a fight where there is none,"{'neg': 0.2, 'neu': 0.759, 'pos': 0.041, 'compound': -0.8229}"
+136,2021-01-06 19:59:59+00:00,"RT BREAKING: #Trump Supporters Break Glass windows at Capitol, trying to storm in. 
+
+Building on lockdown, session in recess...","{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}"
+137,2021-01-06 19:59:59+00:00,RT I don't understand how it's ok for private schools to play but not public. They act like covid-19 discriminates.,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.6757}"
+138,2021-01-06 19:59:59+00:00,"RT LIVE NOW: Law enforcement deployed as Trump supporters outside the U.S. Capitol breached the front steps of the Capitol building,...","{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4404}"
+139,2021-01-06 19:59:59+00:00,"Car Sales Turn Better At The End Of Last Year - 
+#cars #carsale #coronavirus #COVID19 
+https://t.co/ZEfVQZ2zAo","{'neg': 0.0, 'neu': 0.838, 'pos': 0.162, 'compound': 0.4404}"
+140,2021-01-06 19:59:59+00:00,RT The United States Capitol devolved into dangerous chaos Wednesday afternoon as thousands of protestors stormed into the b...,"{'neg': 0.266, 'neu': 0.625, 'pos': 0.109, 'compound': -0.6124}"
+141,2021-01-06 19:59:59+00:00,RT View from inside the Capitol as people gather on the West Front. The Capitol is currently on lockdown.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+142,2021-01-06 19:59:59+00:00,RT I just wanna know why fees for 2021 are not decreased a bit due to online learning? I won't even talk about...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+143,2021-01-06 19:59:59+00:00,RT View from inside the Capitol as people gather on the West Front. The Capitol is currently on lockdown.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+144,2021-01-06 19:59:59+00:00,RT MSNBC just reported they haven't had to lock down the Capitol like this since 9/11 which we can all agree was an act of t...,"{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.6124}"
+145,2021-01-06 19:59:59+00:00,"RT All it takes is one #COVID19 infection to make a ""bubble"" sick. Connect virtually to keep everyone safe.","{'neg': 0.142, 'neu': 0.733, 'pos': 0.125, 'compound': -0.1027}"
+146,2021-01-06 19:59:59+00:00,"RT BREAKING: #Trump Supporters Break Glass windows at Capitol, trying to storm in. 
+
+Building on lockdown, session in recess...","{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.4404}"
+147,2021-01-06 19:59:59+00:00,"RT Shocking scenes in D.C. show Trump supporters smashing windows and breaking inside the Capitol building, which is on lockdow...","{'neg': 0.114, 'neu': 0.763, 'pos': 0.123, 'compound': 0.0516}"
+148,2021-01-06 19:59:59+00:00,RT I'm sheltering in place in my office. The building next door has been evacuated. I can't believe I have to write this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+149,2021-01-06 19:59:59+00:00,"RT All buildings in the US Capitol are currently on lockdown following a security breach from Donald Trump supporters, which h...","{'neg': 0.0, 'neu': 0.782, 'pos': 0.218, 'compound': 0.6486}"
+150,2021-01-06 19:59:59+00:00,RT I'm sheltering in place in my office. The building next door has been evacuated. I can't believe I have to write this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+151,2021-01-06 19:59:59+00:00,I can only imagine what the COVID cases are going to be after this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+152,2021-01-06 19:59:59+00:00,RT It's real. Very real. Be careful and stay safe. These wonderful people are on the brink. ,"{'neg': 0.0, 'neu': 0.623, 'pos': 0.377, 'compound': 0.8158}"
+153,2021-01-06 20:00:00+00:00,you don't know how lucky you are if you're able to spend this lockdown with your partner:((,"{'neg': 0.127, 'neu': 0.873, 'pos': 0.0, 'compound': -0.3252}"
+154,2021-01-06 20:00:00+00:00,RT I'm sheltering in place in my office. The building next door has been evacuated. I can't believe I have to write this.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+155,2021-01-06 20:00:00+00:00,RT WHSmith whenever people question how they're surviving a pandemic,"{'neg': 0.0, 'neu': 0.804, 'pos': 0.196, 'compound': 0.296}"
+156,2021-01-06 20:00:00+00:00,Our Department continues to serve and protect in anyway necessary to help us all get through these trying times.   ,"{'neg': 0.0, 'neu': 0.762, 'pos': 0.238, 'compound': 0.6486}"
+157,2021-01-06 20:00:00+00:00,RT They really doin this durin a pandemic-,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+158,2021-01-06 20:00:00+00:00,RT I'm currently in lockdown in the House chamber as the President of the United States incites his supporters to violence a...,"{'neg': 0.142, 'neu': 0.66, 'pos': 0.198, 'compound': 0.1531}"
+159,2021-01-06 20:00:00+00:00,"If you are having speech &amp; language therapy, we want to hear from you! Please fill out our #SLTSurvey about how #COVID19 has affected your access to therapy. You can access the survey here: Thank you!","{'neg': 0.04, 'neu': 0.794, 'pos': 0.166, 'compound': 0.6229}"
+160,2021-01-06 20:00:00+00:00,#photo Love in the time of Corona by Kenneth Lan #Monochrome #blackandwhite #blackandwhitephotography #people,"{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}"
+161,2021-01-06 20:00:00+00:00,A researcher studying the coronavirus variant detected in South Africa says that it is unlikely to completely negate the immunizing effect of vaccines,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+162,2021-01-06 20:00:00+00:00,RT Members of Congress are sheltering in place worrying about gunfire which in our country is an action usually reserved for...,"{'neg': 0.107, 'neu': 0.893, 'pos': 0.0, 'compound': -0.34}"
+163,2021-01-06 20:00:00+00:00,"The Covid-19 pandemic exposed several fault-lines and socio-economic fissures that we tended to gloss over. It deepened inequalities, worsened prevailing disparities, intensified rifts and made the goal of equity and inclusivity more elusive.
+
+https://t.co/a3hFSDa9L7","{'neg': 0.116, 'neu': 0.884, 'pos': 0.0, 'compound': -0.4939}"
+164,2021-01-06 20:00:00+00:00,"As the impacts of #COVID19 continue to ripple through the #healthcare industry, executives from each subsector must learn to recognize potential points of financial distress within their organizations. Our latest insight reviews key signs to look out for:","{'neg': 0.084, 'neu': 0.916, 'pos': 0.0, 'compound': -0.5267}"
+165,2021-01-06 20:00:00+00:00,"Is there a link between the #COVID19 vaccine &amp; #BellsPalsy? Dr. Jason Hinman was interviewed by on the causes of Bell's palsy &amp; why he suspects the incidence of the condition in clinical trials to be a coincidence.
+
+https://t.co/03QgpglTiw","{'neg': 0.059, 'neu': 0.941, 'pos': 0.0, 'compound': -0.34}"
+166,2021-01-06 20:00:00+00:00,"Amid disruption, many #restaurants will need to assess whether #COVID19 has impacted their ability to continue as a going concern. In our latest blog post, we review key terms and requirements for preparing an effective analysis. Read it here:","{'neg': 0.057, 'neu': 0.82, 'pos': 0.123, 'compound': 0.4404}"
+167,2021-01-06 20:00:00+00:00,"RT From a Hill staffer currently on lockdown inside the Longworth building: ""Where the fuck are the police, honestly?""","{'neg': 0.149, 'neu': 0.723, 'pos': 0.128, 'compound': -0.128}"
+168,2021-01-06 20:00:00+00:00,"Peterborough patients offered lifts to get vaccinated for Covid-19
+
+https://t.co/6GpeFF41NY","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+169,2021-01-06 20:00:00+00:00,"RT Imagine if these protesters were black. Hate to say it, but how can one not. 
+
+Pro-Trump protesters storm US Capitol as lawma...","{'neg': 0.147, 'neu': 0.775, 'pos': 0.077, 'compound': -0.2025}"
+170,2021-01-06 20:00:00+00:00,"""Disinfection Gateways: Could it Help Businesses Reopen?"" #coronavirus #covid19","{'neg': 0.0, 'neu': 0.748, 'pos': 0.252, 'compound': 0.4019}"
+171,2021-01-06 20:00:00+00:00,"RT Shocking scenes in D.C. show Trump supporters smashing windows and breaking inside the Capitol building, which is on lockdow...","{'neg': 0.114, 'neu': 0.763, 'pos': 0.123, 'compound': 0.0516}"
+172,2021-01-06 20:00:00+00:00,"To get back to our favorite activities, we need to wear a mask, keep our distance, and get tested. That's how we #GetBackMass. Learn more at #MaskUpMA #GetBack #covid19MA","{'neg': 0.0, 'neu': 0.903, 'pos': 0.097, 'compound': 0.4588}"
+173,2021-01-06 20:00:00+00:00,"Ontario, look at what an AWESOME job the Dougler is doing! At this rate we'll hit 6k/day in weeks! 
+
+Only Conservatives could bring you these numbers!
+
+#EricOToole for PM! Are you with me?  #cdnpoli #onpoli #COVID19","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.7906}"
+174,2021-01-06 20:00:00+00:00,"#Brazil - Views of an area reserved for the burial of COVID-19 victims at the Nossa Senhora Aparecida cemetery in Manaus.
+ Michael Dantas #AFP","{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.3182}"
+175,2021-01-06 20:00:00+00:00,"International #security was a dominant theme throughout 2020, as countries around the world faced unprecedented consequences of a global pandemic. 
+ 
+Check out the work of which highlights the growing connection between #climate and #humansecurity  #2020inReview","{'neg': 0.0, 'neu': 0.889, 'pos': 0.111, 'compound': 0.4767}"
+176,2021-01-06 20:00:00+00:00,RT Look when this is all over America and the pandemic is done I think you all need to go on a mountain hike with us up i...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+177,2021-01-06 20:00:00+00:00,"The pandemic urged for health professionals to be innovative regarding testing speed and #PPE use. Responding to this challenge, Kris Olson, MD and Paul Currier, MD created #Hexapod which was built in only nine days","{'neg': 0.0, 'neu': 0.836, 'pos': 0.164, 'compound': 0.6457}"
+178,2021-01-06 20:00:00+00:00,"USA demands the truth!
+
+A detailed explanation of the COVID-19 problem appeared in the President's Daily Brief of intelligence matters in early January.
+https://t.co/Fli4ZKJPgL","{'neg': 0.092, 'neu': 0.678, 'pos': 0.23, 'compound': 0.4753}"
+179,2021-01-06 20:00:00+00:00,RT I really hope we don't go into another hard lockdown. Level 5 would absolutely destroy families.,"{'neg': 0.232, 'neu': 0.625, 'pos': 0.143, 'compound': -0.25}"
+180,2021-01-06 20:00:00+00:00,RT An excellent example why politicians should have nothing to do with deciding who gets vaccinated. The choice must be based s...,"{'neg': 0.0, 'neu': 0.85, 'pos': 0.15, 'compound': 0.5719}"
+181,2021-01-06 20:00:00+00:00,"Lockdown &amp; the return to home schooling for many has magnified the chances of parental burnout.  
+
+You can watch the recording of our December parental webinar, hosted by expert -'The 4 Essentials of Balanced Parenting'
+
+Watch here:","{'neg': 0.0, 'neu': 0.952, 'pos': 0.048, 'compound': 0.2023}"
+182,2021-01-06 20:00:00+00:00,"ffs pls stop it, why would you ever wish something like that for ANYONE  if i see anyone hating on him on the TL, i WILL block you idc if we're close or not.","{'neg': 0.267, 'neu': 0.591, 'pos': 0.142, 'compound': -0.7717}"
+183,2021-01-06 20:00:00+00:00,RT Despite #Covid19 is #building for the future #westsidewall #modernization #workingport,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+184,2021-01-06 20:00:00+00:00,'Our emergence from the lockdown cocoon will not be a big bang but a gradual unwrapping',"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+185,2021-01-06 20:00:00+00:00,???? I LITERALLY can't even put my thoughts into words,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+186,2021-01-06 20:00:00+00:00,"#Israel's Cabinet on Tuesday approved the tightening of the country's #COVID-19 #lockdown for 14 days beginning at midnight on Jan. 7
+
+https://t.co/tVc4ekGHHS","{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.4215}"
+187,2021-01-06 20:00:01+00:00,"Remember that there will always be another day
+
+#meditation #mindfulnessmeditation #guidedmeditation #stayhome #holiday #stalbansmums #stalbanslife #hertfordshire #hertfordshiremums #mentalhealthawareness #mentalhealthmatters #mind #covid_19","{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}"
+188,2021-01-06 20:00:01+00:00,Adams County combines rapid COVID-19 testing sites into new Brighton location,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+189,2021-01-06 20:00:01+00:00,"If you need something to help get you through lockdown, take a look at the gigs we've got ready for you as soon as we get the green light 
+
+https://t.co/xCxX2baVzJ","{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.6369}"
+190,2021-01-06 20:00:01+00:00,"RT Capitol Police have put the US Capitol Building on lockdown amid clashes between police and Trump supporters
+
+Footage shows d...","{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4404}"
+191,2021-01-06 20:00:01+00:00,RT The crazy shit is that this is the biggest COVID super spreader event that we are witnessing in this country right now,"{'neg': 0.201, 'neu': 0.669, 'pos': 0.13, 'compound': -0.2732}"
+192,2021-01-06 20:00:01+00:00,Syracuse-Notre Dame is the fourth consecutive game missed due to a positive COVID-19 test within the women's basketball program.,"{'neg': 0.096, 'neu': 0.746, 'pos': 0.158, 'compound': 0.34}"

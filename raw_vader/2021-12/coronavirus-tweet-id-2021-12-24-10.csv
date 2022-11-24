@@ -1,0 +1,281 @@
+,created_at,full_text,sentiment_score
+0,2021-12-24 09:59:54+00:00,"RT 119789 UK COVID cases yesterday. 
+
+Even if a tiny proportion of those infected need a hospital bed, that's a lot of NHS h...","{'neg': 0.122, 'neu': 0.878, 'pos': 0.0, 'compound': -0.4939}"
+1,2021-12-24 09:59:55+00:00,RT just your friendly reminder to get vaccinated and then get your boosters!! and even then please wear your masks and sanitize...,"{'neg': 0.0, 'neu': 0.767, 'pos': 0.233, 'compound': 0.7256}"
+2,2021-12-24 09:59:55+00:00,RT How many #Tory MP's are against vaccine passports whilst supporting voter ID?,"{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}"
+3,2021-12-24 09:59:55+00:00,Yoongi ah.. get well soon ,"{'neg': 0.0, 'neu': 0.656, 'pos': 0.344, 'compound': 0.2732}"
+4,2021-12-24 09:59:55+00:00,What is going to be different at the end of the restrictions from where we are now? In light of the data which has shown Omicron to be milder should restrictions now be scrapped?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+5,2021-12-24 09:59:55+00:00,RT [1/2]Do not clean your N95/KF94/KN95/FFP2. Especially do not spray them with hand sanitizer. If you want to make sure they ar...,"{'neg': 0.083, 'neu': 0.665, 'pos': 0.251, 'compound': 0.5487}"
+6,2021-12-24 09:59:55+00:00,"RT A MAGAt tweeted: ""If the vaccine worked, why are we right back where we were last year?"" That's about as intelligent as ""i...","{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.4588}"
+7,2021-12-24 09:59:55+00:00,"I'm not against vaccines, but I will whole heartedly try to seed doubt about vaccines, and the risk of covid. Idiot.","{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.8847}"
+8,2021-12-24 09:59:55+00:00,"RT ""Ver are your Covid papers?"" The EU marches on towards an authoritarian superstate.  New #COVID19  passport rules will ove...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+9,2021-12-24 09:59:55+00:00,"RT Washington Post today&gt;&gt; ""Florida is reporting daily cases close to four times the national average -- 26 new infections per...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+10,2021-12-24 09:59:55+00:00,The people most affected by lockdowns - the true working class - are also the ones that all lockdown advocates claim to be on the side of,"{'neg': 0.064, 'neu': 0.842, 'pos': 0.094, 'compound': 0.228}"
+11,2021-12-24 09:59:55+00:00,RT Loose translation: a Japanese guy got Covid-19 in Shanghai a little while ago so the city published a list of places he w...,"{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.3182}"
+12,2021-12-24 09:59:55+00:00,RT PCR +ve . Christmas cancelled . LFT-baubles  #COVID19,"{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.25}"
+13,2021-12-24 09:59:55+00:00,RT #mainstreammedia lies and bullshit #COVID19 question the #nar...,"{'neg': 0.485, 'neu': 0.515, 'pos': 0.0, 'compound': -0.765}"
+14,2021-12-24 09:59:55+00:00,"RT It's insane how we still have to buy tiny toothpaste and take our shoes off to board a plane 20 years after 9/11,  but 80...","{'neg': 0.069, 'neu': 0.931, 'pos': 0.0, 'compound': -0.2144}"
+15,2021-12-24 09:59:55+00:00,"RT I have this sinking feeling that Omicron will enter our community through kayangan vacationing in London right now.
+
+120,00...","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.128}"
+16,2021-12-24 09:59:55+00:00,"RT Six new facts from CDC per 100k:
+
+Unvaccinated: 451 cases
+Vaccinated: 134 cases
+Boosted: 48 cases
+
+Unvaccinated: 6.1 deaths...","{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.3612}"
+17,2021-12-24 09:59:55+00:00,"Sad and so, so foolish, Mariana. What is it they do not understand about a 'global' pandemic? Sickening amorality.","{'neg': 0.439, 'neu': 0.561, 'pos': 0.0, 'compound': -0.8943}"
+18,2021-12-24 09:59:55+00:00,"RT Less severe illness related to Omicron doesn't mean our hospitals and healthcare workforce will not be overrun. They will.
+1...","{'neg': 0.199, 'neu': 0.801, 'pos': 0.0, 'compound': -0.5759}"
+19,2021-12-24 09:59:55+00:00,Walking outside thanks for keeping us safe...,"{'neg': 0.0, 'neu': 0.463, 'pos': 0.537, 'compound': 0.7003}"
+20,2021-12-24 09:59:55+00:00,"RT Majority of NI health staff off sick with Covid jabbed and boosted, chief says","{'neg': 0.176, 'neu': 0.691, 'pos': 0.133, 'compound': -0.2023}"
+21,2021-12-24 09:59:55+00:00,"FCK COVID )#*?C/`P`C/%]%[
+MIN YOONGI GET WELL REAL SOON. YOU'VE BEEN THERE FOR US ALL ALONG . TAKE REST ,YOU'RE STRONG!!! WE'LL BE ALWAYS THERE WISHING U A SPEEDY RECOVERY....","{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.8853}"
+22,2021-12-24 09:59:55+00:00,"RT I have this sinking feeling that Omicron will enter our community through kayangan vacationing in London right now.
+
+120,00...","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.128}"
+23,2021-12-24 09:59:55+00:00,RT Allahabad High Court appeals to PM Modi to ban election rallies due to the rising cases of #Omicron. PM Modi may call for...,"{'neg': 0.135, 'neu': 0.865, 'pos': 0.0, 'compound': -0.5574}"
+24,2021-12-24 09:59:55+00:00,"RT Get well soon, Yoongi. ARMYs are always behind you wishing for your fast recovery ","{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.4588}"
+25,2021-12-24 09:59:56+00:00,RT Fair play to anyone who got Covid in early December. It's like picking up a yellow in the 5th round of the CL so you ca...,"{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.7351}"
+26,2021-12-24 09:59:56+00:00,"RT Until you do 30 minutes+ of CPR in a plastic gown, N95, surgical mask, two pairs of gloves and a face shield, you should prob...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+27,2021-12-24 09:59:56+00:00,RT Our very own wonderful Megan Smith  is featured in this incredibly moving video from the Guardian- give it...,"{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.6096}"
+28,2021-12-24 09:59:56+00:00,RT Here's the annoying thing. I was perfectly healthy when I caught covid last year. I now have a permanent heart condition b...,"{'neg': 0.082, 'neu': 0.579, 'pos': 0.338, 'compound': 0.8555}"
+29,2021-12-24 09:59:56+00:00,RT More Americans have now died of Covid 19 than in all wars in the nation's history combined. That's an absolutely shocking...,"{'neg': 0.349, 'neu': 0.651, 'pos': 0.0, 'compound': -0.8805}"
+30,2021-12-24 09:59:56+00:00,RT Final suggestion given by committee is to quarantine Modi Ji for few weeks to save India from next wave of Covid #UPEle...,"{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4939}"
+31,2021-12-24 09:59:56+00:00,This,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+32,2021-12-24 09:59:56+00:00,"RT Our players were sadly unable to visit local hospitals this year, due to the ongoing pandemic, but that didn't stop them...","{'neg': 0.078, 'neu': 0.825, 'pos': 0.096, 'compound': 0.1109}"
+33,2021-12-24 09:59:56+00:00,"RT Chelsea have Lukaku, Hudson-Odoi and Christensen back in training. On top of that, the academy players have stuck aroun...","{'neg': 0.092, 'neu': 0.826, 'pos': 0.083, 'compound': -0.0516}"
+34,2021-12-24 09:59:56+00:00,Cricket sounds when he discovers that masks mandates are scams. Look at Covid numbers in countries without mask mandates and ask yourself how that is possible. Then you will maybe understand the global forces at work are beyond your comprehension.,"{'neg': 0.089, 'neu': 0.911, 'pos': 0.0, 'compound': -0.5859}"
+35,2021-12-24 09:59:56+00:00,RT My cousin is a physician exposed to #Covid. He is treating a patient who is not vaccinated. And will likely die. My cousin i...,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.6369}"
+36,2021-12-24 09:59:56+00:00,RT Fuck you omicron not my flights getting cancelled,"{'neg': 0.44, 'neu': 0.56, 'pos': 0.0, 'compound': -0.6705}"
+37,2021-12-24 09:59:57+00:00,"RT Holy moly.
+
+This study shows that after three months the vaccine effectiveness of Pfizer &amp; Moderna against Omicron is actua...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+38,2021-12-24 09:59:57+00:00,"my wish is for my family and friends' good health next year. this whole covid situation really took a toll on us, especially on our mental health. thanks for the ga, i hope you stay safe!","{'neg': 0.0, 'neu': 0.629, 'pos': 0.371, 'compound': 0.9493}"
+39,2021-12-24 09:59:57+00:00,"RT [WEVERSE] 211224 
+
+BTS SUGA was confirmed with COVD-19 on Friday, December 24 during his self-quarantine after t...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+40,2021-12-24 09:59:57+00:00,RT bighit just announced that SUGA was tested positive for covid-19 :((( get well soon yoongi  praying for your fast recovery!...,"{'neg': 0.0, 'neu': 0.679, 'pos': 0.321, 'compound': 0.8172}"
+41,2021-12-24 09:59:57+00:00,Merry Christmas Claire and Billy . Thankyou!,"{'neg': 0.0, 'neu': 0.613, 'pos': 0.387, 'compound': 0.5848}"
+42,2021-12-24 09:59:57+00:00,"RT Twenty-seven people aboard a Carnival cruise, mostly crew members, tested positive for COVID-19. The Belize Tourism Board said they...","{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.5719}"
+43,2021-12-24 09:59:57+00:00,U wear ur mask like a good little slave boy. Us grown up will look after ourselves,"{'neg': 0.0, 'neu': 0.735, 'pos': 0.265, 'compound': 0.6597}"
+44,2021-12-24 09:59:57+00:00,RT #Labour's First Minister in #Wales has been accused of lying by a former health statistics chief after he said #omicron...,"{'neg': 0.228, 'neu': 0.772, 'pos': 0.0, 'compound': -0.6808}"
+45,2021-12-24 09:59:57+00:00,"RT VIC Labor announced their mask rules last week--according to Murdoch it was a disgraceful 'slap in the face'. Today, NSW Libera...","{'neg': 0.0, 'neu': 0.929, 'pos': 0.071, 'compound': 0.1531}"
+46,2021-12-24 09:59:57+00:00,"RT  New Child Covid Record!
+
+88 child hospitalisations on 21-Dec
+highest single day of the entire pandemic
+
+ 42 aged 0-5
+ 46 a...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+47,2021-12-24 09:59:57+00:00,"""massive surge in delta in children""... do you have the same table for the prior week? That may confirm if the surge is Delta or Omicron.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+48,2021-12-24 09:59:57+00:00,"If you live in Victoria, you are in the worst place in the world for covid management. Total Labor incompetence. Clear proof of why not to vote Labor when times are tough.","{'neg': 0.229, 'neu': 0.699, 'pos': 0.072, 'compound': -0.7442}"
+49,2021-12-24 09:59:57+00:00,RT We need to love Covid...hate will only make it stronger ,"{'neg': 0.0, 'neu': 0.57, 'pos': 0.43, 'compound': 0.7783}"
+50,2021-12-24 09:59:57+00:00,"RT I have this sinking feeling that Omicron will enter our community through kayangan vacationing in London right now.
+
+120,00...","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.128}"
+51,2021-12-24 09:59:57+00:00,"RT I have this sinking feeling that Omicron will enter our community through kayangan vacationing in London right now.
+
+120,00...","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.128}"
+52,2021-12-24 09:59:57+00:00,"RT Soft and sexy with see through lingerie.
+
+Deep dark December with COVID 19 don't make it feels like entering season greetin...","{'neg': 0.0, 'neu': 0.772, 'pos': 0.228, 'compound': 0.7096}"
+53,2021-12-24 09:59:57+00:00,"RT GET WELL SOON, YOONGI
+
+BTS member Suga tested positive for COVID-19, the band's handler BIGHIT Music confirmed today....","{'neg': 0.0, 'neu': 0.725, 'pos': 0.275, 'compound': 0.7531}"
+54,2021-12-24 09:59:57+00:00,"RT How about allowing Omicron to just get on with it so the dominant virus strain is mild &amp; less dangerous.
+It's over as nat...","{'neg': 0.148, 'neu': 0.852, 'pos': 0.0, 'compound': -0.4601}"
+55,2021-12-24 09:59:57+00:00,RT This is a serious accusation by the former head of health analysis at the Office for National Statistics. Mr Drakeford mu...,"{'neg': 0.142, 'neu': 0.858, 'pos': 0.0, 'compound': -0.3182}"
+56,2021-12-24 09:59:57+00:00,"RT Watching ITV news, horrendous covid figures in England, their NHS really struggling, and UK govt doing nothing. Then P...","{'neg': 0.277, 'neu': 0.723, 'pos': 0.0, 'compound': -0.7841}"
+57,2021-12-24 09:59:57+00:00,"RT ""B.C"" could mean Before Christ or Before Covid at this point.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+58,2021-12-24 09:59:58+00:00,RT it's basically 2 years now since this pandemic came into full swing. 2 years of anxiety and suffering. free us from thi...,"{'neg': 0.171, 'neu': 0.712, 'pos': 0.117, 'compound': -0.128}"
+59,2021-12-24 09:59:58+00:00,"These are our proposition for Christmas
+#wearamask #relax #noexcessivealcohol #eatslowly
+We wish you all a very Merry Christmas and a Happy and Healthy New Year!!!","{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.9491}"
+60,2021-12-24 09:59:58+00:00,"Bulletin sent TODAY re local GP out of hours service due to impact of COVID on staff availability.
+Oxford Health is asking for offers of help:
+'on Sat 25, Sun 26 and Mon 27 Dec there are gaps in planned rotas at EVERY time of the day and night.' #StaySafe","{'neg': 0.0, 'neu': 0.948, 'pos': 0.052, 'compound': 0.4019}"
+61,2021-12-24 09:59:58+00:00,RT More Americans have now died of Covid 19 than in all wars in the nation's history combined. That's an absolutely shocking...,"{'neg': 0.349, 'neu': 0.651, 'pos': 0.0, 'compound': -0.8805}"
+62,2021-12-24 09:59:58+00:00,"RT Until you do 30 minutes+ of CPR in a plastic gown, N95, surgical mask, two pairs of gloves and a face shield, you should prob...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+63,2021-12-24 09:59:58+00:00,Celebrating chrysnthemum eve with a vaccine fever. What a nice day,"{'neg': 0.0, 'neu': 0.581, 'pos': 0.419, 'compound': 0.7579}"
+64,2021-12-24 09:59:58+00:00,Everything that mattered.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+65,2021-12-24 09:59:58+00:00,"The lft is the byproduct of the pcr. They are still not accurate. But with everyone testing every time they sneeze or have a runny nose because apparently these are the symptoms of the new variant. 
+So take 3 vaxxx and have a passport
+Now miss Christmas. So they don't work","{'neg': 0.037, 'neu': 0.963, 'pos': 0.0, 'compound': -0.2263}"
+66,2021-12-24 09:59:58+00:00,"RT Has anyone developed full blown flu in response to the Moderna booster?
+
+We're trying to decipher if how I am this week...","{'neg': 0.106, 'neu': 0.894, 'pos': 0.0, 'compound': -0.3818}"
+67,2021-12-24 09:59:58+00:00,"RT Bullying and intimidation have no place in Canadian society, especially not against doctors and other health-care work...","{'neg': 0.372, 'neu': 0.628, 'pos': 0.0, 'compound': -0.836}"
+68,2021-12-24 09:59:58+00:00,"RT Reminder: ""Pro-life"" isn't a term solely about abortion. It's amazing to me how many people who claim to be pro life are...","{'neg': 0.0, 'neu': 0.853, 'pos': 0.147, 'compound': 0.5859}"
+69,2021-12-24 09:59:58+00:00,"RT Good Afternoon from Harare.
+
+I feel sorry for Zimbabweans who couldn't come home bcoz Government declared a Covid quarantine...","{'neg': 0.059, 'neu': 0.811, 'pos': 0.131, 'compound': 0.3818}"
+70,2021-12-24 09:59:58+00:00,"RT It's insane how we still have to buy tiny toothpaste and take our shoes off to board a plane 20 years after 9/11,  but 80...","{'neg': 0.069, 'neu': 0.931, 'pos': 0.0, 'compound': -0.2144}"
+71,2021-12-24 09:59:58+00:00,"RT NEW from As COVID surges, continues to take a hands-off approach to dealing with the pandemic. H...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+72,2021-12-24 09:59:58+00:00,"RT I have this sinking feeling that Omicron will enter our community through kayangan vacationing in London right now.
+
+120,00...","{'neg': 0.0, 'neu': 0.927, 'pos': 0.073, 'compound': 0.128}"
+73,2021-12-24 09:59:58+00:00,#e_RadioUS BTS' Suga tests positive for COVID-19,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5574}"
+74,2021-12-24 09:59:58+00:00,RT Here's the annoying thing. I was perfectly healthy when I caught covid last year. I now have a permanent heart condition b...,"{'neg': 0.082, 'neu': 0.579, 'pos': 0.338, 'compound': 0.8555}"
+75,2021-12-24 09:59:58+00:00,"RT The Great Barrington Declaration are all over the media saying they're the true victims of the pandemic 
+
+Excuse me, what?
+
+The...","{'neg': 0.081, 'neu': 0.632, 'pos': 0.288, 'compound': 0.7096}"
+76,2021-12-24 09:59:59+00:00,"Covid-19, coronavirus Australia, Omicron: Peter Collignon says 'inevitable' virus continues to spread","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+77,2021-12-24 09:59:59+00:00,RT joon cursing at covid was not enough we need a gun,"{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.34}"
+78,2021-12-24 09:59:59+00:00,RT To sum this message up in a word: Prick,"{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.34}"
+79,2021-12-24 09:59:59+00:00,"RT Yep... It was standard practice for Jesus to force people to take experimental gene therapy medicine, with no long term s...","{'neg': 0.09, 'neu': 0.82, 'pos': 0.09, 'compound': 0.0}"
+80,2021-12-24 09:59:59+00:00,RT Vaccine injuries need more hospital care than unvaxxed healthy people. Why this data is never on the news? Example France 30 00...,"{'neg': 0.0, 'neu': 0.773, 'pos': 0.227, 'compound': 0.7334}"
+81,2021-12-24 09:59:59+00:00,"RT I don't know who did this but 
+#COVID19 #GetVaccinated
+
+God's Tech Support:","{'neg': 0.0, 'neu': 0.772, 'pos': 0.228, 'compound': 0.5499}"
+82,2021-12-24 09:59:59+00:00,RT But the power to define which evidence counts in a pandemic lies with the medics. Never in human history has academic...,"{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.5719}"
+83,2021-12-24 09:59:59+00:00,"Happy Birthday to you and me, 24th December is not a very common birthday.  Unfortunately this year I am in bed with covid won't forget this one but for the wrong reasons.","{'neg': 0.159, 'neu': 0.743, 'pos': 0.098, 'compound': -0.5104}"
+84,2021-12-24 09:59:59+00:00,"COVID carrier w/out mask -&gt; masked person = 70% probability of transmission rate
+
+COVID carrier w/mask -&gt; unmasked person = 5% probability of transmission rate
+
+COVID carrier w/mask -&gt; masked person = 1.5% probability of transmission rate
+
+While not fool proof, masks do help.","{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.6256}"
+85,2021-12-24 09:59:59+00:00,"My street, my local. We still gather there for local carols on the 23rd in non pandemic times.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+86,2021-12-24 09:59:59+00:00,"And on #NewYearsEve you can get your 4th #Booster!
+Starting to sound like a drug addict - all so you can virtue signal on social media and to friends... 
+Sad fvckers... 
+#Omicron #vaccine #covid","{'neg': 0.074, 'neu': 0.713, 'pos': 0.213, 'compound': 0.7055}"
+87,2021-12-24 09:59:59+00:00,RT And I will take this te to remind you why vaccine is so important. It does help in prevention but more importantly it hel...,"{'neg': 0.0, 'neu': 0.761, 'pos': 0.239, 'compound': 0.7116}"
+88,2021-12-24 09:59:59+00:00,"RT The American population reached its capacity to care about one another a long time ago, I fear. A lockdown fo...","{'neg': 0.124, 'neu': 0.698, 'pos': 0.178, 'compound': 0.1027}"
+89,2021-12-24 09:59:59+00:00,"RT BREAKING: U.S. reports 270,271 new coronavirus cases, the biggest one-day increase since January and the third-highest on reco...","{'neg': 0.0, 'neu': 0.887, 'pos': 0.113, 'compound': 0.3182}"
+90,2021-12-24 09:59:59+00:00,RT Persistence and tenacity by my West Lothian colleague looks set to see a positive result for fo...,"{'neg': 0.0, 'neu': 0.825, 'pos': 0.175, 'compound': 0.5574}"
+91,2021-12-24 09:59:59+00:00,RT Historians will record -- and not sympathetically -- that the fastest and greatest rise in share values in the history...,"{'neg': 0.0, 'neu': 0.664, 'pos': 0.336, 'compound': 0.8442}"
+92,2021-12-24 09:59:59+00:00,RT Missouri's health department did a study of mask mandates and found that they were effective at reducing COVID19 cases and...,"{'neg': 0.0, 'neu': 0.866, 'pos': 0.134, 'compound': 0.4767}"
+93,2021-12-24 09:59:59+00:00,RT NEW: NY Gov signs bill criminalizing fake Covid-19 vaccination cards,"{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}"
+94,2021-12-24 10:00:00+00:00,"RT Vaccine apartheid is the biggest moral failure of our time. ""Just 8.6% of people in Africa have been vaccinated and at the...","{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.5106}"
+95,2021-12-24 10:00:00+00:00,"RT I'm proposing $2,000 monthly payments throughout the pandemic and for 3 months after, because rent and bills are still due during t...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+96,2021-12-24 10:00:00+00:00,RT I regraphed some of the residual Omicron/B.1.1.529 neutralization data from our recent preprint. This makes a very str...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+97,2021-12-24 10:00:00+00:00,RT Wish the Tories had been as effective at keeping Covid out of care homes as they have been at keeping police investigator...,"{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.8402}"
+98,2021-12-24 10:00:00+00:00,RT Omicron makes its entrance ... ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+99,2021-12-24 10:00:00+00:00,"Let's make it a safe winter for us all
+
+Even if you don't have symptoms, please take a lateral flow test before you visit busy places or socialise. If you're travelling, take a test 3 days before and on the day you leave, and follow these key actions ","{'neg': 0.062, 'neu': 0.881, 'pos': 0.057, 'compound': 0.1872}"
+100,2021-12-24 10:00:00+00:00,"BYD: The epidemic situation will impact production in Xi'an
+https://t.co/IVRGyfna1p
+
+Deutsche Bank expects RMB 450 Bn to flow into the China bond market in 2022
+https://t.co/oWm9bDQqMX
+
+China's transportation fixed asset investment exceeded RMB 3 Trillion
+https://t.co/753GJ8wxlg","{'neg': 0.0, 'neu': 0.933, 'pos': 0.067, 'compound': 0.3612}"
+101,2021-12-24 10:00:00+00:00,Richmond MP and Chancellor writes of his pride in the high vaccine take-up rates in North Yorkshire in his column for this week,"{'neg': 0.0, 'neu': 0.902, 'pos': 0.098, 'compound': 0.34}"
+102,2021-12-24 10:00:00+00:00,"RT IMPORTANT: 
+
+RAPID TESTS DO WORK WITH OMICRON
+
+""But why are some people staying negative in the first days they have s...","{'neg': 0.188, 'neu': 0.746, 'pos': 0.066, 'compound': -0.6467}"
+103,2021-12-24 10:00:00+00:00,"Omgoddess, so sorry to hear you have covid. 
+Get well soon hunni  
+Sending you lots of love and hugs   ","{'neg': 0.061, 'neu': 0.575, 'pos': 0.364, 'compound': 0.8363}"
+104,2021-12-24 10:00:00+00:00,"RT A robust early innate immune response is the main difference between children and adults.
+As a side note, metabolic diseases a...","{'neg': 0.0, 'neu': 0.813, 'pos': 0.187, 'compound': 0.5574}"
+105,2021-12-24 10:00:00+00:00,RT [Notice] Suga tested positive with COVID-19 on Friday during self-quarantine. He is currently focused on recovery,"{'neg': 0.0, 'neu': 0.708, 'pos': 0.292, 'compound': 0.7351}"
+106,2021-12-24 10:00:00+00:00,"Another doctor, another tweet discrediting a safe and highly effective vaccine.
+
+Imagine being a Dr in Australia and during a global pandemic choosing to either being ignorant or deliberately inflammatory about a lifesaving vaccine.
+
+Such a low quality decision.","{'neg': 0.092, 'neu': 0.769, 'pos': 0.138, 'compound': 0.4754}"
+107,2021-12-24 10:00:00+00:00,More sad news as COVID has forced the Anacostia Playhouse to cancel all shows until Jan. 9 ,"{'neg': 0.375, 'neu': 0.625, 'pos': 0.0, 'compound': -0.8122}"
+108,2021-12-24 10:00:00+00:00,RT Just hearing about how everybody all of a sudden has Covid should make you want to get tested.,"{'neg': 0.0, 'neu': 0.933, 'pos': 0.067, 'compound': 0.0772}"
+109,2021-12-24 10:00:00+00:00,I'm also tired of Nany being carried to the end. She can stay home and be Kaycee's cheerleader,"{'neg': 0.139, 'neu': 0.769, 'pos': 0.091, 'compound': -0.25}"
+110,2021-12-24 10:00:00+00:00,"Omicron, E-Sports, Christmas: Your Weekend Briefing","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+111,2021-12-24 10:00:00+00:00,"RT Putin has:
+
+- invaded two countries;
+
+- backed genocide in Syria;
+
+- downed a civilian jet;
+
+- ordered murders worldwide;
+
+-...","{'neg': 0.159, 'neu': 0.797, 'pos': 0.044, 'compound': -0.5994}"
+112,2021-12-24 10:00:00+00:00,"FC Barcelona cancelled a marketing deal with non-fungible token (NFT) marketplace Ownix.
+
+https://t.co/2z8EO6SVAl
+
+#NFTCommunity #NEARnft #NEAR #NEARProtocol #paras #cryptoart #digitalart #tradingcards #vaxie #healthcarenft #covid19 #omicron #vaccinationworks","{'neg': 0.074, 'neu': 0.926, 'pos': 0.0, 'compound': -0.25}"
+113,2021-12-24 10:00:00+00:00,"#Friday
+Clifford the Big Red Dog (PG) 11:00 &amp; 13:30
+West Side Story (PG) 13:00 &amp; 16:00
+Spider Man: No Way Home (12A) 12:00, 15:30 &amp; 16:30
+Arthur Christmas (U) 10:30
+Covid Passes required
+ID maybe required
+https://t.co/7HyM9dEr58
+#Clifford","{'neg': 0.055, 'neu': 0.945, 'pos': 0.0, 'compound': -0.296}"
+114,2021-12-24 10:00:00+00:00,"RT Until you do 30 minutes+ of CPR in a plastic gown, N95, surgical mask, two pairs of gloves and a face shield, you should prob...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+115,2021-12-24 10:00:00+00:00,"We've got another festive treat for you . In response to the current pandemic situation, we have re-released some of our favourite Unicorn Online shows to watch, all for free.
+
+Watch Anansi the Spider, Marvin's Binoculars, Let Loose and Huddle now here:
+https://t.co/0CDkVWko7w","{'neg': 0.046, 'neu': 0.775, 'pos': 0.179, 'compound': 0.7717}"
+116,2021-12-24 10:00:00+00:00,"We wish you a Merry Christmas! Despite Corona we could play many nice concerts for you - and you showed us with your numerous coming that you still have  hunger for music! Thanks for your endless support!  
+Merry Christmas!  Your Twiolins","{'neg': 0.035, 'neu': 0.582, 'pos': 0.382, 'compound': 0.9621}"
+117,2021-12-24 10:00:00+00:00,"#Lebanon's tourism ministry ordered restaurants, hotels, fitness centres and entertainment venues to require visitors to present either a certificate of #COVID #vaccination or a negative #PCR test before entering.
+
+Read more:","{'neg': 0.101, 'neu': 0.765, 'pos': 0.134, 'compound': 0.0516}"
+118,2021-12-24 10:00:00+00:00,Movie Review - South Park: Post Covid: The Return of Covid,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+119,2021-12-24 10:00:00+00:00,"Omicron up to 70% less likely to cause hospitalization than delta variant, UK government study finds ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+120,2021-12-24 10:00:00+00:00,"Wishing everyone on this platform Merry Christmas and a safe, healthy and prosperous New Year. May you 2022 bring in wider possibilities. Please, you should all take care, covid is still around. Merry Christmas ","{'neg': 0.0, 'neu': 0.53, 'pos': 0.47, 'compound': 0.9686}"
+121,2021-12-24 10:00:00+00:00,"""What we desperately need is an outbreak of common sense""
+
+https://t.co/IghFOJOMkJ","{'neg': 0.206, 'neu': 0.794, 'pos': 0.0, 'compound': -0.3818}"
+122,2021-12-24 10:00:00+00:00," This Christmas, let's spread cheer, not COVID-19.
+
+There are small things, which we all can do to keep everyone safe this year 
+
+For more information on how to keep safe over the festive season, please visit 
+https://t.co/ljuQmiWWaZ","{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.9246}"
+123,2021-12-24 10:00:00+00:00,"If you're meeting family for Christmas celebrations then remember to open windows regularly to let #Covid19 particles out
+https://t.co/2xzcMLiZ6H","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+124,2021-12-24 10:00:00+00:00,Someone should show him the Zapruder film and the view from the grassy knoll.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+125,2021-12-24 10:00:00+00:00,"Covid-19 testing is available within North Ayrshire this week for those who have symptoms, as well as those without. 
+
+If you HAVE symptoms, find out where you can get tested locally at: you DO NOT HAVE symptoms, visit:","{'neg': 0.0, 'neu': 0.946, 'pos': 0.054, 'compound': 0.2732}"
+126,2021-12-24 10:00:00+00:00,"It's Christmas Eve, and many people will be winding down ahead of the big day. 
+
+But if you are still working, don't miss our final newsletter of 2021, with all the #Covid19, #NHS and #HealthTech news from the week just gone. 
+
+https://t.co/o94DJtp8hp","{'neg': 0.0, 'neu': 0.961, 'pos': 0.039, 'compound': 0.1695}"
+127,2021-12-24 10:00:00+00:00,RT Students are protesting for online examination but still there is no response from why....?? Please don't pu...,"{'neg': 0.22, 'neu': 0.652, 'pos': 0.128, 'compound': -0.2755}"
+128,2021-12-24 10:00:01+00:00,"RT ""B.C"" could mean Before Christ or Before Covid at this point.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+129,2021-12-24 10:00:01+00:00,"RT ""A vaccine failure is when an organism develops a disease in spite of being vaccinated against it"".","{'neg': 0.295, 'neu': 0.705, 'pos': 0.0, 'compound': -0.7717}"
+130,2021-12-24 10:00:01+00:00,"Gutted for u Dee,but sure you'll make good of a bad time regarding covid x","{'neg': 0.169, 'neu': 0.58, 'pos': 0.251, 'compound': 0.1779}"
+131,2021-12-24 10:00:01+00:00,"Covid-19 may be more dangerous in unvaccinated pregnant women, increasing the risk of severe illness, hospital admission and preterm birth. In serious cases, it can lead to still birth. Vaccination is effective in preventing infection. #ReadyforParenthood","{'neg': 0.291, 'neu': 0.64, 'pos': 0.068, 'compound': -0.796}"
+132,2021-12-24 10:00:01+00:00,"The 24th door of our #AdventCalendar highlights important findings from the supported CAPTURE study led by 
+
+The study has found that a 3rd dose of the #COVID19 vaccine could increase protection from COVID-19 for people with cancer ","{'neg': 0.1, 'neu': 0.753, 'pos': 0.146, 'compound': 0.0}"
+133,2021-12-24 10:00:01+00:00,Stop COVID-19 hanging around. Open windows at home to significantly reduce the amount of COVID-19 in the air.,"{'neg': 0.115, 'neu': 0.885, 'pos': 0.0, 'compound': -0.296}"
+134,2021-12-24 10:00:01+00:00,"SantaCon returned to the Big Apple this year after being cancelled in 2020 due to COVID-19 fears.
+
+#christmas #COVID19
+#OmicronVariant
+
+https://t.co/tihTaE4cFB","{'neg': 0.202, 'neu': 0.798, 'pos': 0.0, 'compound': -0.5859}"
+135,2021-12-24 10:00:01+00:00,"#BTS member #Suga has tested positive for #COVID19.
+https://t.co/u4QlhhnCao","{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.5574}"
+136,2021-12-24 10:00:01+00:00,"Lockdown 'uncertainty' crippling Suffolk pubs who don't know if they'll have to close
+
+https://t.co/nss7SyOH0F","{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.34}"
+137,2021-12-24 10:00:01+00:00,Tony Blair forced into humiliating climbdown after outrage at 'idiot' vaccine rant - TONY BLAIR has been forced to an embarrassing climbdown over his criticism of unvaccinated...,"{'neg': 0.544, 'neu': 0.456, 'pos': 0.0, 'compound': -0.967}"
+138,2021-12-24 10:00:01+00:00,"Holiday travel is in flux across the country as the omicron variant threatens staffing at major airlines.
+
+https://t.co/CJbDOWNvgI","{'neg': 0.122, 'neu': 0.751, 'pos': 0.127, 'compound': 0.0258}"
+139,2021-12-24 10:00:01+00:00,RT please get vaccinated if you haven't and for those who are already fully vaccinated it is still a must to get boosters. let...,"{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+140,2021-12-24 10:00:01+00:00," Happy Christmas Eve! We're celebrating the festive season with as Managing Director, Wayne Ball discusses how Pivot &amp; Prosper Grant helped them adapt their business model in response to the pandemic - all part of our #TripleHelix!
+
+@TheLEPNetwork","{'neg': 0.0, 'neu': 0.716, 'pos': 0.284, 'compound': 0.9258}"
+141,2021-12-24 10:00:01+00:00,"It's the season for giving! Did you know? Being kind can increase your own happiness, energy, and even lifespan
+See the Mental Health Foundation's suggestions for small acts of kindness how Doing Good Does You Good","{'neg': 0.0, 'neu': 0.55, 'pos': 0.45, 'compound': 0.9678}"

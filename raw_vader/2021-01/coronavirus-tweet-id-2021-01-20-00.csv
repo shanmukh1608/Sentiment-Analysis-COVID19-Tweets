@@ -1,0 +1,203 @@
+,created_at,full_text,sentiment_score
+0,2021-01-19 23:59:54+00:00,I gotta stay home for my birthday. I'm always out the country. We'll maintain,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+1,2021-01-19 23:59:54+00:00,"what was wrong with giving louis, and only louis, the attention quickly","{'neg': 0.2, 'neu': 0.645, 'pos': 0.155, 'compound': -0.1779}"
+2,2021-01-19 23:59:54+00:00,"Then you should've shut the borders firmly. You asked us to save the NHS. We did, you didn't. A variant of Covid came out. You blamed us, yet you allowed the influx.Did you really think that these 'visitors' were going to stay for 2 weeks and quarantine for most of it?","{'neg': 0.056, 'neu': 0.886, 'pos': 0.058, 'compound': 0.0258}"
+3,2021-01-19 23:59:54+00:00,RT Biden to block Trump's proposal to lift US travel restrictions on Europe,"{'neg': 0.195, 'neu': 0.805, 'pos': 0.0, 'compound': -0.4404}"
+4,2021-01-19 23:59:54+00:00,"RT There is no flu, only COVID.","{'neg': 0.0, 'neu': 0.733, 'pos': 0.267, 'compound': 0.2924}"
+5,2021-01-19 23:59:54+00:00,"RT Blinken announces Biden admin will join Covax, global alliance to provide vaccines to poorer countries, says admin can ""ensure t...","{'neg': 0.099, 'neu': 0.711, 'pos': 0.19, 'compound': 0.3182}"
+6,2021-01-19 23:59:55+00:00,RT Lots of pageantry here from the single industrialized nation that can't deliver health care to its citizens during a pand...,"{'neg': 0.116, 'neu': 0.884, 'pos': 0.0, 'compound': -0.3875}"
+7,2021-01-19 23:59:55+00:00,"RT In a moving tribute, Biden and Harris take time to remember the 400,000 lives lost in the U.S. to COVID-19.","{'neg': 0.103, 'neu': 0.897, 'pos': 0.0, 'compound': -0.3182}"
+8,2021-01-19 23:59:55+00:00,RT 40 percent is not insignificant. I wonder if all the anaphylactic reactions and deaths may have contributed to the refusa...,"{'neg': 0.0, 'neu': 0.908, 'pos': 0.092, 'compound': 0.2584}"
+9,2021-01-19 23:59:55+00:00,RT Our COVID-19 data page has been updated to include even MORE data on the vaccine in Nevada than we already had. Been col...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+10,2021-01-19 23:59:55+00:00,Anyone else's heart break when they get a notification that a favorite restaurant or store has to close temporarily because staff is exposed to Covid? I'm so worried one more closure is the thing that makes them close ,"{'neg': 0.092, 'neu': 0.749, 'pos': 0.159, 'compound': 0.6167}"
+11,2021-01-19 23:59:55+00:00,"RT I know there will be celebratory moments over the next 24 hours, but watching this Covid Memorial has me wrecked. I'm so angr...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+12,2021-01-19 23:59:55+00:00,RT The future of global health - if we are brave enough to admit it...,"{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.6369}"
+13,2021-01-19 23:59:55+00:00,"RT I'll be tweeting various politicians everyday from now on. Feel free to unfollow if you don't like, but also feel free to t...","{'neg': 0.053, 'neu': 0.72, 'pos': 0.226, 'compound': 0.7223}"
+14,2021-01-19 23:59:55+00:00,"Trump may be gone, but the problem is still here...","{'neg': 0.283, 'neu': 0.717, 'pos': 0.0, 'compound': -0.5499}"
+15,2021-01-19 23:59:55+00:00,"RT #FoxNews refuses to cover COVID remembrance ceremony as the nation mourns 400,000 lives lost
+
+REMEMBER:
+
+-The virus is a HOAX...","{'neg': 0.322, 'neu': 0.678, 'pos': 0.0, 'compound': -0.8192}"
+16,2021-01-19 23:59:55+00:00,RT Germany bait extended their lockdown up to February 14. What does the opposition have to say about the administration's pand...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+17,2021-01-19 23:59:55+00:00,"It would be helpful to know how often that someone returns from a trip and are found to be Covid positive.  If there are any, then he has a valid argument for the government to protect Canadians.  It is the responsibility of the government to protect us. No cases no problems. ??","{'neg': 0.073, 'neu': 0.679, 'pos': 0.249, 'compound': 0.8861}"
+18,2021-01-19 23:59:55+00:00,RT I just feel like Covid has scattered all our settings. When it's all over we gotta reset and start all over. I don't rememb...,"{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.3612}"
+19,2021-01-19 23:59:55+00:00,"RT Vice President-elect Kamala Harris speaks at National Covid Memorial on the eve of an historic inauguration: ""Tonight we g...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+20,2021-01-19 23:59:55+00:00,"RT It is so appropriate that Joe Biden and Kamala Harris would have a ceremony to honor the Americans lost to COVID-19.
+
+That'...","{'neg': 0.087, 'neu': 0.792, 'pos': 0.121, 'compound': 0.2263}"
+21,2021-01-19 23:59:55+00:00,"RT Feel like this Covid 19  is a never ending cycle bro so many ppl are dying and ppl don't care until it's their mom , da...","{'neg': 0.087, 'neu': 0.83, 'pos': 0.083, 'compound': -0.033}"
+22,2021-01-19 23:59:55+00:00,"Hope it is true
+
+""Early data released in December suggests Novavax vaccine is likely to offer strong protection against COVID-19. There are even hints it may do something other vaccines have struggled with: stop the coronavirus' spread."" 
+
+https://t.co/dCdVhVow9W","{'neg': 0.099, 'neu': 0.708, 'pos': 0.193, 'compound': 0.6597}"
+23,2021-01-19 23:59:55+00:00,"RT Just to acknowledge &amp; mourn the reality of 400,000 lost lives from COVID-19, to recognize healthcare workers &amp;their strengt...","{'neg': 0.221, 'neu': 0.779, 'pos': 0.0, 'compound': -0.6249}"
+24,2021-01-19 23:59:55+00:00,"RT ""We must remember. it's hard to remember. but that's how we heal."" This is leadership.","{'neg': 0.074, 'neu': 0.926, 'pos': 0.0, 'compound': -0.0516}"
+25,2021-01-19 23:59:55+00:00,"RT There are 200,000 flags
+
+If you want a scale of the horrific human cost of COVID-19 in the United States for each of thes...","{'neg': 0.144, 'neu': 0.721, 'pos': 0.134, 'compound': -0.3182}"
+26,2021-01-19 23:59:55+00:00,But it's not about them getting ill. It's about making sure that enough people are vaccinated so that the old and vulnerable don't get it. I have had Covid already and got through ok.,"{'neg': 0.151, 'neu': 0.775, 'pos': 0.074, 'compound': -0.4767}"
+27,2021-01-19 23:59:55+00:00,RT Israel breaches the #GenevaConvention again by conducting #VaccineDiscrimination against Palestinians in #WestBank &amp; #...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+28,2021-01-19 23:59:56+00:00,"Yes it didn't go on forever about Biden. It was heart felt and about the 400,000 people that died of covid-19.","{'neg': 0.126, 'neu': 0.632, 'pos': 0.242, 'compound': 0.5106}"
+29,2021-01-19 23:59:56+00:00,"Biden at Ceremony for Coronavirus Victims Says 'To Heal, we Must Remember'","{'neg': 0.173, 'neu': 0.827, 'pos': 0.0, 'compound': -0.3182}"
+30,2021-01-19 23:59:56+00:00,"RT This week is #CervicalCancerPreventionWeek (18th-24th January 2021).
+
+If you are experiencing any symptoms of Cervical C...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+31,2021-01-19 23:59:56+00:00,"Tragic!...There has to be legislation to deal with these rogue media organisations that air false claims and stir unrest, its CRIMINAL!!! ","{'neg': 0.21, 'neu': 0.79, 'pos': 0.0, 'compound': -0.7431}"
+32,2021-01-19 23:59:56+00:00,"RT Not since Woodrow Wilson was in office during the 1918 flu pandemic, which killed about 675,000 in this country and 50 millio...","{'neg': 0.253, 'neu': 0.747, 'pos': 0.0, 'compound': -0.7964}"
+33,2021-01-19 23:59:56+00:00,RT Here is the inspiring content you did not know you needed: A post-apocalyptic hip-hop retelling of Antigone - starring Colorad...,"{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.4215}"
+34,2021-01-19 23:59:56+00:00,"Stay strong  bingkzkie, there's always a rainbow after the storm, stay positive sa life wag lang sa covid okay hehe. GOD BLESS U ALWAYS 
+#MayWard","{'neg': 0.034, 'neu': 0.537, 'pos': 0.429, 'compound': 0.9321}"
+35,2021-01-19 23:59:56+00:00,"RT It is so appropriate that Joe Biden and Kamala Harris would have a ceremony to honor the Americans lost to COVID-19.
+
+That'...","{'neg': 0.087, 'neu': 0.792, 'pos': 0.121, 'compound': 0.2263}"
+36,2021-01-19 23:59:56+00:00,RT Would you support the introduction of Vaccine Passports as a requirement for International travel allowing only those who have...,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4019}"
+37,2021-01-19 23:59:56+00:00,"RT If there were no pandemic, tomorrow would be the most attended inauguration ever. Without a doubt.","{'neg': 0.114, 'neu': 0.777, 'pos': 0.109, 'compound': -0.0232}"
+38,2021-01-19 23:59:56+00:00,"uk moots, why is my sister saying boris has announcer we're in lockdown to end of march? i can't find it anywhere?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+39,2021-01-19 23:59:56+00:00,RT More Americans have died from COVID than the number of US troops killed in battle during World War II.,"{'neg': 0.477, 'neu': 0.481, 'pos': 0.042, 'compound': -0.9389}"
+40,2021-01-19 23:59:56+00:00,I thought the memorial was both touching &amp; beautiful. ,"{'neg': 0.0, 'neu': 0.672, 'pos': 0.328, 'compound': 0.5994}"
+41,2021-01-19 23:59:56+00:00,"RT Just to acknowledge &amp; mourn the reality of 400,000 lost lives from COVID-19, to recognize healthcare workers &amp;their strengt...","{'neg': 0.221, 'neu': 0.779, 'pos': 0.0, 'compound': -0.6249}"
+42,2021-01-19 23:59:57+00:00,Biden would have not done the same thing. He would have listened to the doctors. He wouldn't have held maskless rallies. He wouldn't have discouraged social distancing &amp; mask mandates. He wouldn't have called the virus a hoax for months. I can go on about the obvious difference,"{'neg': 0.042, 'neu': 0.913, 'pos': 0.045, 'compound': 0.0408}"
+43,2021-01-19 23:59:57+00:00,"""The world has changed."" Janet Yellen delivered the Biden administration's opening argument to lawmakers for its $1.9 trillion Covid-19 relief proposal. via","{'neg': 0.098, 'neu': 0.781, 'pos': 0.121, 'compound': 0.1531}"
+44,2021-01-19 23:59:57+00:00,RT MI:2 is a Covid 19 film.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+45,2021-01-19 23:59:57+00:00,"RT Pres.-elect Biden during lighting ceremony at COVID-19 memorial in Washington, D.C.: ""To heal, we must remember. It's hard sometim...","{'neg': 0.069, 'neu': 0.931, 'pos': 0.0, 'compound': -0.1027}"
+46,2021-01-19 23:59:57+00:00,RT oh to be a university student during a global pandemic,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+47,2021-01-19 23:59:57+00:00,RT physically I'm in lockdown but Emotionally I'm a scrappy apprentice living in the Prague astronomical clock,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+48,2021-01-19 23:59:57+00:00,RT Dr. Levine took her own mother out of a nursing home prior to ordering COVID infected patients into them. Thousands die...,"{'neg': 0.262, 'neu': 0.738, 'pos': 0.0, 'compound': -0.7964}"
+49,2021-01-19 23:59:57+00:00,"RT Memorials matter. There has been no center of grief during this pandemic. The virus has kept us apart, meaning so much o...","{'neg': 0.204, 'neu': 0.755, 'pos': 0.042, 'compound': -0.6486}"
+50,2021-01-19 23:59:57+00:00,"This is exactly why schools should never have reopened until vaccines had been given out to everyone. This freaking stupid rush to open everything was one colossal mistake. Just ask the 400,000.","{'neg': 0.238, 'neu': 0.762, 'pos': 0.0, 'compound': -0.8422}"
+51,2021-01-19 23:59:57+00:00,"Socialism will address these concerns, according to the authors:
+https://t.co/8t6u1WLlrY","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+52,2021-01-19 23:59:57+00:00,RT I agree with Brian Williams that we need to keep the lights at the Reflecting Pool as a permanent memorial to the hundre...,"{'neg': 0.0, 'neu': 0.902, 'pos': 0.098, 'compound': 0.3612}"
+53,2021-01-19 23:59:57+00:00,"RT Our COVID-19 vaccination hotline and website are fielding thousands of calls and users, and experiencing technical difficul...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+54,2021-01-19 23:59:57+00:00,"RT There are more than 200,000 children sick with COVID right now in America. 
+
+You can send your thanks to Trump, Fox and th...","{'neg': 0.117, 'neu': 0.78, 'pos': 0.103, 'compound': -0.1027}"
+55,2021-01-19 23:59:57+00:00,"RT ""Why do we need to wear a mask?""
+Because this:","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+56,2021-01-19 23:59:57+00:00,"RT An independent panel criticized #Beijing and the over their delayed response to the #COVID19 outbreak.
+
+Leaked do...","{'neg': 0.309, 'neu': 0.691, 'pos': 0.0, 'compound': -0.6908}"
+57,2021-01-19 23:59:57+00:00,RT Happy #TipTuesday Wildcats! Stay informed with all University of Arizona covid-19 information at,"{'neg': 0.0, 'neu': 0.765, 'pos': 0.235, 'compound': 0.6114}"
+58,2021-01-19 23:59:57+00:00,"Moots, i just wanna say that i am so busy these days, preparing for my finalI have no time to scroll this blue bird apps. So, i might less interact with you guys  I wish the best for all of u during this pandemic, drink a plenty of plain water and stay safe! Love yall! ","{'neg': 0.033, 'neu': 0.749, 'pos': 0.218, 'compound': 0.9244}"
+59,2021-01-19 23:59:57+00:00,"A vaccine task force member?! Ffs what is with these ""leaders"" that think the rules don't apply to them. Especially ones involved with a pandemic response. Just waiting to hear that some of them have COVID.","{'neg': 0.105, 'neu': 0.895, 'pos': 0.0, 'compound': -0.6239}"
+60,2021-01-19 23:59:57+00:00,"RT Join us for a national moment of unity and remembrance in honor of the 400,000 Americans we've lost due to COVID-19.","{'neg': 0.086, 'neu': 0.712, 'pos': 0.202, 'compound': 0.4767}"
+61,2021-01-19 23:59:57+00:00,"&gt; Rate of positive COVID-19 tests stays high as Utah reports seven more deaths Tuesday
+By Scott D. Pierce for The Salt Lake Tribune in Salt Lake City, Utah","{'neg': 0.0, 'neu': 0.886, 'pos': 0.114, 'compound': 0.5574}"
+62,2021-01-19 23:59:57+00:00,I agree. You can help model good public health practices by upgrading the cloth mask you are wearing to the disposable surgical mask in your hand. It will provide much better protection for the people you meet with and protect you from getting COVID.,"{'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.9413}"
+63,2021-01-19 23:59:57+00:00,"RT Fox News refuses to cover COVID remembrance ceremony as the nation mourns 400,000 lives lost","{'neg': 0.289, 'neu': 0.711, 'pos': 0.0, 'compound': -0.6908}"
+64,2021-01-19 23:59:57+00:00,"RT Biden's transition team ""found a culture of coronavirus skepticism within Donald Trump's federal government as they prepa...","{'neg': 0.105, 'neu': 0.895, 'pos': 0.0, 'compound': -0.25}"
+65,2021-01-19 23:59:57+00:00,"My parents literally only buy vinegar in gallon containers like that lol, they've done this for years before the pandemic too","{'neg': 0.0, 'neu': 0.782, 'pos': 0.218, 'compound': 0.6486}"
+66,2021-01-19 23:59:57+00:00,"RT I have given up my part time job despite needing the $$, simply because it's not worth the risk to serve people too stupid...","{'neg': 0.175, 'neu': 0.762, 'pos': 0.063, 'compound': -0.5027}"
+67,2021-01-19 23:59:58+00:00,"RT The funeral bells of the National Cathedral have started ringing. They'll toll 400 times, each representing 1,000 victims of...","{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.5859}"
+68,2021-01-19 23:59:58+00:00,so excited to meet my best friends this coming friday it's been fucking year since we saw each other because of this pandemic wuhuhu,"{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.8748}"
+69,2021-01-19 23:59:58+00:00,"RT 400,000 Americans have died of COVID-19.
+
+That's more than World War I, the Korean War, the Vietnam War, September 11th, t...","{'neg': 0.464, 'neu': 0.536, 'pos': 0.0, 'compound': -0.9482}"
+70,2021-01-19 23:59:58+00:00,RT A power structure dedicated to denial at every step had something to do with this too,"{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.4588}"
+71,2021-01-19 23:59:58+00:00,RT Brian Williams on makes a powerful case for making these lights along the reflecting pool a permanent memorial to the h...,"{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.4215}"
+72,2021-01-19 23:59:58+00:00,"RT This lockdown is actually crazy, feels like there's no return","{'neg': 0.305, 'neu': 0.53, 'pos': 0.166, 'compound': -0.2732}"
+73,2021-01-19 23:59:58+00:00,"RT From my window, I'm hearing the Washington National Cathedral funeral bell, which has begun to toll 400 times--once for e...","{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.3612}"
+74,2021-01-19 23:59:58+00:00,Trump did not cause nor spread the China virus. One day people will know where it really came from.  Trump went into full fight mode and did everything possible to provide supplies and vaccine but you snowflakes just want to whine.  You will be whining for sure in a few months.,"{'neg': 0.128, 'neu': 0.796, 'pos': 0.076, 'compound': -0.4588}"
+75,2021-01-19 23:59:58+00:00,RT Foxnews thinks all the dead were Democrats,"{'neg': 0.381, 'neu': 0.619, 'pos': 0.0, 'compound': -0.6486}"
+76,2021-01-19 23:59:58+00:00,"RT Biden at covid memorial light display: ""To heal we must remember. And it's hard sometimes to remember. But that's how we heal.""...","{'neg': 0.052, 'neu': 0.948, 'pos': 0.0, 'compound': -0.0516}"
+77,2021-01-19 23:59:58+00:00,We must make a permanent memorial,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+78,2021-01-19 23:59:58+00:00,RT All COVID-related adjustments to work rules in the 2020 offseason were collectively bargained between the NFL and NFLPA a...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+79,2021-01-19 23:59:58+00:00,"RT We can afford this extravagance during a pandemic, but, by all means, let's skimp on $600 for people struggling i...","{'neg': 0.156, 'neu': 0.844, 'pos': 0.0, 'compound': -0.5719}"
+80,2021-01-19 23:59:58+00:00,What do you mean? All additional COVID rules already extend into the 2021 season.,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.1779}"
+81,2021-01-19 23:59:58+00:00,RT All in the name of political correctness. Welcome to the wonderful world of liberals 2021,"{'neg': 0.0, 'neu': 0.676, 'pos': 0.324, 'compound': 0.7717}"
+82,2021-01-19 23:59:58+00:00,"RT January 21, 2020: First US case of COVID-19 detected
+
+January 19, 2021: 400,000 Americans dead from COVID-19","{'neg': 0.202, 'neu': 0.798, 'pos': 0.0, 'compound': -0.6486}"
+83,2021-01-19 23:59:58+00:00,RT Where is our memorial UK for those of who have tragically died of Covid? Where is the moral decency from this Govt and Boris...,"{'neg': 0.241, 'neu': 0.759, 'pos': 0.0, 'compound': -0.8074}"
+84,2021-01-19 23:59:58+00:00,"RT On May 24, 2020, ran the names and biographical details for 1,000 people who had died of COVID. It filled the front...","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.5574}"
+85,2021-01-19 23:59:58+00:00,"RT There are 400 lights illuminating the Lincoln Memorial Reflecting Pool in tribute to the more than 400,000 people who have died fr...","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.5574}"
+86,2021-01-19 23:59:58+00:00,"RT Levin's own mother was pulled out of a nursing home as covid patients were sent in. This person should be in prison, not...","{'neg': 0.125, 'neu': 0.875, 'pos': 0.0, 'compound': -0.5106}"
+87,2021-01-19 23:59:59+00:00,"The playoff, it's like we forgot playoff p. Though Pandemic P was horrid","{'neg': 0.206, 'neu': 0.647, 'pos': 0.147, 'compound': -0.25}"
+88,2021-01-19 23:59:59+00:00,RT This is the most North Korean thing I've ever seen in this country.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+89,2021-01-19 23:59:59+00:00,"In honor of 400,000+ American  lives lost to the COVID-19 Pandemic...     ","{'neg': 0.159, 'neu': 0.621, 'pos': 0.221, 'compound': 0.2263}"
+90,2021-01-19 23:59:59+00:00,RT Anybody who worked (IN PERSON) throughout the pandemic needs to be making at least $25/ hour,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+91,2021-01-19 23:59:59+00:00,RT How to schedule an appointment to get the COVID-19 vaccine in Maine,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+92,2021-01-19 23:59:59+00:00,RT New episodes of 'This Is Us' delayed amid COVID-19 surge in Los Angeles,"{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}"
+93,2021-01-19 23:59:59+00:00,"RT The incoming CDC director, Rochelle Walensky, tells that the CDC will hold regular press briefings and ann...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+94,2021-01-19 23:59:59+00:00,"RT Just remarkable how overdue, and how simple, it is for a leader to orchestrate a moment of national mourning. And how catha...","{'neg': 0.105, 'neu': 0.764, 'pos': 0.131, 'compound': 0.1779}"
+95,2021-01-19 23:59:59+00:00,Most business leaders looking at opportunity post COVID and prepare business plans to get ready. It's not late to build business plans for 2021.   #encompassbt #ITConsulting #ITStrategy #ITProcess #ITServices #Revenue #Risks #leadership,"{'neg': 0.058, 'neu': 0.797, 'pos': 0.146, 'compound': 0.4939}"
+96,2021-01-19 23:59:59+00:00,Most business leaders looking at opportunity post COVID and prepare business plans to get ready. It's not late to build business plans for 2021.   #encompassbt #ITConsulting #ITStrategy #ITProcess #ITServices #Revenue #Risks #leadership,"{'neg': 0.058, 'neu': 0.797, 'pos': 0.146, 'compound': 0.4939}"
+97,2021-01-19 23:59:59+00:00,RT And this is why you must remain humble,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+98,2021-01-19 23:59:59+00:00,"RT For children and young, the impact of #COVID19 has been severe, with long periods of #schoolclosures, disengagement, #isola...","{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.3818}"
+99,2021-01-19 23:59:59+00:00,"But even here the 'bloke on Twitter' and 'anti-vaxxers' are sneered at and mocked. Left gatekeepers like Brendan O'Neill only just joined this party, and already they're sorting the acceptable lockdown skeptics from those they'd rather not be associated with. Like, fuck you dude.","{'neg': 0.155, 'neu': 0.617, 'pos': 0.228, 'compound': 0.6528}"
+100,2021-01-19 23:59:59+00:00,Bro these old niggas at my job tha reason mfs still catching covid....these mfs don't wash they hands &amp; go straight to tha breakroomprolly touching tha microwaves &amp; shit,"{'neg': 0.177, 'neu': 0.767, 'pos': 0.056, 'compound': -0.6249}"
+101,2021-01-19 23:59:59+00:00,Everything about the Trump-COVID saga was bizarre,"{'neg': 0.277, 'neu': 0.723, 'pos': 0.0, 'compound': -0.3182}"
+102,2021-01-19 23:59:59+00:00,things are not ok.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+103,2021-01-19 23:59:59+00:00,"RT I'm watching Biden and Kamala at the Lincoln memorial for an evening of prayer for the 400,000 victims of COVID.
+
+I'm so r...","{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.3182}"
+104,2021-01-19 23:59:59+00:00,"The damage ur deranged father did to the U.S. will take generations to recover from &amp; if his admin had any moral leadership &amp; competence, at least half of the 400K Covid dead wld be alive today &amp; economy not in ruins. All of U did MUCH more damage than good. Go AWAY.","{'neg': 0.166, 'neu': 0.71, 'pos': 0.123, 'compound': -0.5891}"
+105,2021-01-19 23:59:59+00:00,RT It is so jarring to see the memorial images from DC tonight and feel the pandemic being treated with sobriety and grief....,"{'neg': 0.127, 'neu': 0.873, 'pos': 0.0, 'compound': -0.4939}"
+106,2021-01-20 00:00:00+00:00,"RT Our News team has the latest on the coronavirus pandemic after the confirmed death toll in the U.S. surpasses 400,000. Plus,...","{'neg': 0.157, 'neu': 0.843, 'pos': 0.0, 'compound': -0.5994}"
+107,2021-01-20 00:00:00+00:00,"RT UPDATE:  The Lexington VA Health Care System vaccinated more than 4,000 veterans 50 years old and older during its three-day...","{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.4939}"
+108,2021-01-20 00:00:00+00:00,RT The fact that Joe Biden is even considering opening our southern border to a group of unvetted migrants in a massive car...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+109,2021-01-20 00:00:00+00:00,RT Public health authorities in Calif are seeking a halt on one lot of Moderna's COVID19 vax after reports of allergic react...,"{'neg': 0.095, 'neu': 0.905, 'pos': 0.0, 'compound': -0.296}"
+110,2021-01-20 00:00:00+00:00,"RT The funeral bells of the National Cathedral have started ringing. They'll toll 400 times, each representing 1,000 victims of...","{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.5859}"
+111,2021-01-20 00:00:00+00:00,RT We are coming together for a national moment of unity and remembrance to honor the lives lost to COVID-19. Join us now for the...,"{'neg': 0.077, 'neu': 0.741, 'pos': 0.182, 'compound': 0.4767}"
+112,2021-01-20 00:00:00+00:00,"RT Such sad news. Hajj Ghassan Younes, the man who fed the cats at the Al Aqsa compound, passed away today due to covid-19....","{'neg': 0.119, 'neu': 0.881, 'pos': 0.0, 'compound': -0.4767}"
+113,2021-01-20 00:00:00+00:00,Covid: EU gives initial backing to 'vaccine passports' via,"{'neg': 0.0, 'neu': 0.879, 'pos': 0.121, 'compound': 0.0258}"
+114,2021-01-20 00:00:00+00:00,Idk why they're still holding the inauguration. We're at the worst period of the pandemic. He was voted in based on people's distaste of Trump. And Biden's agenda is already bought off by corporate interests (healthcare). No one is excited for this,"{'neg': 0.157, 'neu': 0.754, 'pos': 0.09, 'compound': -0.5106}"
+115,2021-01-20 00:00:00+00:00,"RT January 21, 2020: First US case of COVID-19 detected
+
+January 19, 2021: 400,000 Americans dead from COVID-19","{'neg': 0.202, 'neu': 0.798, 'pos': 0.0, 'compound': -0.6486}"
+116,2021-01-20 00:00:00+00:00,colleges thinking they cured covid by cancelling spring break ,"{'neg': 0.184, 'neu': 0.816, 'pos': 0.0, 'compound': -0.2023}"
+117,2021-01-20 00:00:00+00:00,"In the Wake of COVID-19, How Can the Hotel Industry Rebuild Trust With Their Customers? - #hoteltrends #traveltrends","{'neg': 0.0, 'neu': 0.837, 'pos': 0.163, 'compound': 0.5106}"
+118,2021-01-20 00:00:00+00:00,"Cases of COVID-19 are rising rapidly across the whole county and the NHS is under extreme pressure. We must all ACT NOW. Let's stand together, by standing apart. For more information, please visit: #NorthantsTogether","{'neg': 0.067, 'neu': 0.863, 'pos': 0.07, 'compound': 0.022}"
+119,2021-01-20 00:00:00+00:00,"TikToker Makes 12-Foot Social Distancing Dress    
+
+WATCH:","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+120,2021-01-20 00:00:00+00:00,"President-elect Joe Biden and Vice President-elect Kamala Harris attended a memorial service honoring the 400,000 Americans who have died of COVID-19.","{'neg': 0.139, 'neu': 0.734, 'pos': 0.127, 'compound': -0.0772}"
+121,2021-01-20 00:00:00+00:00,Resurgence in #COVID19 cases slows oil demand rebound: IEA,"{'neg': 0.158, 'neu': 0.842, 'pos': 0.0, 'compound': -0.128}"
+122,2021-01-20 00:00:00+00:00,"At a time when so many Americans are grieving the loss of family, friends, and neighbors, it is important that we honor those we lost to COVID-19. To help show support, the Indian River Life Saving Station is lit tonight for a national moment of unity and remembrance.","{'neg': 0.129, 'neu': 0.651, 'pos': 0.22, 'compound': 0.6808}"
+123,2021-01-20 00:00:00+00:00,"The Idaho Senate republicans advanced a bill to end COVID-19 emergency orders and rebalance power between the state's executive and legislative branches. 
+
+https://t.co/4Y6s5QxGxD","{'neg': 0.102, 'neu': 0.82, 'pos': 0.078, 'compound': -0.1531}"
+124,2021-01-20 00:00:00+00:00,"Cleveland's which just re-opened after a two-month closure, is rethinking its programming as COVID prevents hands-on experiences.","{'neg': 0.0, 'neu': 0.925, 'pos': 0.075, 'compound': 0.0772}"
+125,2021-01-20 00:00:00+00:00,"Is It Lawful and Ethical to Prioritize Racial Minorities for COVID-19 Vaccines? Let's discuss tomorrow on Advocacy Wednesday at 6pm EST! 
+
+#AMWAAdvocacyChat 
+
+Link to article:","{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.5562}"
+126,2021-01-20 00:00:00+00:00,"Thank you. I read it.
+I also read the plan it links to, which, as I said, is the Covid relief plan. Did you?
+
+Not sure why anyone would want to tie up Covid relief for millions of people while Congress fights for months (or years) over healthcare reform, but whatever.","{'neg': 0.06, 'neu': 0.813, 'pos': 0.127, 'compound': 0.3958}"
+127,2021-01-20 00:00:00+00:00,A northern Kentucky couple celebrated their 73rd wedding anniversary by getting their first #coronavirus #vaccine shot.,"{'neg': 0.0, 'neu': 0.802, 'pos': 0.198, 'compound': 0.5719}"
+128,2021-01-20 00:00:00+00:00,"""I'd have more confidence if the government plainsplained their policies"" - 
+
+Experts weigh in on Ontario's COVID-19 communications -- by #onpoli #onhealth","{'neg': 0.0, 'neu': 0.854, 'pos': 0.146, 'compound': 0.5563}"
+129,2021-01-20 00:00:00+00:00,"This is what compassion looks like!!! Evangelicals openly cheered for a man who denied the pandemic and 400,000 deaths later they still haven't learned!!!","{'neg': 0.088, 'neu': 0.608, 'pos': 0.303, 'compound': 0.7946}"
+130,2021-01-20 00:00:00+00:00,RT Part of why Biden's memorial to COVID victims is so poignant is because it's horrifying that we literally had to elect a new p...,"{'neg': 0.207, 'neu': 0.793, 'pos': 0.0, 'compound': -0.7184}"
+131,2021-01-20 00:00:00+00:00,"Robbie Williams quarantining in St Barts with family after singer 'contracted Covid'
+https://t.co/HtcAGxgHab","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+132,2021-01-20 00:00:00+00:00,"RT ""These are the faces of Covid. These are the faces of lives well lived.""","{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.2732}"
+133,2021-01-20 00:00:00+00:00,Pet ownership in Japan on the rise amid pandemic,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+134,2021-01-20 00:00:00+00:00,"&gt; When can I get my COVID-19 vaccine in Southern California? The rollout is speeding up
+By Alex Wigglesworth, Rosanna Xia, Colleen Shalby, Kristen Taketa for Los Angeles Times in Greater Los Angeles, California","{'neg': 0.0, 'neu': 0.93, 'pos': 0.07, 'compound': 0.3612}"
+135,2021-01-20 00:00:00+00:00,"RT It is so appropriate that Joe Biden and Kamala Harris would have a ceremony to honor the Americans lost to COVID-19.
+
+That'...","{'neg': 0.087, 'neu': 0.792, 'pos': 0.121, 'compound': 0.2263}"
+136,2021-01-20 00:00:01+00:00,"Today we asked Homeland Security nominee Alejandro Mayorkas how he plans to help secure Arizona's border, control cross-border spread of COVID-19, and improve cybersecurity.","{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.8555}"
+137,2021-01-20 00:00:01+00:00,"Don't miss tomorrow's #COVID19 update at noon.   
+
+Watch live on","{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.1139}"
+138,2021-01-20 00:00:01+00:00,"The Boone County Ambulance Authority says retired lieutenant and paramedic Richard Smith has passed away from a COVID-19-related illness.
+https://t.co/Kka1C1OnzI","{'neg': 0.123, 'neu': 0.818, 'pos': 0.059, 'compound': -0.34}"
+139,2021-01-20 00:00:01+00:00,"Together, we remember and honor the lives lost to COVID-19.  
+
+ Daniel Swartz","{'neg': 0.148, 'neu': 0.645, 'pos': 0.206, 'compound': 0.2263}"
+140,2021-01-20 00:00:01+00:00,"RT Invocation by Cardinal Wilton Gregory during lighting ceremony at COVID-19 memorial in Washington, D.C.: ""Our sorrow unites us to...","{'neg': 0.152, 'neu': 0.848, 'pos': 0.0, 'compound': -0.5267}"
+141,2021-01-20 00:00:01+00:00,"RT Had a great discussion with about the need for rapid antigen tests.
+
+We aren't where we nee...","{'neg': 0.0, 'neu': 0.806, 'pos': 0.194, 'compound': 0.6249}"
+142,2021-01-20 00:00:01+00:00,"RT On May 24, 2020, ran the names and biographical details for 1,000 people who had died of COVID. It filled the front...","{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.5574}"
+143,2021-01-20 00:00:01+00:00,RT If we held 1-second of silence for every COVID-19 death in the US we would be silent for 4.63 days.,"{'neg': 0.163, 'neu': 0.837, 'pos': 0.0, 'compound': -0.5994}"
+144,2021-01-20 00:00:01+00:00,Today is day 16 dealing with COVID. No improvement but not worse. We both my have some lung damage. They're running test for her tomorrow. So could my friends and anyone reading this please retweet my gofundme page. We could really using the help now.,"{'neg': 0.1, 'neu': 0.647, 'pos': 0.253, 'compound': 0.8812}"
+145,2021-01-20 00:00:01+00:00,"RT does the impending gravity of the fact that COVID has been completely and normatively altering the world for the past YEAR, a...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"

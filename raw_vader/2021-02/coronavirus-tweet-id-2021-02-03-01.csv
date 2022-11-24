@@ -1,0 +1,265 @@
+,created_at,full_text,sentiment_score
+0,2021-02-03 00:59:54+00:00,"RT Americans are dying of Covid19 and the government doesn't have enough money to test people, distribute vaccines or pay for...","{'neg': 0.065, 'neu': 0.935, 'pos': 0.0, 'compound': -0.1027}"
+1,2021-02-03 00:59:54+00:00,"RT Today at the WH:
+ New COVID vaccine distribution via pharmacies
+ First LGBTQ Cab Sec confirmed
+ American Rescue Plan - clear...","{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.7096}"
+2,2021-02-03 00:59:54+00:00,"RT Today at the WH:
+ New COVID vaccine distribution via pharmacies
+ First LGBTQ Cab Sec confirmed
+ American Rescue Plan - clear...","{'neg': 0.0, 'neu': 0.763, 'pos': 0.237, 'compound': 0.7096}"
+3,2021-02-03 00:59:54+00:00,Dude. Wear a fucking mask or jump off the roof.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+4,2021-02-03 00:59:55+00:00,"RT Just to level set here, NO REPUBLICANS voted for Covid stimulus bill. They will give billionaires a $2T t...","{'neg': 0.134, 'neu': 0.866, 'pos': 0.0, 'compound': -0.4466}"
+5,2021-02-03 00:59:55+00:00,"RT Long Beach required a $4/hour increase for large grocers, and closed its two Long Beach stores
+
+Seattle required a $...","{'neg': 0.0, 'neu': 0.897, 'pos': 0.103, 'compound': 0.3182}"
+6,2021-02-03 00:59:55+00:00,RT Capitalism is when a vaccine to a deadly pandemic exists but we can't create or distribute enough of it because two pharm...,"{'neg': 0.092, 'neu': 0.908, 'pos': 0.0, 'compound': -0.3007}"
+7,2021-02-03 00:59:55+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+8,2021-02-03 00:59:55+00:00,"RT Govt extends all due dates for issuing notices, completion of assessments/regulatory proceedings and passing of orders c...","{'neg': 0.0, 'neu': 0.919, 'pos': 0.081, 'compound': 0.128}"
+9,2021-02-03 00:59:55+00:00,RT Jeff Bezos will step down as CEO of Amazon and transition to exec. board chair later this year. He made $90 billion last year d...,"{'neg': 0.0, 'neu': 0.936, 'pos': 0.064, 'compound': 0.1779}"
+10,2021-02-03 00:59:55+00:00,RT No Republicans voted to move the COVID relief resolution forward using reconciliation to help struggling Americans. Not on...,"{'neg': 0.194, 'neu': 0.581, 'pos': 0.225, 'compound': 0.2023}"
+11,2021-02-03 00:59:55+00:00,RT #HighRiskCA I'm beyond scared and frustrated at new plan to base vaccination solely on age. People with high risk...,"{'neg': 0.331, 'neu': 0.669, 'pos': 0.0, 'compound': -0.8126}"
+12,2021-02-03 00:59:55+00:00,The Chinese Rodent that is Ground Zero for COVID.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+13,2021-02-03 00:59:55+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+14,2021-02-03 00:59:55+00:00,And yet you're forcing your own citizens into Covid camps.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+15,2021-02-03 00:59:55+00:00,"RT A Covid test nurse asked if I've had a sudden loss of taste.  I told her, ""No, I've dressed like this for quite a while.""","{'neg': 0.08, 'neu': 0.833, 'pos': 0.087, 'compound': 0.0516}"
+16,2021-02-03 00:59:55+00:00,"RT Japan plans to extend its state of emergency in Tokyo, Osaka and eight other prefectures as the country continues to battle rising...","{'neg': 0.193, 'neu': 0.743, 'pos': 0.063, 'compound': -0.5423}"
+17,2021-02-03 00:59:55+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+18,2021-02-03 00:59:55+00:00,Fuck those Republicans,"{'neg': 0.636, 'neu': 0.364, 'pos': 0.0, 'compound': -0.5423}"
+19,2021-02-03 00:59:55+00:00,"RT 3,486 people died of COVID in the United States in the last 24 hours.","{'neg': 0.186, 'neu': 0.67, 'pos': 0.144, 'compound': -0.2023}"
+20,2021-02-03 00:59:55+00:00,"RT In April 2020, Captain Sir Tom Moore wanted to raise PS1,000 for charity by his 100th birthday by doing laps in his yard with hi...","{'neg': 0.0, 'neu': 0.899, 'pos': 0.101, 'compound': 0.4215}"
+21,2021-02-03 00:59:55+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+22,2021-02-03 00:59:55+00:00,"RT For me, it was the fact that entities like the New York subway system were boasting about cleaning trains, platforms, an...","{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.3612}"
+23,2021-02-03 00:59:55+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+24,2021-02-03 00:59:55+00:00,RT life pre covid was so unsanitary if you actually think about it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+25,2021-02-03 00:59:56+00:00,And Justice for all...,"{'neg': 0.0, 'neu': 0.469, 'pos': 0.531, 'compound': 0.5267}"
+26,2021-02-03 00:59:56+00:00,"RT California Identifies Over 1,000 Cases Of ""West Coast"" Covid-19 Variants, Health Officials Reveal","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+27,2021-02-03 00:59:56+00:00,Is a pandemic the time for an MBA? via,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+28,2021-02-03 00:59:56+00:00,"RT No Republicans. Zero. Y'all really be voting for folks that don't give a f*ck about you and could care less if you go broke,...","{'neg': 0.166, 'neu': 0.728, 'pos': 0.106, 'compound': -0.2023}"
+29,2021-02-03 00:59:56+00:00,what's up with this? ,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+30,2021-02-03 00:59:56+00:00,"RT Black Americans make up only 5.4% of Covid-19 vaccine recipients, CDC finds || Via Guardian","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+31,2021-02-03 00:59:56+00:00,RT Going after business owners for COVID paperwork. The Ford govt seems hopelessly out of touch with small business.,"{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.4939}"
+32,2021-02-03 00:59:56+00:00,RT life pre covid was so unsanitary if you actually think about it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+33,2021-02-03 00:59:56+00:00,RT Democrat-led Senate approves budget process for passage of $1.9T COVID-19 stimulus without GOP votes | Just The News h...,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4019}"
+34,2021-02-03 00:59:56+00:00,RT No Republicans voted for the COVID 19 Relief... resolution....  No Senate Republicans put Country First.. we can count...,"{'neg': 0.187, 'neu': 0.681, 'pos': 0.132, 'compound': -0.0772}"
+35,2021-02-03 00:59:56+00:00,"""It's Velveeta shells &amp; cheese vs. the other guys!""
+
+NO, COMMERCIAL. ""THE OTHER GUYS"" ARE JUST REAL SHREDDED CHEESE THAT YOU'RE NOT COOKING PROPERLY. YOU DON'T THROW SHREDS ON DRY PASTA AND HOPE IT MELTS. WHERE THE HELL IS YOUR BECHAMEL?
+
+(Lockdown is going great still)","{'neg': 0.095, 'neu': 0.763, 'pos': 0.142, 'compound': 0.4003}"
+36,2021-02-03 00:59:56+00:00,"RT Looks like Manchin is on board with reconciliation, so Democrats appear to have the votes to move Biden's COVID relief bill th...","{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.6808}"
+37,2021-02-03 00:59:56+00:00,RT I will never forgive covid for stealing one of my hot years,"{'neg': 0.334, 'neu': 0.666, 'pos': 0.0, 'compound': -0.672}"
+38,2021-02-03 00:59:56+00:00,"RT The flags above Downing Street have been lowered to half mast to honour Captain Sir Tom Moore, who has died after testing positive...","{'neg': 0.157, 'neu': 0.617, 'pos': 0.225, 'compound': 0.4939}"
+39,2021-02-03 00:59:56+00:00,RT Capitalism is when a vaccine to a deadly pandemic exists but we can't create or distribute enough of it because two pharm...,"{'neg': 0.092, 'neu': 0.908, 'pos': 0.0, 'compound': -0.3007}"
+40,2021-02-03 00:59:56+00:00,"RT Jared Kushner being nominated for the Nobel peace prize disgraces the institution. What a joke. He tried to let the ""b...","{'neg': 0.0, 'neu': 0.679, 'pos': 0.321, 'compound': 0.8402}"
+41,2021-02-03 00:59:56+00:00,RT I miss life before COVID ,"{'neg': 0.242, 'neu': 0.758, 'pos': 0.0, 'compound': -0.1531}"
+42,2021-02-03 00:59:56+00:00,RT The Liberals are using COVID as cover to do what they always wanted to do: cut wages and make it easier to sack people.,"{'neg': 0.075, 'neu': 0.824, 'pos': 0.1, 'compound': 0.1779}"
+43,2021-02-03 00:59:56+00:00,RT How is it that Ontario has administered more than 344K #COVID19 vaccine doses and not all of the 70K+ LTC residents have...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+44,2021-02-03 00:59:56+00:00,"And if you really wanna fuck some shorts, BUY the shit out of IPIX,   small biotech outta Massachusetts that may be the best potential therapeutic for Covid and damn near everything else.  Human trials to start this week.","{'neg': 0.133, 'neu': 0.698, 'pos': 0.168, 'compound': 0.4062}"
+45,2021-02-03 00:59:56+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+46,2021-02-03 00:59:56+00:00,RT Especially when there are treatments/prophylaxis,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+47,2021-02-03 00:59:56+00:00,"RT Tell me, Where did the bad Governor hurt you?","{'neg': 0.463, 'neu': 0.537, 'pos': 0.0, 'compound': -0.7845}"
+48,2021-02-03 00:59:56+00:00,"RT Jeff Bezos wants to give back, you say? How about Congress uses his $69,000,000,000 in pandemic profits to help pay for Covid...","{'neg': 0.052, 'neu': 0.741, 'pos': 0.207, 'compound': 0.6369}"
+49,2021-02-03 00:59:56+00:00,No your tax cut and lack of a national pandemic plan did harm to the American economy already. Can't fuck it up much more now,"{'neg': 0.307, 'neu': 0.607, 'pos': 0.086, 'compound': -0.7391}"
+50,2021-02-03 00:59:57+00:00,RT No Republicans voted to move the COVID relief resolution forward using reconciliation to help struggling Americans. Not on...,"{'neg': 0.194, 'neu': 0.581, 'pos': 0.225, 'compound': 0.2023}"
+51,2021-02-03 00:59:57+00:00,"RT Long Beach required a $4/hour increase for large grocers, and closed its two Long Beach stores
+
+Seattle required a $...","{'neg': 0.0, 'neu': 0.897, 'pos': 0.103, 'compound': 0.3182}"
+52,2021-02-03 00:59:57+00:00,i think about this way too much,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+53,2021-02-03 00:59:57+00:00,RT First Nations are exerting more control over their borders. Health care could be next. | CBC News #covi...,"{'neg': 0.0, 'neu': 0.849, 'pos': 0.151, 'compound': 0.4939}"
+54,2021-02-03 00:59:57+00:00,"RT No Republicans voted for the Covid stimulus package.  
+
+Can we stop the nonsense that they care for the average man an...","{'neg': 0.251, 'neu': 0.636, 'pos': 0.113, 'compound': -0.4404}"
+55,2021-02-03 00:59:57+00:00,"I was hoping it would be enough to say that it could have been a lab leak of a collected and possibly enhanced virus, it's very difficult to investigate, and the pandemic shows the great danger of such research.","{'neg': 0.174, 'neu': 0.687, 'pos': 0.139, 'compound': -0.1761}"
+56,2021-02-03 00:59:57+00:00,RT life pre covid was so unsanitary if you actually think about it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+57,2021-02-03 00:59:57+00:00,RT I miss life before COVID ,"{'neg': 0.242, 'neu': 0.758, 'pos': 0.0, 'compound': -0.1531}"
+58,2021-02-03 00:59:57+00:00,"I feel so sad him like so many had his life cruelly limited when there was so little time left, especially when according to this article he was so much against lockdown &amp; the harms it caused, even at his age, freedom &amp; memories were more important. Rip ","{'neg': 0.205, 'neu': 0.651, 'pos': 0.144, 'compound': -0.5906}"
+59,2021-02-03 00:59:57+00:00,"It was all the rage in Nashville b4 covid.
+I'm pretty sure the goats don't mind the time off.
+LOL","{'neg': 0.126, 'neu': 0.559, 'pos': 0.315, 'compound': 0.6633}"
+60,2021-02-03 00:59:57+00:00,"COVID please gtfo  I want my life back bruh. I fucking hate you, go tf awayyyyyy!!!!! This is where I snap.","{'neg': 0.193, 'neu': 0.673, 'pos': 0.135, 'compound': -0.5516}"
+61,2021-02-03 00:59:57+00:00,Just had to cancel a 4th planned trip to Japan because of COVID ,"{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.25}"
+62,2021-02-03 00:59:57+00:00,"RT Long Beach required a $4/hour increase for large grocers, and closed its two Long Beach stores
+
+Seattle required a $...","{'neg': 0.0, 'neu': 0.897, 'pos': 0.103, 'compound': 0.3182}"
+63,2021-02-03 00:59:57+00:00,"RT there's a difference between ""stay inside for 2 months because of an unprecedented biological pandemic"" and ""stay inside for...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+64,2021-02-03 00:59:57+00:00,"RT Americans are dying of Covid19 and the government doesn't have enough money to test people, distribute vaccines or pay for...","{'neg': 0.065, 'neu': 0.935, 'pos': 0.0, 'compound': -0.1027}"
+65,2021-02-03 00:59:58+00:00,RT No Republicans voted for the COVID 19 Relief... resolution....  No Senate Republicans put Country First.. we can count...,"{'neg': 0.187, 'neu': 0.681, 'pos': 0.132, 'compound': -0.0772}"
+66,2021-02-03 00:59:58+00:00,RT life pre covid was so unsanitary if you actually think about it.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+67,2021-02-03 00:59:58+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+68,2021-02-03 00:59:58+00:00,"RT ""the most devastating consequence of the Lockdown is the impact on Ontario's children and their mental health"".
+
+This morn...","{'neg': 0.195, 'neu': 0.805, 'pos': 0.0, 'compound': -0.6801}"
+69,2021-02-03 00:59:58+00:00,"RT St. Johns County received 3,900 doses of the Pfizer COVID-19 vaccine this week from the state, county officials said.
+","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+70,2021-02-03 00:59:58+00:00,"RT PSA: For those with a history of breast cancer, please consider getting your COVID vaccine on the side opposite of your tr...","{'neg': 0.159, 'neu': 0.758, 'pos': 0.083, 'compound': -0.4767}"
+71,2021-02-03 00:59:58+00:00,RT No Republicans voted to move the COVID relief resolution forward using reconciliation to help struggling Americans. Not on...,"{'neg': 0.194, 'neu': 0.581, 'pos': 0.225, 'compound': 0.2023}"
+72,2021-02-03 00:59:58+00:00,"The Phase 3 Russian Covid-19 vaccine trial results with a double dose. With more vaccines like this soon to be available (subject to approval) on the global market, increased competition is likely to substantially benefit LMICs where cost and logistics are a barrier to access.","{'neg': 0.028, 'neu': 0.758, 'pos': 0.214, 'compound': 0.868}"
+73,2021-02-03 00:59:58+00:00,RT No Republicans voted to move the COVID relief resolution forward using reconciliation to help struggling Americans. Not on...,"{'neg': 0.194, 'neu': 0.581, 'pos': 0.225, 'compound': 0.2023}"
+74,2021-02-03 00:59:58+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+75,2021-02-03 00:59:58+00:00,"#639
+At least the schools &amp; businesses are starting 2 slowly reopen already in the Biden admin.
+
+Corona will now soon go away.
+
+Of all EO's to sign, Pres.Biden just gave Chyna access to US power grids,maybe necessary.Notime2waste.
+
+#GAMESTONK
+
+https://t.co/B1m0SWrNDR
+#639#","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+76,2021-02-03 00:59:58+00:00,RT Nice validation that one dose strongly boosts spike in previously infected individuals. Would have expected and great to hav...,"{'neg': 0.108, 'neu': 0.508, 'pos': 0.383, 'compound': 0.7964}"
+77,2021-02-03 00:59:58+00:00,RT Seems simple to me: Republicans passed tax cuts for the rich by 51 votes with no Democrats.  Democrats can pass covid rel...,"{'neg': 0.157, 'neu': 0.714, 'pos': 0.129, 'compound': 0.0516}"
+78,2021-02-03 00:59:58+00:00,"RT U.K. COVID-19 variant cases in Simcoe County, Ont., climbs to 51, plus 94 possible cases","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+79,2021-02-03 00:59:58+00:00,RT NO. REPUBLICANS. VOTED. TO. HELP. THE. PEOPLE.,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}"
+80,2021-02-03 00:59:58+00:00,What would a malignant narcissist do during a pandemic?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+81,2021-02-03 00:59:58+00:00,"RT let's prioritize kids. If ""pressures"" forced openings especially when connected to people of influence. It's time to...","{'neg': 0.249, 'neu': 0.751, 'pos': 0.0, 'compound': -0.6486}"
+82,2021-02-03 00:59:58+00:00,Leave it to a soc dem to say something so dumb,"{'neg': 0.377, 'neu': 0.623, 'pos': 0.0, 'compound': -0.6642}"
+83,2021-02-03 00:59:58+00:00,Dman Clippers was on lockdown mode that sequence,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+84,2021-02-03 00:59:58+00:00,"RT Traffic Alert
+Obstruction in traffic in the carriageway from Dhaula Kuan  to Mayapuri due to an accident of Truck and Tata...","{'neg': 0.123, 'neu': 0.791, 'pos': 0.087, 'compound': -0.2263}"
+85,2021-02-03 00:59:58+00:00,RT Me and the boys after the pandemic,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+86,2021-02-03 00:59:58+00:00,RT It is estimated that 11 million people are going through lockdown in homes with dangerous materials. 3 and a half years a...,"{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.4767}"
+87,2021-02-03 00:59:58+00:00,"""Bell accessed $122 mill from the Canadian Emergency Wage Subsidy during pandemic while raising quarterly dividends""
+
+Well then,is this true?
+
+If so,
+
+""a bizarre conspiracy theory to be the reason?""
+
+Whats the real reason they all lost their jobs?
+#TOpoli 
+https://t.co/xJmkdQWAHh","{'neg': 0.218, 'neu': 0.686, 'pos': 0.096, 'compound': -0.7383}"
+88,2021-02-03 00:59:58+00:00,"RT Democrats Take First Step To Pass COVID-19 Relief With Or Without Republicans
+","{'neg': 0.0, 'neu': 0.795, 'pos': 0.205, 'compound': 0.4767}"
+89,2021-02-03 00:59:59+00:00,"Totally what y'all Trumpers voted for, right? .... Right?","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+90,2021-02-03 00:59:59+00:00,"Send a few jars of PB to Philabundance via these kids. They did an awesome job last year and will crush it again this year. 
+
+Sending food to the hungry is one of the most human things you can do.","{'neg': 0.037, 'neu': 0.87, 'pos': 0.094, 'compound': 0.5423}"
+91,2021-02-03 00:59:59+00:00,Why is this blocked? Our schools need to be open.,"{'neg': 0.209, 'neu': 0.791, 'pos': 0.0, 'compound': -0.3346}"
+92,2021-02-03 00:59:59+00:00,RT Erin O'Toole must be the most terrifying person to ever seek the office of Prime Minister if Canadians are set to allow...,"{'neg': 0.148, 'neu': 0.781, 'pos': 0.071, 'compound': -0.4754}"
+93,2021-02-03 00:59:59+00:00,RT You have to be a really bad person to have people celebrating you getting fired during a pandemic.,"{'neg': 0.273, 'neu': 0.591, 'pos': 0.137, 'compound': -0.5709}"
+94,2021-02-03 00:59:59+00:00,So no Universal Basic Income but the employs people to hand out rebates and more people to hand out #COVID19 checks?  #COVID19BC #bcpoli,"{'neg': 0.057, 'neu': 0.651, 'pos': 0.293, 'compound': 0.85}"
+95,2021-02-03 00:59:59+00:00,"According to one analysis, 14 percent of severe COVID-19 patients developed type 1 or type 2 diabetes. Researchers don't know why. Via","{'neg': 0.11, 'neu': 0.89, 'pos': 0.0, 'compound': -0.3818}"
+96,2021-02-03 00:59:59+00:00,"""The pandemic has expedited this change, forcing businesses to find efficient ways to connect outside of the office, and most of these changes are here to stay.""
+
+https://t.co/DVbUi50Ebb
+
+@Entrepreneur #futureofwork #technology #trends #hiring #hrinnovation #hr #hrtech","{'neg': 0.0, 'neu': 0.926, 'pos': 0.074, 'compound': 0.4215}"
+97,2021-02-03 00:59:59+00:00,RT No Republicans voted to move the COVID relief resolution forward using reconciliation to help struggling Americans. Not on...,"{'neg': 0.194, 'neu': 0.581, 'pos': 0.225, 'compound': 0.2023}"
+98,2021-02-03 00:59:59+00:00,RT Capitalism is when a vaccine to a deadly pandemic exists but we can't create or distribute enough of it because two pharm...,"{'neg': 0.092, 'neu': 0.908, 'pos': 0.0, 'compound': -0.3007}"
+99,2021-02-03 00:59:59+00:00,"RT Now this is the mark of an incredible father!
+
+It's been hard enough for parents during a pandemic but this dad started...","{'neg': 0.064, 'neu': 0.936, 'pos': 0.0, 'compound': -0.126}"
+100,2021-02-03 00:59:59+00:00,RT A prison sentence should not be a COVID death sentence.,"{'neg': 0.429, 'neu': 0.417, 'pos': 0.155, 'compound': -0.765}"
+101,2021-02-03 00:59:59+00:00,RT Bill Gates calls for global alert system and 'pandemic fire squads' for post-Covid-19 world,"{'neg': 0.136, 'neu': 0.739, 'pos': 0.125, 'compound': -0.0516}"
+102,2021-02-03 00:59:59+00:00,I spit out my drink,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+103,2021-02-03 00:59:59+00:00,"MedRxiv:
+ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19
+https://t.co/4BphbWDE9b","{'neg': 0.099, 'neu': 0.901, 'pos': 0.0, 'compound': -0.296}"
+104,2021-02-03 00:59:59+00:00,RT I will never forgive covid for stealing one of my hot years,"{'neg': 0.334, 'neu': 0.666, 'pos': 0.0, 'compound': -0.672}"
+105,2021-02-03 00:59:59+00:00,"Buy #silvercoins. Everyone!
+ #Physicalsilver
+Supplies are limited!
+
+#SilverSqueeze #WSB #WallStreetBets #GME #SLV $TSLA $AMZN  $btc #bitcoin #amazon #tesla $silver $gold #nba #Crypto #BTC#ETH #Gold #aoc #covid-19 #closed
+
+https://t.co/X8lnKRVmlr","{'neg': 0.082, 'neu': 0.861, 'pos': 0.056, 'compound': -0.1984}"
+106,2021-02-03 00:59:59+00:00,I can only imagine how you 20-somethings feel. I'm mad and am pushing 40,"{'neg': 0.198, 'neu': 0.802, 'pos': 0.0, 'compound': -0.4939}"
+107,2021-02-03 00:59:59+00:00,RT Me every day of the pandemic,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+108,2021-02-03 00:59:59+00:00,"RT #4 &amp; #5 would be about the same in practice: Utter catastrophe.
+
+--23 million losing coverage ( Medicaid &amp; subsidized ACA...","{'neg': 0.267, 'neu': 0.733, 'pos': 0.0, 'compound': -0.807}"
+109,2021-02-03 00:59:59+00:00,"RT Oh Sana wants to meet up with Miyeon but because of Covid she can't. When they call one another they kept saying ""I miss you""","{'neg': 0.071, 'neu': 0.929, 'pos': 0.0, 'compound': -0.2263}"
+110,2021-02-03 00:59:59+00:00,RT I thought COVID would be kneecapping my new patch prog today but its mostly me gushing to others my OC's amazing backstories...,"{'neg': 0.0, 'neu': 0.809, 'pos': 0.191, 'compound': 0.7351}"
+111,2021-02-03 00:59:59+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+112,2021-02-03 01:00:00+00:00,RT Democrat-led Senate approves budget process for passage of $1.9T COVID-19 stimulus without GOP votes | Just The News h...,"{'neg': 0.0, 'neu': 0.876, 'pos': 0.124, 'compound': 0.4019}"
+113,2021-02-03 01:00:00+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+114,2021-02-03 01:00:00+00:00,RT Democrats shouldn't forget: their victory in Georgia was a vote for cash assistance. Prioritizing direct monthly payme...,"{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.1695}"
+115,2021-02-03 01:00:00+00:00,RT NO. REPUBLICANS. VOTED. TO. HELP. THE. PEOPLE.,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}"
+116,2021-02-03 01:00:00+00:00,"Estimate behind 35k cr Covid vaccine pie: 700/recipient, 50cr citizens","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+117,2021-02-03 01:00:00+00:00,RT NO. REPUBLICANS. VOTED. TO. HELP. THE. PEOPLE.,"{'neg': 0.0, 'neu': 0.722, 'pos': 0.278, 'compound': 0.4019}"
+118,2021-02-03 01:00:00+00:00,Please visit for a daily update on confirmed cases of #COVID19 among the UCLA campus community.,"{'neg': 0.0, 'neu': 0.867, 'pos': 0.133, 'compound': 0.3182}"
+119,2021-02-03 01:00:00+00:00,Majority Leader said the Senate will work on a COVID-19 relief budget reconciliation resolution. The procedural vote launches a lengthy budget procedure that would let Democrats pass President COVID relief plan. Correspondent reports.,"{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.7351}"
+120,2021-02-03 01:00:00+00:00,"Use hand sanitizer or soap and water to thoroughly clean your hands before going anywhere, then mask up and take on the day. With Union Cab, you will ride safely against the pandemic. Call 608-242-2000 to get moving. #CoOpMeansTogether","{'neg': 0.0, 'neu': 0.793, 'pos': 0.207, 'compound': 0.8553}"
+121,2021-02-03 01:00:00+00:00,"RT Coronavirus analogy for Starcraft...
+
+Remember Terran versus Zerg battles? 
+
+Zerg evolve super fast &amp; their swarms are unst...","{'neg': 0.111, 'neu': 0.723, 'pos': 0.166, 'compound': 0.3182}"
+122,2021-02-03 01:00:00+00:00,"One year ago today:
+The Philippines Department of Health announces the first confirmed death from 2019-nCoV outside of mainland China. The patient was a 44 year old man with severe pneumonia and multiple other respiratory infections.","{'neg': 0.16, 'neu': 0.84, 'pos': 0.0, 'compound': -0.7579}"
+123,2021-02-03 01:00:00+00:00,"Two #Chiefs players may miss the Super Bowl on Sunday. 
+
+https://t.co/RAuCWA635L","{'neg': 0.11, 'neu': 0.621, 'pos': 0.269, 'compound': 0.5106}"
+124,2021-02-03 01:00:00+00:00,RT Capitalism is when a vaccine to a deadly pandemic exists but we can't create or distribute enough of it because two pharm...,"{'neg': 0.092, 'neu': 0.908, 'pos': 0.0, 'compound': -0.3007}"
+125,2021-02-03 01:00:00+00:00,"Homegrown by a USC alumnus, Icepop is a marketing adventure that's been succeeding since it started up during the pandemic!","{'neg': 0.0, 'neu': 0.757, 'pos': 0.243, 'compound': 0.6996}"
+126,2021-02-03 01:00:00+00:00,The #technology sector has been remarkably consistent in navigating ongoing uncertainty. There are signs that businesses are returning their focus to pre-pandemic messaging. Find out what companies told us in Q3 2020 earnings calls:,"{'neg': 0.068, 'neu': 0.932, 'pos': 0.0, 'compound': -0.34}"
+127,2021-02-03 01:00:00+00:00,"RT As of today, the total number of confirmed #COVID19 cases is 1 458 948, the total number of deaths is 44 946 and  the to...","{'neg': 0.0, 'neu': 0.883, 'pos': 0.117, 'compound': 0.2928}"
+128,2021-02-03 01:00:00+00:00,"WARNING FROM BBB: Do not share a picture of your vaccine card or take a selfie with your card and post it on social media.
+
+https://t.co/KyXTBBiUHV","{'neg': 0.173, 'neu': 0.827, 'pos': 0.0, 'compound': -0.615}"
+129,2021-02-03 01:00:00+00:00,#Iran mandates quarantine for #European travelers,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+130,2021-02-03 01:00:00+00:00,"#ClipOfTheDay: On Ann Patchett speaks about the cover art of her latest novel, The Dutch House, and how her bookstore in Nashville is doing during the pandemic.","{'neg': 0.0, 'neu': 0.919, 'pos': 0.081, 'compound': 0.3182}"
+131,2021-02-03 01:00:00+00:00,"According to the bill's text, the findings would be released publicly every 3 months for the first 2 years and every 6 months thereafter.
+
+https://t.co/Zfm3QgxbDe","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+132,2021-02-03 01:00:00+00:00,A drop in COVID-19 cases among congregate care residents in Minnesota might be the first encouraging sign that the state's mass vaccination efforts are starting to pay off. ,"{'neg': 0.103, 'neu': 0.704, 'pos': 0.194, 'compound': 0.6249}"
+133,2021-02-03 01:00:00+00:00,"AMA President, recaps her third discussion with Peter Marks, MD, PhD, including efficacy data and updates on the #COVID19 vaccine distribution process. #VaccinesWork","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+134,2021-02-03 01:00:00+00:00,RT I will never forgive covid for stealing one of my hot years,"{'neg': 0.334, 'neu': 0.666, 'pos': 0.0, 'compound': -0.672}"
+135,2021-02-03 01:00:00+00:00,"RT Despite limited vaccine supplies from the federal government, Ontario continues to vaccine at-risk communities.
+
+This week,...","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.1695}"
+136,2021-02-03 01:00:00+00:00,"Bills nearing its due date? Gofer is here to help you! Book a Gofer now!
+
+Contact us for inquiries:
+(632) 8806 2486 / +63 917 522 4180 / goferph@gmail.com
+
+#StayHome #GofersInAFlash","{'neg': 0.0, 'neu': 0.901, 'pos': 0.099, 'compound': 0.508}"
+137,2021-02-03 01:00:00+00:00,"The State Board of Education will meet in person on 2/9 at 10 a.m. in Jefferson City. In accordance with guidelines related to social distancing, the #MoSBOE room will not be open to members of the public. For additional info (agenda &amp; livestream link):","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+138,2021-02-03 01:00:00+00:00,"#COVID19 UPDATE: We are reporting 1 death,12 new cases and 93 additional recoveries in the Quad-County Region.
+This brings the total number of cases to 10,798, with 7,363 recoveries and 191 deaths; 3,244 cases remain active.
+More at: #QuadCountiesNV","{'neg': 0.0, 'neu': 0.896, 'pos': 0.104, 'compound': 0.5095}"
+139,2021-02-03 01:00:00+00:00,"Digital sales rose nearly three-fold and drove a 5.7% rise in comparable sales, helped by a surge in online orders in some parts of the United States.
+
+https://t.co/xLiWBHtWnL","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.4215}"
+140,2021-02-03 01:00:00+00:00,"I would love to stand in another line this year. For the #vaccine. #COVID19 
+
+","{'neg': 0.0, 'neu': 0.756, 'pos': 0.244, 'compound': 0.6369}"
+141,2021-02-03 01:00:00+00:00,RT BREAKING: The Senate has voted 50-49 in favor of moving the $1.9 trillion COVID relief package forward using budget re...,"{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.7003}"
+142,2021-02-03 01:00:00+00:00,"The American Gaming Association, the gambling industry's national trade group, predicted in a report Tuesday that the number of people planning to bet on the big game will decrease this year, but online betting will increase","{'neg': 0.0, 'neu': 0.892, 'pos': 0.108, 'compound': 0.4767}"
+143,2021-02-03 01:00:00+00:00,"After 52 years of marriage, Lois and PJ Connor died of COVID-19 just three hours apart.","{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.5574}"
+144,2021-02-03 01:00:00+00:00,RT Literally feels like a lifetime  since I've seen family &amp; my best friend cause lockdown. literally every fucker is having...,"{'neg': 0.138, 'neu': 0.545, 'pos': 0.317, 'compound': 0.6808}"
+145,2021-02-03 01:00:00+00:00,RT Got some medical advice about my COVID experience from the awesome Dr. and want to share. Stay safe and take care...,"{'neg': 0.0, 'neu': 0.554, 'pos': 0.446, 'compound': 0.9136}"
+146,2021-02-03 01:00:00+00:00,"RT A MUST READ commentary by @AnnePfitzer &amp; colleagues from &amp; @USAIDGH.  #NotWithoutFP @USAID_MOMENTUM
+Opport...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+147,2021-02-03 01:00:00+00:00,"""No member of this committee will be bullied by ambush motions,"" the committee chair said after the motion was introduced before being circulated to other committee members.
+https://t.co/hfLXAwmOQE","{'neg': 0.132, 'neu': 0.868, 'pos': 0.0, 'compound': -0.6249}"
+148,2021-02-03 01:00:00+00:00,"RT Heard tours weren't being given due to Covid, except by wayward Congress members.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+149,2021-02-03 01:00:01+00:00,"
+Post pictures of all separated children with encoded tracking information on and let their  relatives and parents identify them to reunite!","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+150,2021-02-03 01:00:01+00:00,"CERTIFIED &amp;amp; FOUNDATION AAC Starbuck VB, AAC Alida VB, AAC Warman VB. CDC Copeland Barley. G&amp;R Seeds.
+#cdc #seeds #aac #plant2021 #farming #soil #saskfarming #copelandbarley.
+
+https://t.co/kTuqIDy5oY ","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+151,2021-02-03 01:00:01+00:00,Download this helpful infographic-- inspired by a recent meetup with top #CIOs and #business leaders-- and see how they are navigating the current #pandemic,"{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.7783}"
+152,2021-02-03 01:00:01+00:00,"RT Republicans think reconciliation is okay for tax cuts for billionaires, but not for COVID relief for struggling Americans.","{'neg': 0.344, 'neu': 0.598, 'pos': 0.058, 'compound': -0.8009}"
+153,2021-02-03 01:00:01+00:00,entering second year of pandemic and we have reached a breakthrough,"{'neg': 0.0, 'neu': 0.877, 'pos': 0.123, 'compound': 0.1027}"
+154,2021-02-03 01:00:01+00:00,Hmmmmm ironic isn't it,"{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.128}"
+155,2021-02-03 01:00:01+00:00,RT The highly-anticipated 'Map of the Soul Tour' was expected to top the 2020 Year End charts with $215-220 million in ticket...,"{'neg': 0.0, 'neu': 0.921, 'pos': 0.079, 'compound': 0.2023}"
+156,2021-02-03 01:00:01+00:00,RT David Little to be proud of... Saying the Federal Government is here to help WA! Just like has been there...,"{'neg': 0.0, 'neu': 0.684, 'pos': 0.316, 'compound': 0.8089}"
+157,2021-02-03 01:00:01+00:00,RT Zero Republicans voted for the COVID relief plan. They don't have Trump to blame anymore. This is who they are. Believe t...,"{'neg': 0.091, 'neu': 0.792, 'pos': 0.117, 'compound': 0.1779}"
+158,2021-02-03 01:00:01+00:00,RT Not one Republican voted for the covid relief package. Not one.,"{'neg': 0.0, 'neu': 0.78, 'pos': 0.22, 'compound': 0.4767}"
+159,2021-02-03 01:00:01+00:00,"Racist #RepublicanConfederacy party in Mississippi ROI.
+
+And likely a bit of anti vaxxers in Black community too 
+
+17% of #Covid19 vaccine doses in Mississippi had gone to Black residents, while 69% went to white residents.
+
+https://t.co/butCdjDCgJ","{'neg': 0.15, 'neu': 0.786, 'pos': 0.064, 'compound': -0.5574}"
+160,2021-02-03 01:00:01+00:00,"RT No Republicans. Zero. Y'all really be voting for folks that don't give a f*ck about you and could care less if you go broke,...","{'neg': 0.166, 'neu': 0.728, 'pos': 0.106, 'compound': -0.2023}"
+161,2021-02-03 01:00:02+00:00,COVID-19 deaths rising at alarming pace despite slowdown of new cases. Read our story: #TheVillages #TheVillagesNews,"{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.128}"
+162,2021-02-03 01:00:02+00:00,"RT NSW recorded no new locally acquired cases of COVID-19 in the 24 hours to 8pm last night.
+
+There were two cases acquired ove...","{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.296}"

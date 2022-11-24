@@ -1,0 +1,295 @@
+,created_at,full_text,sentiment_score
+0,2020-12-05 14:59:54+00:00,Unecessary expenditure especially now when a pandemic has hit us. The same amount of money can lift many from poverty.,"{'neg': 0.148, 'neu': 0.852, 'pos': 0.0, 'compound': -0.5106}"
+1,2020-12-05 14:59:54+00:00,"Reducing the spread of respiratory illnesses, like the flu, is more important than ever this year due to the COVID-19 pandemic. And, the time to get your flu shot is now.","{'neg': 0.215, 'neu': 0.667, 'pos': 0.118, 'compound': -0.5868}"
+2,2020-12-05 14:59:54+00:00,"RT 'This is not that hard to understand, everybody' -- Bill Nye is back on TikTok to drop more knowledge about masks and COVID...","{'neg': 0.083, 'neu': 0.866, 'pos': 0.051, 'compound': -0.2033}"
+3,2020-12-05 14:59:54+00:00,COVID-19,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+4,2020-12-05 14:59:54+00:00,"RT But, no: ""UMMC has 10,000 employees."" What the hell does that mean? That's the entire campus. Are we tagging in the guy who...","{'neg': 0.218, 'neu': 0.782, 'pos': 0.0, 'compound': -0.8126}"
+5,2020-12-05 14:59:54+00:00,More people are dying during the pandemic - and not just from COVID-19,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+6,2020-12-05 14:59:54+00:00,Wyatt Davis appears to be the only starter on the o-line today via recent locker room post.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+7,2020-12-05 14:59:54+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+8,2020-12-05 14:59:55+00:00,"Looks like the us against them is gonna happen very soon. You can not simply deny everything. I mean you fuckin people have denied Covid, Racism, Police Brutality, and now the Presidential Election what the fuck is wrong with you people #Just25","{'neg': 0.311, 'neu': 0.61, 'pos': 0.079, 'compound': -0.9363}"
+9,2020-12-05 14:59:55+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+10,2020-12-05 14:59:55+00:00,"RT ""There is always more work to be done than the hours to do it in.""
+
+U.S. lab workers have processed some 192 million coronavir...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+11,2020-12-05 14:59:55+00:00,Hey his is the silliest thing I've ever heard ,"{'neg': 0.0, 'neu': 0.816, 'pos': 0.184, 'compound': 0.2023}"
+12,2020-12-05 14:59:55+00:00,Student Bazenga. Congrats ,"{'neg': 0.0, 'neu': 0.37, 'pos': 0.63, 'compound': 0.5267}"
+13,2020-12-05 14:59:55+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+14,2020-12-05 14:59:55+00:00,"
+How can you not care about the American people?
+via","{'neg': 0.226, 'neu': 0.774, 'pos': 0.0, 'compound': -0.3875}"
+15,2020-12-05 14:59:55+00:00,"RT I talked to a scientist recently who spent her career working on bioterrorism and pandemic responses. ""What I never imagin...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+16,2020-12-05 14:59:55+00:00,"RT Hum News report on implementation of COVID-19 SOPs at public transport &amp; bus stands 
+#HumNews","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+17,2020-12-05 14:59:55+00:00,"RT The UK's approval of Pfizer's Covid vaccine was made under regulation 174 of the Human Medicine Regulations 2012, and had not...","{'neg': 0.0, 'neu': 0.871, 'pos': 0.129, 'compound': 0.4767}"
+18,2020-12-05 14:59:55+00:00,76.3% of COVID-19 deaths in Victoria (626/820) have been attributed to private aged care - a federally regulated industry that the state cannot directly deal with - state aged care recorded a 0.1% infection rate and 0 deaths; you do the math. The LNP have blood on their hands.,"{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.7506}"
+19,2020-12-05 14:59:55+00:00,"RT context:
+- 8K people die every day
+- 40K in nursing homes die every month 
+- Half of COVID19 deaths are from nursing homes...","{'neg': 0.253, 'neu': 0.747, 'pos': 0.0, 'compound': -0.8316}"
+20,2020-12-05 14:59:55+00:00,"RT Destroying the Twin Towers on 9/11, was the excuse they needed to destroy the Middle East. 
+(So that they can take over)...","{'neg': 0.25, 'neu': 0.704, 'pos': 0.046, 'compound': -0.7783}"
+21,2020-12-05 14:59:55+00:00,"RT Jeff Allen, 65yo Pharmacist, Walmart  #749, Hutchinson, Kansas, died of #covid19 11/19. He was known for his compassion, sweet...","{'neg': 0.135, 'neu': 0.639, 'pos': 0.226, 'compound': 0.34}"
+22,2020-12-05 14:59:55+00:00,"RT ""I've seen a lot of coffins in the last seven months."" 
+
+Karl-Anthony Towns talks candidly about the death of his mothe...","{'neg': 0.157, 'neu': 0.843, 'pos': 0.0, 'compound': -0.5994}"
+23,2020-12-05 14:59:55+00:00,"The world old, and wise man in a chair
+https://t.co/U0aAJTXPe9","{'neg': 0.0, 'neu': 0.744, 'pos': 0.256, 'compound': 0.4767}"
+24,2020-12-05 14:59:56+00:00,"Now that he is aware that We are entering the fourth stage, ask him if he supports gathering masses by politians in this pandemic era.","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.3612}"
+25,2020-12-05 14:59:56+00:00,"RT US #COVID19 cases:
+
+1st case to 1M - 96 days
+1 to 2M- 44 days
+2 to 3M- 27 days 
+3 to 4M - 15 days
+4 to 5M - 17 days
+5 to 6M...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+26,2020-12-05 14:59:56+00:00,RT BREAKING: the Kraken has COVID,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+27,2020-12-05 14:59:56+00:00,"RT I spoke to doctors and nurses from UMMC this week. What they're going through beggars belief. It is, of course, not just the...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+28,2020-12-05 14:59:56+00:00,"The first coronavirus vaccine has arrived in Scotland, the health secretary has said.
+https://t.co/kmXJTLHbXp","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+29,2020-12-05 14:59:56+00:00,"RT NEW, by me and with an unprecedented surge in cases, hospitals are now overwhelmed. 
+
+They are runni...","{'neg': 0.0, 'neu': 0.934, 'pos': 0.066, 'compound': 0.0516}"
+30,2020-12-05 14:59:56+00:00,"My daughter works in the movie industry and I'm thankful every day that she's back to work. They have very strict protocols: very strict masking, social distance, testing for times a week, and they shut down the side with positive results and pay everyone to stay home.","{'neg': 0.027, 'neu': 0.835, 'pos': 0.139, 'compound': 0.7845}"
+31,2020-12-05 14:59:56+00:00,RT Welcoming Chairman back to public life as he has defeated coronavirus and has tested negative twice. ,"{'neg': 0.287, 'neu': 0.591, 'pos': 0.122, 'compound': -0.5994}"
+32,2020-12-05 14:59:56+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+33,2020-12-05 14:59:56+00:00,"After the war, ironically, the long feared North American Union will emerge. But it will be a federation of conservative Canada, Mexico, and the US.
+
+The remaining rebel leftist areas can forever lock themselves down all they want. Good riddance.","{'neg': 0.138, 'neu': 0.749, 'pos': 0.113, 'compound': -0.0387}"
+34,2020-12-05 14:59:56+00:00,Mask don't slow the spread near as much as people say. Unless you are wearing an N95. Studies showed that it only decreases your chance by 3%. The virus can transfer out and in of any cloth material. It's almost pointless.  Cleanliness and preventative healthcare is best method,"{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.7351}"
+35,2020-12-05 14:59:56+00:00,RT You're a prime example of Republican failure make a living out of bullying &amp; elevating yourself. You may b...,"{'neg': 0.286, 'neu': 0.714, 'pos': 0.0, 'compound': -0.802}"
+36,2020-12-05 14:59:56+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+37,2020-12-05 14:59:56+00:00,RT An angry business owner interrupted me moments before my live hit. He wanted to express his anger about Michigan's curr...,"{'neg': 0.338, 'neu': 0.662, 'pos': 0.0, 'compound': -0.8481}"
+38,2020-12-05 14:59:56+00:00,RT Great to see focus today on the impact #Brexit &amp; #Covid are having in #Scotland and the effect those twin...,"{'neg': 0.0, 'neu': 0.83, 'pos': 0.17, 'compound': 0.6249}"
+39,2020-12-05 14:59:56+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+40,2020-12-05 14:59:56+00:00,"RT Family of Romanian immigrants into Germany.
+
+The boy in the yellow t-shirt went on to lead the team that cracked the Covid vac...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+41,2020-12-05 14:59:57+00:00,"RT 8,687 Americans dead of COVID-19.
+
+In the last 70 hours.
+
+Stay the hell inside unless it's an emergency or your job requi...","{'neg': 0.365, 'neu': 0.635, 'pos': 0.0, 'compound': -0.91}"
+42,2020-12-05 14:59:57+00:00,"-Joe Biden 
+Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the size of any groups. It's our patriotic duty as Americans.","{'neg': 0.0, 'neu': 0.937, 'pos': 0.063, 'compound': 0.3182}"
+43,2020-12-05 14:59:57+00:00,RT If you spent early 2019 mocking the idea that Ontario needed to spend money on public health and are now demanding detailed...,"{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.5574}"
+44,2020-12-05 14:59:57+00:00,"Please don't get infected, that would be horrid, you would be all locked up, with the awful Trump Covid.","{'neg': 0.246, 'neu': 0.568, 'pos': 0.186, 'compound': -0.3761}"
+45,2020-12-05 14:59:57+00:00,"RT I will be in Valdosta, Georgia tonight to show my support for the #GrinchesOfGeorgia, aka my good friends #LootingLoef...","{'neg': 0.0, 'neu': 0.661, 'pos': 0.339, 'compound': 0.8271}"
+46,2020-12-05 14:59:57+00:00,"Are you insane? To be mocking this disaster? Over 10,000 US citizens died of Covid-19 just this past week! I repeat, are you insane?","{'neg': 0.478, 'neu': 0.522, 'pos': 0.0, 'compound': -0.9546}"
+47,2020-12-05 14:59:57+00:00,"RT 'This is not that hard to understand, everybody' -- Bill Nye is back on TikTok to drop more knowledge about masks and COVID...","{'neg': 0.083, 'neu': 0.866, 'pos': 0.051, 'compound': -0.2033}"
+48,2020-12-05 14:59:57+00:00,Oh shit that lady who use to the craziest stories long time,"{'neg': 0.324, 'neu': 0.676, 'pos': 0.0, 'compound': -0.5859}"
+49,2020-12-05 14:59:57+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+50,2020-12-05 14:59:57+00:00,RT Dr. Fauci is recommending ways that we can protect and care for ourselves and our loved ones during a glob...,"{'neg': 0.0, 'neu': 0.65, 'pos': 0.35, 'compound': 0.8658}"
+51,2020-12-05 14:59:57+00:00,"RT BREAKING: Canada has now recorded more than 400,000 cases of COVID-19.
+
+It took 18 days for Canada to rack up the latest 100,0...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+52,2020-12-05 14:59:57+00:00,consider others,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+53,2020-12-05 14:59:57+00:00,Amen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+54,2020-12-05 14:59:57+00:00,RT Residents will face a $50 civil fine if they don't wear masks in public; businesses can face penalties for violating health...,"{'neg': 0.138, 'neu': 0.791, 'pos': 0.071, 'compound': -0.4019}"
+55,2020-12-05 14:59:57+00:00,"We are reeling under a pandemic, the country needs nutritious food for its ailing population &amp; we are possibly staring at a brewing food crisis. Last thing we want is sky rocketing food prices.","{'neg': 0.11, 'neu': 0.856, 'pos': 0.035, 'compound': -0.5859}"
+56,2020-12-05 14:59:57+00:00,"RT Replacing the words ""the economy"" with ""rich people's yacht money""
+
+-How can we respond to COVID without sacrificing ri...","{'neg': 0.0, 'neu': 0.841, 'pos': 0.159, 'compound': 0.5574}"
+57,2020-12-05 14:59:57+00:00,"Governor Wolfe is urging people to stay home, yet you are allowing Souderton to reopen?! 
+Souderton schools have NOT been following guidelines. They use the terms of ""where feasible"" often; taking the looses of measures within the schools.","{'neg': 0.049, 'neu': 0.951, 'pos': 0.0, 'compound': -0.2244}"
+58,2020-12-05 14:59:57+00:00,RT Pulled the rug out from under him as it were,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+59,2020-12-05 14:59:57+00:00,No ahole. He said nothing about cancelling anything. You should go hang out at the covid19 wing in the Montana hospital with no mask. Are you dumb or just stupid?,"{'neg': 0.294, 'neu': 0.663, 'pos': 0.042, 'compound': -0.8593}"
+60,2020-12-05 14:59:57+00:00,These truths. We're all struggling against despair.,"{'neg': 0.429, 'neu': 0.336, 'pos': 0.235, 'compound': -0.3182}"
+61,2020-12-05 14:59:57+00:00,"RT .@IAmAmnaNawaz asks ""How would you categorize what is happening now in the United States?"" Burns responds, ""We...","{'neg': 0.0, 'neu': 0.859, 'pos': 0.141, 'compound': 0.4215}"
+62,2020-12-05 14:59:57+00:00,RT BILL NYE is still the science show king. And he's got a mask lesson for you.  #MaskUp #COVID19,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+63,2020-12-05 14:59:57+00:00,"They are also are hiding information on students and teachers who have test positive. Social distancing and masks are not strictly enforced.
+The District is very dangerous at this point. I fear for the safety of our community and the liabilities that their incompetence may cause.","{'neg': 0.234, 'neu': 0.658, 'pos': 0.108, 'compound': -0.7574}"
+64,2020-12-05 14:59:57+00:00,#IWearAMaskBecause because I care about other humans. I pledge to wear a mask for 100 days and everyday until #COVID is gone.,"{'neg': 0.0, 'neu': 0.868, 'pos': 0.132, 'compound': 0.4939}"
+65,2020-12-05 14:59:57+00:00,Live from Birmingham. Protest #COVID19  sceptics...   ,"{'neg': 0.481, 'neu': 0.519, 'pos': 0.0, 'compound': -0.4019}"
+66,2020-12-05 14:59:58+00:00,"RT I pledge to wear a mask for 100 days for our country! Will you? 
+#WearMaskProtectLife","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+67,2020-12-05 14:59:58+00:00,"RT context:
+- 8K people die every day
+- 40K in nursing homes die every month 
+- Half of COVID19 deaths are from nursing homes...","{'neg': 0.253, 'neu': 0.747, 'pos': 0.0, 'compound': -0.8316}"
+68,2020-12-05 14:59:58+00:00,"Yesterday, 2,673 Americans died because they got COVID. 
+
+But most of them were already old or sick.
+
+So whatever, I guess?","{'neg': 0.262, 'neu': 0.738, 'pos': 0.0, 'compound': -0.775}"
+69,2020-12-05 14:59:58+00:00,"RT 52% of Americans who applied for PPP loans were denied, but Tom Brady's nutrition company TB12 w/ about 12 employees wa...","{'neg': 0.085, 'neu': 0.915, 'pos': 0.0, 'compound': -0.2382}"
+70,2020-12-05 14:59:58+00:00,"RT WALL STREET BANKERS ARE NOT MORE ""ESSENTIAL"" THAN TEACHERS &amp; 1ST RESPONDERS--American Bankers Association is petitioning to...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+71,2020-12-05 14:59:58+00:00,RT Many #COVID19 test sites offer same-day appointments or have availability within 24 - 48 hours. Find your nearest COVID-19...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+72,2020-12-05 14:59:58+00:00,RT #Coronavirus vaccine clinics have opened across Moscow with health workers and teachers first in line to get Russia's Sputnik...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+73,2020-12-05 14:59:58+00:00,RT UK propaganda is so tedious. Johnson tore up own political agreement on EU-UK negotiations; turned up with new bunch of r...,"{'neg': 0.079, 'neu': 0.794, 'pos': 0.127, 'compound': 0.296}"
+74,2020-12-05 14:59:58+00:00,RT Please look at KAT and tell him about the 98% survival rate,"{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3182}"
+75,2020-12-05 14:59:58+00:00,"RT If you have student loans owned by the U.S. Department of Education, we're happy to share that the administrative forbearance an...","{'neg': 0.0, 'neu': 0.772, 'pos': 0.228, 'compound': 0.7096}"
+76,2020-12-05 14:59:58+00:00,"RT In the 7 days to 02/12, of the Covid-19 tests reported in Neath Port Talbot, 24.4% returned positive and is the highest in...","{'neg': 0.0, 'neu': 0.821, 'pos': 0.179, 'compound': 0.5859}"
+77,2020-12-05 14:59:58+00:00,RT Rhode Island is now second in the country (behind South Dakota) for average number of #coronavirus cases per 100k last week....,"{'neg': 0.0, 'neu': 0.942, 'pos': 0.058, 'compound': 0.0772}"
+78,2020-12-05 14:59:58+00:00,That's too many!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+79,2020-12-05 14:59:58+00:00,RT Southern California regional stay-at-home order has been triggered after ICU capacity drops below 15 percent Friday. According...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+80,2020-12-05 14:59:58+00:00,"RT 1/ Probably one of the most important articles you will ever read. Brilliant, eye opening &amp; combines all the relevant data &amp;...","{'neg': 0.0, 'neu': 0.781, 'pos': 0.219, 'compound': 0.7089}"
+81,2020-12-05 14:59:58+00:00,RT Having a lockdown and forcing businesses into bankruptcy for a disease that has a 99.8% cure rate is like burning down yo...,"{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3612}"
+82,2020-12-05 14:59:58+00:00,RT Scientists across Australia face losing their jobs in the coming weeks after missing out on 'last chance' government funding as...,"{'neg': 0.194, 'neu': 0.726, 'pos': 0.081, 'compound': -0.4215}"
+83,2020-12-05 14:59:58+00:00,"RT Masks? 48 States Are Red!!! Whether wearing masks or not!!! Florida is doing better than NY, NJ and CT!
+https://t.co/lIXcWOXr...","{'neg': 0.0, 'neu': 0.831, 'pos': 0.169, 'compound': 0.6209}"
+84,2020-12-05 14:59:58+00:00,RT Reading a piece about Maxime Mbanda in - knew he was knighted for the extraordinary work he did transportin...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+85,2020-12-05 14:59:58+00:00,"RT : SUGA hyung! We received many awards. Please come back quickly to make happy moments with us!!
+
+: i know everyone is do...","{'neg': 0.0, 'neu': 0.68, 'pos': 0.32, 'compound': 0.8713}"
+86,2020-12-05 14:59:58+00:00,Nancy Pelosi Finally Admits It Was Her 'Decision' to Block COVID Relief for Americans,"{'neg': 0.151, 'neu': 0.573, 'pos': 0.276, 'compound': 0.34}"
+87,2020-12-05 14:59:58+00:00,RT We might have to give the Covid vaccine to all the dumb fuck that don't believe it's real first so they stop getting t...,"{'neg': 0.297, 'neu': 0.703, 'pos': 0.0, 'compound': -0.8511}"
+88,2020-12-05 14:59:59+00:00,If you got a headache you telling me that's corona? Stfu,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+89,2020-12-05 14:59:59+00:00,RT Nancy Pelosi has FAILED the American people.,"{'neg': 0.366, 'neu': 0.634, 'pos': 0.0, 'compound': -0.6166}"
+90,2020-12-05 14:59:59+00:00,"RT 'This is not that hard to understand, everybody' -- Bill Nye is back on TikTok to drop more knowledge about masks and COVID...","{'neg': 0.083, 'neu': 0.866, 'pos': 0.051, 'compound': -0.2033}"
+91,2020-12-05 14:59:59+00:00,RT I'm going to share a story about a friend of mine who works in the healthcare industry that I believe will shed some lig...,"{'neg': 0.0, 'neu': 0.81, 'pos': 0.19, 'compound': 0.6597}"
+92,2020-12-05 14:59:59+00:00,"RT Nearly every shop in Karl's has a traffic light system due to Covid.
+
+But of course ""life is normal in Sweden""","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+93,2020-12-05 14:59:59+00:00,"RT I hear Wales is now the only country in U.K. where COvid is rising.  So much for their circuit breaker!
+
+Lockdowns don't w...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+94,2020-12-05 14:59:59+00:00,The numbers are way too high but it's nice to see the positivity rate only at 3.4% with almost 60k tests.,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.8462}"
+95,2020-12-05 14:59:59+00:00,RT We stand by the employees of and will stand by them till we are in SMC. We are duty bound to protect the righ...,"{'neg': 0.0, 'neu': 0.902, 'pos': 0.098, 'compound': 0.3818}"
+96,2020-12-05 14:59:59+00:00,"RT Number of citizens who lost health care coverage since the pandemic began:
+
+14,600,000 United States       
+0    Austr...","{'neg': 0.097, 'neu': 0.593, 'pos': 0.309, 'compound': 0.6124}"
+97,2020-12-05 14:59:59+00:00,RT Maybe you should give a fuck about your state which has Coronavirus cases out of control.,"{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.5423}"
+98,2020-12-05 14:59:59+00:00,"RT ""We put these contracts in place in order to place Canadians in the best stead possible, of any country in the world.""...","{'neg': 0.0, 'neu': 0.84, 'pos': 0.16, 'compound': 0.6369}"
+99,2020-12-05 14:59:59+00:00,is a the grim reaper and he is letting our beloved loved ones die in an effort to lobby his political agenda. There is a time to put politics aside and safeguard all citizens of this province. The cons hold our lives in their hands and they are letting us slip through,"{'neg': 0.118, 'neu': 0.713, 'pos': 0.169, 'compound': 0.3182}"
+100,2020-12-05 14:59:59+00:00,"Haryana Minister who was part of vaccine trial, tests positive for #COVID19
+
+He must have had the placebo.
+
+","{'neg': 0.0, 'neu': 0.825, 'pos': 0.175, 'compound': 0.5574}"
+101,2020-12-05 14:59:59+00:00,RT Those who are very or somewhat concerned about getting a serious case of COVID-19 are far more likely to say it bothers th...,"{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.2732}"
+102,2020-12-05 14:59:59+00:00,Something unexpected is happening in this chaotic year: Some Black founders of tech startups are finding that it's easier to attract investment via,"{'neg': 0.129, 'neu': 0.688, 'pos': 0.182, 'compound': 0.1406}"
+103,2020-12-05 14:59:59+00:00,"RT For my daily Covid, quarantined-since-March, single guy exercise and calisthenics, these CDs are HIGHLY RECOMMENDED. Especial...","{'neg': 0.0, 'neu': 0.818, 'pos': 0.182, 'compound': 0.5513}"
+104,2020-12-05 14:59:59+00:00,Reaching out to others during the holiday season is even more important during this pandemic year when many people are isolated and lonely. Your physical and emotional health could depend on it. ,"{'neg': 0.123, 'neu': 0.667, 'pos': 0.21, 'compound': 0.3384}"
+105,2020-12-05 14:59:59+00:00,RT Diagnosing why the US has so blatantly failed to respond to #COVID19 by 2 tweets,"{'neg': 0.193, 'neu': 0.807, 'pos': 0.0, 'compound': -0.5542}"
+106,2020-12-05 14:59:59+00:00,Doctors were right in April but this lyin GOP dismissed the scientific evidence that COVID IS DEADLY! Maybe we will have to sue GOP for COVID relief? They are not listening!,"{'neg': 0.0, 'neu': 0.864, 'pos': 0.136, 'compound': 0.6941}"
+107,2020-12-05 14:59:59+00:00,Did you remind him that anything above a whisper spreads the Corona virus?,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+108,2020-12-05 15:00:00+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+109,2020-12-05 15:00:00+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+110,2020-12-05 15:00:00+00:00,"Makes total sense because, you see, those who test positive should stay home, and those who test negative might be positive and should stay home. Brexit-style logic.","{'neg': 0.106, 'neu': 0.688, 'pos': 0.206, 'compound': 0.5423}"
+111,2020-12-05 15:00:00+00:00,"Thank you! The time, effort &amp; dedication across GP practices, PCNs, Local Authority, Community and Acute Services is beyond commendable. You messed with the wrong gang Coronavirus!  ","{'neg': 0.185, 'neu': 0.699, 'pos': 0.116, 'compound': -0.508}"
+112,2020-12-05 15:00:00+00:00,"Dec. 5th 2020:
+
+As of today, we received $4.72/day to get through this pandemic.
+
+That's 472 pennies per day.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+113,2020-12-05 15:00:00+00:00,".@WalmartCanada previously gave employees a bonus in March, when governments began to enforce COVID-19 restrictions. The company also provided employees with pandemic pay bonus of $2 per hour through April and May.
+
+Story via: 
+
+https://t.co/NFw8bgbqys","{'neg': 0.035, 'neu': 0.792, 'pos': 0.173, 'compound': 0.765}"
+114,2020-12-05 15:00:00+00:00,"""Covid-19 is the unseen killer but the police are the seen killers,"" says rights activist Boniface Mwangi. ""We don't see the police as our protector, we see the police as our abuser."" 
+@AmnestyKenya","{'neg': 0.31, 'neu': 0.69, 'pos': 0.0, 'compound': -0.9382}"
+115,2020-12-05 15:00:00+00:00,A wonderful read from about adapting music lessons to virtual classroom.,"{'neg': 0.0, 'neu': 0.73, 'pos': 0.27, 'compound': 0.5719}"
+116,2020-12-05 15:00:00+00:00,Unless they get the same safeguard care homes may be reluctant to allow families to visit during the run up to Christmas:https://t.co/CDrL5Ur38t,"{'neg': 0.072, 'neu': 0.65, 'pos': 0.278, 'compound': 0.6908}"
+117,2020-12-05 15:00:00+00:00,See below lol,"{'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.4215}"
+118,2020-12-05 15:00:00+00:00,"RT If we can afford a $2 trillion tax cut for the rich, we can certainly afford to pay people to stay home to contain Covid.
+
+Thi...","{'neg': 0.108, 'neu': 0.708, 'pos': 0.185, 'compound': 0.5423}"
+119,2020-12-05 15:00:00+00:00,"RT Our country is in the middle of a dramatic spike in COVID-19 cases. Please wear a mask, keep social distancing, and limit the...","{'neg': 0.0, 'neu': 0.909, 'pos': 0.091, 'compound': 0.3182}"
+120,2020-12-05 15:00:00+00:00,"RT Declined voluntary blood donations (owing to COVID), in wake of the rising   blood demands, necessitates us to donate m...","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+121,2020-12-05 15:00:00+00:00,"Parents, looking for fun FREE resources to entertain your kids during the lockdown? Let them bring #Africa to Life!
+
+Get your free marker here - a friend to share!
+
+#DistanceLearning #edchat #AugmentedReality #STEM #edtech #elearning #arvrinedu","{'neg': 0.0, 'neu': 0.613, 'pos': 0.387, 'compound': 0.9579}"
+122,2020-12-05 15:00:00+00:00,"COVID-19 has made what tax professionals thought was going to be a routine filing year anything but.
+
+https://t.co/3cNP5MOZFH","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+123,2020-12-05 15:00:00+00:00,"Please wear a mask . I'm so sorry for your loss, Jaime. Also for the election. You can't fix stupid.","{'neg': 0.161, 'neu': 0.637, 'pos': 0.202, 'compound': 0.2581}"
+124,2020-12-05 15:00:00+00:00,"JUST HEARD A NU TERM+MEANING-""HONEY CAN U DO""-CNBC CLIP SAID,DU 2 CORONA THIS TYPE,CAN U DO LIST,WAS EXPANDING-CAN U DO THIS,ETC-WELL, APPROACHING 75,I CAN SAY HONESTLY,OTHER THAN DURING SEX,IVE NEVER BIN ASKED,HONEY CAN U-LOL-HELL,ITS A BRAVE NU WORLD KIDS+CHANGE IS EVERYWHERE","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.6289}"
+125,2020-12-05 15:00:00+00:00,"Christian charity helping strengthen bond between imprisoned fathers and children as pandemic cancels visits
+https://t.co/M44DWUymuT","{'neg': 0.221, 'neu': 0.45, 'pos': 0.329, 'compound': 0.34}"
+126,2020-12-05 15:00:00+00:00,"Justice Centre News Release: Justice Centre to represent man challenging COVID-19 tickets for attending protest
+
+https://t.co/urYUXOIlvv","{'neg': 0.089, 'neu': 0.536, 'pos': 0.375, 'compound': 0.7506}"
+127,2020-12-05 15:00:00+00:00,"Did America stay socially distanced over the Thanksgiving holiday?
+ 
+@seenigel analyzed anonymized cell phone location data to see if people are returning to pre-covid behaviors.
+ 
+Watch NOW:","{'neg': 0.0, 'neu': 0.906, 'pos': 0.094, 'compound': 0.4019}"
+128,2020-12-05 15:00:00+00:00,"FREE #COVID19 PCR Testing- 
+
+WHEN: Sat, Dec 5 9A-5P
+WHERE: 8651 Colorado Blvd
+
+Pregister at - or 
+https://t.co/4LjtaEOMF6. Call 303-538-7420 with ?'s.
+
+*Check website/Twitter for inclement weather/holiday closures *
+
+@CDPHE","{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.6166}"
+129,2020-12-05 15:00:00+00:00,"So, it is December 5th and my Nokia 4.2 is still on the October 5th security patch. Is that November (and December) patch coming soon or what? I know it is COVID-19 times and you are working on Android 11 but the updates seem to be slipping. Did you get Nov","{'neg': 0.0, 'neu': 0.967, 'pos': 0.033, 'compound': 0.1779}"
+130,2020-12-05 15:00:00+00:00,let's go! Covid Relief Charity marathon starts NOW!,"{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.7568}"
+131,2020-12-05 15:00:00+00:00,"Opening a restaurant during lockdown might seem counter-intuitive, but not to Chris.
+
+""It was a bit scary, but I've been doing this for 25 years and I know the town centre like the back of my hand, so we were quietly confident.""
+
+@leponline feature.
+https://t.co/HIKrfmHjAV","{'neg': 0.075, 'neu': 0.717, 'pos': 0.207, 'compound': 0.8201}"
+132,2020-12-05 15:00:00+00:00,"#ACA #OPENENROLLMENT IS ENDING SOON (Dec 15, 2020). You MUST enroll by end date for 2021 insurance coverage! Enroll ONLINE, by PHONE or at AOI Office! (AOI adheres to CDC Covid Guidelines) Call TODAY, we are here to HELP! 321-676-4118","{'neg': 0.0, 'neu': 0.901, 'pos': 0.099, 'compound': 0.6496}"
+133,2020-12-05 15:00:00+00:00,Voters Say COVID-19 Comes First for Biden...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+134,2020-12-05 15:00:00+00:00,"This has applied to any Target or almost every Walmart I've been in (before COVID, haven't been in either of these stores since March).","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+135,2020-12-05 15:00:00+00:00,"RT 'This is not that hard to understand, everybody' -- Bill Nye is back on TikTok to drop more knowledge about masks and COVID...","{'neg': 0.083, 'neu': 0.866, 'pos': 0.051, 'compound': -0.2033}"
+136,2020-12-05 15:00:00+00:00,"Gov. Gavin Newsom announced a new stay-at-home order Thursday intended to curb rapidly rising cases of COVID-19. It's unclear exactly when the new restrictions could take effect in Butte County.
+
+https://t.co/yRmZJdugZv","{'neg': 0.062, 'neu': 0.938, 'pos': 0.0, 'compound': -0.25}"
+137,2020-12-05 15:00:00+00:00,"Covid-19, though, has reframed the issue of resources but it has also disrupted how we understand everything else.  
+
+Catch up on some weekend reading with latest blog: #education #covid19 #edchat","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+138,2020-12-05 15:00:00+00:00,RT One bought her Senate seat then used her access to Classified information to turn a profit in the pandemic. The other got...,"{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.4404}"
+139,2020-12-05 15:00:00+00:00,"""We want our sons and husbands to stay in Delhi as long as it takes to repeal these black laws passed by the Modi government. We pray for their safe return,"" said Dalip Kaur, 60, Baras, Patiala, #Punjab.
+#FarmersDelhiProtest   
+https://t.co/ok1TmTsMj6","{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.6705}"
+140,2020-12-05 15:00:00+00:00,RT Exactly 8 months ago this afternoon I landed in NYC and was in the ICU treating covid patients within a few hours.  Now 8...,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+141,2020-12-05 15:00:00+00:00,"RT Crisis in our times right now, the triple threat we are living now: 1) COVID, 2)Racial Injustice and 3) Manipulation/D...","{'neg': 0.384, 'neu': 0.616, 'pos': 0.0, 'compound': -0.9042}"
+142,2020-12-05 15:00:01+00:00,"""Glucose or Insulin, Which Is the Culprit in Patients with COVID-19 and Diabetes?"" - Read the Preview by Marc Y. Donath appearing in 
+#diabetes #insulin #covid19","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+143,2020-12-05 15:00:01+00:00,"Pre-book your space Due to the Covid-19 we follow up if you are visiting #puntacana #RD #dominicanrepublic #RepublicaDominicana #Cabezadetorro #catalonia #dreampalmbeach #puntacanaairport #capcana #miches #puntacana2021 #booknow at 
+https://t.co/GemIC3RcV2","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+144,2020-12-05 15:00:01+00:00,"Small businesses have stepped up during the pandemic. This Small Business Saturday, let's stand by them.
+
+Urging small businesses to work with Sustainable Huddersfield to rebuild for the future.
+
+https://t.co/H2UpDQbVIY","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+145,2020-12-05 15:00:01+00:00,"Please keep following the public health advice to stop the spread of the virus.  
+
+Please continue to wash your hands regularly, keep a safe distance, wear a face covering and download the HSC COVID-19 app.
+
+#StopTheSpread","{'neg': 0.053, 'neu': 0.767, 'pos': 0.18, 'compound': 0.6486}"
+146,2020-12-05 15:00:01+00:00,"Wash your hands, wear a mask, social distance, and try empathy dude. And yes, he has far more than you. He is following this thing called science and experts.","{'neg': 0.0, 'neu': 0.912, 'pos': 0.088, 'compound': 0.4019}"
+147,2020-12-05 15:00:01+00:00,Thank you to for sharing how #firstgen college students are balancing school during the pandemic. We are proud to see #ABCGrantees &amp; continuing to support students during this unprecedented time! #WeAreChicago,"{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.8858}"
+148,2020-12-05 15:00:01+00:00,"Due to the pandemic, the Band and Orchestra Alumni Party, held annually at 7:30 p.m. on December 26, is canceled for 2020.  We are planning to have the party again in 2021 so you can mark you calendars!","{'neg': 0.0, 'neu': 0.863, 'pos': 0.137, 'compound': 0.69}"
+149,2020-12-05 15:00:01+00:00,"RT You haven't seen them every day, but lab workers are heroes too.
+https://t.co/Sa1keLB8a3","{'neg': 0.0, 'neu': 0.745, 'pos': 0.255, 'compound': 0.6652}"
+150,2020-12-05 15:00:01+00:00,"During the month of November alone, the number of people who died from COVID-19 doubled in certain hospitals and health systems across Michigan. 
+https://t.co/xknHsy4PPT","{'neg': 0.193, 'neu': 0.69, 'pos': 0.117, 'compound': -0.4939}"
+151,2020-12-05 15:00:01+00:00,"American voters are more familiar with and more supportive of #publichealth departments now than they were before the #pandemic, creating a unique opportunity to advocate for sustained #publichealthfunding.","{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.7574}"
+152,2020-12-05 15:00:01+00:00,"Postcard distribution on Suq al-Hurriyah al-Aula today, a campaign organized by Imprint of Hope &amp; supported by UNAMI Human Rights Office. Pick a postcard information on the #HumanRights impact of #COVID19 and become part of the campaign on social media. #Iraq
+#StandUp4HumanRights","{'neg': 0.0, 'neu': 0.885, 'pos': 0.115, 'compound': 0.6369}"
+153,2020-12-05 15:00:01+00:00,"We all need to adhere closely to physical distancing &amp; use of mask when distancing is not possible!
+
+By doing so you help to contain the spread of #COVID19 from one person to another. Remember to wear your mask &amp; wash 
+
+#COVIDIsNotOver #StaySAFE 
+Creative ","{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.7327}"
+154,2020-12-05 15:00:01+00:00,Testing's critical to helping us slow the spread of #covid19 in Leon County! There is an opportunity this Sunday December 6 at Leon County's Northeast Branch Library (5513 Thomasville Rd) from 2PM-5PM. Drive-thru PCR testing is available to all patients with or without symptoms.,"{'neg': 0.047, 'neu': 0.844, 'pos': 0.109, 'compound': 0.4574}"
+155,2020-12-05 15:00:01+00:00,"Tune into for the premiere episode of 'mango masala', the hottest new desi youth-oriented radio show 
+
+We'll be discussing the COVID vaccine, the ongoing farmer protests in Punjab, and much more! 
+
+#radio #manchesterradio #manchester #stockport #desi #desibeats","{'neg': 0.057, 'neu': 0.943, 'pos': 0.0, 'compound': -0.2942}"
+156,2020-12-05 15:00:01+00:00,Have you been good for Santa?there is still time to #wearamask so you won't end up like this little elf! #HandsFaceSpace #SantaClaus #SantaClausIsComingToTown #Christmas #ChristmasIsComing #begood #elfinquarantine #StaySafe #MaskUp #MaskOn #facemask #facecoverings #mask,"{'neg': 0.058, 'neu': 0.854, 'pos': 0.088, 'compound': 0.2691}"
+157,2020-12-05 15:00:01+00:00,"""No vaccine would be authorised for supply in the UK unless the expected standards of safety, quality and efficacy are met.""
+
+https://t.co/4stQzajRUo","{'neg': 0.0, 'neu': 0.882, 'pos': 0.118, 'compound': 0.4215}"
+158,2020-12-05 15:00:01+00:00,"Are you saying he shouldn't have allowed them back?
+
+There weren't any covid tests at that time","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+159,2020-12-05 15:00:01+00:00,"This #InternationalVolunteerDay, Bayer employee Jerry shares his experience working with a local elementary school amidst the pandemic on Ball for All to make sure all 240 students had a ball to play with upon returning home.","{'neg': 0.0, 'neu': 0.827, 'pos': 0.173, 'compound': 0.7096}"
+160,2020-12-05 15:00:01+00:00,"The number of COVID-19 cases continues to climb across the Southern Tier, as leaders in Cattaraugus County expect transmission to get worse before it gets better.","{'neg': 0.102, 'neu': 0.759, 'pos': 0.139, 'compound': 0.0258}"
+161,2020-12-05 15:00:01+00:00,"This Clemson resident wrote about the upcoming vaccine for COVID-19: 
+https://t.co/xVSVB5eNft","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}"
+162,2020-12-05 15:00:01+00:00,The best way to protect your coworkers from the #flu is to get the #FluShot. Healthy habits like covering your cough and washing your hands often can help #StopTheSpread of germs and prevent respiratory illnesses like flu. more:,"{'neg': 0.154, 'neu': 0.512, 'pos': 0.335, 'compound': 0.836}"
