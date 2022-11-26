@@ -1,0 +1,304 @@
+,created_at,full_text,sentiment_score
+0,2020-12-07 22:59:54+00:00,"RT Exxon has put what would have been one of the world's largest carbon capture projects on indefinite hold, citing  strain...","[{'label': 'Negative', 'score': 0.6993270516395569}]"
+1,2020-12-07 22:59:54+00:00,"RT Hey friends! I just got laid off due to COVID 
+
+If you know of any companies hiring for badass Data Scientists who are gr...","[{'label': 'Negative', 'score': 0.4866413176059723}]"
+2,2020-12-07 22:59:54+00:00,"RT Lockdown depression, winter depression, not being able to see your families, anxiety levels at a high for 18-25 year olds...","[{'label': 'Negative', 'score': 0.8968517780303955}]"
+3,2020-12-07 22:59:54+00:00,RT I am allowed to fly directly next to perfect strangers on a packed plane with no social-distancing between strangers &amp; du...,"[{'label': 'Neutral', 'score': 0.5950314402580261}]"
+4,2020-12-07 22:59:54+00:00,"RT COVID is not wholesale killing people. 
+
+Deaths are from comorbidities, placing infected in elder care facilities, and pr...","[{'label': 'Negative', 'score': 0.6144768595695496}]"
+5,2020-12-07 22:59:54+00:00,Things are getting bad. I really hope the other pandemic isn't people doing fucked up things just to feed themselves.,"[{'label': 'Negative', 'score': 0.9506053328514099}]"
+6,2020-12-07 22:59:55+00:00,"RT  Faces of the #Coronavirus Pandemic: Trump Golfs While 290,220 Americans Die Edition. ","[{'label': 'Negative', 'score': 0.7226752638816833}]"
+7,2020-12-07 22:59:55+00:00,RT Breaking NYT: Trump officials passed when Pfizer offered in late summer to sell the U.S. government additional doses of i...,"[{'label': 'Neutral', 'score': 0.9315600395202637}]"
+8,2020-12-07 22:59:55+00:00,RT This is haunting.,"[{'label': 'Negative', 'score': 0.8528086543083191}]"
+9,2020-12-07 22:59:55+00:00,"It's not: she committed insider trading at the beginning of this pandemic. 
+
+The fact people defend Loeffler is shockingly stupid. She doesn't give a shit about you, or anyone but herself. She sold out her constituents. That's irredeemable in my eyes.","[{'label': 'Negative', 'score': 0.9274210929870605}]"
+10,2020-12-07 22:59:55+00:00,"Germany, France, 11 other EU countries team up for semiconductor push, The Times of India #coronavirus #COVID19 #CoronaInfoCH #Corona #COVID #COVID19 #Covid_19 #SARSCoV2 ...
+https://t.co/Pz7LgMRO79","[{'label': 'Neutral', 'score': 0.8339492678642273}]"
+11,2020-12-07 22:59:55+00:00,A global team of experts has found 10 FATAL FLAWS in the main test for Covid and is demanding it's urgently axed. As they should - I,"[{'label': 'Negative', 'score': 0.7747249007225037}]"
+12,2020-12-07 22:59:55+00:00,"RT BREAKING--Trump WH was offered to order more than 100 mil Pfizer/BioNTech vaccine doses (for 50 mil people), but WH **declin...","[{'label': 'Neutral', 'score': 0.8699739575386047}]"
+13,2020-12-07 22:59:55+00:00,"RT People who have lost health care during the pandemic:
+
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+:...","[{'label': 'Neutral', 'score': 0.48934343457221985}]"
+14,2020-12-07 22:59:55+00:00,"RT FEDERAL INVESTIGATION ON THIS NOW. 
+
+This cannot be the price of telling the scientific truth about COVID in America. ","[{'label': 'Negative', 'score': 0.6850401163101196}]"
+15,2020-12-07 22:59:55+00:00,RT The governor of Florida wanted to bury the state's COVID numbers. Rebekah Jones published them. He sent in the troops.,"[{'label': 'Negative', 'score': 0.7351306080818176}]"
+16,2020-12-07 22:59:55+00:00,"John Pronzini has been selling Christmas trees in San Rafael for over 50 years, and he says he's never seen a season like this.
+
+""I don't know whether it's the COVID thing or they're trying to beat the lockdown, but we've been extremely busy.""
+
+https://t.co/wSBAsNVzZU","[{'label': 'Neutral', 'score': 0.5913790464401245}]"
+17,2020-12-07 22:59:55+00:00,CORONA SELTZER HAS A NEW CHRISTMAS COMMERCIAL,"[{'label': 'Positive', 'score': 0.5089739561080933}]"
+18,2020-12-07 22:59:55+00:00,'On the order of approximately $2 billion' - read bank's letter on #pandemic fraud in CA. reporting w/@LightmanDavid ,"[{'label': 'Neutral', 'score': 0.7125272750854492}]"
+19,2020-12-07 22:59:55+00:00,"RT The Coronavirus pandemic has been tough on us all. 
+
+This will brighten your week. 
+
+Humanity.","[{'label': 'Neutral', 'score': 0.48625868558883667}]"
+20,2020-12-07 22:59:55+00:00,"RT this death was a bit more close to home for me. 
+i hope my black brothers and sisters and those in between stay safe and ta...","[{'label': 'Negative', 'score': 0.6505109667778015}]"
+21,2020-12-07 22:59:55+00:00,"RT Ron DeSantis sent armed state police to threaten Rebekah Jones, a scientist keeping Floridians up-to-date with accurate CO...","[{'label': 'Neutral', 'score': 0.6103147268295288}]"
+22,2020-12-07 22:59:55+00:00,RT Newsom Issues Double Stay-at-Home Order Where You Have To Stay In A Smaller House Inside Your Original House,"[{'label': 'Neutral', 'score': 0.882773756980896}]"
+23,2020-12-07 22:59:55+00:00,"2018-2019 flu season saw 35 million people get the flu and 35,000 deaths. That's 001%, much lower than covid. Covid is also more contagious and causes long term problems in some of the people who get it.","[{'label': 'Negative', 'score': 0.8091796040534973}]"
+24,2020-12-07 22:59:55+00:00,"Starting Thursday, #CANotify will be expanded so all Californians can use the smartphone technology to find out if they've been exposed to #COVID19","[{'label': 'Neutral', 'score': 0.9150579571723938}]"
+25,2020-12-07 22:59:56+00:00,"RT America first, baby: 
+
+""Now Pfizer may not be able provide more of its vaccine to the United States until next June because of...","[{'label': 'Neutral', 'score': 0.5013205409049988}]"
+26,2020-12-07 22:59:56+00:00,"RT They use terms like ""handouts,"" ""welfare,"" &amp; ""freebies"" for struggling Americans but use the term ""pandemic relief"" for bil...","[{'label': 'Neutral', 'score': 0.5725815892219543}]"
+27,2020-12-07 22:59:56+00:00,RT Fucking Trump is single-handedly slaughtering Americans. He made us sick AND prevented us from getting our medicine. That's the...,"[{'label': 'Negative', 'score': 0.9621871113777161}]"
+28,2020-12-07 22:59:56+00:00,"RT Call me a radical lefty, but I don't think Americans should be forming massive bread lines while America's billionaires make a...","[{'label': 'Negative', 'score': 0.6333449482917786}]"
+29,2020-12-07 22:59:56+00:00,"RT I will not vote for a #COVID19 relief bill with no stimulus check. 
+
+It stops being a relief bill when it doesn't help pe...","[{'label': 'Negative', 'score': 0.8953153491020203}]"
+30,2020-12-07 22:59:56+00:00,"RT What are we doing to ourselves?
+
+3.8 million Canadians have contemplated suicide since *lockdowns* began.
+
+If only 4 o...","[{'label': 'Negative', 'score': 0.8268595337867737}]"
+31,2020-12-07 22:59:56+00:00,RT Coronavirus task force member Adm. Giroir says science doesn't support lockdowns - #OANN,"[{'label': 'Neutral', 'score': 0.5167849063873291}]"
+32,2020-12-07 22:59:56+00:00,"Today's Hays County #COVID19 update, including weekend info -- 168 new cases &amp; 71 recoveries. 
+
+Total cases: 7,812
+Active cases: 882 (+97)
+Active cases last 21 days: 1,236 (+123)
+Total hospitalizations: 449 (+4)
+Current hospitalizations: 11 (-4)
+Recoveries: 6,824
+Fatalities: 106","[{'label': 'Neutral', 'score': 0.91851407289505}]"
+33,2020-12-07 22:59:56+00:00,"RT When a Florida #covid tracker has her home invaded by a man in uniform carrying a gun to take away her computer, etc.","[{'label': 'Negative', 'score': 0.7703033685684204}]"
+34,2020-12-07 22:59:56+00:00,"RT Joe Biden, Nancy Pelosi, and the Democratic party are refusing to support Medicare for All during the pandemic, the Gre...","[{'label': 'Negative', 'score': 0.729373037815094}]"
+35,2020-12-07 22:59:56+00:00,RT This is the woman who was fired and then publicly smeared by Ron DeSantis after blowing the whistle about his fudging Flor...,"[{'label': 'Negative', 'score': 0.7426801323890686}]"
+36,2020-12-07 22:59:56+00:00,"RT I'm partnering with my favorite Christmas tree company, to help raise up to $10,000 for families impacted...","[{'label': 'Positive', 'score': 0.8824693560600281}]"
+37,2020-12-07 22:59:56+00:00,Ron Desantis needs to be stopped.  This guy is dangerous.,"[{'label': 'Negative', 'score': 0.9255642294883728}]"
+38,2020-12-07 22:59:56+00:00,"RT David Perdue doesn't care about Georgia only cares about himself.
+
+#DoubleDealingDavid","[{'label': 'Negative', 'score': 0.8768264055252075}]"
+39,2020-12-07 22:59:56+00:00,RT U.S. Americans remember Puerto Rico is a part of the United States when their passport is banned from every other countr...,"[{'label': 'Neutral', 'score': 0.7821409106254578}]"
+40,2020-12-07 22:59:56+00:00,Do your part to slow the spread.,"[{'label': 'Neutral', 'score': 0.7385255694389343}]"
+41,2020-12-07 22:59:56+00:00,RT Den Lockdown.,"[{'label': 'Neutral', 'score': 0.8647199869155884}]"
+42,2020-12-07 22:59:56+00:00,"RT Why did COVID get everyone I know, including me, out of a toxic relationship","[{'label': 'Negative', 'score': 0.6217896342277527}]"
+43,2020-12-07 22:59:56+00:00,RT He was installed to destroy us.,"[{'label': 'Negative', 'score': 0.9153996706008911}]"
+44,2020-12-07 22:59:56+00:00,"RT BREAKING: Draymond Green and center James Wiseman tested positive for the coronavirus, a league source confirmed with...","[{'label': 'Neutral', 'score': 0.8903757929801941}]"
+45,2020-12-07 22:59:56+00:00,RT HOLY CRAP--Florida whistleblower who revealed that health dept ordered her to manipulate FL #...,"[{'label': 'Negative', 'score': 0.6209742426872253}]"
+46,2020-12-07 22:59:56+00:00,RT NYT: Trump Officials Passed Up Pfizer Offer to Sell More Vaccine Doses ,"[{'label': 'Neutral', 'score': 0.535492479801178}]"
+47,2020-12-07 22:59:56+00:00,RT That's your takeaway here huh? Might want you keep that one to yourself going forward.,"[{'label': 'Neutral', 'score': 0.5455174446105957}]"
+48,2020-12-07 22:59:56+00:00,Glad to see you actually care about people who could soon become homeless in the middle of the winter during the worst pandemic in 100 years. Warms my heart to read tweets like yours.,"[{'label': 'Positive', 'score': 0.5954039692878723}]"
+49,2020-12-07 22:59:56+00:00,"RT Ron DeSantis sent armed state police to threaten Rebekah Jones, a scientist keeping Floridians up-to-date with accurate CO...","[{'label': 'Neutral', 'score': 0.6103147268295288}]"
+50,2020-12-07 22:59:56+00:00,"RT Here at S|E|A we sympathize with student athletes during these uncertain times; however, we are looking forward to getti...","[{'label': 'Neutral', 'score': 0.6735170483589172}]"
+51,2020-12-07 22:59:56+00:00,"RT Ron DeSantis sent armed state police to threaten Rebekah Jones, a scientist keeping Floridians up-to-date with accurate CO...","[{'label': 'Neutral', 'score': 0.6103147268295288}]"
+52,2020-12-07 22:59:56+00:00,RT Today Dr. Fauci weighed in on NY's winter COVID plan:,"[{'label': 'Neutral', 'score': 0.9605956673622131}]"
+53,2020-12-07 22:59:56+00:00,RT Agents raid home of fired Florida data scientist who built COVID-19 dashboard via,"[{'label': 'Neutral', 'score': 0.6945085525512695}]"
+54,2020-12-07 22:59:56+00:00,"RT EXCLUSIVE: The Trump administration invited the leading Covid-19 vaccine manufacturers to a celebratory ""Vaccine Summit"" on T...","[{'label': 'Positive', 'score': 0.6052910089492798}]"
+55,2020-12-07 22:59:56+00:00,Opportunities and pitfalls utilizing telehealth for older adults during COVID-19 and beyond,"[{'label': 'Neutral', 'score': 0.8672904968261719}]"
+56,2020-12-07 22:59:57+00:00,"RT December is 7 days along &amp; we've already reported over 4,100 new #COVID19 cases &amp; 68 deaths. We can still control what happe...","[{'label': 'Negative', 'score': 0.5278266072273254}]"
+57,2020-12-07 22:59:57+00:00,"RT When a Florida #covid tracker has her home invaded by a man in uniform carrying a gun to take away her computer, etc.","[{'label': 'Negative', 'score': 0.7703033685684204}]"
+58,2020-12-07 22:59:57+00:00,So if people decide not to get the vaccine. They will be required to still wear a mask. So basically you are saying they will be targets of hate and you are promoting this,"[{'label': 'Negative', 'score': 0.7531821727752686}]"
+59,2020-12-07 22:59:57+00:00,Incredible work done by this organization,"[{'label': 'Positive', 'score': 0.9696987867355347}]"
+60,2020-12-07 22:59:57+00:00,"RT Prime Minister Prayut Chan-o-cha tried to allay fears of a second wave of coronavirus infections, saying the Thais who...","[{'label': 'Neutral', 'score': 0.8769398927688599}]"
+61,2020-12-07 22:59:57+00:00,RT This happened in Florida today to someone who is trying to report accurate COVID data. Please read and share.,"[{'label': 'Neutral', 'score': 0.723892331123352}]"
+62,2020-12-07 22:59:57+00:00,"RT How pervasive is neoliberalism that ""everyone decided not to do their part!"" is a more plausible explanation than ""we're forc...","[{'label': 'Negative', 'score': 0.75224769115448}]"
+63,2020-12-07 22:59:57+00:00,"Ben pathetically said Rockets have same trade leverage as before...
+
+(Harden has not reported to camp, is partying at strip clubs in a pandemic, and requested a trade to a specific team)
+
+Ben can't handle reality or the situation and handled himself like an adult...","[{'label': 'Neutral', 'score': 0.5258165597915649}]"
+64,2020-12-07 22:59:57+00:00,This is gestapo level.,"[{'label': 'Negative', 'score': 0.8498543500900269}]"
+65,2020-12-07 22:59:57+00:00,"RT every day so far in December, somewhere between a Pearl Harbor and a 9/11 worth of people in the United States have died of...","[{'label': 'Negative', 'score': 0.7383924126625061}]"
+66,2020-12-07 22:59:57+00:00,"RT You literally didn't show up to the debate, and Democrats are trying to give people MORE aid than your party will allow....","[{'label': 'Negative', 'score': 0.9119632244110107}]"
+67,2020-12-07 22:59:57+00:00,"RT The Coronavirus pandemic has been tough on us all. 
+
+This will brighten your week. 
+
+Humanity.","[{'label': 'Neutral', 'score': 0.48625868558883667}]"
+68,2020-12-07 22:59:57+00:00,"RT This is the Florida Dep of Health employee, a GIS specialist, fired for reporting true COVID stats in Florida. She starte...","[{'label': 'Negative', 'score': 0.7837582230567932}]"
+69,2020-12-07 22:59:57+00:00,"RT The U.S. had a deal to get enough Pfizer vaccine for 50 million people.
+
+Pfizer offered to sell more, but the Trump admini...","[{'label': 'Neutral', 'score': 0.8712180256843567}]"
+70,2020-12-07 22:59:57+00:00,Perdue has his own PRIVATE ISLAND! He uses Georgians to enrich himself. VOTE WARNOCK,"[{'label': 'Negative', 'score': 0.8771486878395081}]"
+71,2020-12-07 22:59:57+00:00,"RT There have been more American deaths from COVID this day, and every day in December, than the deaths in the Pearl Harbor a...","[{'label': 'Negative', 'score': 0.7750547528266907}]"
+72,2020-12-07 22:59:57+00:00,"RT Dec. 7 #LNK and COVID-19 Update
+
+Daily local deaths: 5
+Daily lab-confirmed cases of COVID-19: 204
+Total co...","[{'label': 'Neutral', 'score': 0.7535871267318726}]"
+73,2020-12-07 22:59:57+00:00,"RT Come on, Georgia, vote for someone who will work for you, not use the office to make himself richer. 
+#DoubleDealingDavid","[{'label': 'Neutral', 'score': 0.45368894934654236}]"
+74,2020-12-07 22:59:57+00:00,RT This is a national disaster. Our leaders should start acting like it.,"[{'label': 'Negative', 'score': 0.9321362376213074}]"
+75,2020-12-07 22:59:57+00:00,"RT ""This lockdown group think is as wrong as the establishment group think that gave us endless wars in the Middle East.""...","[{'label': 'Negative', 'score': 0.9002297520637512}]"
+76,2020-12-07 22:59:57+00:00,"Georgia to uphold Biden's win as Birx says states abandoned prevention tactics - live, The Guardian #coronavirus #COVID19 #CoronaInfoCH #Corona #COVID #COVID19 #Covid_19 #SARSCoV2 ...
+https://t.co/Qf5RhybRKj","[{'label': 'Neutral', 'score': 0.743064820766449}]"
+77,2020-12-07 22:59:58+00:00,"RT The 5 Stages of Republicans Getting COVID:
+
+1)Denial
+2)Denial
+3)Denial
+4)Denial
+5)COVID","[{'label': 'Neutral', 'score': 0.7297708988189697}]"
+78,2020-12-07 22:59:58+00:00,We know that has been lying his fucking ass off regarding his response to COVID in our state. This is straight out of the fascist fucks playbook to keep it covered up. #NotMyGOP,"[{'label': 'Negative', 'score': 0.9549460411071777}]"
+79,2020-12-07 22:59:58+00:00,gov NIPPLE ring is and idiot,"[{'label': 'Negative', 'score': 0.8426433205604553}]"
+80,2020-12-07 22:59:58+00:00,RT Florida police seize computer of COVID data whistleblower ,"[{'label': 'Neutral', 'score': 0.7357797622680664}]"
+81,2020-12-07 22:59:58+00:00,RT Breaking News: Trump administration officials passed when Pfizer offered in the summer to sell the U.S. more coronavirus vacci...,"[{'label': 'Neutral', 'score': 0.9184662699699402}]"
+82,2020-12-07 22:59:58+00:00,RT This is how scientists in FL are treated. Government actively trying to burry COVID data.,"[{'label': 'Negative', 'score': 0.8716965913772583}]"
+83,2020-12-07 22:59:58+00:00,RT OMG read this thread from the woman who lost her job for telling us the truth about pandemic stats in Florida and then cont...,"[{'label': 'Negative', 'score': 0.711939811706543}]"
+84,2020-12-07 22:59:58+00:00,"SUMTER TODAY: The Sumter Farmers Market has been holding its Friday farmers market at USC Sumter through the pandemic. We stopped by their annual holiday market  to see the special vendors offering seasonal items and gifts.
+
+https://t.co/5MyiSTH3LJ","[{'label': 'Neutral', 'score': 0.6701550483703613}]"
+85,2020-12-07 22:59:58+00:00,"RT ""You do tongue kissing?""
+Stripper Andrea Werhun recalls a gross encounter at the strip club right before it was shut down due...","[{'label': 'Negative', 'score': 0.5302032232284546}]"
+86,2020-12-07 22:59:58+00:00,RT .@mehdirhasan: Sen. McConnell's Covid-19 inaction shows he's willing to inflict pain and suffering on millions of Americans. htt...,"[{'label': 'Negative', 'score': 0.8361101746559143}]"
+87,2020-12-07 22:59:58+00:00,"RT We need a government that works for the people, NOT the billionaire class.","[{'label': 'Neutral', 'score': 0.6118784546852112}]"
+88,2020-12-07 22:59:58+00:00,"RT ""He has refused to negotiate with anybody,"" Sen. Murphy says about Sen. McConnell's inaction on Covid-19 relief talks. 
+
+""Mitch...","[{'label': 'Negative', 'score': 0.7220500111579895}]"
+89,2020-12-07 22:59:58+00:00,"RT Ron DeSantis sent armed state police to threaten Rebekah Jones, a scientist keeping Floridians up-to-date with accurate CO...","[{'label': 'Neutral', 'score': 0.6103147268295288}]"
+90,2020-12-07 22:59:58+00:00,RT This is the woman who was fired and then publicly smeared by Ron DeSantis after blowing the whistle about his fudging Flor...,"[{'label': 'Negative', 'score': 0.7426801323890686}]"
+91,2020-12-07 22:59:58+00:00,"I'm sick of unAmerican Republicans acting like domestic terrorists. If they're not maskless and shouting #Covid germs on essential workers, they're harassing civil servants in their homes.
+https://t.co/aDMrGt5vZB","[{'label': 'Negative', 'score': 0.9242817163467407}]"
+92,2020-12-07 22:59:59+00:00,RT Jefferson County is now setting records for new coronavirus cases in Alabama,"[{'label': 'Neutral', 'score': 0.7398231625556946}]"
+93,2020-12-07 22:59:59+00:00,"RT ""Researchers analysed more than 62 million gym visits from 14 European countries and found just 487 infections""
+
+https://...","[{'label': 'Neutral', 'score': 0.7108184099197388}]"
+94,2020-12-07 22:59:59+00:00,"RT ""Covid made Mitch McConnell's 'grim reaper' nickname into reality""
+
+My latest op-ed for in which I argue there's ""...","[{'label': 'Negative', 'score': 0.5261372923851013}]"
+95,2020-12-07 22:59:59+00:00,"RT Lockdown depression, winter depression, not being able to see your families, anxiety levels at a high for 18-25 year olds...","[{'label': 'Negative', 'score': 0.8968517780303955}]"
+96,2020-12-07 22:59:59+00:00,"RT ""An administrator at Hospital de Tulum ... says that the hospital typically receives about two to three American tourists...","[{'label': 'Neutral', 'score': 0.9449153542518616}]"
+97,2020-12-07 22:59:59+00:00,"Their closed and fearful system gave us Covid and then they recovered from it completely, leaving them in a superior position. They are kicking our ass and will continue no matter how many HK refugees we take.","[{'label': 'Negative', 'score': 0.927232027053833}]"
+98,2020-12-07 22:59:59+00:00,Un-fucking-real kick this motherfucker out of the white house today.,"[{'label': 'Negative', 'score': 0.9439530968666077}]"
+99,2020-12-07 22:59:59+00:00,"RT It's a false choice. 
+
+Instead of pitting people against each other, the President should be using the awesome power of the...","[{'label': 'Negative', 'score': 0.7650980353355408}]"
+100,2020-12-07 22:59:59+00:00,"RT I will not vote for a #COVID19 relief bill with no stimulus check. 
+
+It stops being a relief bill when it doesn't help pe...","[{'label': 'Negative', 'score': 0.8953153491020203}]"
+101,2020-12-07 22:59:59+00:00,RT McConnell demands a liability shield to protect corporations from Covid lawsuits. How about demanding corporations protect wor...,"[{'label': 'Neutral', 'score': 0.7017805576324463}]"
+102,2020-12-07 22:59:59+00:00,"RT This does honestly sound like a load of bull because apart from many not having home internet to stream stuff, home rel...","[{'label': 'Negative', 'score': 0.8794902563095093}]"
+103,2020-12-07 22:59:59+00:00,RT Sweden guided Scott Atlas to herd immunity.  That was a fuck up if their ever was one.,"[{'label': 'Negative', 'score': 0.936657190322876}]"
+104,2020-12-07 22:59:59+00:00,"RT People who have lost health care during the pandemic:
+
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+: 0
+:...","[{'label': 'Neutral', 'score': 0.48934343457221985}]"
+105,2020-12-07 22:59:59+00:00,RT Seasonal depression + pandemic stress is a dangerous combo. If you are a Black or brown therapist working remotely plea...,"[{'label': 'Negative', 'score': 0.7431684732437134}]"
+106,2020-12-07 22:59:59+00:00,RT Ravens have activated Lamar Jackson from the reserve/COVID-19 list,"[{'label': 'Neutral', 'score': 0.9201606512069702}]"
+107,2020-12-07 22:59:59+00:00,RT Leading Covid-19 vaccine makers Pfizer and Moderna decline invitations to White House 'Vaccine Summit',"[{'label': 'Neutral', 'score': 0.5668013691902161}]"
+108,2020-12-07 22:59:59+00:00,"RT 'Johnson was unlucky to be swamped by Covid but he's an author of Brexit.
+Britain's misfortune is a grievously flawed ma...","[{'label': 'Negative', 'score': 0.8721926212310791}]"
+109,2020-12-07 22:59:59+00:00,Legislatures postpone work after Rudy Giuliani Covid diagnosis  the hoax got the hoax,"[{'label': 'Negative', 'score': 0.8363816142082214}]"
+110,2020-12-07 22:59:59+00:00,Airlines Are Betting on a Vaccine Lift to Their Pandemic Financial Struggles,"[{'label': 'Negative', 'score': 0.6052547097206116}]"
+111,2020-12-07 22:59:59+00:00,"RT When a Florida #covid tracker has her home invaded by a man in uniform carrying a gun to take away her computer, etc.","[{'label': 'Negative', 'score': 0.7703033685684204}]"
+112,2020-12-07 22:59:59+00:00,RT HOLY CRAP--Florida whistleblower who revealed that health dept ordered her to manipulate FL #...,"[{'label': 'Negative', 'score': 0.6209742426872253}]"
+113,2020-12-07 23:00:00+00:00,There's another curve to watch and it affects your mental health via,"[{'label': 'Neutral', 'score': 0.529289960861206}]"
+114,2020-12-07 23:00:00+00:00,"Biden picks California attorney general to lead US's post-Trump Covid response, The Guardian #coronavirus #COVID19 #CoronaInfoCH #Corona #COVID #COVID19 #Covid_19 #SARSCoV2 ...
+https://t.co/9NeW6wKUbH","[{'label': 'Neutral', 'score': 0.855270504951477}]"
+115,2020-12-07 23:00:00+00:00,Bryan #Alintoff #LongBranch NJ Father Allegedly Moved to #Middletown #NJ w/ Special Needs Child When All Were Ordered To Shelter In Place Spring 2020 Father Also Blew Off #ABA #Therapy #Court Order 4 Child Many Months Before Pandemic!,"[{'label': 'Negative', 'score': 0.6722949147224426}]"
+116,2020-12-07 23:00:00+00:00,RT Agents raid home of fired Florida data scientist who built COVID-19 dashboard,"[{'label': 'Neutral', 'score': 0.5813966393470764}]"
+117,2020-12-07 23:00:00+00:00,RT We live in a fascist country where scientists who are honest and trying to keep everyone informed have to worry about o...,"[{'label': 'Negative', 'score': 0.8377259969711304}]"
+118,2020-12-07 23:00:00+00:00,"More than 110,000 restaurants have closed permanently or long-term across the country as the industry grapples with the devastating impact of the covid-19 pandemic. ","[{'label': 'Negative', 'score': 0.8123762011528015}]"
+119,2020-12-07 23:00:00+00:00,"Mask project centres Asian and Indigenous pandemic experience
+Artists say their communities have been silenced and face violence during COVID-19 pandemic
+https://t.co/HYkJWolwQo
+#INDIGENOUS #TAIRP 
+@CBCNews","[{'label': 'Negative', 'score': 0.7782854437828064}]"
+120,2020-12-07 23:00:00+00:00,RT The 41st Blue Dragon Film Awards initially scheduled to be held on December 11 will be postponed until early 2021 due to...,"[{'label': 'Negative', 'score': 0.5189483761787415}]"
+121,2020-12-07 23:00:00+00:00,"Born out of the crisis of the pandemic, the Mission Brand Alliance is looking to push consumers to other values-driven brands by banding together.","[{'label': 'Neutral', 'score': 0.6312116384506226}]"
+122,2020-12-07 23:00:00+00:00,A must read!,"[{'label': 'Positive', 'score': 0.9387925267219543}]"
+123,2020-12-07 23:00:00+00:00,#WHO hopes to visit China as soon as possible to study coronavirus origins :Reuters,"[{'label': 'Neutral', 'score': 0.7821423411369324}]"
+124,2020-12-07 23:00:00+00:00,"Patrick's proposed safety measures seem at odds with his partisan pronouncements about COVID-19 earlier this year on TV talk shows. 
+
+https://t.co/BXRovcjpmW","[{'label': 'Negative', 'score': 0.5740032196044922}]"
+125,2020-12-07 23:00:00+00:00,"President-elect Joe Biden on Monday selected Dr. Rochelle Walensky to run the Centers for Disease Control and Prevention when his administration takes office next month.
+https://t.co/3IUiKwxDct","[{'label': 'Neutral', 'score': 0.8440405130386353}]"
+126,2020-12-07 23:00:00+00:00,"Important info to share, send your feedback! #bestpractices #COVID19 #CoronavirusPandemic #PPE #SocialDistancing #WorkplaceWellbeing #workplacewellness #WorkPlaceCulture #workplacesafety #Arizona #az #Phoenix #safeatwork #EssentialWorkers","[{'label': 'Neutral', 'score': 0.5244180560112}]"
+127,2020-12-07 23:00:00+00:00,"Health officials in Appanoose County announce eight new COVID-19 cases 
+https://t.co/fqPaThN7cN
+#KTVONews #AppanooseCounty #COVID19","[{'label': 'Neutral', 'score': 0.8000851273536682}]"
+128,2020-12-07 23:00:00+00:00,"In so many ways, the pandemic is gutting small business. But, one sector is seeing an unexpected boost.
+
+https://t.co/qaAe5s6Odl","[{'label': 'Negative', 'score': 0.5737481713294983}]"
+129,2020-12-07 23:00:00+00:00,There's a process to how dictionaries selected their word of the year for 2020 and how they define them.,"[{'label': 'Neutral', 'score': 0.9374771118164062}]"
+130,2020-12-07 23:00:00+00:00,Chandler merch?! I'm in.,"[{'label': 'Positive', 'score': 0.9376757144927979}]"
+131,2020-12-07 23:00:00+00:00,"This is where we are: Scientist Rebekah Jones was tracking Covid cases in Florida. State police raided her home and confiscated her tech &amp; data.
+
+OH, was this the ""Marxist dictators"" the right was worried would come for their freedoms? YEAH, I thought not.","[{'label': 'Negative', 'score': 0.8087261319160461}]"
+132,2020-12-07 23:00:00+00:00,"Apologies for the profanity - it's infuriating as a scientist at a med school to hear people bring up technicalities related to cycle number as justification for claiming that covid statistics are 'fear porn' when over 15,000 Americans died last week. It's over the top.","[{'label': 'Negative', 'score': 0.9212743043899536}]"
+133,2020-12-07 23:00:00+00:00,"499 New COVID-19 Cases. Plus 3 New Deaths
+12/07/2020
+Attachment:","[{'label': 'Negative', 'score': 0.548772394657135}]"
+134,2020-12-07 23:00:00+00:00,Millions of Americans face eviction in a completely predictable and entirely preventable crisis as the CDC's moratorium is set to expire on New Year's Eve.,"[{'label': 'Negative', 'score': 0.7730175852775574}]"
+135,2020-12-07 23:00:00+00:00,"The recent pandemic&amp; the increasing popularity of #remotework has made #attendancemanagement even more challenging.
+That's why we've covered3attendance management methods you should avoid&amp; share a smarter way to track attendance.
+","[{'label': 'Negative', 'score': 0.6354610323905945}]"
+136,2020-12-07 23:00:00+00:00,"If your plans to visit the Grammy Museum got stalled due to COVID, don't worry. the museum has taken one of their new featured exhibits virtual. The Motown: The Sound Of Young America will now stream every Saturday on its new platform, COLLECTION:live.
+
+#motown","[{'label': 'Neutral', 'score': 0.6619303822517395}]"
+137,2020-12-07 23:00:00+00:00,"New technology will let Californians know if they've been exposed to coronavirus-- in the form of alerts sent straight to your phone.
+https://t.co/dBkkMnlksJ","[{'label': 'Neutral', 'score': 0.8960953950881958}]"
+138,2020-12-07 23:00:00+00:00,"RT FLORIDA... State police brandishing firearms raided the home of Rebekah Jones, former Dept of Health employee who built th...","[{'label': 'Neutral', 'score': 0.5433562994003296}]"
+139,2020-12-07 23:00:00+00:00,"Bonus Show: LA sheriff won't enforce stay-at-home order, lab grown meat goes on sale, the regional dialects of the United States, much more...","[{'label': 'Neutral', 'score': 0.7749289870262146}]"
+140,2020-12-07 23:00:00+00:00,"COVID-19 - guidance for management of children admitted to hospital [Updated 2nd December 2020] - Royal College of Paediatrics and Child Health
+
+#greylit #greyliterature #nglc #COVID19 #Covid19UK #paediatrics 
+
+https://t.co/tjXgj790Eu","[{'label': 'Neutral', 'score': 0.8754246830940247}]"
+141,2020-12-07 23:00:00+00:00,"Governor Andrew Cuomo ordered all hospitals to increase their bed capacity by 25% on Monday, as COVID-19 hospitalizations increase once again across the state.","[{'label': 'Neutral', 'score': 0.8089380264282227}]"
+142,2020-12-07 23:00:00+00:00,"RT UN warned on Friday that 20 million people face the threat of famine in Nigeria, South Sudan, Somalia, and Yemen in 2021 and t...","[{'label': 'Negative', 'score': 0.7750334739685059}]"
+143,2020-12-07 23:00:00+00:00,"University of Nebraska President Ted Carter, speaking Monday at a press conference with Gov. Pete Ricketts, said the NU campuses plan to have significantly more testing in bringing students back.","[{'label': 'Neutral', 'score': 0.9113649725914001}]"
+144,2020-12-07 23:00:00+00:00,"To honor the heroes of 2020, partnered with  to tell the true heroic stories of nurses on the frontlines of #COVID19.","[{'label': 'Positive', 'score': 0.8701985478401184}]"
+145,2020-12-07 23:00:00+00:00,"The mystery illness first popped up over the weekend. Patients have tested negative for COVID-19 and other viral diseases such as dengue, chikungunya or herpes.","[{'label': 'Neutral', 'score': 0.49500077962875366}]"
+146,2020-12-07 23:00:00+00:00,RT I've spoken to many doctors and nurses. This is a clean version of what they're all saying.,"[{'label': 'Neutral', 'score': 0.7457863688468933}]"
+147,2020-12-07 23:00:00+00:00,Today's #FactoftheDay is a somber one. #COVID19,"[{'label': 'Negative', 'score': 0.7099260091781616}]"
+148,2020-12-07 23:00:00+00:00,"Not only can the pandemic hard on your mental health, it can take a toll on your oral health, too.","[{'label': 'Negative', 'score': 0.8225045800209045}]"
+149,2020-12-07 23:00:00+00:00,"Residents seeking COVID-19 testing now have access to nasal swab testing, cheek swab testing and saliva testing sites at these Arlington locations ","[{'label': 'Neutral', 'score': 0.9162779450416565}]"
+150,2020-12-07 23:00:00+00:00,"RT Holy shit. Rebekah Jones, the whistleblower who refused to fake COVID data in Florida, had her house raided this morning at g...","[{'label': 'Negative', 'score': 0.7720190286636353}]"
+151,2020-12-07 23:00:00+00:00,"""There's a light at the end of the tunnel,"" Mark Baxter told News4jax in April. ""We're thinking next week, it's going to get real bright for us!
+
+","[{'label': 'Positive', 'score': 0.8978890776634216}]"
+152,2020-12-07 23:00:00+00:00,"Report | Serum Institute seeks emergency authorisation for Oxford COVID-19 vaccine Covishield in India.
+
+https://t.co/1QKhfE9cSA","[{'label': 'Neutral', 'score': 0.9299072027206421}]"
+153,2020-12-07 23:00:00+00:00,"RT According to Doctor Dave Moskowitz - the cure is Quercetin
+
+https://t.co/UzTdmEKoya","[{'label': 'Neutral', 'score': 0.7977407574653625}]"
+154,2020-12-07 23:00:01+00:00,"This #PirateProfile -- new Morgan Gillespie -- may not have landed on a path to a career in theater if not for an unsuccessful basketball tryout.
+
+Learn how is aiming for a new stage once the #COVID19 pandemic ends 
+https://t.co/1ONeKKKdbW","[{'label': 'Neutral', 'score': 0.5254712104797363}]"
+155,2020-12-07 23:00:01+00:00,#COVID19 cases in San Francisco have quadrupled over the last month. We are in the worst situation yet with this virus. Cancel any holiday travel plans and stay home to save lives.,"[{'label': 'Negative', 'score': 0.9038407206535339}]"
+156,2020-12-07 23:00:01+00:00,"Throwing out the fish is UNH Hockey protocol, even if the fish has to follow COVID-19 protocol ","[{'label': 'Negative', 'score': 0.5093726515769958}]"
+157,2020-12-07 23:00:01+00:00,Nottingham Christmas market closed after 24 hours due to overcrowding and a lack of social distancing,"[{'label': 'Negative', 'score': 0.6958311200141907}]"
+158,2020-12-07 23:00:01+00:00,"RT For those of you who said they'd take their mum out of care, realise this is not always possible in the UK at th...","[{'label': 'Neutral', 'score': 0.5842614769935608}]"
+159,2020-12-07 23:00:01+00:00,"How do you finish a documentary on the coronavirus outbreak in Wuhan, China, if the film crews capturing the situation stop working with you? Find out in the latest episode of the On Docs podcast, as talks to filmmaker Hao Wu (@beijingloafer)","[{'label': 'Neutral', 'score': 0.5644274950027466}]"
+160,2020-12-07 23:00:01+00:00,Airlines suffering economically due to the pandemic are prepping for key roles in the mass vaccine rollout that promises to unlock an immediate boost for the sector. Read more,"[{'label': 'Neutral', 'score': 0.5145249366760254}]"
+161,2020-12-07 23:00:01+00:00,'RHOBH's Kyle Richards Tests Positive For COVID-19,"[{'label': 'Neutral', 'score': 0.8205859661102295}]"
+162,2020-12-07 23:00:01+00:00,"RT Amid the pandemic, US poll workers risked their health to handle the election || Via Guardian","[{'label': 'Neutral', 'score': 0.6426509022712708}]"
+163,2020-12-07 23:00:01+00:00,"The holidays can be especially challenging for those who struggle with mental illness and substance misuse. Check out Lauren Simonds' (@NAMIWashington) and Sen. Manka Dhingra's article to learn about the resources available for those in need.
+
+https://t.co/ZKcSJkxb4u","[{'label': 'Neutral', 'score': 0.8177785277366638}]"
+164,2020-12-07 23:00:01+00:00,"COVID-19 was detected in wastewater from University Village and Clark Kerr Campus. 
+
+UC Berkeley has encouraged students from campus-owned housing units to get tested and has set up free on-site testing at University Village. Story by","[{'label': 'Neutral', 'score': 0.93248450756073}]"
+165,2020-12-07 23:00:01+00:00,RT if we can't have another lockdown because businesses need to stay open to get money then how come there has been no rent...,"[{'label': 'Negative', 'score': 0.5435493588447571}]"

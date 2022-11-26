@@ -1,0 +1,291 @@
+,created_at,full_text,sentiment_score
+0,2021-12-04 16:59:54+00:00,Good thread on vaccine effectiveness,"[{'label': 'Positive', 'score': 0.8328151702880859}]"
+1,2021-12-04 16:59:54+00:00,That's a misleading headline that doesn't match other research. I think it was from the cherry picked cdc data that wasn't peer reviewed? This paper is preprint still but much better data,"[{'label': 'Negative', 'score': 0.8534210324287415}]"
+2,2021-12-04 16:59:55+00:00,"RT Twelve Alameda County residents who attended a wedding in Wisconsin last week tested positive for COVID-19, and five of them ha...","[{'label': 'Neutral', 'score': 0.5989961624145508}]"
+3,2021-12-04 16:59:55+00:00,"RT Lucy Allan MP, calling openly and explicitly for the police to disregard Number 10 breaking lockdown law last year.
+
+T...","[{'label': 'Neutral', 'score': 0.5275093913078308}]"
+4,2021-12-04 16:59:55+00:00,"RT Hello guys!!!!! We all want live shows to continue so please please follow protocols, keep your face masks on and observe s...","[{'label': 'Positive', 'score': 0.4911347031593323}]"
+5,2021-12-04 16:59:55+00:00,No one is or has been in a pandemic.,"[{'label': 'Neutral', 'score': 0.5060538649559021}]"
+6,2021-12-04 16:59:55+00:00,"RT Covid is a deadly pandemic. It killed science, logic, evidence-based medicine, and common sense ","[{'label': 'Negative', 'score': 0.9312754273414612}]"
+7,2021-12-04 16:59:55+00:00,RT This is how companies are responding to employees during a pandemic after being forced to increase a couple...,"[{'label': 'Neutral', 'score': 0.6729916334152222}]"
+8,2021-12-04 16:59:55+00:00,RT This is so true?  Why is treated this way?  The economy is on fire.   He is actually dealing with the reality o...,"[{'label': 'Negative', 'score': 0.6533765196800232}]"
+9,2021-12-04 16:59:55+00:00,Why is this a thing with drunk dudes?  Hayes had security eject a drunk in Annapolis last month.  Wish these losers would stay home so the rest of us can enjoy the show,"[{'label': 'Negative', 'score': 0.9272274374961853}]"
+10,2021-12-04 16:59:55+00:00,"RT Right now, it makes a refreshing change to read an article on the Omicron variant that displays balance and reassurance....","[{'label': 'Positive', 'score': 0.8958441019058228}]"
+11,2021-12-04 16:59:55+00:00,RT The Omnicron variant is just another example of how COVID will be prolonged if rich nations and Big Pharma keep blocking...,"[{'label': 'Negative', 'score': 0.7751947641372681}]"
+12,2021-12-04 16:59:55+00:00,"RT #WATCH Government has signed off on reintroducing a range of #COVID19 restrictions, blaming stubbornly high virus case...","[{'label': 'Neutral', 'score': 0.666476309299469}]"
+13,2021-12-04 16:59:55+00:00,RT Govt scientists calling for work from home measures and vaccine passports even though the majority of Omicron cases in th...,"[{'label': 'Neutral', 'score': 0.8783820271492004}]"
+14,2021-12-04 16:59:55+00:00,"RT Thousands of Sailors, Marines Remain Unvaccinated After Deadline --Abusive Biden Vaccine Mandate Set to Undermine National D...","[{'label': 'Negative', 'score': 0.7373098134994507}]"
+15,2021-12-04 16:59:55+00:00,Hawks gotta win,"[{'label': 'Neutral', 'score': 0.5287134051322937}]"
+16,2021-12-04 16:59:55+00:00,"RT Fun fact of the day:
+
+The Omicron variant has been detected in 38 countries and not a single person has died from it.","[{'label': 'Neutral', 'score': 0.5101946592330933}]"
+17,2021-12-04 16:59:55+00:00,Most of those dying from Covid are unvaccinated.,"[{'label': 'Negative', 'score': 0.6778437495231628}]"
+18,2021-12-04 16:59:55+00:00,I guess she doesn't realize that there is not a vaccine for cancer.,"[{'label': 'Negative', 'score': 0.7827004194259644}]"
+19,2021-12-04 16:59:56+00:00,"RT Reminder of the drop-in Covid vaccination sessions tomorrow, Sun 5 Dec from 8.15am - 7.30pm, at Alistair McCoist Compl...","[{'label': 'Neutral', 'score': 0.9528952240943909}]"
+20,2021-12-04 16:59:56+00:00," I love rain so much i will never complain about it even if it rain the whole month
+
+Covid-19 and load shedding are my worse enemies ","[{'label': 'Positive', 'score': 0.5786740183830261}]"
+21,2021-12-04 16:59:56+00:00,The Origi on Variant.,"[{'label': 'Neutral', 'score': 0.8566252589225769}]"
+22,2021-12-04 16:59:56+00:00,11 Australian Nurses Blow The Whistle On COVID Vaccine Side Effects:    @MaajidNawaz @DrAseemMalhotra ,"[{'label': 'Neutral', 'score': 0.70667964220047}]"
+23,2021-12-04 16:59:56+00:00,"RT So now the twatter ""fact check"" geeks know more than the experts at the American Heart Association. WTF? If you don't unders...","[{'label': 'Negative', 'score': 0.5206018686294556}]"
+24,2021-12-04 16:59:56+00:00,"Go look at the splits of these stars. It's a league wide issue that I don't think folks talking about enough. Esp ones who had COVID
+
+Embiid
+Tatum
+Dame
+AD
+PG
+Shai
+Harden
+DFox
+DLo","[{'label': 'Neutral', 'score': 0.61823570728302}]"
+25,2021-12-04 16:59:56+00:00,"RT COVID outbreak at west Toronto hosp. Staff (vaccinated+droplet/contact PPE) infected via patient.
+
+IPAC concluded outbrea...","[{'label': 'Negative', 'score': 0.5280719995498657}]"
+26,2021-12-04 16:59:56+00:00,"RT Obsession with ""vaccinating"" absolutely everyone is glaring. It's a tell. If the shots were safe and effective, high com...","[{'label': 'Negative', 'score': 0.5072647333145142}]"
+27,2021-12-04 16:59:56+00:00,"RT When the pandemic began, I was 22. I'll be 25 next year.","[{'label': 'Neutral', 'score': 0.8231253623962402}]"
+28,2021-12-04 16:59:56+00:00,"RT I really don't think people understand just how bad this Covid Passport actually is. Look into it, it's not just checki...","[{'label': 'Negative', 'score': 0.9477186799049377}]"
+29,2021-12-04 16:59:56+00:00,RT Healthcare workers are about to enter the third year of the pandemic and they have every right to be pissed about it,"[{'label': 'Negative', 'score': 0.8613729476928711}]"
+30,2021-12-04 16:59:56+00:00,Sienna is trying to keep her emotions together. Having a cheating husband and constantly pregnant can take a toll on a sista! She is looking beautiful as always. Currently she's a stay at home mom. She quit her job as a programmer to be a stay at home more.,"[{'label': 'Positive', 'score': 0.7306644320487976}]"
+31,2021-12-04 16:59:56+00:00,I do not wish for more people die  Covid but I do not go along with mandatory vaccines as pandemics do not need  vaccines to wane as this list clearly shows,"[{'label': 'Negative', 'score': 0.7611711621284485}]"
+32,2021-12-04 16:59:56+00:00,"RT Nooooo!!!  Now over 100/120 people at the Norwegian restaurant have covid!
+
+Do you all understand that this is not...","[{'label': 'Negative', 'score': 0.872437596321106}]"
+33,2021-12-04 16:59:56+00:00,"Cancer is horrible. If all it took to avoid cancer deaths was a vaccine, masking and washing hands most normal people would comply.","[{'label': 'Negative', 'score': 0.6648464798927307}]"
+34,2021-12-04 16:59:56+00:00,"I was excited to collab with another up-and-coming artist in SF who became a street artist in the pandemic. You might have seen her ""Street Hearts"", either with pallet knifed paint and / or sparkly gems. These works are incredibly fun and hav...","[{'label': 'Positive', 'score': 0.981438159942627}]"
+35,2021-12-04 16:59:57+00:00,RT 221 fines were issued in the Telford region for breaking lockdown rules last Christmas: their M...,"[{'label': 'Negative', 'score': 0.5365321636199951}]"
+36,2021-12-04 16:59:57+00:00,RT you're the exact reason the rest of us wanna stay home,"[{'label': 'Neutral', 'score': 0.3967733085155487}]"
+37,2021-12-04 16:59:57+00:00,Heart Association is now BS,"[{'label': 'Negative', 'score': 0.9020680785179138}]"
+38,2021-12-04 16:59:57+00:00,"RT If vaccines and therapeutics don't end the pandemic, then what does?","[{'label': 'Negative', 'score': 0.6250644326210022}]"
+39,2021-12-04 16:59:57+00:00,RT How is this not the onion?,"[{'label': 'Neutral', 'score': 0.652874231338501}]"
+40,2021-12-04 16:59:57+00:00,"Rules in place for schools to have children vaccinated have been in effect for years here in the States. What you and others do is incorporate the rules for a Pandemic into outrages claims. Your rules are ""Where in a Pandemic, do what you want"" and then compare to Nazi Germany.","[{'label': 'Negative', 'score': 0.669014573097229}]"
+41,2021-12-04 16:59:57+00:00,"Vaccinated boosted patients are 20x less likely vs unvaccinated to develop severe COVID requiring hospitalization. 
+
+If you had to take a medicine every day to prevent getting sick, would you be annoyed you had to keep taking it?","[{'label': 'Negative', 'score': 0.5174311399459839}]"
+42,2021-12-04 16:59:57+00:00,No need to worry for new guidelines. Our turnaround is always reliable. #ctcaruba #cdc #travel #testfortravel #traveltesting #fittofly #covidtravel #antigen,"[{'label': 'Positive', 'score': 0.6928222179412842}]"
+43,2021-12-04 16:59:57+00:00,All to do with money. Absolute shocking Taoiseach. And I'd say there is worse to come from him and that other clown Leo,"[{'label': 'Negative', 'score': 0.9155045747756958}]"
+44,2021-12-04 16:59:57+00:00,"I am 72 and do not plan to be vaccinated. I have lupus and my  immune system is already compromised.  I also had C19, the first batch China spread a 1 1/2 ago, and do not wear a mask unless I absolutely have to. Many seniors are not vaccinated! My choice","[{'label': 'Negative', 'score': 0.8500024676322937}]"
+45,2021-12-04 16:59:57+00:00,RT you're the exact reason the rest of us wanna stay home,"[{'label': 'Neutral', 'score': 0.3967733085155487}]"
+46,2021-12-04 16:59:57+00:00,RT The Omnicron variant is just another example of how COVID will be prolonged if rich nations and Big Pharma keep blocking...,"[{'label': 'Negative', 'score': 0.7751947641372681}]"
+47,2021-12-04 16:59:57+00:00,"#VinodDua , veteran journalusr passed away after battle with covid. #COVID19 is still around and fatal. Pl mask up, follow safe practices and maintain  social distance.","[{'label': 'Negative', 'score': 0.6602426767349243}]"
+48,2021-12-04 16:59:57+00:00,"COVID deaths are PREVENTABLE, as are hospitalizations, you twit. #GetVaccinatedNow Stop with the Free Dum messaging.","[{'label': 'Negative', 'score': 0.7845276594161987}]"
+49,2021-12-04 16:59:58+00:00,RT One of the most disturbing aspects of this entire crisis is seeing how easy it is for 5 million people to die from a highly c...,"[{'label': 'Negative', 'score': 0.9370959997177124}]"
+50,2021-12-04 16:59:58+00:00,RT The Dutch walk the streets today to end their lockdown.,"[{'label': 'Neutral', 'score': 0.9189465045928955}]"
+51,2021-12-04 16:59:58+00:00,"RT SHOCKING: In the wake of Austria's drastic lockdown of unvaccinated people, EU chief calls for throwing out Nuremberg Code |...","[{'label': 'Negative', 'score': 0.6747646927833557}]"
+52,2021-12-04 16:59:58+00:00,RT I respect the hustle,"[{'label': 'Positive', 'score': 0.739855945110321}]"
+53,2021-12-04 16:59:58+00:00,"RT Step 1: Get your booster shot.
+
+Step 2: Safely store your card in a safe place, away from hungry/bored pups!
+
+For the recor...","[{'label': 'Neutral', 'score': 0.8048527240753174}]"
+54,2021-12-04 16:59:58+00:00,RT A huge protest today in Austria against COVID law.,"[{'label': 'Negative', 'score': 0.6271671056747437}]"
+55,2021-12-04 16:59:58+00:00,RT Norwegian  Christmas #Omicron party.... That Norwegian work outbreak is now up to ~100 out of 120 attendees testing #COVID1...,"[{'label': 'Neutral', 'score': 0.7621334791183472}]"
+56,2021-12-04 16:59:58+00:00,The reason lots of unvaccinated conservatives are dying is because you fall for nonsense conspiracy theories so easily.,"[{'label': 'Negative', 'score': 0.897204577922821}]"
+57,2021-12-04 16:59:58+00:00,RT The Biden administration was dealt a setback in federal court late on Friday when the White House's attempt to dissolve a...,"[{'label': 'Neutral', 'score': 0.5081648826599121}]"
+58,2021-12-04 16:59:58+00:00,"RT Since the start of the pandemic, they have been closely scrutinizing how the virus changes in South Africa because they ar...","[{'label': 'Neutral', 'score': 0.8976119160652161}]"
+59,2021-12-04 16:59:58+00:00,"RT It sure feels like Republicans are pro-Covid.
+
+Is it just me?","[{'label': 'Neutral', 'score': 0.49807730317115784}]"
+60,2021-12-04 16:59:58+00:00,"Tweeting thinly veiled attacks on elderly and obese people alongside COVID-19 misinformation which, if followed, will potentially kill your adherents, is evil. I do not believe that you actually believe in God, because if you did you would be afraid of facing him after this.","[{'label': 'Negative', 'score': 0.9240016341209412}]"
+61,2021-12-04 16:59:58+00:00,RT I can't fucking do this again. I can't. It's like hearing about each new COVID variant popping up,"[{'label': 'Negative', 'score': 0.9183908700942993}]"
+62,2021-12-04 16:59:58+00:00,"RT In the last 48 hours:
+Twitter slapped a ""suspicious link"" on an AHA article describing cardiotoxicity of mRNA vaccine,...","[{'label': 'Negative', 'score': 0.567999005317688}]"
+63,2021-12-04 16:59:58+00:00,We agree,"[{'label': 'Neutral', 'score': 0.5316608548164368}]"
+64,2021-12-04 16:59:58+00:00,"RT The South Africa President refuses vaccine mandates and vaccine passports.
+
+Bravo.
+https://t.co/PqPaCXqjBk","[{'label': 'Neutral', 'score': 0.5442456007003784}]"
+65,2021-12-04 16:59:58+00:00,RT Phineas and Ferb would've handled covid in 2 episodes max,"[{'label': 'Neutral', 'score': 0.609885573387146}]"
+66,2021-12-04 16:59:59+00:00,"RT If you haven't already, vote for Bob.","[{'label': 'Neutral', 'score': 0.7090158462524414}]"
+67,2021-12-04 16:59:59+00:00,"RT Germany  has the strictest mask mandate in the world (with N95 masks).
+
+They have succeeded in flattening the curve, but...","[{'label': 'Neutral', 'score': 0.7687808275222778}]"
+68,2021-12-04 16:59:59+00:00,"RT School closures should be off the table. If there's concern about COVID infection in children, there's a safe and effectiv...","[{'label': 'Neutral', 'score': 0.5692799091339111}]"
+69,2021-12-04 16:59:59+00:00,"RT This is an important ruling. 
+Doesn't change the rules but does confirm that the House establishes its own rules, not the...","[{'label': 'Positive', 'score': 0.7089405059814453}]"
+70,2021-12-04 16:59:59+00:00,"RT As we expected, has found three additional cases of the omicron variant in New York State, bringing the to...","[{'label': 'Neutral', 'score': 0.8518168330192566}]"
+71,2021-12-04 16:59:59+00:00,"RT ""Tomorrow we must decide which country we want to buy.""
+
+Simon Gruber","[{'label': 'Neutral', 'score': 0.9292967915534973}]"
+72,2021-12-04 16:59:59+00:00,"RT Homophobic and transphobic hate crimes surged after COVID lockdown lifted, figures show","[{'label': 'Negative', 'score': 0.8658773899078369}]"
+73,2021-12-04 16:59:59+00:00,RT I don need government to protect me from a flu virus. That leads to trampling on my liberties.I need the federal governm...,"[{'label': 'Negative', 'score': 0.8173699378967285}]"
+74,2021-12-04 16:59:59+00:00,Covid is murdering the EU.,"[{'label': 'Negative', 'score': 0.9207494258880615}]"
+75,2021-12-04 16:59:59+00:00,"RT In my latest article for I talk with director about her lovely new Netflix movie MIXTAPE,...","[{'label': 'Positive', 'score': 0.7903450727462769}]"
+76,2021-12-04 16:59:59+00:00,"RT The Metropolitan Police have said ""It is our policy not to routinely investigate retrospective breaches of the Covid 19...","[{'label': 'Neutral', 'score': 0.7779219746589661}]"
+77,2021-12-04 16:59:59+00:00,"Retweet guys
+
+Request you to consider this ","[{'label': 'Neutral', 'score': 0.7646201848983765}]"
+78,2021-12-04 16:59:59+00:00,"RT This is my friend Joe, he died from suicide whilst you scumbags stole our money, failed to fund mental health services a...","[{'label': 'Negative', 'score': 0.9450923204421997}]"
+79,2021-12-04 16:59:59+00:00,What difference does it make if covid mutates within a vaccinated or unvaccinated person?,"[{'label': 'Neutral', 'score': 0.8212093114852905}]"
+80,2021-12-04 16:59:59+00:00,"RT ROAR LIKE SHER UMAR 
+SK going on Umar's profession for the  nth time. Covid ke time pe everyone compared doctors to God n...","[{'label': 'Neutral', 'score': 0.5098199248313904}]"
+81,2021-12-04 16:59:59+00:00,RT 9 months ago today I collapsed at home 14 days after my 1st AstraZeneca. I'm here when I shouldn't be. I lost my left leg from...,"[{'label': 'Negative', 'score': 0.8773006796836853}]"
+82,2021-12-04 17:00:00+00:00,RT Activists flocked to Times Square on November 30 to call for greater access to COVID-19 vaccines around the world -- especi...,"[{'label': 'Neutral', 'score': 0.8041703104972839}]"
+83,2021-12-04 17:00:00+00:00,NYC Hollywood.    That no one cares about.,"[{'label': 'Negative', 'score': 0.7679727077484131}]"
+84,2021-12-04 17:00:00+00:00,RT So what was the point of this exercise? Delaying the travel ban by three days gave the variant a few hundred chances to arriv...,"[{'label': 'Negative', 'score': 0.561177134513855}]"
+85,2021-12-04 17:00:00+00:00,"RT A man who put superglue on the lock of a Covid-19 vaccination centre, preventing 504 people from getting jabs, has been jailed...","[{'label': 'Negative', 'score': 0.7841665148735046}]"
+86,2021-12-04 17:00:00+00:00,"NIH director urges boosters in the face of omicron: ""People who get a booster, there's something about that that both boosts the level of antibodies, but also the breath of their protection against other spikes that we haven't even seen before.""
+https://t.co/LtOXxBsKgN","[{'label': 'Positive', 'score': 0.5521308779716492}]"
+87,2021-12-04 17:00:00+00:00,"Concerns over new #Covid19 variant #Omicron, as well as continued foreign fund outflows, will keep Indian rupee subdued during the upcoming week.
+
+#fuel #pertol #diesel 
+https://t.co/GxMcczOBBX","[{'label': 'Negative', 'score': 0.6603615283966064}]"
+88,2021-12-04 17:00:00+00:00,"Taking cognizance of the rising number of cases, the Centre has already imposed various restrictions for stringent surveillance at the airports and tightened testing measures.
+
+https://t.co/2gdSimNAoe","[{'label': 'Neutral', 'score': 0.7949798703193665}]"
+89,2021-12-04 17:00:00+00:00,"A look at omicron variant's spread in South Africa:
+ 
+@RichardEngel speaks with Dr. Richard Lessells, one of the first scientists to study the variant's genetics, about its rapid spread.","[{'label': 'Neutral', 'score': 0.9403724074363708}]"
+90,2021-12-04 17:00:00+00:00,Total holiday retail sales in 2020 reached $789.4 billion despite the pandemic. Support a small business this weekend by shopping small and get started on your holiday gift list.  #SmallBusinessSaturday #ShopSmall,"[{'label': 'Positive', 'score': 0.8642938733100891}]"
+91,2021-12-04 17:00:00+00:00,"The #COVID19 #pandemic of #2020 caused great #travel restrictions, but #traveljournal #writer Melvyn Penn manages to visit 4 locations that year- #Kent #DevonandCornwall #Athens and #Fuerteventura #GiveTheGiftofaBook #Christmas
+
+https://t.co/FDSCTh6anh","[{'label': 'Neutral', 'score': 0.6322078108787537}]"
+92,2021-12-04 17:00:00+00:00,"Higher hospital admissions among #children during a fourth wave of #COVID19 infections in #SouthAfrica that is driven by the #Omicron variant should prompt vigilance but not panic as #infections have been mild, a health official said.
+
+Read more:","[{'label': 'Neutral', 'score': 0.6807306408882141}]"
+93,2021-12-04 17:00:00+00:00,"Too many variants, too little time. Will Omicron and its relatives doom sports for good? and doubt it. 
+
+They analyze resiliency in the age of COVID and more on The Long Game. Check out our wrap up on","[{'label': 'Negative', 'score': 0.6260354518890381}]"
+94,2021-12-04 17:00:00+00:00,"As of 8am today, 487 COVID-19 patients are hospitalised, of which 114 are in ICU.
+
+https://t.co/qkDjGPTn5y","[{'label': 'Negative', 'score': 0.5613465309143066}]"
+95,2021-12-04 17:00:00+00:00,"All three cases involve residents located in the Baltimore Metropolitan area.
+
+https://t.co/twXrlIltY5","[{'label': 'Neutral', 'score': 0.7639498114585876}]"
+96,2021-12-04 17:00:00+00:00,"RT Vaccine Passports will not reduce spread, they will not save lives &amp; cannot be attributed to these claims ANYWHERE in the worl...","[{'label': 'Negative', 'score': 0.8865652084350586}]"
+97,2021-12-04 17:00:00+00:00,"Brown is working with to offer a COVID-19 booster shot clinic on campus, according to a Friday announcement. The University also plans to transition the Alumnae Hall testing site to self-administered testing only. 
+
+https://t.co/QQR4hzhvQ0","[{'label': 'Neutral', 'score': 0.9226964712142944}]"
+98,2021-12-04 17:00:00+00:00,"RT  There's a lot we don't yet understand about Omicron, including its impact on immunity and what it means for vaccines. New...","[{'label': 'Neutral', 'score': 0.8200910687446594}]"
+99,2021-12-04 17:00:00+00:00,Some Berkshire areas have more COVID cases than the national average #slough #windsor #maidenhead,"[{'label': 'Neutral', 'score': 0.5291405320167542}]"
+100,2021-12-04 17:00:00+00:00,RT So forcing you to wear a mask is unconstitutional but forcing you to give birth is not. This is beyond the upside down wor...,"[{'label': 'Negative', 'score': 0.705513060092926}]"
+101,2021-12-04 17:00:00+00:00,"It's Happy Hour..
+Well, actually its happy 2 hours!
+&gt; 2-4-1 Cocktails, Prosecco, Wine, Budweiser, Corona
+&gt; PS4 single gin w/ mixer
+&gt; PS6 double gin w/ mixer
+
+Treat yourself, it's been a long week!","[{'label': 'Positive', 'score': 0.9454363584518433}]"
+102,2021-12-04 17:00:00+00:00,"Don't forget to go back for your second COVID-19 vaccine dose! If you received the Pfizer or Moderna vaccines, you won't be fully immunized against the virus until two weeks after your second shot. Find a vaccine site here:","[{'label': 'Neutral', 'score': 0.6867479085922241}]"
+103,2021-12-04 17:00:00+00:00,"The new highly transmissible variant of COVID has been found in Minnesota, it's important to make sure you're vaccinated and wear a mask to keep you and your community safe!https://t.co/j60yr8Hf0v","[{'label': 'Neutral', 'score': 0.5945941209793091}]"
+104,2021-12-04 17:00:00+00:00,"This country has been through world wars, terrorist attacks, recessions, natural disasters - you name it...BUT, we ALWAYS fought back, we NEVER backed down.
+
+So, why does the Coronavirus, with a recovery rate of over 99% crippled us?
+
+We discuss THIS SUNDAY at 7pm ET on","[{'label': 'Negative', 'score': 0.6663751006126404}]"
+105,2021-12-04 17:00:00+00:00,"LOOK: San Juan rolls out expanded #COVID19 booster shot coverage
+
+https://t.co/IA4c2fkh1b","[{'label': 'Neutral', 'score': 0.7801439762115479}]"
+106,2021-12-04 17:00:00+00:00,"RT #Cryptocurrency traders! 
+
+When did you realize that Panic Buying and Panic Selling are bad?","[{'label': 'Negative', 'score': 0.6107633709907532}]"
+107,2021-12-04 17:00:00+00:00,"From the earliest months of the pandemic, scientists have suspected that COVID-19 is not just a disease of the lungs, but also a disease of the heart and blood vessels. ","[{'label': 'Negative', 'score': 0.6347565650939941}]"
+108,2021-12-04 17:00:00+00:00,"Hiring a Virtual Assistant might seem like the easiest thing in the world.
+It's all possible at Virtual Works
+Book an Appointment:
+Calendly:  #VWph #workfromhome #covid","[{'label': 'Positive', 'score': 0.8906622529029846}]"
+109,2021-12-04 17:00:00+00:00,I read today that some on the Right are deeming ICU nurses to be witches because many who are still dying from COVID in the hospital are Born-Agains who refused to get  the vaccine. That sort of sums up how these Right-Wing nutters think. Pretty pathetic.,"[{'label': 'Negative', 'score': 0.9014257788658142}]"
+110,2021-12-04 17:00:00+00:00,"You must wear a face covering in shops and on public transport in England, unless exempt. 
+
+Face coverings will help to protect you and those around you from catching or spreading COVID-19 this Christmas. 
+
+Find out how the new rules affect you 
+https://t.co/WRUYqifkzN","[{'label': 'Neutral', 'score': 0.805831789970398}]"
+111,2021-12-04 17:00:00+00:00,"Before the pandemic, Bystander Intervention Training for incoming students was mandatory. However, this fall lacked the workshop, which shows ""how to safely intervene in situations of alcohol consumption, sexual assault, or harassment."" Read more: 
+https://t.co/F2yuaXHl9D","[{'label': 'Negative', 'score': 0.49734166264533997}]"
+112,2021-12-04 17:00:00+00:00,"Each person tested for COVID-19 at the Park City Senior Center today from 2-5:30 pm will get a $25 gift card to Wal-Mart, Amazon, Dillons or Regal Cinema. Plus, each tested person's household will get a ham while supplies last! Vaccine incentives also available!","[{'label': 'Neutral', 'score': 0.5190522074699402}]"
+113,2021-12-04 17:00:00+00:00,"RT Cancer, unlike COVID, ain't contagious.
+
+Idiot.","[{'label': 'Negative', 'score': 0.7911109924316406}]"
+114,2021-12-04 17:00:00+00:00,"All you need to know. 
+
+- COVID-19 
+
+- Bag Policy 
+
+- Tickets 
+
+Heading to the tomorrow? 
+
+For more information click here ","[{'label': 'Neutral', 'score': 0.9021673202514648}]"
+115,2021-12-04 17:00:00+00:00,"Oh hey #ygk! We're geared up for a great Saturday here at the Brewery. Stop in to pick up some brews to take home or stay and have one in the Taproom!
+
+#beer #craftbeer #drinklocal #ygkcraft #skeletonparkbrewery","[{'label': 'Positive', 'score': 0.9743189215660095}]"
+116,2021-12-04 17:00:00+00:00,Watch out for a big leap in the %s for the next update though. I think #Omicron is going to shake things up a bit as far as reinfections are concerned. ,"[{'label': 'Neutral', 'score': 0.6763350963592529}]"
+117,2021-12-04 17:00:00+00:00,".@YellowstoneNPS has already surpassed its previous record of visitors with about 4.8 million this year. The park dealt with this increase of visitors while still feeling the impact of the pandemic. While it was a stressful season, it was also successful.","[{'label': 'Positive', 'score': 0.9306231141090393}]"
+118,2021-12-04 17:00:00+00:00,"Scientists have said this is how long it could potentially take for the pandemic to settle to a predictable endemic state
+https://t.co/1dq4QpvOQq","[{'label': 'Neutral', 'score': 0.7562552094459534}]"
+119,2021-12-04 17:00:00+00:00,"RT Fresh off the heels of his post-Covid mixtape Return To Innocence, it's Hungarian DJ/producer Route 8 on our Budapest bro...","[{'label': 'Neutral', 'score': 0.9158161878585815}]"
+120,2021-12-04 17:00:00+00:00,In the clip she calls for a test-or-vaccine requirement for vaccine travel immediately after the line quoted in the original tweet,"[{'label': 'Neutral', 'score': 0.9001671075820923}]"
+121,2021-12-04 17:00:00+00:00,Thousands could soon lose - or sell - their homes as Covid mortgage bailouts expire ,"[{'label': 'Negative', 'score': 0.8011569976806641}]"
+122,2021-12-04 17:00:00+00:00,"Fact Check Team: A look at the NFL's COVID controversies
+https://t.co/zC6UHlsPOv","[{'label': 'Neutral', 'score': 0.8509144186973572}]"
+123,2021-12-04 17:00:00+00:00,Africa requires $7.1Trn 'New Deal' to recover from pandemic - ECA [@thenewsnigeria],"[{'label': 'Neutral', 'score': 0.897003710269928}]"
+124,2021-12-04 17:00:00+00:00,"RT ""GPs in England get green light to provide less care and join Covid jab drive""
+
+Yeah, this seems like a good idea: deserting...","[{'label': 'Neutral', 'score': 0.585726797580719}]"
+125,2021-12-04 17:00:00+00:00,RT Norwegian  Christmas #Omicron party.... That Norwegian work outbreak is now up to ~100 out of 120 attendees testing #COVID1...,"[{'label': 'Neutral', 'score': 0.7621334791183472}]"
+126,2021-12-04 17:00:00+00:00,"Scott Atlas releases book blasting bureaucrats for misleading Trump in Covid response
+https://t.co/Cg1eDKibuO","[{'label': 'Neutral', 'score': 0.6806540489196777}]"
+127,2021-12-04 17:00:00+00:00,"RT The advisory committee also said that adults aged 18 to 49 ""may be offered"" a booster dose, though this recommendation was...","[{'label': 'Neutral', 'score': 0.9148867130279541}]"
+128,2021-12-04 17:00:01+00:00,"Do current COVID-19 tests still detect omicron?
+https://t.co/HpTPi0y3dH","[{'label': 'Neutral', 'score': 0.847831130027771}]"
+129,2021-12-04 17:00:01+00:00,"Attention pharmacy students: Are you passionate about playing an active role in addressing opioid epidemic in our state? If so, the Quinnipiack Valley Health District has a part-time job opportunity waiting for you. 
+https://t.co/IxQrS8Iwq9","[{'label': 'Positive', 'score': 0.5971733927726746}]"
+130,2021-12-04 17:00:01+00:00,"RT This explains the 'vicious cycle' I keep talking about. Virus causes endothelitis, platelet hyperactivation &amp; clotting....","[{'label': 'Negative', 'score': 0.5464223027229309}]"
+131,2021-12-04 17:00:01+00:00,"RT So much to unpack here...
+1. Cancer is NOT contagious or airborne
+2. US cancer death rates are down 27% in 20 years. We a...","[{'label': 'Neutral', 'score': 0.6786004900932312}]"
+132,2021-12-04 17:00:01+00:00,#NCDC: #Covid19 #vaccination campaign targets age group 12-17,"[{'label': 'Neutral', 'score': 0.9094246029853821}]"
+133,2021-12-04 17:00:01+00:00,"Medical PPE unfit for women on COVID-19 frontlines
+
+By Laura Owings (@LauraOwings)
+#SouthAfrica 
+https://t.co/YUIQBMwRwa","[{'label': 'Negative', 'score': 0.7139359712600708}]"
+134,2021-12-04 17:00:01+00:00,"#Sylmar has joined the 80% vaccination rate club!
+
+Thank you to all the communities in #AD39 who have made the effort to get vaccinated!
+
+To schedule your vaccine or a booster shot if you're eligible, visit #VaccinesWork #GetVaccinated","[{'label': 'Positive', 'score': 0.9115333557128906}]"
+135,2021-12-04 17:00:01+00:00,"RT Florida just had the worst sustained surge of any state for the entirety of the pandemic. 
+
+Almost 62,000 Floridians hav...","[{'label': 'Negative', 'score': 0.9037958383560181}]"
+136,2021-12-04 17:00:01+00:00,"RT I don't know why is sir ignoring everything here....
+#OnlineRemoteExamJCBOSE 
+@cmohry","[{'label': 'Negative', 'score': 0.8008554577827454}]"
+137,2021-12-04 17:00:01+00:00,RT Federal law could criminalize rich people for taking public resources to develop a vaccine and then hoarding it for profi...,"[{'label': 'Negative', 'score': 0.6422030925750732}]"
+138,2021-12-04 17:00:01+00:00,is committed to transforming evidence from randomized evaluations into scaleable policy. Check out our recent stories on scaling up #Covid19 messaging to stop the spread and on role in the creation of,"[{'label': 'Neutral', 'score': 0.7544934749603271}]"
+139,2021-12-04 17:00:01+00:00,"ICYMI: &amp; joined to discuss the departure of two of VP Kamala Harris' senior aides, the timing of former President Trump's 2020 COVID diagnosis, and much more. Watch our #WashWeekPBS Extra!","[{'label': 'Neutral', 'score': 0.9064012169837952}]"
+140,2021-12-04 17:00:01+00:00,"Rick Grimes [to Negan]: This where you die...in the dark, all alone.
+
+#TheWalkingDead
+Season 8
+The Key
+18 Mar 2018
+#TWD
+All Out War
+King County Sheriff's Department
+Cynthiana, Kentucky
+CDC, Greene Farm, Both Prison Sieges &amp; Terminus Survivor
+The Last Grimes
+Andrew Lincoln","[{'label': 'Neutral', 'score': 0.8040477633476257}]"
+141,2021-12-04 17:00:01+00:00,"""The recent emergence of the Omicron variant further emphasizes the importance of vaccination, boosters, and prevention efforts needed to protect against COVID-19,"" CDC Director Dr. Rochelle Walensky said in a statement. 
+https://t.co/rLDSs8TvDD","[{'label': 'Neutral', 'score': 0.8389449715614319}]"
+142,2021-12-04 17:00:01+00:00,"Free Community #COVID19 Vaccination Clinic!
+ Moderna 1st dose, 2nd dose, and booster shots
+ Pfizer 1st dose, 2nd dose, and booster shots
+ Pfizer vaccines for children 5-11 
+ Flu vaccinations available to all ages
+
+Book your appointment:","[{'label': 'Neutral', 'score': 0.7264878749847412}]"
+143,2021-12-04 17:00:01+00:00,"5. Therefore, to scapegoat individuals that are not vaccinated is wrong. We all make the best decisions that is best for ourselves and our families. FYI, my wife and I are vaccinated. The cost of another lockdown would exceed the incremental detrimental differences due to COVID.","[{'label': 'Neutral', 'score': 0.6319816708564758}]"
+144,2021-12-04 17:00:01+00:00,"RT Pandemic Author Support, Book Launches and Events  21.08.20
+
+Read more  #HorrorTree #P...","[{'label': 'Neutral', 'score': 0.9376031756401062}]"
+145,2021-12-04 17:00:01+00:00,"The new Omicron variant of COVID-19 could slow global economic recovery, just as the Delta strain did, International Monetary Fund chief Kristalina Georgieva said Friday. 
+
+https://t.co/st7M6ZyHVJ","[{'label': 'Negative', 'score': 0.6212285161018372}]"
+146,2021-12-04 17:00:01+00:00,"RT I love Sally's #MEcfs graphics. Smart, awareness raising and fun!","[{'label': 'Positive', 'score': 0.982975423336029}]"
+147,2021-12-04 17:00:01+00:00,"According to 84% of Albertans are fully vaccinated against #COVID19. If you're not vaxx'd it's not too late. 'The right to bare arms' is an event where we give you the shot. Plenty of truck parking. Everyone is welcome. No appointment necessary!
+#VaccinesSaveLives","[{'label': 'Positive', 'score': 0.7632926106452942}]"

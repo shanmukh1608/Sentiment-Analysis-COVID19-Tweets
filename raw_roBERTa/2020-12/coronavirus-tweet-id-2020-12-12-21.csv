@@ -1,0 +1,295 @@
+,created_at,full_text,sentiment_score
+0,2020-12-12 20:59:54+00:00,Damn...RIP Charley Pride.,"[{'label': 'Negative', 'score': 0.8538578748703003}]"
+1,2020-12-12 20:59:54+00:00,RT Sen. Dick Durbin Admits Democrats Turned Down Coronavirus Relief 'Because an Election Was Coming',"[{'label': 'Negative', 'score': 0.5618776679039001}]"
+2,2020-12-12 20:59:54+00:00,The Cybersecurity 202: Spiking ransomware attacks against schools make pandemic education even harder,"[{'label': 'Negative', 'score': 0.8150866031646729}]"
+3,2020-12-12 20:59:54+00:00,"RT I'm so heartbroken that one of my dearest and oldest friends, Charley Pride, has passed away. It's even worse to know that...","[{'label': 'Negative', 'score': 0.9084314107894897}]"
+4,2020-12-12 20:59:55+00:00,Damn this pandemic is changing everything,"[{'label': 'Negative', 'score': 0.8749002814292908}]"
+5,2020-12-12 20:59:55+00:00,"RT Carolyn Quinn's summary of MPs views tonight when she was asked about tariffs &amp; price rises. MPs said:
+- ' the motor in...","[{'label': 'Neutral', 'score': 0.9249390363693237}]"
+6,2020-12-12 20:59:55+00:00,"Country music legend Charley Pride dies at 86 from COVID-19 complications in Dallas
+
+https://t.co/yQXFrAhPpf","[{'label': 'Neutral', 'score': 0.7562444806098938}]"
+7,2020-12-12 20:59:55+00:00,"Politico Makes Up Nunes COVID Diagnosis, Twitter Amplifies Fake News
+
+""I actually tested positive for the COVID antibodies,"" Nunes said. ""When that happened, the doctor said, 'hey, you need to give blood plasma right away.'
+
+","[{'label': 'Neutral', 'score': 0.7062938809394836}]"
+8,2020-12-12 20:59:55+00:00,RT A little over 1% of all the coronavirus cases in NYC can be traced back to restaurants and now 100% of the restaurant worker...,"[{'label': 'Neutral', 'score': 0.6059922575950623}]"
+9,2020-12-12 20:59:55+00:00,RT When your parents say their life was hard but we're in the mid of a pandemic ,"[{'label': 'Negative', 'score': 0.621741533279419}]"
+10,2020-12-12 20:59:55+00:00,Still pretty good testing numbers. #COVID19Vic,"[{'label': 'Positive', 'score': 0.9309723973274231}]"
+11,2020-12-12 20:59:55+00:00,"RT Just curious ...
+
+Do you plan on taking the COVID vaccine?","[{'label': 'Neutral', 'score': 0.9134389758110046}]"
+12,2020-12-12 20:59:55+00:00,"RT JUST IN: Sanwo-Olu Tests Positive For COVID-19
+https://t.co/Bvt3UxfDZl","[{'label': 'Neutral', 'score': 0.9047746062278748}]"
+13,2020-12-12 20:59:55+00:00,"RT ok if u live in davis, or ""have"" a davis address, (u don't need to be affiliated w/ucd) and yr asymptomatic, you can get a...","[{'label': 'Neutral', 'score': 0.8941416144371033}]"
+14,2020-12-12 20:59:55+00:00,"It wasn't rushed, though. What makes you think it was?
+
+https://t.co/rUvFMdhb4z","[{'label': 'Neutral', 'score': 0.8190852999687195}]"
+15,2020-12-12 20:59:55+00:00,RT NBC News: The total number of coronavirus cases in the U.S. has now passed 16 million.,"[{'label': 'Neutral', 'score': 0.7925947308540344}]"
+16,2020-12-12 20:59:55+00:00," Links to register for a FREE COVID test in LA County: 
+
+1) yourself on the symptoms of COVID &amp; when to seek emergency medical attention:","[{'label': 'Neutral', 'score': 0.906071662902832}]"
+17,2020-12-12 20:59:55+00:00,"RT I think everyone could use a lighthearted/happy story right now so here goes:
+
+At the beginning of the pandemic I went thro...","[{'label': 'Positive', 'score': 0.639205276966095}]"
+18,2020-12-12 20:59:55+00:00,"RT 3) 25 leading Swedish scientists: 
+
+"" hoped herd immunity would curb #COVID19. Don't do what we did.""
+
+ "" approach...","[{'label': 'Neutral', 'score': 0.6868865489959717}]"
+19,2020-12-12 20:59:55+00:00,"Tom. Interesting point about core subjects only. It might be a realistic solution in 2021. A hybrid model might reduce Covid stresses on schools, families, young people","[{'label': 'Positive', 'score': 0.7393777370452881}]"
+20,2020-12-12 20:59:55+00:00,"As COVID-19 cases and deaths reach record numbers in the U.S., the PANDEMIC OF MISINFORMATION blog has documented 144 misleading and untrue statements President Trump has made since February about America's growing health crisis. List","[{'label': 'Negative', 'score': 0.8229280114173889}]"
+21,2020-12-12 20:59:55+00:00,RT A little over 1% of all the coronavirus cases in NYC can be traced back to restaurants and now 100% of the restaurant worker...,"[{'label': 'Neutral', 'score': 0.6059922575950623}]"
+22,2020-12-12 20:59:55+00:00,World Carbon Dioxide Emissions drop 7% in pandemic-hit 2020,"[{'label': 'Negative', 'score': 0.6484086513519287}]"
+23,2020-12-12 20:59:55+00:00,RT Carol Sutton: Steel Magnolias actress dies from Covid-19,"[{'label': 'Negative', 'score': 0.5241489410400391}]"
+24,2020-12-12 20:59:55+00:00,"This is it: a little like wearing a soft HEPA vacuum bag on your face, which makes sense. It's extremely protective, gets close to N95/FFP2, stays on your whole face, really doesn't hurt ears. Space between mask and mouth for more comfort.","[{'label': 'Positive', 'score': 0.6931301951408386}]"
+25,2020-12-12 20:59:55+00:00,"RT So disturbing- they want to kill ""even the traitors in our own families.""
+
+As if COVID wasn't reason enough to skip th...","[{'label': 'Negative', 'score': 0.9190621376037598}]"
+26,2020-12-12 20:59:55+00:00,RT BREAKING: Charley Pride dead at 86 after battling COVID-19:,"[{'label': 'Neutral', 'score': 0.6632810235023499}]"
+27,2020-12-12 20:59:55+00:00,"RT I'm so heartbroken that one of my dearest and oldest friends, Charley Pride, has passed away. It's even worse to know that...","[{'label': 'Negative', 'score': 0.9084314107894897}]"
+28,2020-12-12 20:59:55+00:00,"Oh, how sad. RIP
+
+Charley Pride, Country's First Black Superstar, Dies of Covid-19 Complications | CMT","[{'label': 'Negative', 'score': 0.6104662418365479}]"
+29,2020-12-12 20:59:55+00:00,Breaks my heart.,"[{'label': 'Negative', 'score': 0.838803768157959}]"
+30,2020-12-12 20:59:56+00:00,"Charley Pride, Country's First Black Superstar, Dies of Covid-19 Complications - https://t.co/Zx981WxWCE","[{'label': 'Neutral', 'score': 0.532978355884552}]"
+31,2020-12-12 20:59:56+00:00,RT That a Muslim husband and wife team are to thank for the successful development of the COVID vaccine is the most American t...,"[{'label': 'Neutral', 'score': 0.5398722290992737}]"
+32,2020-12-12 20:59:56+00:00,RT Oh wow. My Dad used to love the music of Charley Pride. A legend lost to COVID-19. ,"[{'label': 'Positive', 'score': 0.5348714590072632}]"
+33,2020-12-12 20:59:56+00:00,"Rocklin school board be like:
+
+We care about the children! While wearing a clear ""mask"" and having their nose stick out of a mask. No distancing. Covid is a hoax demeaners. Thank god we didn't buy a house there after all. -________-","[{'label': 'Negative', 'score': 0.7706289291381836}]"
+34,2020-12-12 20:59:56+00:00,RT Yes.  He warned the world and was punished for it by the Chinese Gov ..continued working and died of the virus he warned...,"[{'label': 'Negative', 'score': 0.7023457288742065}]"
+35,2020-12-12 20:59:56+00:00,"RT Results of COVID-19 tests done on 11 December 2020 confirm 702 new cases. The cumulative confirmed cases are 27,071. htt...","[{'label': 'Neutral', 'score': 0.8691738247871399}]"
+36,2020-12-12 20:59:56+00:00,"RT What has been doing over the last several months is invaluable. When this pandemic is over, it will be wa...","[{'label': 'Positive', 'score': 0.8089218139648438}]"
+37,2020-12-12 20:59:56+00:00,"RT Omo everyone should stay safe in Lagos . turnups everywhere , Corona still Dey o , no go use Detty December cause Gobe fo...","[{'label': 'Negative', 'score': 0.5737080574035645}]"
+38,2020-12-12 20:59:56+00:00,"If you have a minute, you have to read this darling story and a woman who decided to help a lonely little girl.","[{'label': 'Positive', 'score': 0.8622187972068787}]"
+39,2020-12-12 20:59:56+00:00,Lewis Hamilton says he's still feeling the after-effects of Covid-19 ahead of season finale,"[{'label': 'Neutral', 'score': 0.5967663526535034}]"
+40,2020-12-12 20:59:56+00:00,"RT I'm so heartbroken that one of my dearest and oldest friends, Charley Pride, has passed away. It's even worse to know that...","[{'label': 'Negative', 'score': 0.9084314107894897}]"
+41,2020-12-12 20:59:56+00:00,RT Dolphins placed RB Myles Gaskin on the reserve/COVID list today. He is out for Sunday vs. Chiefs.,"[{'label': 'Neutral', 'score': 0.746590256690979}]"
+42,2020-12-12 20:59:56+00:00,RT RIP Ms. Carol. I love you. And I will miss you so much. #CarolSutton #NOLA #Covid19 #YourCountryOwedYouBetter,"[{'label': 'Positive', 'score': 0.7366834282875061}]"
+43,2020-12-12 20:59:56+00:00,"RT NEW: Late last night, along with the general vaccine authorization, the FDA also did something momentous: It did not exclu...","[{'label': 'Neutral', 'score': 0.7373090386390686}]"
+44,2020-12-12 20:59:56+00:00,"RT Utah health officials reported 3,692 new cases of COVID-19 Saturday, but, due a server error, they say more than 1K of th...","[{'label': 'Neutral', 'score': 0.5638590455055237}]"
+45,2020-12-12 20:59:56+00:00,RT Dolphins placed RB Myles Gaskin on the reserve/COVID list today. He is out for Sunday vs. Chiefs.,"[{'label': 'Neutral', 'score': 0.746590256690979}]"
+46,2020-12-12 20:59:56+00:00,RT An investigator examining a #whistleblower's concerns about Covid-19 protections at a #HSE-run nursing home in Dublin has bee...,"[{'label': 'Neutral', 'score': 0.7990127801895142}]"
+47,2020-12-12 20:59:56+00:00,"RT Me tonight 
+
+"" I understand why you wanna try to make him stay home late at night "" ","[{'label': 'Neutral', 'score': 0.7753162384033203}]"
+48,2020-12-12 20:59:56+00:00,"RT 4) And for those claiming nobody saying ""Swedish herd"" approach, there are literally THOUSANDS of articles online about peo...","[{'label': 'Neutral', 'score': 0.7375654578208923}]"
+49,2020-12-12 20:59:56+00:00,"1 in 132 dead in Gove County, KS.
+
+FB (temporarily) took down the public health page in August after anonymous fake news report. ","[{'label': 'Negative', 'score': 0.7804843187332153}]"
+50,2020-12-12 20:59:56+00:00,"RT That's great. 
+
+Just out of curiosity, which country was it that developed the vaccine?
+
+Wonder why.","[{'label': 'Positive', 'score': 0.8083244562149048}]"
+51,2020-12-12 20:59:56+00:00,"RT When vaccine researchers at a meeting in mid-March forecast a coronavirus vaccine in the middle of 2021, the Pfizer execu...","[{'label': 'Neutral', 'score': 0.9110718965530396}]"
+52,2020-12-12 20:59:57+00:00,No way!  I always loved his music.  ,"[{'label': 'Positive', 'score': 0.9452875256538391}]"
+53,2020-12-12 20:59:57+00:00,Heroes? Because they work out and spread COVID? Yeah it's civil war alright the confederates need to leave us now Russia is waiting with open arms.,"[{'label': 'Negative', 'score': 0.8426128625869751}]"
+54,2020-12-12 20:59:57+00:00,"RT I think everyone could use a lighthearted/happy story right now so here goes:
+
+At the beginning of the pandemic I went thro...","[{'label': 'Positive', 'score': 0.639205276966095}]"
+55,2020-12-12 20:59:57+00:00,surely tier 2 awaits,"[{'label': 'Neutral', 'score': 0.608298122882843}]"
+56,2020-12-12 20:59:57+00:00,RT She like the way I rrr,"[{'label': 'Neutral', 'score': 0.5979565978050232}]"
+57,2020-12-12 20:59:57+00:00,"He had COVID just a few weeks ago, need to take it easy on him","[{'label': 'Negative', 'score': 0.6040840148925781}]"
+58,2020-12-12 20:59:57+00:00,I LOVE white chocolate BUT you look a billion times better in the before picture. This pandemic has clearly made you lose your damn mind. You were 100% fine the way you were BEFORE!,"[{'label': 'Positive', 'score': 0.4320724904537201}]"
+59,2020-12-12 20:59:57+00:00,"Talk to me, #BLM -- what are your thoughts on this? 'Cause I'm low info re: whether #BLM has become an appendage to the democrat party/capitalist class and would like to know more --","[{'label': 'Neutral', 'score': 0.8449860215187073}]"
+60,2020-12-12 20:59:57+00:00,What a beautiful story and experience ,"[{'label': 'Positive', 'score': 0.9750356674194336}]"
+61,2020-12-12 20:59:57+00:00,#VA05 Congressman-elect Bob Good takes the podium at a rally in Washington D.C. Here's what he said:,"[{'label': 'Neutral', 'score': 0.8720479011535645}]"
+62,2020-12-12 20:59:57+00:00,"RT Holy shit. Congressman-elect Bob Good of Virginia starts speaking and immediately proclaims, ""this looks like a group of peopl...","[{'label': 'Neutral', 'score': 0.4593552052974701}]"
+63,2020-12-12 20:59:57+00:00,"Jonathan spitting straight facts, as usual ","[{'label': 'Positive', 'score': 0.8391250371932983}]"
+64,2020-12-12 20:59:57+00:00,This year FUCK,"[{'label': 'Negative', 'score': 0.9215127825737}]"
+65,2020-12-12 20:59:57+00:00,RT Oh wow. My Dad used to love the music of Charley Pride. A legend lost to COVID-19. ,"[{'label': 'Positive', 'score': 0.5348714590072632}]"
+66,2020-12-12 20:59:57+00:00,"RT This is what the covid vaccine is doing to people, stay woke
+
+","[{'label': 'Negative', 'score': 0.7991688251495361}]"
+67,2020-12-12 20:59:57+00:00,How do we not have barriers to protect the country from idiots like this making law?!,"[{'label': 'Negative', 'score': 0.9039846658706665}]"
+68,2020-12-12 20:59:57+00:00,RT Unsurprising that hospitals are getting smashed when we've seen a day on day increase in covid no's in the community in...,"[{'label': 'Negative', 'score': 0.7610220313072205}]"
+69,2020-12-12 20:59:57+00:00,"Before the pandemic I was freshly moved out of my parents, working overnights 40 hours a week, and starting to create a home with my then fiance. Over the course of the pandemic, I was breifly out of work for the first month and it led me to focus more on art &amp; videos... 1/2","[{'label': 'Neutral', 'score': 0.8160048127174377}]"
+70,2020-12-12 20:59:57+00:00,RT Oh wow. My Dad used to love the music of Charley Pride. A legend lost to COVID-19. ,"[{'label': 'Positive', 'score': 0.5348714590072632}]"
+71,2020-12-12 20:59:57+00:00,Kiss an Angel Good Mornin'... #RIPCharleyPride,"[{'label': 'Positive', 'score': 0.8062374591827393}]"
+72,2020-12-12 20:59:57+00:00,RT This has never been revealed to the public. Until today. Loeffler and Perdue's actions after they received their private cov...,"[{'label': 'Neutral', 'score': 0.6622273921966553}]"
+73,2020-12-12 20:59:57+00:00,"RT Likewise, Jimin, Namjoon, Jin, Yoongi, Hobi, Taehyung &amp; Jungkook and crew - please take care of yourselves &amp; stay sa...","[{'label': 'Neutral', 'score': 0.7382128834724426}]"
+74,2020-12-12 20:59:57+00:00,The audacity for someone whose number I don't have saved to ask me when they can see me during a pandemic,"[{'label': 'Negative', 'score': 0.8186913728713989}]"
+75,2020-12-12 20:59:58+00:00,Just stay home and wait for your TV to tell that you you're safe. Problem solved.,"[{'label': 'Neutral', 'score': 0.6275190114974976}]"
+76,2020-12-12 20:59:58+00:00,"RT This is what the covid vaccine is doing to people, stay woke
+
+","[{'label': 'Negative', 'score': 0.7991688251495361}]"
+77,2020-12-12 20:59:58+00:00,"RT The Nigerian state (both meanings of 'state' apply here):
+
+Travel by road and get kidnapped.
+Go to Uni and be stranded by st...","[{'label': 'Negative', 'score': 0.5575783252716064}]"
+78,2020-12-12 20:59:58+00:00,RT Teachers are on the frontlines of this pandemic. Texans have seen how essential teachers are to our students and to the...,"[{'label': 'Neutral', 'score': 0.7182164788246155}]"
+79,2020-12-12 20:59:58+00:00,"RT I'm so heartbroken that one of my dearest and oldest friends, Charley Pride, has passed away. It's even worse to know that...","[{'label': 'Negative', 'score': 0.9084314107894897}]"
+80,2020-12-12 20:59:58+00:00,"RT I think everyone could use a lighthearted/happy story right now so here goes:
+
+At the beginning of the pandemic I went thro...","[{'label': 'Positive', 'score': 0.639205276966095}]"
+81,2020-12-12 20:59:58+00:00,"Young People Have Less Covid-19 Risk, but in College Towns, Deaths Rose Fast","[{'label': 'Neutral', 'score': 0.5334252119064331}]"
+82,2020-12-12 20:59:58+00:00,"RT Myles Gaskin sent to COVID list, out for Week 14","[{'label': 'Neutral', 'score': 0.559049129486084}]"
+83,2020-12-12 20:59:58+00:00,"Haha. Not so much with food, but the street backing against mine is very similarly named so a very patient old lady with a walker occasionally gets weird late night lockdown nonsense I keep ordering off the internet and passes them on to me with an admirable lack of judgement.","[{'label': 'Neutral', 'score': 0.5461506247520447}]"
+84,2020-12-12 20:59:58+00:00,"RT I think everyone could use a lighthearted/happy story right now so here goes:
+
+At the beginning of the pandemic I went thro...","[{'label': 'Positive', 'score': 0.639205276966095}]"
+85,2020-12-12 20:59:58+00:00,"RT I think everyone could use a lighthearted/happy story right now so here goes:
+
+At the beginning of the pandemic I went thro...","[{'label': 'Positive', 'score': 0.639205276966095}]"
+86,2020-12-12 20:59:58+00:00,"The Music Business during COVID-#1. The Titanic
+ #2.Throw Momma from the Train  #3. Death Wish I, II, or III 
+#4. Leaving Las Vegas
+#5. For a Few Dollars More","[{'label': 'Neutral', 'score': 0.8281173706054688}]"
+87,2020-12-12 20:59:58+00:00,"With respect, I wonder if you might be missing my point. That is to say peoples' reaction to this bug are as heterogeneous as every other aspect of its impact. Societal norms and reaction to policies impact outcomes. I just don't think Swedes did nothing.","[{'label': 'Negative', 'score': 0.5064088702201843}]"
+88,2020-12-12 20:59:58+00:00,"RT CAROL SHOPE, 79 of Westover, Pennsylvania died of COVID on Nov. 29. 
+
+""God truly blessed me when he gave me an aunt like...","[{'label': 'Neutral', 'score': 0.5056523084640503}]"
+89,2020-12-12 20:59:58+00:00,Truth.,"[{'label': 'Neutral', 'score': 0.641918420791626}]"
+90,2020-12-12 20:59:58+00:00,RT we are in a panini press and you worried about spelling ,"[{'label': 'Neutral', 'score': 0.5615957379341125}]"
+91,2020-12-12 20:59:58+00:00,"RT #COVID19 Statistics in SA as at 12 December.
+
+Use the COVID Alert SA app to protect yourself, your loved ones and your c...","[{'label': 'Neutral', 'score': 0.9056548476219177}]"
+92,2020-12-12 20:59:58+00:00,"RT Sorry to come across as a Scrooge, but as an oncologist who is on a #COVID19 ward rota to help out our amazing acute medicine...","[{'label': 'Positive', 'score': 0.5162351131439209}]"
+93,2020-12-12 20:59:58+00:00,"RT I don't know who needs to hear this, but untreated COVID has a mortality rate over 10%.
+
+This 1% number people are citing...","[{'label': 'Negative', 'score': 0.642314076423645}]"
+94,2020-12-12 20:59:58+00:00,Too many folks want to treat AOC like a celebrity rather than an elected official. Stop making excuses for her incrementalist approach to Medicare 4 All during a pandemic and failure to wrestle even the slightest power away from those whose job it is to oppose it: Pelosi,"[{'label': 'Negative', 'score': 0.8123487234115601}]"
+95,2020-12-12 20:59:58+00:00,"RT Sad to share the news that Charley Pride died today in Dallas due to complications from Covid-19 at age 86.
+
+Charley is c...","[{'label': 'Negative', 'score': 0.7771167159080505}]"
+96,2020-12-12 20:59:58+00:00,"A simple majority of congressional senators could end Mitch McConnell's role as Majority Leader, and Majority Leader only exists through deference and precedent. So a simple majority could pass COVID relief. #firetheemptysuit #forthepeople","[{'label': 'Neutral', 'score': 0.5373058319091797}]"
+97,2020-12-12 20:59:58+00:00,"With a busy schedule, the holidays and another lockdown on the horizon, I'm sharing 3 things that I need to make time for in my daily life
+
+  #TheClqRT","[{'label': 'Neutral', 'score': 0.7895408868789673}]"
+98,2020-12-12 20:59:58+00:00,"RT I think everyone could use a lighthearted/happy story right now so here goes:
+
+At the beginning of the pandemic I went thro...","[{'label': 'Positive', 'score': 0.639205276966095}]"
+99,2020-12-12 20:59:58+00:00,"RT Today, the COVID-19 pandemic has increased barriers to movement, and migrants are stranded with limited access to basic serv...","[{'label': 'Negative', 'score': 0.8127592206001282}]"
+100,2020-12-12 20:59:58+00:00,"RT ""don't forget to wear a mask! okay?""","[{'label': 'Neutral', 'score': 0.5883480906486511}]"
+101,2020-12-12 20:59:58+00:00,RT Fat   when covid19 and cannot go gym,"[{'label': 'Negative', 'score': 0.7241474390029907}]"
+102,2020-12-12 20:59:59+00:00,"Just so dang sad... he was such an amazing singer.  Rest in peace, Charlie #charliepride
+
+https://t.co/9IWwVrXPkg","[{'label': 'Negative', 'score': 0.6480771899223328}]"
+103,2020-12-12 20:59:59+00:00,"RT Oklahoma today reports 3,983 new COVID-19 cases, and 35 additional deaths. The deaths of 168 Oklahomans from COVID-19 have been...","[{'label': 'Negative', 'score': 0.7021877765655518}]"
+104,2020-12-12 20:59:59+00:00,I believe the CDC covered this for all states .. don't believe everything you read.  Most news is financed by the big drug companies now,"[{'label': 'Neutral', 'score': 0.7448137998580933}]"
+105,2020-12-12 20:59:59+00:00,RT Oh wow. My Dad used to love the music of Charley Pride. A legend lost to COVID-19. ,"[{'label': 'Positive', 'score': 0.5348714590072632}]"
+106,2020-12-12 20:59:59+00:00,Go home and stay safe.,"[{'label': 'Neutral', 'score': 0.5485875606536865}]"
+107,2020-12-12 20:59:59+00:00,"RT This is what the covid vaccine is doing to people, stay woke
+
+","[{'label': 'Negative', 'score': 0.7991688251495361}]"
+108,2020-12-12 20:59:59+00:00,Being grossly unfit for public office is becoming the main qualification for being a member of the Republican Party.,"[{'label': 'Negative', 'score': 0.9174034595489502}]"
+109,2020-12-12 20:59:59+00:00,"RT Yesterday there were 0 new local cases, 0 lost lives, 1 internationally acquired &amp; in quarantine case. There are 6 active c...","[{'label': 'Neutral', 'score': 0.8584263324737549}]"
+110,2020-12-12 20:59:59+00:00,RT Windsor-Essex is moving into lockdown beginning Monday:,"[{'label': 'Neutral', 'score': 0.9286853075027466}]"
+111,2020-12-12 20:59:59+00:00,"RT I think everyone could use a lighthearted/happy story right now so here goes:
+
+At the beginning of the pandemic I went thro...","[{'label': 'Positive', 'score': 0.639205276966095}]"
+112,2020-12-12 20:59:59+00:00,"RT 70% of the country supports medicare for all, there's a pandemic with nearly 300k dead, tens of millions have no insuranc...","[{'label': 'Negative', 'score': 0.765985906124115}]"
+113,2020-12-12 20:59:59+00:00,"Anti-COVID over-the-counter
+Tripartite Therapy: evidence:
+Vitamin D/Therapy:https://t.co/rd3q1BcR5K
+Vitamin D/Therapy:https://t.co/CUE18jIA3d
+Quercetin/Prevention:https://t.co/qiYFLh6LXK
+Estradiol:https://t.co/cvQ1NGkAnK","[{'label': 'Neutral', 'score': 0.7674066424369812}]"
+114,2020-12-12 20:59:59+00:00,"How can a country which boasts some of the best schools, research institutions, the best universities produce an idiot like this bloke?","[{'label': 'Negative', 'score': 0.6892603039741516}]"
+115,2020-12-12 20:59:59+00:00,RT A little over 1% of all the coronavirus cases in NYC can be traced back to restaurants and now 100% of the restaurant worker...,"[{'label': 'Neutral', 'score': 0.6059922575950623}]"
+116,2020-12-12 20:59:59+00:00,Prayers for you and your family. I'm currently on day 8 with Covid. It's a terrible virus.,"[{'label': 'Negative', 'score': 0.8612588047981262}]"
+117,2020-12-12 20:59:59+00:00,"RT #BREAKING Country music legend Charley Pride, 86, dies from complications of COVID-19","[{'label': 'Neutral', 'score': 0.49700185656547546}]"
+118,2020-12-12 20:59:59+00:00,"Top CRE Articles in November 2020 from the iOptimize Realty Blog #CRE #TenantTips #Office #Warehouse #COVID-19 #NewNormal #TenantRep   
+https://t.co/STtIEY5IdW","[{'label': 'Neutral', 'score': 0.7557341456413269}]"
+119,2020-12-12 20:59:59+00:00,RT BREAKING: Country Music legend Charley Pride has died.,"[{'label': 'Neutral', 'score': 0.6837624907493591}]"
+120,2020-12-12 20:59:59+00:00,read this entire thread it is so worth the read,"[{'label': 'Positive', 'score': 0.9727826118469238}]"
+121,2020-12-12 21:00:00+00:00,"Kai Havertz has been poor BUT let's not forget:
+
+- he's out of position 
+- this doesn't help when he's adapting to the league
+- recovering from covid where he and Lampard have spoken about how it has been
+- stop scapegoating and get behind the team. 
+
+He's a long term investment.","[{'label': 'Negative', 'score': 0.6081788539886475}]"
+122,2020-12-12 21:00:00+00:00,"RT Ziyech - Injured.
+Cho - Injured/Under utilised.
+Havertz - Not a winger/just had Covid.
+Werner - Not a winger.
+
+People need to...","[{'label': 'Negative', 'score': 0.6828801035881042}]"
+123,2020-12-12 21:00:00+00:00,RT This guy...I have no words. Spread #GoodforNothing,"[{'label': 'Negative', 'score': 0.3613966703414917}]"
+124,2020-12-12 21:00:00+00:00,"Songbird  1/2
+Jesus christ Michael Bay, learn to read the room. This disaster movie is even more tone deaf than Gal Gadot's Imagine singalong. Plot: a courier who's immune to the #COVID-23 virus, has to race against time to save the woman he loves from quarantine
+- I shit you not.","[{'label': 'Negative', 'score': 0.8854433298110962}]"
+125,2020-12-12 21:00:00+00:00,God dammit.,"[{'label': 'Negative', 'score': 0.831861674785614}]"
+126,2020-12-12 21:00:00+00:00,"This woman's business wasn't making $5,000 net before the pandemic, but she thought it was all fine and dandy to receive $18,000+ of government funds? I'm not surprised she has to pay it back, and frankly she shouldn't be either. ","[{'label': 'Negative', 'score': 0.8318648934364319}]"
+127,2020-12-12 21:00:00+00:00,"RT I am SO glad I hate air travel, having done millions of miles 
+
+I am SO glad I feel no need whatever to stray far from hom...","[{'label': 'Positive', 'score': 0.6717997193336487}]"
+128,2020-12-12 21:00:00+00:00,"RT ""We're fighting nazis on US soil while the covid death count approaches WWII levels. Trump has actual stormtroopers targ...","[{'label': 'Negative', 'score': 0.7953433990478516}]"
+129,2020-12-12 21:00:00+00:00,Congratulations to the #MLS Columbus #Crew96 for winning the Eastern Conference Championship at home in the #MLSCupPlayoffs over New England in a 1-0 final score as they get to play in the #MLSCup Final later on this evening at home against Seattle so stay tuned for more info,"[{'label': 'Positive', 'score': 0.9027528762817383}]"
+130,2020-12-12 21:00:00+00:00,"Besotted Oldham great-grandparents die of Covid-19 two weeks apart... days after celebrating 52 years of marriage
+https://t.co/zowc8ocLgi","[{'label': 'Negative', 'score': 0.6791663765907288}]"
+131,2020-12-12 21:00:00+00:00,This is the test of our lifetimes. More Americans have died from #COVID19 than perished in four years of combat in World War II,"[{'label': 'Negative', 'score': 0.8868964314460754}]"
+132,2020-12-12 21:00:00+00:00,dont forget people making jokes saying asians are rats because of corona,"[{'label': 'Negative', 'score': 0.766402542591095}]"
+133,2020-12-12 21:00:00+00:00,Guest columnist: COVID has impacted Kentucky craft brewing industry,"[{'label': 'Neutral', 'score': 0.7043765187263489}]"
+134,2020-12-12 21:00:00+00:00,"An analysis of ten different species finds that humans -- followed by ferrets and, to a lesser extent cats, civets and dogs -- are the most susceptible animals to SARS-CoV-2 infection.
+
+https://t.co/1PfJ8XGEcS","[{'label': 'Neutral', 'score': 0.7453116774559021}]"
+135,2020-12-12 21:00:00+00:00,"Stay home, stay safe, it's crazy out there!","[{'label': 'Neutral', 'score': 0.45090264081954956}]"
+136,2020-12-12 21:00:00+00:00,"TODD WALTERS, 44 of Byron Center, Michigan died of COVID on Oct. 3. 
+
+""He was a wonderful husband and father. He always let us know how much he loved us everyday. Even when he faced his death he was more concerned about us.""","[{'label': 'Neutral', 'score': 0.5124112367630005}]"
+137,2020-12-12 21:00:00+00:00,In collaboration with we examine key applications of #4IR technologies for thriving in a post-pandemic world and identify governance challenges that these technologies may help to address.,"[{'label': 'Neutral', 'score': 0.6673181653022766}]"
+138,2020-12-12 21:00:00+00:00,NFL betting lines in season of COVID-19 are moving targets on He saw a betting line on last week&amp;#39;s Saints-Broncos game open at New Orleans giving up 6.5 points. And then 2020 struck -- again -- in a way that&amp;#39;s ...,"[{'label': 'Neutral', 'score': 0.7604131698608398}]"
+139,2020-12-12 21:00:00+00:00,Look at all those COVID morons.,"[{'label': 'Negative', 'score': 0.8850917816162109}]"
+140,2020-12-12 21:00:00+00:00,"RT Charley Pride (1934-2020), who died today from Covid-19 complications:","[{'label': 'Negative', 'score': 0.7066822648048401}]"
+141,2020-12-12 21:00:00+00:00,"RT NEW: A 32-year-old close to Dr. Fauci -- the brother of his daughter's boyfriend -- has died of Covid-19, he just told me:...","[{'label': 'Neutral', 'score': 0.6190786957740784}]"
+142,2020-12-12 21:00:00+00:00,Collins Dictionary Declares 'Lockdown' the Word of the Year #AmReading #ReadingAddict,"[{'label': 'Neutral', 'score': 0.8449834585189819}]"
+143,2020-12-12 21:00:00+00:00,"There are countless families in #PortChester that have lost jobs due to COVID-19 and are now struggling to get Christmas gifts for their kids. Reasoning no child should go without Santa, Christian Pugliese is raising money he can take on the role himself.
+
+https://t.co/jdl9b8NLDV","[{'label': 'Negative', 'score': 0.5843456387519836}]"
+144,2020-12-12 21:00:00+00:00,"We're committed to an #EquitableRecovery, and making sure that we come out of the #COVID19 pandemic with more resilient, inclusive communities. 
+
+Learn more about our grantmaking:","[{'label': 'Positive', 'score': 0.8540499210357666}]"
+145,2020-12-12 21:00:00+00:00,"US President-elect Joe #Biden said that the record was broken this week for the highest number of #COVID-19 related deaths in one day, and was higher than the death toll during 9/11 or #PearlHarbour.
+#USA","[{'label': 'Neutral', 'score': 0.6503517627716064}]"
+146,2020-12-12 21:00:00+00:00,"Listen to Science Guy &amp; wear a mask!
+https://t.co/ZIObx1ZqeB","[{'label': 'Neutral', 'score': 0.5362035632133484}]"
+147,2020-12-12 21:00:00+00:00,Vancouver's beloved outdoor downtown ice rink in Robson Square won't be opening this winter. The news comes as the  pandemic hits B.C. hard before the holiday season.,"[{'label': 'Negative', 'score': 0.6867926120758057}]"
+148,2020-12-12 21:00:00+00:00,The data made public by New York officials offers one of the more specific glimpses into how COVID-19 is transmitted in the state.https://t.co/XDSKkfg1ZG,"[{'label': 'Neutral', 'score': 0.9245724678039551}]"
+149,2020-12-12 21:00:00+00:00,City officials said the process of developing the #Eastridge Neighborhood Plan is slated to kick off next month and acknowledged in the midst of the pandemic the exercise will be implemented in a different manner. #Amarillo,"[{'label': 'Neutral', 'score': 0.9352729320526123}]"
+150,2020-12-12 21:00:00+00:00,Congratulations to the #MLS Seattle #Sounders FC for winning the Western Conference Championship at home in the #MLSCupPlayoffs over Minnesota in a 3-2 final score as they get to play in the #MLSCup Final later on this evening on the road against Columbus so everyone stay tuned,"[{'label': 'Positive', 'score': 0.916956901550293}]"
+151,2020-12-12 21:00:00+00:00,The state has already earmarked the first doses for frontline health and long-term caregivers.,"[{'label': 'Neutral', 'score': 0.8330479860305786}]"
+152,2020-12-12 21:00:00+00:00,Baltimore City leaders on Thursday voted to waive all late fees for 2020-2021 alcoholic beverage license renewals. ,"[{'label': 'Neutral', 'score': 0.837648868560791}]"
+153,2020-12-12 21:00:00+00:00,"News that two healthcare workers in the UK had allergic reactions to the COVID vaccine surfaced, which turned into hundreds of headlines and social media posts about what it could mean for others. The VERIFY team breaks down the known facts.","[{'label': 'Negative', 'score': 0.636865496635437}]"
+154,2020-12-12 21:00:00+00:00,The 500 concert goers and another 500 people in a control group will all undergo PCR tests both before the concert and again eight days later.,"[{'label': 'Neutral', 'score': 0.9503825902938843}]"
+155,2020-12-12 21:00:00+00:00,"Japan surpasses 3,000 daily new coronavirus cases for first time - NHK","[{'label': 'Neutral', 'score': 0.8338943719863892}]"
+156,2020-12-12 21:00:00+00:00,"The number of infected travelers was a ""statistically insignificant portion,"" according to Superior Court of Guam Judge Elyze Iriarte. Here's more: ","[{'label': 'Neutral', 'score': 0.7863466143608093}]"
+157,2020-12-12 21:00:00+00:00,"US travel restrictions to #Mexico, #Canada extended until at least Jan. 21","[{'label': 'Neutral', 'score': 0.8844742774963379}]"
+158,2020-12-12 21:00:00+00:00,"The post-Covid-19 new world order offers limitless opportunity for India but for the country to be ready to participate in it, there is a need to establish regulatory standards on data and taxation in general, N Chandrasekaran said 
+
+https://t.co/aDEiBBOPpv","[{'label': 'Neutral', 'score': 0.7864882349967957}]"
+159,2020-12-12 21:00:00+00:00,The United States Postal Services annual Operation Santa program reveals how tough the pandemic as been on children this year.,"[{'label': 'Neutral', 'score': 0.6723883748054504}]"
+160,2020-12-12 21:00:00+00:00,The postcodes in Leeds with the worst Covid-19 infection rates,"[{'label': 'Negative', 'score': 0.8416102528572083}]"
+161,2020-12-12 21:00:00+00:00,RT More Americans have died from Covid-19 in 9 months than in combat over 4 years in World War II. The virus death toll exceeds...,"[{'label': 'Negative', 'score': 0.8649340867996216}]"
+162,2020-12-12 21:00:01+00:00,"True story: ""Man is shot in the chest point blank with a sawed-off shotgun slug 2"" entry wound, 7.4"" exit wound.
+  
+Death certificate primary (line 1) cause of death  
+#Covid19 complications","[{'label': 'Negative', 'score': 0.6055281162261963}]"
+163,2020-12-12 21:00:01+00:00,"Yeah -- she fell and broke her hip back in March and has been stuck in a rehab facility that doesn't allow outside visitors due to the pandemic. She was 94 yrs old and lived a great life, but I sure wish I got to say goodbye in person and not over Zoom...","[{'label': 'Negative', 'score': 0.8265075087547302}]"
+164,2020-12-12 21:00:01+00:00,"RT There are too few flu cases this year to run any modeling from the CDC. 
+
+I wonder why.","[{'label': 'Negative', 'score': 0.6227855682373047}]"
+165,2020-12-12 21:00:01+00:00,RT Honestly one reason for some guarded optimism is that everybody may be 20% less insane once the pandemic is over.,"[{'label': 'Neutral', 'score': 0.4547470211982727}]"
+166,2020-12-12 21:00:01+00:00,Rest in peace to another legendary icon.  #CharleyPride,"[{'label': 'Positive', 'score': 0.9000534415245056}]"
+167,2020-12-12 21:00:01+00:00,"RT Covid in context
+by","[{'label': 'Neutral', 'score': 0.8605982065200806}]"
+168,2020-12-12 21:00:01+00:00,RT 'I just think it's sad. Why do you need to 'get something' for helping your constituents?' -- got real about what's ho...,"[{'label': 'Negative', 'score': 0.9113345742225647}]"
+169,2020-12-12 21:00:01+00:00,"Current Conditions for #Sayre PA
+Temp: 53.2F
+Wind Chill: 53.2F
+Humidity: 81%
+Dew Point: 47.5F 
+Barometer: 29.907 inHg
+Wind: 5 mph from the S
+Corona Virus Weekly Stats:
+Cases: 260.000000
+Deaths: 3.000000
+Survival: 98.000000
+#weewx #nepa #bradfordcounty","[{'label': 'Neutral', 'score': 0.8445386290550232}]"
+170,2020-12-12 21:00:01+00:00,"RT BREAKING: Charley Pride, country music superstar and the first Black singer ever to perform at the Grand Ole Opry, died Saturday...","[{'label': 'Neutral', 'score': 0.8300482630729675}]"
+171,2020-12-12 21:00:01+00:00,Delivery of first Covid-19 vaccines expected Monday,"[{'label': 'Neutral', 'score': 0.8615249991416931}]"

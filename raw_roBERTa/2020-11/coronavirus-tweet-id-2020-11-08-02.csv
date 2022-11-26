@@ -1,0 +1,343 @@
+,created_at,full_text,sentiment_score
+0,2020-11-08 01:59:54+00:00,I am not the wine drinking chick....pass me a Corona or my licka straight please.,"[{'label': 'Negative', 'score': 0.618191123008728}]"
+1,2020-11-08 01:59:55+00:00,RT What a sham. It always was!!! Now that Election Day has passed no need for masks and social distancing event...,"[{'label': 'Negative', 'score': 0.9124448299407959}]"
+2,2020-11-08 01:59:55+00:00,RT 'Our work begins with getting COVID under control' -- President-elect Biden pledges to listen to the science and help Ameri...,"[{'label': 'Positive', 'score': 0.5330027341842651}]"
+3,2020-11-08 01:59:55+00:00,"RT It shouldn't mean so much to hear a president be decent to those who disagree with him, call for protecting the climate and...","[{'label': 'Negative', 'score': 0.717003583908081}]"
+4,2020-11-08 01:59:55+00:00,"The good news is, if it was a blowout, hope would be lost. Since it's not, is energized. There are 71 million people saying Covid is over. 71 million people telling dems to piss off. 71 million people asking about Hunter Biden. 71 million people that still  .","[{'label': 'Positive', 'score': 0.4361172616481781}]"
+5,2020-11-08 01:59:55+00:00,RT Pandemic still raging and people struggling mentally. Let folks have this sheesh.,"[{'label': 'Negative', 'score': 0.9165385365486145}]"
+6,2020-11-08 01:59:55+00:00,"No social distancing. Terrible example for the U.S. , unless of course COVID is considered over....","[{'label': 'Negative', 'score': 0.8918544054031372}]"
+7,2020-11-08 01:59:55+00:00,RT Thinking of all the families who have lost someone to COVID tonight.,"[{'label': 'Negative', 'score': 0.7169061899185181}]"
+8,2020-11-08 01:59:55+00:00,RT Anyone else concerned that due to there being less contact tracing now that the numbers will be lower than the actual re...,"[{'label': 'Negative', 'score': 0.574117124080658}]"
+9,2020-11-08 01:59:55+00:00,"RT Pandemic over?
+","[{'label': 'Neutral', 'score': 0.6958764791488647}]"
+10,2020-11-08 01:59:55+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+11,2020-11-08 01:59:55+00:00,RT Marcus Rashford 'overwhelmed' as government pledges PS170m winter grant scheme aimed at helping low-income families stru...,"[{'label': 'Neutral', 'score': 0.5333600640296936}]"
+12,2020-11-08 01:59:55+00:00,"RT Sleepy Joe supporters are partying in the streets, I guess COVID is finally over?","[{'label': 'Neutral', 'score': 0.6158836483955383}]"
+13,2020-11-08 01:59:55+00:00,"RT As Kamala speaks, our minds are on the Black and brown folks who have been disproportionately affected by this pandemi...","[{'label': 'Neutral', 'score': 0.8031328916549683}]"
+14,2020-11-08 01:59:55+00:00,But Joes not holding these gatherings and bullying them to not wear a mask.  Why you gotta be like a bitter old lady and complain about everything? Worry about your own.,"[{'label': 'Negative', 'score': 0.875874936580658}]"
+15,2020-11-08 01:59:55+00:00,"Most people are wearing masks. The risk of catching Covid outside is 20x less outside versus inside. They shouldn't be so close together, but there might not be much spread from this.","[{'label': 'Neutral', 'score': 0.6788961887359619}]"
+16,2020-11-08 01:59:55+00:00,"Today I buried my 91 yr old dad. He died of COVID. He served our country and served the people of Kenosha as a firefighter for 30 yrs. COVID was one fire he couldn't fight. He got it from being in his care facility.The song,ON EAGLES WINGS, was played at his funeral. Save the USA","[{'label': 'Negative', 'score': 0.7019204497337341}]"
+17,2020-11-08 01:59:55+00:00,"Covid 19 is NOT a little thing. Very disrespectful towards the 237,000 people who died. And did you ever think you made more money because youve been on the job longer. There are things more important in this world than money and lives happen to be 1 of them","[{'label': 'Negative', 'score': 0.9111018776893616}]"
+18,2020-11-08 01:59:55+00:00,"RT It shouldn't mean so much to hear a president be decent to those who disagree with him, call for protecting the climate and...","[{'label': 'Negative', 'score': 0.717003583908081}]"
+19,2020-11-08 01:59:55+00:00,"RT Gathering to go to church? Not okay. Gathering to punch a pillowed effigy of Trump? OKAY. 
+
+COVID-19: the greatest politi...","[{'label': 'Negative', 'score': 0.690510630607605}]"
+20,2020-11-08 01:59:55+00:00,"RT President-elect Biden: ""On Monday I will name a group of leading scientists and experts as transition advisers ... I will spare no e...","[{'label': 'Neutral', 'score': 0.6887532472610474}]"
+21,2020-11-08 01:59:55+00:00,"RT Ready to raise funds for #Veterans by wearing #Poppy &amp; face mask by ensuring social distancing.
+
+#GetYourPop...","[{'label': 'Neutral', 'score': 0.5780788660049438}]"
+22,2020-11-08 01:59:55+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+23,2020-11-08 01:59:55+00:00,"Thanks for listening and amplifying our collective concern. #COVID19AB is most definitely ""A spiral out of control""","[{'label': 'Negative', 'score': 0.574117124080658}]"
+24,2020-11-08 01:59:56+00:00,RT Joe Biden was elected the nation's 46th president Saturday in a repudiation of President Trump powered by legions of wo...,"[{'label': 'Neutral', 'score': 0.5887724757194519}]"
+25,2020-11-08 01:59:56+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+26,2020-11-08 01:59:56+00:00,RT Hey fuck you and your COVID plan,"[{'label': 'Negative', 'score': 0.9336978197097778}]"
+27,2020-11-08 01:59:56+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+28,2020-11-08 01:59:56+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+29,2020-11-08 01:59:56+00:00,Cough,"[{'label': 'Neutral', 'score': 0.622843325138092}]"
+30,2020-11-08 01:59:56+00:00,Is #COVID__19 gone now?,"[{'label': 'Neutral', 'score': 0.7289809584617615}]"
+31,2020-11-08 01:59:56+00:00,"As a #ScienceWriter, I know we are all rejoicing at the thought of leadership that will follow #PublicHealth advice about #COVID19. Too many have needlessly died. #WearAMaskSaveALife","[{'label': 'Positive', 'score': 0.6383669376373291}]"
+32,2020-11-08 01:59:56+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+33,2020-11-08 01:59:56+00:00,"RT If this is ok because people are masked, why isn't it ok to have fans in masks in stadiums this fall?","[{'label': 'Neutral', 'score': 0.7264173626899719}]"
+34,2020-11-08 01:59:56+00:00,"RT The demands for masks, shutdowns and social distancing are suddenly sparse. At Biden's event he has people next to each...","[{'label': 'Neutral', 'score': 0.5506467819213867}]"
+35,2020-11-08 01:59:56+00:00,"RT Gathering to go to church? Not okay. Gathering to punch a pillowed effigy of Trump? OKAY. 
+
+COVID-19: the greatest politi...","[{'label': 'Negative', 'score': 0.690510630607605}]"
+36,2020-11-08 01:59:56+00:00,"RT ""It's all things all at once"" 
+
+@Maddow shares what it feels like to report on the 2020 presidential election and President Trum...","[{'label': 'Neutral', 'score': 0.8539113998413086}]"
+37,2020-11-08 01:59:56+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+38,2020-11-08 01:59:56+00:00,"Lowkey teared up watching this. Hopefully Joe can follow through and not just be all talk, this country is in serious need of a normal president and start off by getting the COVID-19 situation dealt with. It's been far too long. #Election2020","[{'label': 'Negative', 'score': 0.5682380199432373}]"
+39,2020-11-08 01:59:56+00:00,"it was nice to see Biden show sympathy for people who lost loved ones from covid instead of trump's ""it is what it is""","[{'label': 'Positive', 'score': 0.43897581100463867}]"
+40,2020-11-08 01:59:56+00:00,RT President-elect Joe Biden confirms he will form a task force to deal with the coronavirus pandemic and advise his transition t...,"[{'label': 'Neutral', 'score': 0.928846538066864}]"
+41,2020-11-08 01:59:56+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+42,2020-11-08 01:59:56+00:00,This guy is such a prick. Not as bad as Ted Cruz but still a fuckin prick.,"[{'label': 'Negative', 'score': 0.9507027268409729}]"
+43,2020-11-08 01:59:56+00:00,NOPE.  You had your chance.  You chose to deny pandemic and support white supremacy instead. Bye!!,"[{'label': 'Negative', 'score': 0.9353569746017456}]"
+44,2020-11-08 01:59:56+00:00,RT The hymn quoted is the hymn I recorded for my grandmother's burial 2 months ago. She died suddenly &amp; because o...,"[{'label': 'Negative', 'score': 0.7085344791412354}]"
+45,2020-11-08 01:59:56+00:00,"RT President-elect Biden: ""On Monday I will name a group of leading scientists and experts as transition advisers ... I will spare no e...","[{'label': 'Neutral', 'score': 0.6887532472610474}]"
+46,2020-11-08 01:59:56+00:00,"""Our pandemic plan will be built on a bedrock of science"".
+
+#BidenHarris2020","[{'label': 'Positive', 'score': 0.5557610988616943}]"
+47,2020-11-08 01:59:56+00:00,"1/2: The Saint John Remembrance Day Committee has come up with a COVID-safe new initiative that will allow local area residents to salute &amp; express thanks to our Veterans, Military, &amp; 1st Responders on Remembrance Day, Nov 11th. #SaintJohnRemembers","[{'label': 'Positive', 'score': 0.8679397106170654}]"
+48,2020-11-08 01:59:56+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+49,2020-11-08 01:59:56+00:00,"RT AWESOME
+
+@JoeBiden: ""America has called upon us to marshal the forces of decency, the forces of fairness, to *marsha...","[{'label': 'Positive', 'score': 0.8453577756881714}]"
+50,2020-11-08 01:59:56+00:00,"It may be an effect of the pandemic - that the last few months have felt bleak - but I'm a wee emotional mess at this. 
+
+Both of those speeches were absolutely outstanding. America, you made a good choice. Let's get some hope back into this world #Election2020","[{'label': 'Negative', 'score': 0.43220117688179016}]"
+51,2020-11-08 01:59:56+00:00,RT 'Our work begins with getting COVID under control' -- President-elect Biden pledges to listen to the science and help Ameri...,"[{'label': 'Positive', 'score': 0.5330027341842651}]"
+52,2020-11-08 01:59:56+00:00,"RT While you are celebrating this historic day, please remember NEVER to stay at They were on of Hannity and T...","[{'label': 'Neutral', 'score': 0.675071120262146}]"
+53,2020-11-08 01:59:56+00:00,"I'm currently watching Loic Prigent's last YouTube video about Isabel Marant and... how can people be surprised France went under another lockdown ?
+
+Seriously ?","[{'label': 'Negative', 'score': 0.6949986219406128}]"
+54,2020-11-08 01:59:56+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+55,2020-11-08 01:59:56+00:00,"RT President-elect Joe Biden: ""To all those of you who volunteered and worked the polls in the middle of this pandemic, local...","[{'label': 'Neutral', 'score': 0.8539513945579529}]"
+56,2020-11-08 01:59:56+00:00,RT This WICKED BASTARD cut his comments off.... #BidenHarris2020,"[{'label': 'Negative', 'score': 0.9319605827331543}]"
+57,2020-11-08 01:59:57+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+58,2020-11-08 01:59:57+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+59,2020-11-08 01:59:57+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+60,2020-11-08 01:59:57+00:00,"RT It shouldn't mean so much to hear a president be decent to those who disagree with him, call for protecting the climate and...","[{'label': 'Negative', 'score': 0.717003583908081}]"
+61,2020-11-08 01:59:57+00:00,"2020 is the year of fraud
+
+covid
+Joe Biden
+election","[{'label': 'Negative', 'score': 0.8601505756378174}]"
+62,2020-11-08 01:59:57+00:00,RT President-elect Joe Biden confirms he will form a task force to deal with the coronavirus pandemic and advise his transition t...,"[{'label': 'Neutral', 'score': 0.928846538066864}]"
+63,2020-11-08 01:59:57+00:00,"RT It shouldn't mean so much to hear a president be decent to those who disagree with him, call for protecting the climate and...","[{'label': 'Negative', 'score': 0.717003583908081}]"
+64,2020-11-08 01:59:57+00:00,"RT Unity at last...
+
+What a sight... thousands mixing &amp; dancing shoulder to shoulder in the streets with covid cases careen...","[{'label': 'Positive', 'score': 0.6199120283126831}]"
+65,2020-11-08 01:59:57+00:00,Please read her story. This hits close to home as I live in Illinois and close to Bloomington and Mt. Zion. Heartbreaking for her and her family ,"[{'label': 'Negative', 'score': 0.6473468542098999}]"
+66,2020-11-08 01:59:57+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+67,2020-11-08 01:59:57+00:00,"RT If you voted for Biden, congrats. We have a lot to look forward to:
+
+A president that listens to scientists, has a plan...","[{'label': 'Positive', 'score': 0.9842698574066162}]"
+68,2020-11-08 01:59:57+00:00,"RT Gathering to go to church? Not okay. Gathering to punch a pillowed effigy of Trump? OKAY. 
+
+COVID-19: the greatest politi...","[{'label': 'Negative', 'score': 0.690510630607605}]"
+69,2020-11-08 01:59:57+00:00,RT Biden is ready!!! Transition team in place. Goal - let's fix the pandemic,"[{'label': 'Positive', 'score': 0.7295456528663635}]"
+70,2020-11-08 01:59:57+00:00,RT 'Good triumphs over evil': UK PM says will defeat COVID 'like Ram &amp; Sita defeated Ravana',"[{'label': 'Positive', 'score': 0.6083695888519287}]"
+71,2020-11-08 01:59:57+00:00,Sick with COVID and/or distancing himself from Trump. Why hasn't he been disbarred?,"[{'label': 'Negative', 'score': 0.8377073407173157}]"
+72,2020-11-08 01:59:57+00:00,RT You know what I'm consistently seeing in all these outbreaks of celebration? FUCKING MASKS. I don't want to see any conc...,"[{'label': 'Negative', 'score': 0.9416284561157227}]"
+73,2020-11-08 01:59:57+00:00,"RT President-elect Joe Biden: ""To all those of you who volunteered and worked the polls in the middle of this pandemic, local...","[{'label': 'Neutral', 'score': 0.8539513945579529}]"
+74,2020-11-08 01:59:57+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+75,2020-11-08 01:59:57+00:00,RT Lots of New Yorkers are happy with the election results... but Covid-19 isn't close to being done here. Please be care...,"[{'label': 'Neutral', 'score': 0.4717545807361603}]"
+76,2020-11-08 01:59:57+00:00,It is the result of coronavirus lies! Media lies. 6.8 unployment. Watch them fk this up. From nothing more than a small business owner.,"[{'label': 'Negative', 'score': 0.9378365874290466}]"
+77,2020-11-08 01:59:57+00:00,I also heard cancer and Alzheimer's in the mix of beatables. Quite an ambitious list.,"[{'label': 'Neutral', 'score': 0.53593510389328}]"
+78,2020-11-08 01:59:57+00:00,When was filming inside a gaming arena considered an essential reason to travel via train? Interesting... You know if we're gonna do a lockdown can the get their shit together and enforce it properly. Sick of this shit.,"[{'label': 'Negative', 'score': 0.845632016658783}]"
+79,2020-11-08 01:59:58+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+80,2020-11-08 01:59:58+00:00,"RT ""Our work begins with getting Covid under control""
+
+President-Elect Joe Biden says on Monday he'll assemble a group of leadin...","[{'label': 'Neutral', 'score': 0.8402221202850342}]"
+81,2020-11-08 01:59:58+00:00,RT Yes.  This man spent his entire presidency promising and inflicting harm on his fellow Americans. Mocking his opponents. Th...,"[{'label': 'Negative', 'score': 0.9102117419242859}]"
+82,2020-11-08 01:59:58+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+83,2020-11-08 01:59:58+00:00,"RT This agricultural employer could have hired NZ folk to pick his courgettes but didn't because according to him, we are lasy...","[{'label': 'Negative', 'score': 0.6847416758537292}]"
+84,2020-11-08 01:59:58+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+85,2020-11-08 01:59:58+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+86,2020-11-08 01:59:58+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+87,2020-11-08 01:59:58+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+88,2020-11-08 01:59:58+00:00,"Yes, we locked down for three months -- everything. But there are lots of people who can't lock themselves down, it seems.","[{'label': 'Negative', 'score': 0.6088951826095581}]"
+89,2020-11-08 01:59:58+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+90,2020-11-08 01:59:58+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+91,2020-11-08 01:59:58+00:00,RT We should all take a moment to feel bad for the Trumpies who will have to endure at least 4 years of expanded healthca...,"[{'label': 'Negative', 'score': 0.8477287888526917}]"
+92,2020-11-08 01:59:58+00:00,"RT Trump got the full covid experience!!!!! Tested positive, out of work and evicted ","[{'label': 'Negative', 'score': 0.7083944082260132}]"
+93,2020-11-08 01:59:58+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+94,2020-11-08 01:59:58+00:00,"RT We will unite this country, defeat COVID-19, and build a stronger, more prosperous, more just America.","[{'label': 'Positive', 'score': 0.8706910014152527}]"
+95,2020-11-08 01:59:58+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+96,2020-11-08 01:59:58+00:00,"NOT in a good way...as bad as many predicted...
+https://t.co/2kft7RWZqM","[{'label': 'Negative', 'score': 0.8627563714981079}]"
+97,2020-11-08 01:59:58+00:00,"Despite a world-wide pandemic, Sharon Allen, in partnership with the Los Alamos K Family (Kiwanis, Key Club, Builders Club and the three K Kid Clubs at Barranca, Aspen and Chamisa Schools) has continued the mission of supporting African libraries.","[{'label': 'Neutral', 'score': 0.5111762881278992}]"
+98,2020-11-08 01:59:58+00:00,No more Covid!!! Yeah!!!,"[{'label': 'Positive', 'score': 0.8802552223205566}]"
+99,2020-11-08 01:59:58+00:00,RT Joe Biden will announce a 12-person coronavirus-task force on Monday. The announcement is meant to signify how serious...,"[{'label': 'Neutral', 'score': 0.8988605737686157}]"
+100,2020-11-08 01:59:58+00:00,"Per Biden's speech, beginning on Monday, this nation's actually going to have its first concrete response to the pandemic.","[{'label': 'Neutral', 'score': 0.6753067970275879}]"
+101,2020-11-08 01:59:59+00:00,RT I can't believe we gotta wait 3 months to get help with the pandemic ,"[{'label': 'Negative', 'score': 0.9116336107254028}]"
+102,2020-11-08 01:59:59+00:00,RT I'm a little calmer after a little karma thank you #Navajo RT Despite some of the highest Covid-19 death...,"[{'label': 'Positive', 'score': 0.535979688167572}]"
+103,2020-11-08 01:59:59+00:00,Fox News lying. That's shocking. Chris Wallace is the only anchor they have that doesn't lie.,"[{'label': 'Negative', 'score': 0.8632780909538269}]"
+104,2020-11-08 01:59:59+00:00,"Fireworks in my neighborhood. I wanna go door to door kissing people, but covid.","[{'label': 'Negative', 'score': 0.777698814868927}]"
+105,2020-11-08 01:59:59+00:00,RT Joe Biden was elected the nation's 46th president Saturday in a repudiation of President Trump powered by legions of wo...,"[{'label': 'Neutral', 'score': 0.5887724757194519}]"
+106,2020-11-08 01:59:59+00:00,"RT While you watch the map show....
+
+Might I suggest you pause and remember frontline workers are literally dying to save liv...","[{'label': 'Neutral', 'score': 0.5433843731880188}]"
+107,2020-11-08 01:59:59+00:00,RT SUPER-SPREADERS ... wait do we still have COVID - i'm waiting for the virtue signaling left to condemn this act of celebr...,"[{'label': 'Negative', 'score': 0.7458626627922058}]"
+108,2020-11-08 01:59:59+00:00,"Let me explain-each state sets own rules on when ballots be rec'd &amp; when counting begins. Ex.-In PA, the Republican Legislature wouldn't allow counting before 11/3 &amp;due to COVID an enormous # of people chose the mail-in option. Mail-in votes get more scrutiny so it takes longer.","[{'label': 'Neutral', 'score': 0.6664556860923767}]"
+109,2020-11-08 01:59:59+00:00,"RT The demands for masks, shutdowns and social distancing are suddenly sparse. At Biden's event he has people next to each...","[{'label': 'Neutral', 'score': 0.5506467819213867}]"
+110,2020-11-08 01:59:59+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+111,2020-11-08 01:59:59+00:00,RT one thing you should know about cardigan MV before we got another MV (possibly) that the video's literally give a bunch...,"[{'label': 'Neutral', 'score': 0.7452621459960938}]"
+112,2020-11-08 01:59:59+00:00,"RT Joe Biden: ""Our work begins with getting COVID under control... on Monday, I will name a group of scientists and experts...","[{'label': 'Positive', 'score': 0.551110565662384}]"
+113,2020-11-08 01:59:59+00:00,RT Well framed headline.,"[{'label': 'Positive', 'score': 0.53643399477005}]"
+114,2020-11-08 01:59:59+00:00,"RT All the talking heads yammering on about whether Trump will invite to the White House 
+
+motherfuckers, that WH is a f...","[{'label': 'Negative', 'score': 0.6423011422157288}]"
+115,2020-11-08 01:59:59+00:00,"RT Donald Trump: says ""It is what it is"" when asked about Americans killed by Covid-19.
+
+Joe Biden: specifically calls out...","[{'label': 'Negative', 'score': 0.5090000629425049}]"
+116,2020-11-08 01:59:59+00:00,"Yeah, more than on MTGO since the pandemic.
+Same handle as here","[{'label': 'Neutral', 'score': 0.7758986353874207}]"
+117,2020-11-08 01:59:59+00:00,"RT He said ""gay, straight, transgender."" He thanked educators, poll workers. He called out systemic racial injustice. He spoke...","[{'label': 'Neutral', 'score': 0.4918580651283264}]"
+118,2020-11-08 01:59:59+00:00,RT Thinking of all the families who have lost someone to COVID tonight.,"[{'label': 'Negative', 'score': 0.7169061899185181}]"
+119,2020-11-08 01:59:59+00:00,"RT Our pandemic plan ""will be built on a bedrock of science""
+
+Sweet, sweet words 
+
+#BidenHarris2020","[{'label': 'Positive', 'score': 0.8277139663696289}]"
+120,2020-11-08 01:59:59+00:00,How the hell is Trevor Lawrence on the sideline if he's still under COVID-19 protocols?,"[{'label': 'Negative', 'score': 0.7555160522460938}]"
+121,2020-11-08 01:59:59+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+122,2020-11-08 01:59:59+00:00,Don't we already have a covid task force??? Clowns,"[{'label': 'Negative', 'score': 0.7701174020767212}]"
+123,2020-11-08 02:00:00+00:00,RT My biggest fear is that Biden doesn't get the immense scale of the problems we face. We have no choice but an ambitious F...,"[{'label': 'Negative', 'score': 0.8921809196472168}]"
+124,2020-11-08 02:00:00+00:00,BIDEN DEFINITELY HAS A BETTER TAN THAN OUR FORMER PREZ ,"[{'label': 'Positive', 'score': 0.9322370290756226}]"
+125,2020-11-08 02:00:00+00:00,"RT If this is ok because people are masked, why isn't it ok to have fans in masks in stadiums this fall?","[{'label': 'Neutral', 'score': 0.7264173626899719}]"
+126,2020-11-08 02:00:00+00:00,"RT New York State Bar Association... on Saturday... 
+
+passed a resolution urging the state to ... 
+
+consider making it manda...","[{'label': 'Neutral', 'score': 0.9366292357444763}]"
+127,2020-11-08 02:00:00+00:00,RT 'Our work begins with getting COVID under control' -- President-elect Biden pledges to listen to the science and help Ameri...,"[{'label': 'Positive', 'score': 0.5330027341842651}]"
+128,2020-11-08 02:00:00+00:00,Covid,"[{'label': 'Neutral', 'score': 0.560185968875885}]"
+129,2020-11-08 02:00:00+00:00,"RT IMAGINE having a President who acknowledges a) the hard work non-white people did to secure this win, b) the LGBTQ+ com...","[{'label': 'Positive', 'score': 0.64206463098526}]"
+130,2020-11-08 02:00:00+00:00,"In a small study, researchers found that 63% of patients were able to tolerate #pronepositioning. Learn more about the risks and benefits of this practice during the #COVID19 #pandemic. #MedEd","[{'label': 'Neutral', 'score': 0.7698734998703003}]"
+131,2020-11-08 02:00:00+00:00,"Minister of Health Hala Zayed called upon the voters to adhere to the protective measures, keeping social distancing and having the PPE inside the polls
+
+#EgyptToday #Egypt | #ntkhbt_mjls_lnwb #mjls_lnwb2020
+@DrHalaZayed1
+
+https://t.co/AkifVdYlpH","[{'label': 'Neutral', 'score': 0.8462812304496765}]"
+132,2020-11-08 02:00:00+00:00,"Let's be better #Humans!
+
+#JoyTrain #Joy #Love  #Kindness #MentalHealth #Mindfulness #GoldenHearts #IAM #COVID19 #IDWP #IAMChoosingLove #ChooseLove #Quote #SaturdayThoughts #SaturdayMotivation #SaturdayMorning #ThinkBIGSundayWithMarsha RT","[{'label': 'Positive', 'score': 0.895495593547821}]"
+133,2020-11-08 02:00:00+00:00,"RT Despite some of the highest Covid-19 death rates in America, Navajo Nation increased their turnout and went 97% for Biden...ye...","[{'label': 'Neutral', 'score': 0.5530441403388977}]"
+134,2020-11-08 02:00:00+00:00,"Biden to announce COVID-19 task force Monday, reports say
+
+https://t.co/KuDSXeg44a","[{'label': 'Neutral', 'score': 0.8799439668655396}]"
+135,2020-11-08 02:00:00+00:00,"President Donald Trump's chief of staff, Mark Meadows, has contracted coronavirus, according to people familiar with the matter, adding to the outbreaks connected to the White House.
+
+https://t.co/rifdr78EFw","[{'label': 'Neutral', 'score': 0.498268187046051}]"
+136,2020-11-08 02:00:00+00:00,RT Hawks go 2-1 on the day. We will be back in action tomorrow for our final 2 games of the fall season. Tune in to AGL00...,"[{'label': 'Neutral', 'score': 0.7176327705383301}]"
+137,2020-11-08 02:00:00+00:00,RT My biggest fear is that Biden doesn't get the immense scale of the problems we face. We have no choice but an ambitious F...,"[{'label': 'Negative', 'score': 0.8921809196472168}]"
+138,2020-11-08 02:00:00+00:00,"Contact tracing is critical for keeping people safe and collecting data on COVID-19 cases. If you get a call from the contact tracing team, answer the phone. #covid19MA","[{'label': 'Neutral', 'score': 0.7200208306312561}]"
+139,2020-11-08 02:00:00+00:00,OPINION: Elections are very important for everyone in the energy business as the industry tries to cope with a worldwide pandemic and the impact it is having on demand and commodity prices.,"[{'label': 'Neutral', 'score': 0.7811837196350098}]"
+140,2020-11-08 02:00:00+00:00,"The individuals who tested positive were wearing masks, but health officials in Saratoga County say social distancing was not maintained at all times.","[{'label': 'Neutral', 'score': 0.7070571780204773}]"
+141,2020-11-08 02:00:00+00:00,No covid there,"[{'label': 'Neutral', 'score': 0.6968598365783691}]"
+142,2020-11-08 02:00:00+00:00,"RT If this is ok because people are masked, why isn't it ok to have fans in masks in stadiums this fall?","[{'label': 'Neutral', 'score': 0.7264173626899719}]"
+143,2020-11-08 02:00:00+00:00,"In Pics | How to prepare for job interviews during the pandemic and the questions you must ace
+https://t.co/dDs846cHTv","[{'label': 'Neutral', 'score': 0.7992067337036133}]"
+144,2020-11-08 02:00:00+00:00,"RT Biden plans immediate flurry of executive orders to reverse Trump policies
+
+- Rejoin Paris Climate Accords  
+- Rejoin WHO 
+- Re...","[{'label': 'Neutral', 'score': 0.8694012761116028}]"
+145,2020-11-08 02:00:00+00:00,"From immigration to the environment and a new pandemic response, here are 5 ways Joe Biden's election as president could change Arizona:
+https://t.co/CHd7Ocz3di","[{'label': 'Neutral', 'score': 0.8292573094367981}]"
+146,2020-11-08 02:00:00+00:00,Total U.S. cases since the start of the pandemic are nearing 10 million.,"[{'label': 'Neutral', 'score': 0.5639085173606873}]"
+147,2020-11-08 02:00:00+00:00,Several staffers have said they are upset with how it's been handled.,"[{'label': 'Negative', 'score': 0.7525148987770081}]"
+148,2020-11-08 02:00:00+00:00,"""We have not been able to earn any money since this Covid pandemic hit so we were able to earn a little money today and then celebrate veterans seeing as how veterans weren't going to get an official thank you we thought we would do this ourselves.""","[{'label': 'Neutral', 'score': 0.4886486530303955}]"
+149,2020-11-08 02:00:00+00:00,"RT It's been so long that simply hearing Kamala say things like ""defeat the epidemic"" and ""fight systemic racism in the justice...","[{'label': 'Neutral', 'score': 0.662231981754303}]"
+150,2020-11-08 02:00:00+00:00,"New research documents how COVID-19 multiplies stress and trauma for people with disabilities
+#ResearchNews #News #Disabilities #Covid19 
+https://t.co/IFpvBfUN5V","[{'label': 'Neutral', 'score': 0.6637186408042908}]"
+151,2020-11-08 02:00:00+00:00,"Wearing a mask can help stop the spread of #COVID19.
+
+#WearAMask inside places where it's difficult to stay 1.5 metres away others.
+
+#Multicultural resources 
+@NSWHealth
+
+https://t.co/5AWdE2SdYP
+
+https://t.co/ktYF2sRIcn
+
+#Turkish #Turkce #COVID19Au","[{'label': 'Neutral', 'score': 0.7819733619689941}]"
+152,2020-11-08 02:00:00+00:00,"We checked in with Oliver Lewis, from our Dubai office to see how he's embracing his new norm. ""The lockdown presented an ideal opportunity to pause and address why and where I'm spending my time, both personally and professionally.""
+
+#aDayInTheLife #GetThroughThisTogether","[{'label': 'Positive', 'score': 0.6839061379432678}]"
+153,2020-11-08 02:00:00+00:00,"True Hero 
+
+We're proud to recognize UW Health Respiratory Therapist Jaclyn Billon as this week's Healthcare Hero of the Week, presented by you to Jaclyn &amp; frontline workers everywhere for their service to our community, especially during the COVID-19 pandemic","[{'label': 'Positive', 'score': 0.9533270597457886}]"
+154,2020-11-08 02:00:00+00:00,RT Your kids had to go to school on their computers for a year and your grandfather had to die alone and your neighborhood...,"[{'label': 'Negative', 'score': 0.8800322413444519}]"
+155,2020-11-08 02:00:00+00:00,"The coronavirus also was ""suspected to be a contributing factor"" in two employee deaths, according to Trader Joe's.
+","[{'label': 'Negative', 'score': 0.7846887111663818}]"
+156,2020-11-08 02:00:00+00:00,RT Golden,"[{'label': 'Neutral', 'score': 0.660625696182251}]"
+157,2020-11-08 02:00:00+00:00,The Danish government said they plan to kill 15 million minks after the animals spread a coronavirus mutation to humans.,"[{'label': 'Negative', 'score': 0.8958324193954468}]"
+158,2020-11-08 02:00:00+00:00,Slovakia's Second Round of Coronavirus Tests Draws Large Crowds,"[{'label': 'Neutral', 'score': 0.6884427070617676}]"
+159,2020-11-08 02:00:00+00:00,CORONAVIRUS POSITIVE: At least five people in President Trump's close circle have tested positive for coronavirus.,"[{'label': 'Negative', 'score': 0.5013360977172852}]"
+160,2020-11-08 02:00:00+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+161,2020-11-08 02:00:00+00:00,"RT To all those who volunteered, worked the polls in the middle of this pandemic, local election officials -- you deserve a speci...","[{'label': 'Neutral', 'score': 0.5986008048057556}]"
+162,2020-11-08 02:00:00+00:00,"""We have not been able to earn any money since this Covid pandemic hit so we were able to earn a little money today and then celebrate veterans seeing as how veterans weren't going to get an official thank you we thought we would do this ourselves.""","[{'label': 'Neutral', 'score': 0.4886486530303955}]"
+163,2020-11-08 02:00:00+00:00,"With coronavirus cases running rampant in the Dakotas and elected leaders refusing to forcefully intervene, the burden of pushing people to take the virus seriously has increasingly been put on the families of those killed. 
+
+https://t.co/kx8znUYSWj","[{'label': 'Negative', 'score': 0.8443177938461304}]"
+164,2020-11-08 02:00:01+00:00,Why COVID-19 cases are surging across Canada and what needs to be done,"[{'label': 'Negative', 'score': 0.6832895278930664}]"
+165,2020-11-08 02:00:01+00:00,RT Please don't die of COVID trying to celebrate today,"[{'label': 'Negative', 'score': 0.605663001537323}]"
+166,2020-11-08 02:00:01+00:00,Obama wrote this,"[{'label': 'Neutral', 'score': 0.5373278856277466}]"
+167,2020-11-08 02:00:01+00:00,"RT Joe Biden's tone tonight was perfect (though he still scares the hell out of me on COVID).
+
+I sincerely hope this is reall...","[{'label': 'Positive', 'score': 0.6676990985870361}]"
+168,2020-11-08 02:00:01+00:00,"RT Great Trump is out but 7 million MORE people voted for him than 2016 &amp; Covid is only why he barely lost
+
+Biden &amp; surrogates...","[{'label': 'Negative', 'score': 0.4546620845794678}]"
+169,2020-11-08 02:00:01+00:00,"Out of all the disastorous calls, his COVID response was beyond idiotic. He could've secured his re-election without a hitch, but he didn't just shoot himself in the foot: he fired a minigun at it. He did everything China was guilty of and then some.","[{'label': 'Negative', 'score': 0.9260154366493225}]"
+170,2020-11-08 02:00:01+00:00,"RT Gathering to go to church? Not okay. Gathering to punch a pillowed effigy of Trump? OKAY. 
+
+COVID-19: the greatest politi...","[{'label': 'Negative', 'score': 0.690510630607605}]"
+171,2020-11-08 02:00:01+00:00,"Current Conditions for #Sayre PA
+Temp: 44.9F
+Wind Chill: 44.9F
+Humidity: 96%
+Dew Point: 43.9F 
+Barometer: 30.381 inHg
+Wind: 0 mph from the N/A
+Corona Virus Weekly Stats:
+Cases: 192.000000
+Deaths: 4.000000
+Survival: 98.000000
+#weewx #nepa #bradfordcounty","[{'label': 'Neutral', 'score': 0.844612181186676}]"
+172,2020-11-08 02:00:01+00:00,RT Covid disappeared &amp; Hunter reappeared.,"[{'label': 'Neutral', 'score': 0.6828790903091431}]"
+173,2020-11-08 02:00:02+00:00,Didn't you hear. Dear Leader said that the pandemic would be over on November 4th.,"[{'label': 'Neutral', 'score': 0.7791915535926819}]"
+174,2020-11-08 02:00:02+00:00,Covid needs global coordination. US should lead it.,"[{'label': 'Neutral', 'score': 0.6335986852645874}]"
+175,2020-11-08 02:00:02+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+176,2020-11-08 02:00:02+00:00,RT REMEMBER SCIENTISTS AND EXPERTS,"[{'label': 'Neutral', 'score': 0.8317999839782715}]"
+177,2020-11-08 02:00:02+00:00,"RT Thanks for your advocacy 
+
+Alberta hospitals straining dangerously under weight of COVID-19, doct...","[{'label': 'Neutral', 'score': 0.7209417223930359}]"
+178,2020-11-08 02:00:02+00:00,"RT My interview with Sunrise this morning, where I discussed the latest development in our COVID-19 Vaccine and Treatment Stra...","[{'label': 'Neutral', 'score': 0.9240735173225403}]"
+179,2020-11-08 02:00:02+00:00,"RT Now the real work begins.
+
+To beat this pandemic. 
+To rebuild our economy.
+To root out systemic racism in our justice sys...","[{'label': 'Neutral', 'score': 0.7458500266075134}]"
+180,2020-11-08 02:00:02+00:00,"Advanced technologies and digitalization are set to improve #publichealth as evidenced from the exhibits at the public health and epidemic prevention exhibition zone, a newly-added section at this year's China International Import Expo. #CIIE https://t.co/RDZ8ap4P44","[{'label': 'Positive', 'score': 0.8655686378479004}]"
+181,2020-11-08 02:00:02+00:00,RT .@JoeBiden says he will start Monday to deal with #COVID19 by appointing scientists #Election2020,"[{'label': 'Neutral', 'score': 0.8310458064079285}]"
+182,2020-11-08 02:00:02+00:00,"About 70 million credit cardholders saw credit limits shrink or their cards closed all together during the pandemic, according to","[{'label': 'Negative', 'score': 0.5939301252365112}]"
+183,2020-11-08 02:00:02+00:00,"RT ""Science and compassion; we will spare no effort to control the pandemic"" #BidenHarris","[{'label': 'Neutral', 'score': 0.6095318794250488}]"
+184,2020-11-08 02:00:02+00:00,RT Classes are not magical places where Covid doesn't exist. Teachers must have same protections as other BC workers.,"[{'label': 'Negative', 'score': 0.5083459615707397}]"

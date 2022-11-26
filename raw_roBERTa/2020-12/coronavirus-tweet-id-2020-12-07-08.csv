@@ -1,0 +1,305 @@
+,created_at,full_text,sentiment_score
+0,2020-12-07 07:59:54+00:00,BBC: Pakistan: Covid patients die due to oxygen shortage in Peshawar... ,"[{'label': 'Negative', 'score': 0.6953918933868408}]"
+1,2020-12-07 07:59:55+00:00,"Rudy Giuliani tests positive for COVID-19, admitted to hospital - The Wall Street Journal.   Hmmm goes on morning show then to hospital for the BEST treatment? ","[{'label': 'Neutral', 'score': 0.7023375630378723}]"
+2,2020-12-07 07:59:55+00:00,"Tigray refugees in cramped Sudanese camps fear coronavirus outbreak, ,https://t.co/WqPTBrMjjW","[{'label': 'Negative', 'score': 0.6837663054466248}]"
+3,2020-12-07 07:59:55+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+4,2020-12-07 07:59:55+00:00,i want what they have,"[{'label': 'Neutral', 'score': 0.6856803297996521}]"
+5,2020-12-07 07:59:55+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+6,2020-12-07 07:59:55+00:00,"RT Moncef Slaoui, the head of the US effort to develop a Covid-19 vaccine, praises Joe Biden's plan to ask all Americans to wear m...","[{'label': 'Neutral', 'score': 0.7344411611557007}]"
+7,2020-12-07 07:59:55+00:00,"RT Zero flu cases. In the last 8 weeks WA, OR, and CA have not recorded any flu cases.  COVID-19 has cured the flu. 
+
+Social...","[{'label': 'Positive', 'score': 0.5197295546531677}]"
+8,2020-12-07 07:59:55+00:00,"Another report olso verify the same
+https://t.co/Otx572h2w6","[{'label': 'Neutral', 'score': 0.8866180181503296}]"
+9,2020-12-07 07:59:55+00:00,"RT As promised, before the end of 2020, Serum Institute of India (SII) has applied for emergency use authorisation for the first made...","[{'label': 'Neutral', 'score': 0.9051755666732788}]"
+10,2020-12-07 07:59:55+00:00,"Taiwan has decoupled from China so far, so the global coronavirus outbreak has not affected Taiwan this time!","[{'label': 'Neutral', 'score': 0.6701371669769287}]"
+11,2020-12-07 07:59:55+00:00,"#GenderGaps | Prof Ritu Dewan | Pandemic, Policy, and Patriarchy: Process of Gender De-equalisation
+
+@Delhipostnews
+@impriindia 
+@GovindKelkar
+
+https://t.co/q7LjaQcBDd","[{'label': 'Neutral', 'score': 0.8716614842414856}]"
+12,2020-12-07 07:59:55+00:00,"RT - So.Korea's at 600+ confirmed cases everyday these days,
+-Seoul at Level 2.5/3 social distancing for 3 weeks (until year en...","[{'label': 'Neutral', 'score': 0.7832194566726685}]"
+13,2020-12-07 07:59:55+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+14,2020-12-07 07:59:55+00:00,"RT #COVID19 pandemic: #Indigo airlines to refund all cancellations during lockdown by January 31 
+
+#COVID19India
+
+https://t.co/UTkwmN...","[{'label': 'Neutral', 'score': 0.787158727645874}]"
+15,2020-12-07 07:59:56+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+16,2020-12-07 07:59:56+00:00,"RT I hear at least 6 workers at Amazon's Whole Foods warehouse in Industry City, Brooklyn have tested positive for COVID since Oc...","[{'label': 'Neutral', 'score': 0.7306460738182068}]"
+17,2020-12-07 07:59:56+00:00,"RT The last few months for Rudy Giuliani:
+
+1. Gets caught (allegedly) undoing his pants in a Borat movie
+2. Hosts an electio...","[{'label': 'Neutral', 'score': 0.7118445634841919}]"
+18,2020-12-07 07:59:56+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+19,2020-12-07 07:59:56+00:00,"RT .@NYGovCuomo points out low infection rates in schools, while completely ignoring the issues around the quality of educatio...","[{'label': 'Negative', 'score': 0.5975599884986877}]"
+20,2020-12-07 07:59:56+00:00,"RT Dr. Katalin Kariko, 65, fled Communist-run Hungary for the US in 1985 with $1,200 hidden inside her daughter's teddy bea...","[{'label': 'Neutral', 'score': 0.6842717528343201}]"
+21,2020-12-07 07:59:56+00:00,RT JUSTWEARAFUCKINGMASK,"[{'label': 'Negative', 'score': 0.5396921038627625}]"
+22,2020-12-07 07:59:56+00:00,RT Kelly Loeffler wants to steal your healthcare in the middle of a pandemic and calls her opponent extreme. What a joke.,"[{'label': 'Negative', 'score': 0.94399493932724}]"
+23,2020-12-07 07:59:56+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+24,2020-12-07 07:59:56+00:00,Useless and harmful. Start with the masks please,"[{'label': 'Negative', 'score': 0.8994038105010986}]"
+25,2020-12-07 07:59:56+00:00,"RT Rudy Giuliani tests positive for COVID-19, Trump says","[{'label': 'Neutral', 'score': 0.7425524592399597}]"
+26,2020-12-07 07:59:56+00:00,Praying for all artists that attended #2020MAMA result negative for coronavirus. ,"[{'label': 'Neutral', 'score': 0.5712586045265198}]"
+27,2020-12-07 07:59:56+00:00,RT President of the Republic of Azerbaijan Ilham Aliyev addressed the Special Session of UN General Assembly in response to C...,"[{'label': 'Neutral', 'score': 0.9571625590324402}]"
+28,2020-12-07 07:59:56+00:00,No agenda ? Yeah right  #gatesofhell,"[{'label': 'Negative', 'score': 0.6873136162757874}]"
+29,2020-12-07 07:59:56+00:00,"WATCH: #Rudy 
+Giuliani asks #Michigan woman to remove her mask 4 days before testing positive for #COVID-19 #SmartNews","[{'label': 'Neutral', 'score': 0.8742172122001648}]"
+30,2020-12-07 07:59:56+00:00,"This Bride Still Went On With A 'Tangled' Inspired Wedding After Testing Positive For COVID-19 problems require modern solutions. Congratulations, lovebirds and get well soon, Lauren.","[{'label': 'Positive', 'score': 0.8345971703529358}]"
+31,2020-12-07 07:59:56+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+32,2020-12-07 07:59:56+00:00,Pandemic blues? Online art therapy might help you work through your feelings | CBC Arts,"[{'label': 'Neutral', 'score': 0.6526503562927246}]"
+33,2020-12-07 07:59:57+00:00,"RT My Dad is resting, getting great care and feeling well. Thank you to all the friends who have reached ou...","[{'label': 'Positive', 'score': 0.9613350629806519}]"
+34,2020-12-07 07:59:57+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+35,2020-12-07 07:59:57+00:00,"They shouldn't have to treat him.  In fact, there should be a law on the books stating:  anybody seeking to deliberately contract/spread a potentially lethal disease, shall not receive treatment - only prison time.","[{'label': 'Negative', 'score': 0.9057656526565552}]"
+36,2020-12-07 07:59:57+00:00,"RT Britons amassed around PS100 billion of ""excess savings"" during coronavirus lockdowns, according to the Bank of England's chief...","[{'label': 'Neutral', 'score': 0.7751457095146179}]"
+37,2020-12-07 07:59:57+00:00,omg :(( praying for negative result,"[{'label': 'Negative', 'score': 0.858532726764679}]"
+38,2020-12-07 07:59:57+00:00,Being mis-diagnosed as Covid?,"[{'label': 'Neutral', 'score': 0.5562742352485657}]"
+39,2020-12-07 07:59:57+00:00,"Prevent the spread of #COVID-19 in 7 #STEPS
+Reduce the risk of #Coronavirus
+Follow important precautions.
+Contact us today for any query:
+Call us: +91-8287026306
+Visit: #BestCataractSurgeon #BestDoctorForCataractSurgery","[{'label': 'Neutral', 'score': 0.7601040601730347}]"
+40,2020-12-07 07:59:57+00:00,RT america is an example of exactly what NOT to do,"[{'label': 'Negative', 'score': 0.8877912163734436}]"
+41,2020-12-07 07:59:57+00:00,The anxiety and pain all the people who died of covid-19 felt,"[{'label': 'Negative', 'score': 0.8757943511009216}]"
+42,2020-12-07 07:59:57+00:00,"Sen Perdue's broker bought Pfizer stock in Feb even when Pfizer warned of *bad outlook*. Then he bought more. Perdue basically traded OPPOSITE of Pfizer public warnings!
+
+Then Pfizer announced #COVID19 vaccine plans soon after--coincidence?","[{'label': 'Neutral', 'score': 0.6065829396247864}]"
+43,2020-12-07 07:59:57+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+44,2020-12-07 07:59:57+00:00,"WORLD / COUNTRIES / THAILAND
+#COVID19 #CORONAVIRUS PANDEMIC 
+Last updated: December 07, 2020, 07:49 GMT
+ #Thailand 
+Coronavirus Cases: 4,107
+New Cases: 21
+Deaths: 60 
+Recovered: 3,868
+@WORLDOMETERS ","[{'label': 'Neutral', 'score': 0.7873904705047607}]"
+45,2020-12-07 07:59:57+00:00,"RT According to Social Services Minister Anne Ruston:
+
+'the Morrison Government worked tirelessly to make sure no one was le...","[{'label': 'Neutral', 'score': 0.8519884347915649}]"
+46,2020-12-07 07:59:57+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+47,2020-12-07 07:59:57+00:00,"RT To all idiots out there 
+Covid is real !
+Earth is not flat !
+Trump lost the election !
+
+What else?","[{'label': 'Negative', 'score': 0.8266829252243042}]"
+48,2020-12-07 07:59:57+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+49,2020-12-07 07:59:57+00:00,America could tell from that wet fart he laid the other day in court that Giuliani had Covid.,"[{'label': 'Negative', 'score': 0.7877117395401001}]"
+50,2020-12-07 07:59:57+00:00,"RT Piers asked me if I'd accept an honour and I said no. Because, the reason public health experts &amp; scientists have stepped...","[{'label': 'Neutral', 'score': 0.6757470965385437}]"
+51,2020-12-07 07:59:57+00:00,Please get in touch if you've been booked in for a Covid vaccination tomorrow and would be willing to speak to,"[{'label': 'Neutral', 'score': 0.7468774914741516}]"
+52,2020-12-07 07:59:57+00:00,"RT Here's how evil this country is: 
+
+MSM is arguing that in order for people to combat their financial downturns, and the ris...","[{'label': 'Negative', 'score': 0.9049159288406372}]"
+53,2020-12-07 07:59:57+00:00,"RT ""We must never forget that the pandemic can only be truly beaten when everyone in the world has equitable access to effective v...","[{'label': 'Neutral', 'score': 0.6994451284408569}]"
+54,2020-12-07 07:59:57+00:00,"WORLD / COUNTRIES / THAILAND
+#COVID19 #CORONAVIRUS PANDEMIC 
+Last updated: December 07, 2020, 07:49 GMT
+ #Thailand 
+Coronavirus Cases: 4,107
+New Cases: 21
+Deaths: 60 
+Recovered: 3,868
+@WORLDOMETERS ","[{'label': 'Neutral', 'score': 0.7873904705047607}]"
+55,2020-12-07 07:59:58+00:00,"RT The last few months for Rudy Giuliani:
+
+1. Gets caught (allegedly) undoing his pants in a Borat movie
+2. Hosts an electio...","[{'label': 'Neutral', 'score': 0.7118445634841919}]"
+56,2020-12-07 07:59:58+00:00,"RT Chungha has tested positive for Coronavirus 
+
+https://t.co/y4mNu1bR7N","[{'label': 'Neutral', 'score': 0.8434941172599792}]"
+57,2020-12-07 07:59:58+00:00,RT She likes taking taxpayer money in farm subsidies (welfare) and she likes the socialism where she gets to 'write off'...,"[{'label': 'Neutral', 'score': 0.522258460521698}]"
+58,2020-12-07 07:59:58+00:00,RT It's really disappointing to see that would direct traffic INTO their stores during a pandemic. This is BBW's...,"[{'label': 'Negative', 'score': 0.9254728555679321}]"
+59,2020-12-07 07:59:58+00:00,NOOO NOT HER,"[{'label': 'Negative', 'score': 0.830949604511261}]"
+60,2020-12-07 07:59:58+00:00,"RT You've had a mask mandate since April 17th. That was 234 days ago. If masks work, why didn't they work well enough over...","[{'label': 'Neutral', 'score': 0.618877112865448}]"
+61,2020-12-07 07:59:58+00:00,"RT Hi, it is me, your local ""I had a mild covid case in March and recovered in &lt; a week"" friend here to remind you that:
+a)...","[{'label': 'Neutral', 'score': 0.6179662942886353}]"
+62,2020-12-07 07:59:58+00:00,Start now,"[{'label': 'Neutral', 'score': 0.6360613703727722}]"
+63,2020-12-07 07:59:58+00:00,RT Sky News: COVID-19 one year on: The Taiwanese scientist who tried to warn the world of coronavirus,"[{'label': 'Neutral', 'score': 0.7452265620231628}]"
+64,2020-12-07 07:59:58+00:00,Aubrey Plaza reveals Kristen Stewart got COVID-19 while filming on the set of Happiest Season,"[{'label': 'Neutral', 'score': 0.842868983745575}]"
+65,2020-12-07 07:59:58+00:00,"Corona apocalypse happening here in Trump's 'Merica and this winter will only continue to worsen. Meanwhile, the President is too busy hosting massive post election fraud rallies to bring together his cult.","[{'label': 'Negative', 'score': 0.8853296041488647}]"
+66,2020-12-07 07:59:58+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+67,2020-12-07 07:59:59+00:00,"Be careful... 
+
+YouTube suspends One America News Network channel for violating COVID-19 misinformation policy","[{'label': 'Negative', 'score': 0.5043789744377136}]"
+68,2020-12-07 07:59:59+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+69,2020-12-07 07:59:59+00:00,wear a mask! even a mild case can lead to long term terrible adverse health effects.,"[{'label': 'Negative', 'score': 0.7285875678062439}]"
+70,2020-12-07 07:59:59+00:00,RT Second Major California Sheriff Openly Rebels Against Newsom Lockdown | Zero Hedge,"[{'label': 'Neutral', 'score': 0.7362658381462097}]"
+71,2020-12-07 07:59:59+00:00,"Education minister Dipu Moni has been diagnosed with coronavirus, confirmed the public relation officer Abul Khair of the ministry on Monday","[{'label': 'Neutral', 'score': 0.5239165425300598}]"
+72,2020-12-07 07:59:59+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+73,2020-12-07 07:59:59+00:00,"RT What makes BTS have my biggest respect is when they splurge on a big budget for such scale of stage production &amp; designs, is t...","[{'label': 'Positive', 'score': 0.8671987652778625}]"
+74,2020-12-07 07:59:59+00:00,RT 'The panto pulls in people': how a theatre cancellation affects the local economy,"[{'label': 'Neutral', 'score': 0.8001299500465393}]"
+75,2020-12-07 07:59:59+00:00,RT People on Twitter are saying that Cardi B talking about buying a bag worth $88k during a pandemic is harmful to others...,"[{'label': 'Negative', 'score': 0.6985417604446411}]"
+76,2020-12-07 07:59:59+00:00,"RT JYP Entertainment announces TWICE Sana will get tested for Coronavirus as she was recently in contact with Chungha
+
+https://t....","[{'label': 'Neutral', 'score': 0.9070108532905579}]"
+77,2020-12-07 07:59:59+00:00,"RT Former Presidents Barack Obama, George W. Bush and Bill Clinton are volunteering to get their Covid-19 vaccines on camera to promo...","[{'label': 'Neutral', 'score': 0.9103997349739075}]"
+78,2020-12-07 07:59:59+00:00,"RT I know there's gonna be ""those few people"" from SNS to target and blame Chungha in light of recent events, regardless of whet...","[{'label': 'Neutral', 'score': 0.5302358865737915}]"
+79,2020-12-07 07:59:59+00:00,Please don't,"[{'label': 'Neutral', 'score': 0.4385485351085663}]"
+80,2020-12-07 07:59:59+00:00,"RT JYP Entertainment shares TWICE's Sana who recently came in contact with Chungha has been tested for COVID-19
+
+TWICE and...","[{'label': 'Neutral', 'score': 0.9512370824813843}]"
+81,2020-12-07 07:59:59+00:00,"Despite Covid-19, Rs 1 crore-plus pay packages are back at IITs","[{'label': 'Neutral', 'score': 0.6506480574607849}]"
+82,2020-12-07 07:59:59+00:00,"RT Until the CDC makes an official announcement that they don't even *recommend* masks anymore, I'll be wearing one. For myself a...","[{'label': 'Negative', 'score': 0.5138142108917236}]"
+83,2020-12-07 07:59:59+00:00,"RT So Ghoulie says he's tested positive for COVID but feels good!  Here we go again folks . . . 
+@Leo_Puglisi6 
+@DrMcKinn...","[{'label': 'Positive', 'score': 0.5564479827880859}]"
+84,2020-12-07 08:00:00+00:00,"RT Hi, it is me, your local ""I had a mild covid case in March and recovered in &lt; a week"" friend here to remind you that:
+a)...","[{'label': 'Neutral', 'score': 0.6179662942886353}]"
+85,2020-12-07 08:00:00+00:00,RT Pandemic Profiteers David Perdue and Kelly Loeffler called their stock brokers in order to get rich instead of helping...,"[{'label': 'Negative', 'score': 0.664358377456665}]"
+86,2020-12-07 08:00:00+00:00,"RT If you played beer pong with beer IN THE CUPS, I don't want to hear your concerns about what's in the covid vaccine.","[{'label': 'Negative', 'score': 0.7405340671539307}]"
+87,2020-12-07 08:00:00+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+88,2020-12-07 08:00:00+00:00,"RT Reagan didn't publicly say AIDS until 4 years after the epidemic started. No federal action would occur until 1991, 10 ye...","[{'label': 'Neutral', 'score': 0.532018780708313}]"
+89,2020-12-07 08:00:00+00:00,"Vicky Neville came back from maternity leave early to help her colleagues
+
+https://t.co/hlH3eUAwHT","[{'label': 'Neutral', 'score': 0.6702765822410583}]"
+90,2020-12-07 08:00:00+00:00,"COVID-19 won't stop Santa!
+
+https://t.co/SJkXElA5C9","[{'label': 'Negative', 'score': 0.5438644289970398}]"
+91,2020-12-07 08:00:00+00:00,"After #VarunDhawan and #NeetuKapoor, #JugJuggJeeyo actor tests positive for COVID-19
+
+https://t.co/mU3tpRA455","[{'label': 'Neutral', 'score': 0.8622118830680847}]"
+92,2020-12-07 08:00:00+00:00,"After four years of having a xenophobic reality TV host in the White House, the desire to just ""go back to normal"" is understandable. But a return to normalcy would be disastrous, shoring up the plutocratic status quo that gave us Trump in the first place.","[{'label': 'Negative', 'score': 0.8605987429618835}]"
+93,2020-12-07 08:00:00+00:00,"Trials indicate the new vaccines against COVID are effective at preventing severe cases of the disease. But one thing that remains unclear, Dr. Robert Levin said, is how effective they are against preventing a person from transmitting the virus. 
+https://t.co/o4jKNNTb3a","[{'label': 'Neutral', 'score': 0.7625526189804077}]"
+94,2020-12-07 08:00:00+00:00,Fast recovery to all,"[{'label': 'Positive', 'score': 0.8429818749427795}]"
+95,2020-12-07 08:00:00+00:00,"Podcast premier: ECT CEO Anna Whitty MBE and CEO Natalie Campbell reveal how they led sustainable businesses through the #Covid19 crisis on #FitfortheFuture, the new podcast from magazine and 
+
+https://t.co/R78dl4cz6h","[{'label': 'Neutral', 'score': 0.5775386691093445}]"
+96,2020-12-07 08:00:00+00:00,"LAZIN' ON A COVID AFTERNOON
+[a Parody by The Freedom Toast | Guest Post]
+
+https://t.co/v2NPe2na9O","[{'label': 'Neutral', 'score': 0.8837346434593201}]"
+97,2020-12-07 08:00:00+00:00,#AlzChat 3pmEST/8pmUK Topic today: Dementia care tips for holiday season festivities during Covid,"[{'label': 'Neutral', 'score': 0.9030635356903076}]"
+98,2020-12-07 08:00:00+00:00,guess the name is antu corona,"[{'label': 'Neutral', 'score': 0.6559392213821411}]"
+99,2020-12-07 08:00:00+00:00,"RT prayer circle:
+
+                          
+                                    
+                ","[{'label': 'Neutral', 'score': 0.81293785572052}]"
+100,2020-12-07 08:00:00+00:00,Covid-19 is robbing young African soccer talent of their big-time European ambitions via,"[{'label': 'Negative', 'score': 0.8176647424697876}]"
+101,2020-12-07 08:00:00+00:00,"We know that domestic abuse has increased during lockdown. Don't suffer alone, seek help.
+https://t.co/oOsgItKzH5","[{'label': 'Negative', 'score': 0.80152827501297}]"
+102,2020-12-07 08:00:00+00:00,"The pandemic has led to 'significant delays' in care proceedings involving Northumberland children
+https://t.co/O5cUe4BSnk","[{'label': 'Negative', 'score': 0.606879711151123}]"
+103,2020-12-07 08:00:00+00:00,"With the local COVID-19 death toll still increasing and the Typhoons Rolly and Ulysses ravaging the country, science communication now has a more tangible hold on human lives.
+
+https://t.co/W0cQb2JNHm","[{'label': 'Neutral', 'score': 0.4746650755405426}]"
+104,2020-12-07 08:00:00+00:00,"Would you get the COVID-19 vaccine for a $1,500 check? ","[{'label': 'Neutral', 'score': 0.7943942546844482}]"
+105,2020-12-07 08:00:00+00:00,"A new week of the #InjusticeAdventCalendar kicks off with an urgent call for healthcare access during the coronavirus pandemic. 
+
+Brought to you by","[{'label': 'Neutral', 'score': 0.8345285058021545}]"
+106,2020-12-07 08:00:00+00:00,"We've loved welcoming you back these past few days, if you're planning a shopping trip you can find the latest store openings hours on our website. 
+ 
+Please continue to observe all directional signage and social distancing guidelines on your visit.
+
+https://t.co/qACFxzG5lf","[{'label': 'Positive', 'score': 0.9767880439758301}]"
+107,2020-12-07 08:00:00+00:00,"An extraordinary Christmas Show
+
+2020 has been tough. We think putting a smile on young people's faces this Christmas is more important than ever before.
+
+And you can help.
+https://t.co/OxF2drS2v4","[{'label': 'Positive', 'score': 0.9330230951309204}]"
+108,2020-12-07 08:00:00+00:00,"How are you coping with #COVID19 stress? 
+
+""Life is full of challenges but there is a way to make it through in a positive way""
+
+Asma Ibrahim Al Blooshi opines in","[{'label': 'Neutral', 'score': 0.7679476141929626}]"
+109,2020-12-07 08:00:00+00:00,"AGILITY - FREEZING
+
+This is an exercise to develop agility and stopping skills: more activities using the 'Social Distancing Friendly' filter here:","[{'label': 'Neutral', 'score': 0.7328299880027771}]"
+110,2020-12-07 08:00:00+00:00,"Victorians may be forced to continue wearing face masks in these two settings beyond the COVID-19 pandemic.
+https://t.co/6Om36H2x7J","[{'label': 'Neutral', 'score': 0.783666729927063}]"
+111,2020-12-07 08:00:00+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+112,2020-12-07 08:00:00+00:00,"Welcome to another week friends! As we leave Lockdown 2.0 please remember to be kind with yourself and those around you. This winter will be particularly tough for some people so please do reach out! 
+
+#MondayMorning #MondayMorning #COVID19 #Winter","[{'label': 'Positive', 'score': 0.8020080327987671}]"
+113,2020-12-07 08:00:00+00:00,"St. Mike's Advent Calendar, Day 7!
+
+Open me! #adventcalendar #church #covid19","[{'label': 'Positive', 'score': 0.4899339973926544}]"
+114,2020-12-07 08:00:00+00:00,"RT We cannot turn our backs on families who are struggling through this pandemic. Congress must include, at the least, a $1...","[{'label': 'Negative', 'score': 0.6915968060493469}]"
+115,2020-12-07 08:00:00+00:00,"Are emergency grants classed as taxable income? eg. Coronavirus ""relief"" funds; Arts Council England Emergency Response Fund For Individuals.","[{'label': 'Neutral', 'score': 0.9176708459854126}]"
+116,2020-12-07 08:00:00+00:00,"How has Denmark historically coped with epidemics? Hear from Director General of the Danish Health Authority, about how lessons from history have helped Denmark cope with the current pandemic.","[{'label': 'Neutral', 'score': 0.8592832088470459}]"
+117,2020-12-07 08:00:00+00:00,"This year during the Covid-19 pandemic, we know that those grieving, have endured limitations that have profoundly affected their grief.  Distance should not prevent us from reaching out and sharing our grief.
+Visit 
+#sahs","[{'label': 'Negative', 'score': 0.6200475096702576}]"
+118,2020-12-07 08:00:00+00:00,"Last midweek action catch up pre-lockdown
+
+https://t.co/r3iyDQmJw3 
+
+#SSMFL #Spartan #South #Midlands #Football #League #NonLeague","[{'label': 'Neutral', 'score': 0.9007766842842102}]"
+119,2020-12-07 08:00:00+00:00,Jones County shouldn't expect to get the coronavirus vaccine anytime soon,"[{'label': 'Negative', 'score': 0.7293921113014221}]"
+120,2020-12-07 08:00:00+00:00,".@SenatorLoeffler is corrupt along with .@sendavidperdue who wouldn't debate .@ossoff but showed up at Trump's crazy rally. He&amp;Loeffler have both profited during Covid with 280k dead&amp;are still dying,insider trading!  #GeorgiansVoteRevWarnockAndOssoff Give Biden a working Senate!","[{'label': 'Negative', 'score': 0.8905953168869019}]"
+121,2020-12-07 08:00:00+00:00,"EVERY #COVIDiot #NonMasker should sign and carry this statement. When #COVIDpositive, they should NOT be stealing medical support from those who really deserve it!","[{'label': 'Negative', 'score': 0.8276777863502502}]"
+122,2020-12-07 08:00:00+00:00,"PICK OF THE DAY: #VicarOfDibley In Lockdown 
+8:50pm, BBC One
+
+The Rev Geraldine Granger delivers online sermons for her parishioners during the pandemic, beginning by explaining the difference between metres and miles when it comes to social distancing.","[{'label': 'Neutral', 'score': 0.9159924983978271}]"
+123,2020-12-07 08:00:00+00:00,"Today, public organisations across Wales will take part in the Welsh Language Rights Day on behalf of year, we'll highlight some of the Welsh language services and projects we're delivering in innovative ways during the pandemic.
+
+#MaeGenIHawl #SwanseaUni","[{'label': 'Positive', 'score': 0.8246231079101562}]"
+124,2020-12-07 08:00:01+00:00,"'Can't wait': #UK Health Secretary says coronavirus restrictions could be loosened by 'end of March'
+
+https://t.co/96px7BXBzd","[{'label': 'Positive', 'score': 0.8654457330703735}]"
+125,2020-12-07 08:00:01+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+126,2020-12-07 08:00:01+00:00,"RT They use terms like ""handouts,"" ""welfare,"" &amp; ""freebies"" for struggling Americans but use the term ""pandemic relief"" for bil...","[{'label': 'Neutral', 'score': 0.5725815892219543}]"
+127,2020-12-07 08:00:01+00:00,COVID-19 lessons: comms as a way to lead world-class messaging and engagement by #FuturePRoof,"[{'label': 'Neutral', 'score': 0.7672193646430969}]"
+128,2020-12-07 08:00:01+00:00,"RT Hi, it is me, your local ""I had a mild covid case in March and recovered in &lt; a week"" friend here to remind you that:
+a)...","[{'label': 'Neutral', 'score': 0.6179662942886353}]"
+129,2020-12-07 08:00:01+00:00,"Lanarkshire meals producer makes impact amid coronavirus crisis
+https://t.co/oMadv2RB5C","[{'label': 'Neutral', 'score': 0.8333411812782288}]"
+130,2020-12-07 08:00:01+00:00,"RT If you read one more thing tonight, read this. And, I'm talking to you, Americans are hurting. Pass #COVID1...","[{'label': 'Negative', 'score': 0.8322924375534058}]"
+131,2020-12-07 08:00:01+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+132,2020-12-07 08:00:01+00:00,"Day 13 #vawag2020 
+Intimate Partner Violence 
+Women continue to need support as they face increasing levels of domestic violence whist experiencing restricted movement, social isolation &amp; economic insecurity as a result of  #COVID19 
+#SWA is here for you 24/7 on 0300 330 5959","[{'label': 'Negative', 'score': 0.5013421773910522}]"
+133,2020-12-07 08:00:01+00:00,"RT Chung Ha tested positive for COVID-19 
+
+She was previously in contact with a confirmed positive case 
+
+Source:","[{'label': 'Neutral', 'score': 0.8696108460426331}]"
+134,2020-12-07 08:00:01+00:00,"If you're using the tube in London today, please wear a face covering to protect others from #coronavirus.
+
+Some people do not need to do this, including children under 11 and people with breathing difficulties. 
+
+https://t.co/HaCaNeZawf","[{'label': 'Neutral', 'score': 0.6199687719345093}]"
+135,2020-12-07 08:00:01+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+136,2020-12-07 08:00:01+00:00,"Such localised outbreaks usually turn out to be some type of viral encephalitis. Infectious, spreads in those rural parts through mosquito bites.  Certainly, nothing on the scale of the Chinese Virus that we need to worry about.","[{'label': 'Negative', 'score': 0.7730931043624878}]"
+137,2020-12-07 08:00:01+00:00,"Door number 7 and we're skipping into the week like...
+
+#christmas2020 #advent #homeschooling #homelearning #education #school #activity #isolation #lockdown #quarantine #homeschoollife #PE #physicalactivity #schoolsport #distancelearning","[{'label': 'Neutral', 'score': 0.7051116824150085}]"
+138,2020-12-07 08:00:01+00:00,"RT I wear a seat belt when I drive my car, I wear a mask during a pandemic and I wear a parachute when I jump out of a plan...","[{'label': 'Neutral', 'score': 0.7948483824729919}]"
+139,2020-12-07 08:00:01+00:00,"Now that the second lockdown has finished in England, you may be looking for some advice about alcohol during the ongoing coronavirus situation. You can find support, tips and advice on our hub:","[{'label': 'Neutral', 'score': 0.8610209822654724}]"
+140,2020-12-07 08:00:01+00:00,"Current Conditions for #Sayre PA
+Temp: 29.3F
+Wind Chill: 25.0F
+Humidity: 73%
+Dew Point: 21.7F 
+Barometer: 29.999 inHg
+Wind: 4 mph from the N
+Corona Virus Weekly Stats:
+Cases: 268.000000
+Deaths: 11.000000
+Survival: 97.000000
+#weewx #nepa #bradfordcounty","[{'label': 'Neutral', 'score': 0.8449371457099915}]"
+141,2020-12-07 08:00:02+00:00,"Irish pharmacists want to play key part of Covid-19 vaccine rollout
+https://t.co/qkCazdZfWS","[{'label': 'Neutral', 'score': 0.7706206440925598}]"
+142,2020-12-07 08:00:02+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+143,2020-12-07 08:00:02+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+144,2020-12-07 08:00:02+00:00,RT We've spent $4T already on Covid relief yet only 1/5 of that went to individuals. Big companies received  PPP who weren'...,"[{'label': 'Negative', 'score': 0.5241482257843018}]"
+145,2020-12-07 08:00:02+00:00,Pretty much eradicated the flu here in New Zealand with lockdown and quarantining.,"[{'label': 'Neutral', 'score': 0.5637144446372986}]"
+146,2020-12-07 08:00:02+00:00,RT Ok guys I apologize.There you happy ?! I don't see ya askin trump for a apology when he out here missing COVID meetings to p...,"[{'label': 'Negative', 'score': 0.6303037405014038}]"
+147,2020-12-07 08:00:02+00:00,German Study Finds Face Masks Reduce New #COVID19  Infections By 45% - Forbes #coronavirus #CoronaVtj,"[{'label': 'Neutral', 'score': 0.5670698285102844}]"
+148,2020-12-07 08:00:02+00:00,"COVID-19 has had a significant impact on #analytics usage among small &amp; large companies with 52% stating their analytic resources shifted or changed so they could ""more quickly react"" or ""analyse faster"". #DataAnalytics #Data #BigData #AI #MachineLearning","[{'label': 'Neutral', 'score': 0.7053747177124023}]"
+149,2020-12-07 08:00:02+00:00,RT #StayAtHomeOrder: It's 11:59 p.m. That means the 11 Southern California counties are now under a stay-at-home order. Read to lea...,"[{'label': 'Neutral', 'score': 0.9468602538108826}]"
+150,2020-12-07 08:00:02+00:00,RT this is the hardest subtweet I've ever seen in my whole life.,"[{'label': 'Negative', 'score': 0.9290951490402222}]"
+151,2020-12-07 08:00:02+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+152,2020-12-07 08:00:02+00:00,"Pakistan Reports 3,795 COVID-19 Cases in 24 Hours","[{'label': 'Neutral', 'score': 0.558900773525238}]"
+153,2020-12-07 08:00:02+00:00,"RT Hi, it is me, your local ""I had a mild covid case in March and recovered in &lt; a week"" friend here to remind you that:
+a)...","[{'label': 'Neutral', 'score': 0.6179662942886353}]"
+154,2020-12-07 08:00:02+00:00,"RT .@BigHitEnt has canceled offline tickets for the label's year-end concert ""2021 NEW YEAR'S EVE LIVE"" due to strengthened s...","[{'label': 'Negative', 'score': 0.5622681379318237}]"
+155,2020-12-07 08:00:02+00:00,"Pakistan Reports 3,795 COVID-19 Cases in 24 Hours","[{'label': 'Neutral', 'score': 0.558900773525238}]"

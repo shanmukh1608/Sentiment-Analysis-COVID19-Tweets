@@ -1,0 +1,259 @@
+,created_at,full_text,sentiment_score
+0,2021-12-02 00:59:54+00:00,"My mother: weh di new variant name?
+Me: Omarion.","[{'label': 'Neutral', 'score': 0.8753012418746948}]"
+1,2021-12-02 00:59:54+00:00,"RT Donald Trump dodged the draft, called veterans ""suckers and losers,"" and then knowingly exposed Gold Star families to CO...","[{'label': 'Negative', 'score': 0.9057309031486511}]"
+2,2021-12-02 00:59:54+00:00,"RT Remember when most early NYC COVID cases came from Europe, but the US government banned travel from Asia instead?","[{'label': 'Neutral', 'score': 0.5737082958221436}]"
+3,2021-12-02 00:59:55+00:00,"RT TIM MILLER: Biden at age 77 was in the prime risk category for COVID-19, Trump spent an entire evening screaming and spi...","[{'label': 'Negative', 'score': 0.5758400559425354}]"
+4,2021-12-02 00:59:55+00:00,RT Writing a mid-year progress report that asked how the pandemic has affected my work. Not sure where to start. The struggl...,"[{'label': 'Negative', 'score': 0.5954592823982239}]"
+5,2021-12-02 00:59:55+00:00,"RT BREAKING: Trump's niece Mary Trump suggests that Trump be ""criminally"" prosecuted for ""attempted murder"" after a new r...","[{'label': 'Negative', 'score': 0.7531664967536926}]"
+6,2021-12-02 00:59:55+00:00,RT BREAKING: The provincial government gave more than $200 million in #COVID19 relief to businesses that weren't eligible....,"[{'label': 'Neutral', 'score': 0.7820444107055664}]"
+7,2021-12-02 00:59:55+00:00,RT Something about aging during the pandemic just makes it seem...not real,"[{'label': 'Negative', 'score': 0.7848278880119324}]"
+8,2021-12-02 00:59:55+00:00,RT One way to motivate people to get vaccinated would be to offer a vaccine that prevents infection.,"[{'label': 'Neutral', 'score': 0.5791876912117004}]"
+9,2021-12-02 00:59:55+00:00,"RT Unlike trump, Biden took Covid seriously and didn't want people to sacrifice Grandma for the economy.","[{'label': 'Neutral', 'score': 0.555180549621582}]"
+10,2021-12-02 00:59:55+00:00,Covid -19. A real threat in 2021.,"[{'label': 'Negative', 'score': 0.8245641589164734}]"
+11,2021-12-02 00:59:55+00:00,"RT Huge Crowd After COVID
+#Akhanda Celebration Started At #Adoni #Ceeded
+
+ #NandamuriBalakrishna 
+#AkhandaRoaringFrom2ndDe...","[{'label': 'Neutral', 'score': 0.59415203332901}]"
+12,2021-12-02 00:59:55+00:00,RT The #Vikings have moved WR Bisi Johnson from the injured reserve list to the COVID-19 reserve list. Johnson was lost for...,"[{'label': 'Neutral', 'score': 0.63968425989151}]"
+13,2021-12-02 00:59:55+00:00,1st US case of COVID omicron variant confirmed in California via,"[{'label': 'Neutral', 'score': 0.8848487734794617}]"
+14,2021-12-02 00:59:55+00:00,RT Trump is just a really bad person to his core,"[{'label': 'Negative', 'score': 0.9472262263298035}]"
+15,2021-12-02 00:59:55+00:00,"RT Chris Christie is on CNN criticizing President Biden about his handling of COVID
+
+When Trump literally gave Christie COV...","[{'label': 'Neutral', 'score': 0.556195855140686}]"
+16,2021-12-02 00:59:55+00:00,"RT FYI, the morgue is so busy that nursing staff is now tasked with tagging and bagging a deceased patient in some units....","[{'label': 'Neutral', 'score': 0.7971397638320923}]"
+17,2021-12-02 00:59:55+00:00,"RT So vaccine mandates are an infringement of personal freedom, but abortion bans aren't?","[{'label': 'Neutral', 'score': 0.5513439178466797}]"
+18,2021-12-02 00:59:55+00:00,Repubs so interested in BIRTH (men must keep power over women) but not at all interested in LIFE (more guns!  Shut down govt right before Christmas! Kill Biden's efforts over Covid). What Fascist hypocrites!,"[{'label': 'Negative', 'score': 0.9035604000091553}]"
+19,2021-12-02 00:59:55+00:00,RT Everyone is talking about omicron... but I'm more concerned about the ligma variant.,"[{'label': 'Neutral', 'score': 0.593365490436554}]"
+20,2021-12-02 00:59:55+00:00,RT Go ahead and RT if you think Joe Biden would NOT expose Gold Star military families to Covid.,"[{'label': 'Neutral', 'score': 0.6236061453819275}]"
+21,2021-12-02 00:59:55+00:00,Thr COVID that has killed 8 friends wasnt fighting any demons.  It was a virus that killed bodies. 6 of the 8 died before the vaccines were available. Any loss of life is tragic for a family.  For the sake of your family/friends/ society consider the shot.,"[{'label': 'Negative', 'score': 0.9002663493156433}]"
+22,2021-12-02 00:59:55+00:00,As he should. Rogan beat it in a day!!,"[{'label': 'Positive', 'score': 0.7918709516525269}]"
+23,2021-12-02 00:59:55+00:00,My sentiments too. Speculate with leveraged paper and lock the gains down with the real shiny deal.,"[{'label': 'Neutral', 'score': 0.660101592540741}]"
+24,2021-12-02 00:59:55+00:00,"RT Omicron first appears in San Francisco in a fully vaxx'd individual. COVID knows how to troll...
+https://t.co/cLm31ro1Vn","[{'label': 'Neutral', 'score': 0.7369555234909058}]"
+25,2021-12-02 00:59:55+00:00,RT Just saw on a FB group that someone was cancelling a trip to Spain (overland) because they are extremely vulnerable and afr...,"[{'label': 'Negative', 'score': 0.7998601794242859}]"
+26,2021-12-02 00:59:55+00:00,"RT #auspol Hunt is rightly crawling away. What a poor excuse for a minister. Lying, disembling and failing to act responsibly...","[{'label': 'Negative', 'score': 0.950925350189209}]"
+27,2021-12-02 00:59:55+00:00,"RT Dying COVID-19 patient recovers after court orders ivermectin treatment | Just The News 
+
+https://t.co/xZcEIzQrdR","[{'label': 'Neutral', 'score': 0.8345820903778076}]"
+28,2021-12-02 00:59:55+00:00,Somehow I still run up a fucking tab,"[{'label': 'Negative', 'score': 0.8805662393569946}]"
+29,2021-12-02 00:59:56+00:00,bts still sweeping iktr,"[{'label': 'Positive', 'score': 0.5602006912231445}]"
+30,2021-12-02 00:59:56+00:00,but do they have prerecorded performance? this is unusual :(,"[{'label': 'Negative', 'score': 0.6510312557220459}]"
+31,2021-12-02 00:59:56+00:00,RT One way to motivate people to get vaccinated would be to offer a vaccine that prevents infection.,"[{'label': 'Neutral', 'score': 0.5791876912117004}]"
+32,2021-12-02 00:59:56+00:00,"RT Omicron or Omarion, either way, please get vaxxed or boosted like you ""Post to Be"".","[{'label': 'Neutral', 'score': 0.6366031169891357}]"
+33,2021-12-02 00:59:56+00:00,RT COVID is the first thing LeBron's ever got from China that wasn't made by slaves.,"[{'label': 'Neutral', 'score': 0.5136209726333618}]"
+34,2021-12-02 00:59:56+00:00,"I'm in exactly the same situation. I struggled for months deciding whether I should get the vax. And after all my research, I concluded I just could not do it. You can't undo this vaccine, and it feels like Russian roulette to me. Lost my job, all that stuff. Heart goes out.","[{'label': 'Negative', 'score': 0.8939682245254517}]"
+35,2021-12-02 00:59:56+00:00,"RT BREAKING: Due to the Omicron variant, CDC cautions investors against touching their face regardless of losses in the market...","[{'label': 'Neutral', 'score': 0.55724036693573}]"
+36,2021-12-02 00:59:56+00:00,RT Omicron: WHO Chief confirms new COVID variant detected in 23 countries; numbers could grow,"[{'label': 'Neutral', 'score': 0.8069965243339539}]"
+37,2021-12-02 00:59:56+00:00,RT Thank you Honourable Minister for a wonderful discussion on our collaboration in aviation. These are challenging times for...,"[{'label': 'Positive', 'score': 0.8823771476745605}]"
+38,2021-12-02 00:59:56+00:00,"RT Oct. 19, 2020 traveling with Pres Trump before final debate. I repeatedly tried to get him to tell us about his COVID testing h...","[{'label': 'Neutral', 'score': 0.9084262847900391}]"
+39,2021-12-02 00:59:56+00:00,It's weird how the first case is always in Cali,"[{'label': 'Neutral', 'score': 0.5862508416175842}]"
+40,2021-12-02 00:59:56+00:00,RT Dr. Oz is a doctor like Trump is a businessman or Tucker Carlson is a journalist. He's nuts. #OzIsInsane,"[{'label': 'Negative', 'score': 0.7476052045822144}]"
+41,2021-12-02 00:59:56+00:00,bts nyre lets get it!,"[{'label': 'Positive', 'score': 0.8479260802268982}]"
+42,2021-12-02 00:59:56+00:00,RT Dr. Oz is a medical expert in the same way that Tucker Carlson is a journalist. Oz is a dangerous liar who thought you...,"[{'label': 'Negative', 'score': 0.8006282448768616}]"
+43,2021-12-02 00:59:56+00:00,RT Will be announcing further preemptive measures in light of the developments around VOC Omicron at 1330hrs today.,"[{'label': 'Neutral', 'score': 0.9475664496421814}]"
+44,2021-12-02 00:59:56+00:00,RT oh a lot of ppl abt to suddenly attend ,"[{'label': 'Neutral', 'score': 0.8514458537101746}]"
+45,2021-12-02 00:59:56+00:00,RT why should anyone who had COVID And recovered from it fear any new strains??,"[{'label': 'Negative', 'score': 0.6591177582740784}]"
+46,2021-12-02 00:59:56+00:00,RT Can anyone tell me why I need a vaccine to eat chicken parm in a restaurant or attend a concert but not to board an enclo...,"[{'label': 'Neutral', 'score': 0.6819459199905396}]"
+47,2021-12-02 00:59:56+00:00,RT So Meadows said trump knew he had Covid and still met with people and attended the debate. Does it get any worse than thi...,"[{'label': 'Negative', 'score': 0.7959583401679993}]"
+48,2021-12-02 00:59:56+00:00,RT Absolutely terrified of omicron because in my head the variant looks like this,"[{'label': 'Negative', 'score': 0.9227765202522278}]"
+49,2021-12-02 00:59:56+00:00,"RT Bombshell: Trump tested positive for #COVID19 three days before stepping onto the debate stage with Biden, says his for...","[{'label': 'Neutral', 'score': 0.703133225440979}]"
+50,2021-12-02 00:59:56+00:00,"RT So vaccine mandates are an infringement of personal freedom, but abortion bans aren't?","[{'label': 'Neutral', 'score': 0.5513439178466797}]"
+51,2021-12-02 00:59:57+00:00,"RT ""White evangelical Christians resist coronavirus vaccines at higher rates than other US religious groups, a phenomenon experts...","[{'label': 'Negative', 'score': 0.5798760652542114}]"
+52,2021-12-02 00:59:57+00:00,RT My colleague tested positive for covid this morning and the first thing he thought to do was come into the office to tell u...,"[{'label': 'Neutral', 'score': 0.6674012541770935}]"
+53,2021-12-02 00:59:57+00:00,"RT In ten months, we've gone from an economy that was shut down due to the pandemic, to an economy that is leading the world in...","[{'label': 'Neutral', 'score': 0.6343449354171753}]"
+54,2021-12-02 00:59:57+00:00,RT This is criminal,"[{'label': 'Negative', 'score': 0.8582475185394287}]"
+55,2021-12-02 00:59:57+00:00,RT in a state like Alabama you cannot be forced to wear a mask to protect others but you can be forced to endure an entire...,"[{'label': 'Negative', 'score': 0.6140968799591064}]"
+56,2021-12-02 00:59:57+00:00,"RT I'd check out what DeSantis is doing in Florida.
+
+It seems to work, and the New Yorkers who left the State since the pandemic...","[{'label': 'Positive', 'score': 0.4954172968864441}]"
+57,2021-12-02 00:59:57+00:00,"RT Here's an update on the condition of Marcus Lamb, founder of the religious Daystar TV Network, who contracted Covid after tw...","[{'label': 'Neutral', 'score': 0.7760680913925171}]"
+58,2021-12-02 00:59:57+00:00,My hats off to #COVID19 for coming out with new variants faster than #iPhone,"[{'label': 'Negative', 'score': 0.5028171539306641}]"
+59,2021-12-02 00:59:57+00:00,Not in Florida. I forgot what the 2 week lockdown was like.,"[{'label': 'Negative', 'score': 0.7348124384880066}]"
+60,2021-12-02 00:59:57+00:00,Two 'fully vaccinated' Israeli doctors 'test positive for Omicron' variant | ,"[{'label': 'Neutral', 'score': 0.8375731706619263}]"
+61,2021-12-02 00:59:57+00:00,RT This asshole blamed GOLD STAR FAMILIES for his Covid infection when *he* infected them.,"[{'label': 'Negative', 'score': 0.9470468759536743}]"
+62,2021-12-02 00:59:57+00:00,"RT If you are vaccinated, but still worried about Omicron, go get your booster.
+ 
+And if you aren't vaccinated, go get that shot.","[{'label': 'Neutral', 'score': 0.7810300588607788}]"
+63,2021-12-02 00:59:57+00:00,a lot of ppl suddenly rsvp-ing last minute,"[{'label': 'Neutral', 'score': 0.7403157949447632}]"
+64,2021-12-02 00:59:57+00:00,The latest crap they're coming out with is young athletes who didn't even know they had covid are suffering myocarditis as a long term effect. Obvs BS since these people get tested all the time &amp; couldn't possibly be positive without knowing.,"[{'label': 'Negative', 'score': 0.8848133087158203}]"
+65,2021-12-02 00:59:57+00:00,RT #EconWatch: Dutch health authorities report that the Omicron variant was first detected 11 days ago in the Netherlands - d...,"[{'label': 'Neutral', 'score': 0.9350538849830627}]"
+66,2021-12-02 00:59:57+00:00,RT The league's only unvaccinated player. And now he goes unpaid. #getyourdamnshots,"[{'label': 'Negative', 'score': 0.8398154973983765}]"
+67,2021-12-02 00:59:57+00:00,RT How the fuck do they know what variant someone has if they cant test for a variant...  This virus shit is getting even...,"[{'label': 'Negative', 'score': 0.9383145570755005}]"
+68,2021-12-02 00:59:57+00:00,RT Claims on social media that the Australian army had forced Aboriginal people in the remote Northern Territory communities at...,"[{'label': 'Neutral', 'score': 0.5362087488174438}]"
+69,2021-12-02 00:59:57+00:00,RT Ex-President Trump reportedly tested positive for COVID-19 days before his first debate against Joe Biden in 2020 -- and didn't...,"[{'label': 'Neutral', 'score': 0.8205499053001404}]"
+70,2021-12-02 00:59:57+00:00,"RT NEW -- Donald Trump knowingly put at risk the lives of Gold Star families, wealthy donors at a Minnesota fundraiser, then-Democ...","[{'label': 'Negative', 'score': 0.7139812111854553}]"
+71,2021-12-02 00:59:58+00:00,"RT Donald Trump dodged the draft, called veterans ""suckers and losers,"" and then knowingly exposed Gold Star families to CO...","[{'label': 'Negative', 'score': 0.9057309031486511}]"
+72,2021-12-02 00:59:58+00:00,"RT Hours after he received the call from Meadows informing him of a positive test, Trump came to the back of AF1 without a mask an...","[{'label': 'Neutral', 'score': 0.8189290761947632}]"
+73,2021-12-02 00:59:58+00:00,"I miss you too, you still got covid?","[{'label': 'Neutral', 'score': 0.4638929069042206}]"
+74,2021-12-02 00:59:58+00:00,"RT ""Omicron does appear to be evading vaccines. It's a scientific phenomenon known as 'Aaron Rodgers'.""
+
+-Stephen Colbert.","[{'label': 'Neutral', 'score': 0.8216075301170349}]"
+75,2021-12-02 00:59:58+00:00,"RT The first instance of the so-called Omicron Variant in America was just discovered in a fully-vaccinated individual.
+
+If...","[{'label': 'Neutral', 'score': 0.8081722259521484}]"
+76,2021-12-02 00:59:58+00:00,"RT Nurses know that Covid patients are dying from government subsidized hospital protocols (Remdesivir, intubation), NOT fro...","[{'label': 'Negative', 'score': 0.7686293125152588}]"
+77,2021-12-02 00:59:58+00:00,"RT UPDATE: Ontario will expand vaccine booster eligibility to anyone 50 and up. By our standards, this is lightning-fast,","[{'label': 'Positive', 'score': 0.7209008932113647}]"
+78,2021-12-02 00:59:58+00:00,"RT made some animations of OG spike (left), #Delta (middle), &amp; #Omicron (right) variants w/ today!
+
+spinning...","[{'label': 'Neutral', 'score': 0.7691196203231812}]"
+79,2021-12-02 00:59:58+00:00,"RT New: Trump slams his own former White House chief of staff Meadows as ""Fake News"" over claims in new book that Trump tested...","[{'label': 'Neutral', 'score': 0.5158851146697998}]"
+80,2021-12-02 00:59:58+00:00,"I just posted ""SCOTUS abortion arguments on same day of Trump COVID reveal is an ugly indictment on conservative evangelicals"" on Reddit
+
+https://t.co/dINULHdKLk","[{'label': 'Negative', 'score': 0.5660241842269897}]"
+81,2021-12-02 00:59:58+00:00,Of course when the baby is born the sigh a collective FUCK YOU!,"[{'label': 'Negative', 'score': 0.7999635338783264}]"
+82,2021-12-02 00:59:58+00:00,RT How do you feel about your governor going on a lavish vacation while keeping California on lockdown. He's not worried about C...,"[{'label': 'Neutral', 'score': 0.526952862739563}]"
+83,2021-12-02 00:59:58+00:00,LETS FUCKING GOOO A WIN FOR MY SLEEP SCHEDULE,"[{'label': 'Positive', 'score': 0.9651150107383728}]"
+84,2021-12-02 00:59:58+00:00,RT You can't call yourself pro life and talk nonstop against the life saving Covid vaccine and #VaccineMandates while so...,"[{'label': 'Negative', 'score': 0.7587546706199646}]"
+85,2021-12-02 00:59:58+00:00,RT Y'all are acting like you've never seen a 75 year-old drug addict who paid for upteen abortions with his myriad mistresses...,"[{'label': 'Negative', 'score': 0.8297600150108337}]"
+86,2021-12-02 00:59:58+00:00,#latestnews The US has its first omicron case--and the patient was fully vaccinated - (POST_EXCERPT},"[{'label': 'Neutral', 'score': 0.6828765869140625}]"
+87,2021-12-02 00:59:58+00:00,"Experts are now saying that in the light of the Omicron Variant, you are not ""fully vaccinated"" until you've received the booster. Get to it, if you want to live  #OmicronVariant","[{'label': 'Neutral', 'score': 0.7080666422843933}]"
+88,2021-12-02 00:59:58+00:00,"RT Well, this isn't looking good..
+@Mark_Coughlan @RobOHanrahan
+@gavreilly
+https://t.co/bYzFZADd85
+COVID-19: Emerging...","[{'label': 'Negative', 'score': 0.7032297253608704}]"
+89,2021-12-02 00:59:58+00:00,"RT ""COVID-19 delayed surgeries""  Yeah, and climate change caused floods.","[{'label': 'Negative', 'score': 0.8562102913856506}]"
+90,2021-12-02 00:59:58+00:00,I'm legitimately ok with this,"[{'label': 'Positive', 'score': 0.8284213542938232}]"
+91,2021-12-02 00:59:59+00:00,"RT Oroville, CA just declared themselves a constitutional republic to fight back against the vaccine mandates in California...","[{'label': 'Neutral', 'score': 0.8408164381980896}]"
+92,2021-12-02 00:59:59+00:00,"RT At one point, Trump suggested that he caught COVID from Gold Star families who got too close to him at an event held the...","[{'label': 'Neutral', 'score': 0.5394120812416077}]"
+93,2021-12-02 00:59:59+00:00,"RT Who else thinks Canada's travel ban on African countries with Omicron cases but not on European countries with Omicron cases,...","[{'label': 'Neutral', 'score': 0.6626260280609131}]"
+94,2021-12-02 00:59:59+00:00,"Dec. 1, The Lancet: The epidemiological relevance of the COVID-19-vaccinated population is increasing
+
+&gt;&gt;&gt;&gt;&gt; Watch out for the Vaxxed! &lt;&lt;&lt;&lt;&lt;
+
+https://t.co/jB45Nmc2LG","[{'label': 'Neutral', 'score': 0.6355642676353455}]"
+95,2021-12-02 00:59:59+00:00,I don't understand a world where people are so busy gazing at their own belly button that they don't care that over 5 million have already died of Covid.,"[{'label': 'Negative', 'score': 0.920434296131134}]"
+96,2021-12-02 00:59:59+00:00,"RT How much of this money went to their family, friends, and party donors?
+
+#CorruptDougFord #VoteFordOut2022","[{'label': 'Negative', 'score': 0.5964531898498535}]"
+97,2021-12-02 00:59:59+00:00,"RT Canada is expanding its travel ban to include Nigeria, Malawi and Egypt. (After previously imposing bans on southern Afri...","[{'label': 'Neutral', 'score': 0.8260351419448853}]"
+98,2021-12-02 00:59:59+00:00,RT #CA and the San Francisco Department of Public Health have confirmed a case of the Omicron variant in California. Calif...,"[{'label': 'Neutral', 'score': 0.9284038543701172}]"
+99,2021-12-02 00:59:59+00:00,RT How do you feel about student vaccine mandates for students in New Jersey?,"[{'label': 'Neutral', 'score': 0.9292868375778198}]"
+100,2021-12-02 00:59:59+00:00,RT But I thought that wasn't supposed to happen?! What a conspiracy. Maybe we should start finding ways to treat COVID rather...,"[{'label': 'Negative', 'score': 0.8973648548126221}]"
+101,2021-12-02 00:59:59+00:00,watch that mama lineup have 6182 groups added,"[{'label': 'Neutral', 'score': 0.8704198002815247}]"
+102,2021-12-02 00:59:59+00:00,"RT OPEC and its allies begin two days of meetings to debate a planned output increase, with expectations growing that the grou...","[{'label': 'Neutral', 'score': 0.9239389300346375}]"
+103,2021-12-02 00:59:59+00:00,"RT Nurses know that Covid patients are dying from government subsidized hospital protocols (Remdesivir, intubation), NOT fro...","[{'label': 'Negative', 'score': 0.7686293125152588}]"
+104,2021-12-02 00:59:59+00:00,RT Somebody wanted visuals,"[{'label': 'Neutral', 'score': 0.8350290060043335}]"
+105,2021-12-02 00:59:59+00:00,U.S. Will Enforce Stricter Covid Tests on Departing Flyers to Combat Omicron Spread,"[{'label': 'Neutral', 'score': 0.9279694557189941}]"
+106,2021-12-02 00:59:59+00:00,win for Ohio...,"[{'label': 'Positive', 'score': 0.6812021136283875}]"
+107,2021-12-02 00:59:59+00:00,"Every school struggled when it came to reopening after the pandemic. Check out unique approach.
+
+https://t.co/2DW34pdbJR","[{'label': 'Neutral', 'score': 0.6649429202079773}]"
+108,2021-12-02 00:59:59+00:00,RT We all owe South Africa a thank you and an apology.,"[{'label': 'Negative', 'score': 0.5765491724014282}]"
+109,2021-12-02 00:59:59+00:00,RT Something about aging during the pandemic just makes it seem...not real,"[{'label': 'Negative', 'score': 0.7848278880119324}]"
+110,2021-12-02 00:59:59+00:00,"'NPHET has recommended', YOU recommended all of the current restrictions and guidelines. And let's be honest NOTHING you've recommended this whole pandemic has worked  just quit and find something you excel in, cause this ain't it.","[{'label': 'Negative', 'score': 0.8955855965614319}]"
+111,2021-12-02 00:59:59+00:00,RT Go ahead and RT if you think Joe Biden would NOT expose Gold Star military families to Covid.,"[{'label': 'Neutral', 'score': 0.6236061453819275}]"
+112,2021-12-02 00:59:59+00:00,freeeeeeeeeeeeed from 3 hours of pots 'n pans,"[{'label': 'Neutral', 'score': 0.619785726070404}]"
+113,2021-12-02 00:59:59+00:00,"RT As part of the Global Alliance of Foundations, we are calling on G7 countries to make good on earlier commitments and aim...","[{'label': 'Neutral', 'score': 0.6719133257865906}]"
+114,2021-12-02 01:00:00+00:00,"RT ""What an absolute load of rubbish... Did anyone else's friends get contracts?""
+ 
+Watch and disagr...","[{'label': 'Negative', 'score': 0.9039143323898315}]"
+115,2021-12-02 01:00:00+00:00,The United State's first case of the #Omicron Coronavirus variant has been identified in California - Foreign Media,"[{'label': 'Neutral', 'score': 0.8690870404243469}]"
+116,2021-12-02 01:00:00+00:00,"RT Inadequate precautions from ' The Johnson ' re flight arrivals, and onward travel.
+
+Refusing to test prior to boarding...","[{'label': 'Negative', 'score': 0.7751473784446716}]"
+117,2021-12-02 01:00:00+00:00,"RT Vaccine pushers: ""Don't use horse paste!""
+
+It didn't win the Nobel Prize for being ""horse paste"".","[{'label': 'Negative', 'score': 0.7386375665664673}]"
+118,2021-12-02 01:00:00+00:00,"When states cut off COVID benefits early, U.S. must pay- lawsuit.
+https://t.co/euuHiE5hEZ
+#COVID19 #lawsuit #legal #justice","[{'label': 'Negative', 'score': 0.5557430982589722}]"
+119,2021-12-02 01:00:00+00:00,"Is vaccine hoarding by some countries leading to new Covid-19 variants? 
+
+Watch the new episode of #BSMorningShow to know
+
+@5paisa #CoronavirusVaccines #covidvariants","[{'label': 'Neutral', 'score': 0.748148500919342}]"
+120,2021-12-02 01:00:00+00:00,"South Australian meat producer Thomas Foods International has weathered the pandemic storm to produce a record profit.
+
+Full story:","[{'label': 'Positive', 'score': 0.7800343632698059}]"
+121,2021-12-02 01:00:00+00:00,"RT FDA advisory panel voted narrowly to recommend Emergency Use Authorization of Merck's five-day pill to treat COVID, de...","[{'label': 'Neutral', 'score': 0.9132596850395203}]"
+122,2021-12-02 01:00:00+00:00,There are two main reasons that car insurance payouts have risen so much and so quickly.,"[{'label': 'Neutral', 'score': 0.5480196475982666}]"
+123,2021-12-02 01:00:00+00:00,How is #Europe handling the #OmicronVariant? says everyone must decide if they want to keep living in fear of #coronavirus or move on with their lives. #VarneyCo,"[{'label': 'Neutral', 'score': 0.5573326945304871}]"
+124,2021-12-02 01:00:00+00:00,OH WOW,"[{'label': 'Positive', 'score': 0.7307063341140747}]"
+125,2021-12-02 01:00:00+00:00,"GLENNA MASON, 52, of Grafton, New Hampshire, died of COVID on Nov. 25, 2021. 
+
+""Glenna was genuine &amp; uncomplicated. She enjoyed hunting, fishing, &amp; ice fishing. She loved holidays, especially Halloween, Thanksgiving, and Christmas...""
+
+https://t.co/aYjsV3AH8g","[{'label': 'Neutral', 'score': 0.6194942593574524}]"
+126,2021-12-02 01:00:00+00:00,They're just observing protocol. Social distancing. ,"[{'label': 'Neutral', 'score': 0.8570181727409363}]"
+127,2021-12-02 01:00:00+00:00,RT Ask yourself what exactly are governments getting out of buying shots and making these companies wealthier.,"[{'label': 'Neutral', 'score': 0.7109379172325134}]"
+128,2021-12-02 01:00:00+00:00,"The U.S. recorded its first confirmed case of the omicron variant Wednesday -- in a vaccinated traveler who returned to California after a trip to South Africa.
+Read more:","[{'label': 'Neutral', 'score': 0.8439599275588989}]"
+129,2021-12-02 01:00:00+00:00,"#SaudiArabia sees slight rise in new #COVID19 cases on Wednesday, with 34 new infections recorded over the past 24 hours.
+https://t.co/Np0LFh2hlA","[{'label': 'Neutral', 'score': 0.6047216653823853}]"
+130,2021-12-02 01:00:00+00:00,RT Except for the times the White House talks about him or what he did in office,"[{'label': 'Neutral', 'score': 0.8651641011238098}]"
+131,2021-12-02 01:00:00+00:00,"#TakomaPark council: Delegate Wilkins plans to bring back ""emergency eviction legislation."" ""Wherever we are when it comes to...the pandemic, the housing crisis continues.""","[{'label': 'Neutral', 'score': 0.5370088219642639}]"
+132,2021-12-02 01:00:00+00:00,"RT I think most everyone already inferred this based on the continual WH denials at the time, but Trump: 
+
+- knew he was po...","[{'label': 'Neutral', 'score': 0.7271343469619751}]"
+133,2021-12-02 01:00:00+00:00,"RT The lying, stain on humanity, POS Donald Trump tested positive for COVID-19 the day before an event with Gold Star fami...","[{'label': 'Negative', 'score': 0.89036625623703}]"
+134,2021-12-02 01:00:00+00:00,"Politico worked overtime to find a way to blame the new Omicron variant on Donald Trump. 
+https://t.co/S2xJrUpG6C","[{'label': 'Negative', 'score': 0.6280075907707214}]"
+135,2021-12-02 01:00:00+00:00,"Feet up, a great view of the Samuyao Hills in Pamplona, shared by Eats the Weekend [ IG: ]. Be safe, wear your face mask, and observe social distancing, Dumaguetnon! Magpa-bakuna na! There will be better days. #DumaGetMe","[{'label': 'Positive', 'score': 0.9573075175285339}]"
+136,2021-12-02 01:00:00+00:00,"Tourism business rattled again as Omicron variant renews barriers to travel
+https://t.co/TTQADGP8pM","[{'label': 'Negative', 'score': 0.5895875692367554}]"
+137,2021-12-02 01:00:00+00:00,"RT And while I have your attention, I'd love for someone to explain why the US, while renewing visas for people to live a...","[{'label': 'Neutral', 'score': 0.7489356994628906}]"
+138,2021-12-02 01:00:00+00:00,"The Japanese health ministry said Wednesday that a second case of infection with the #omicron #coronavirus variant has been confirmed in the country.
+@MHLWitter_en
+
+https://t.co/y6KAjXSX2R","[{'label': 'Neutral', 'score': 0.5960438251495361}]"
+139,2021-12-02 01:00:00+00:00,"""Blessing in disguise: Omicron variant may be 'very positive' news for the world if new Covid mutation kills off more lethal Delta coronavirus""","[{'label': 'Positive', 'score': 0.9145615100860596}]"
+140,2021-12-02 01:00:00+00:00,"RT Stream the ""South Park: Post Covid"" exclusive event on Paramount+. Start your free 30-day trial with coupon code SOUTHPARK a...","[{'label': 'Neutral', 'score': 0.7021326422691345}]"
+141,2021-12-02 01:00:00+00:00,RT Of course Mango Mussolini knew he had Covid before the debate. He lied to our faces about how deadly it would be. He r...,"[{'label': 'Negative', 'score': 0.8651236295700073}]"
+142,2021-12-02 01:00:00+00:00,RT Is anyone surprised that Trump didn't care about giving Biden COVID?,"[{'label': 'Negative', 'score': 0.5644669532775879}]"
+143,2021-12-02 01:00:00+00:00,"Will our current shots protect against the concerning new COVID variant?  #Omicron
+https://t.co/OJf2iHLlyj","[{'label': 'Neutral', 'score': 0.837864339351654}]"
+144,2021-12-02 01:00:00+00:00,"Over 215 mln Chinese people aged 60 and above have received at least one dose of #COVID19 vaccines. Out of that number, 206 mln have completed their #vaccination against the virus, said an official with the National Health Commission (NHC).","[{'label': 'Neutral', 'score': 0.8526439666748047}]"
+145,2021-12-02 01:00:00+00:00,"#Love is who you are!
+
+
+#JoyTrain #Joy #COVID19 #MentalHealth #Quote #Mindfulness #GoldenHearts #IAM #ChooseLove #FamilyTrain #kjoys1 #WellnessWednesday #WednesdayMorning #WednesdayThoughts #WednesdayWisdom #WednesdayMotivation RT","[{'label': 'Positive', 'score': 0.9164860844612122}]"
+146,2021-12-02 01:00:00+00:00,"When skies were blue and air pollution was reduced during lockdowns in the U.S. at the beginning of the COVID-19 pandemic, fewer STEMI occurred, a new study suggests.
+https://t.co/CkvOjo0gn9","[{'label': 'Neutral', 'score': 0.8182794451713562}]"
+147,2021-12-02 01:00:01+00:00,"When skies were blue and air pollution was reduced during stay-at-home lockdowns in the US at the beginning of the COVID-19 pandemic, fewer STEMI occurred, a new study suggests. #CardioTwitter #AHA21","[{'label': 'Neutral', 'score': 0.8045095801353455}]"
+148,2021-12-02 01:00:01+00:00,RT Want to know why the travel ban on African countries is racist? Because there was no ban on European countries with the omic...,"[{'label': 'Negative', 'score': 0.5281709432601929}]"
+149,2021-12-02 01:00:01+00:00,"#ICYMI As #Omicron variant spreads across the world, India's third dose policy may become reality in 14 days
+https://t.co/at8DBMSfJG","[{'label': 'Neutral', 'score': 0.7944232225418091}]"
+150,2021-12-02 01:00:01+00:00,"Covid Update!
+Latest Changes 
+
+District Main Office
+Staff: +1
+Forest Park Elementary
+Staff: +1
+Gomes Elementary
+Student: +1
+Hirsch Elementary
+Student: +1
+Mission San Jose High
+Student: +1
+
+District Totals:
+Student: 185
+Staff: 53
+
+https://t.co/iyhAicUED1","[{'label': 'Neutral', 'score': 0.8869289755821228}]"
+151,2021-12-02 01:00:01+00:00,"In lockdown, more Filipinas endured domestic violence. And there are only 28 centers that offer shelter for women in crisis--not even half of the 81 provinces in the country.
+
+@_izzylee reports:","[{'label': 'Negative', 'score': 0.8664919137954712}]"
+152,2021-12-02 01:00:01+00:00,"RT The #Omicron variant is now officially in the US, which means that for the next several months, Democrats and the news wil...","[{'label': 'Negative', 'score': 0.610012412071228}]"
+153,2021-12-02 01:00:01+00:00,"A Columbus woman was sentenced in federal court Wednesday and ordered to pay a fine of $250,000 for committing COVID relief fraud.","[{'label': 'Negative', 'score': 0.6911294460296631}]"
+154,2021-12-02 01:00:01+00:00,"The Omicron variant reveals the true global danger of 'vaccine apartheid' Larry Elliott  #endpandemics #omicronvariant #coronavirus #covid19 #virus #pandemics 
+https://t.co/ZWcP5NmsqN","[{'label': 'Negative', 'score': 0.6096359491348267}]"
+155,2021-12-02 01:00:01+00:00,"PODCAST #theSituation : COVID mitigations have been unconstitutional from the beginning.
+https://t.co/gwDHkOhWh8","[{'label': 'Negative', 'score': 0.7393118739128113}]"
+156,2021-12-02 01:00:01+00:00,"The WHO warned Wednesday that the world was creating toxic conditions for new Covid-19 variants like Omicron to emerge and then spread around the globe.
+
+READ:","[{'label': 'Negative', 'score': 0.7372757792472839}]"
+157,2021-12-02 01:00:01+00:00,RT Two former aides confirm Meadows claim that Trump tested positive for coronavirus before the first 2020 debate with Bid...,"[{'label': 'Neutral', 'score': 0.853298544883728}]"
+158,2021-12-02 01:00:01+00:00,Honestly! I know covid sucks but these two NEED to have an interview/shoot together to promote S2. We're overdue,"[{'label': 'Negative', 'score': 0.5948962569236755}]"
+159,2021-12-02 01:00:01+00:00,"RT A judge had to order a hospital to treat him with Ivermectin...
+
+https://t.co/l1dowsn0ky","[{'label': 'Neutral', 'score': 0.7745289206504822}]"
+160,2021-12-02 01:00:01+00:00,"In his first two games since missing three weeks due to COVID health and safety protocols, Joel Embiid has averaged 29.0 points while shooting 41% from the field, 13.5 rebounds and 4.0 steals in 37.6 minutes per game.
+https://t.co/CeO9R9oJBk
+
+#NBATwitter #NBA #basketball","[{'label': 'Neutral', 'score': 0.8211240172386169}]"
+161,2021-12-02 01:00:01+00:00,"At the present time, Union Cab requires masks on our rides. With the COVID-19 Delta variant, this is prudent policy. Call 608-242-2000 and ride responsibly. #CoOpMeansTogether","[{'label': 'Neutral', 'score': 0.6802110075950623}]"

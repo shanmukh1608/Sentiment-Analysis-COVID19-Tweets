@@ -1,0 +1,250 @@
+,created_at,full_text,sentiment_score
+0,2020-11-24 14:59:54+00:00,"RT Remember how Reagan said we are one generation away from losing our freedom? 
+
+This is that generation. We are literally...","[{'label': 'Negative', 'score': 0.5891562700271606}]"
+1,2020-11-24 14:59:55+00:00,* Chart: Where Coronavirus Cases Are Growing Fast | Statista,"[{'label': 'Neutral', 'score': 0.893293559551239}]"
+2,2020-11-24 14:59:55+00:00,Pandemic semester 2 has hit me a lot harder in terms of motivation than semester 1. Hoping semester 3 won't ruin me,"[{'label': 'Negative', 'score': 0.8398718237876892}]"
+3,2020-11-24 14:59:55+00:00,"RT Weird framing considering Florida is near the bottom of the list of cases per 100K within the last week, per CDC. 
+
+Michi...","[{'label': 'Negative', 'score': 0.6059619188308716}]"
+4,2020-11-24 14:59:55+00:00,Sadly today  9 more deaths with Covid have been announce in Coventry and Warwickshire hospitals. It is likely that most of these will have been infected just before the lockdown started.,"[{'label': 'Negative', 'score': 0.9010271430015564}]"
+5,2020-11-24 14:59:55+00:00,"RT Meanwhile - in the middle of the pandemic - at the governors direction, the state spent nearly $1 million advertising for...","[{'label': 'Neutral', 'score': 0.553589940071106}]"
+6,2020-11-24 14:59:55+00:00,Millions of Americans Expect to Lose Their Homes as Covid Rages via,"[{'label': 'Negative', 'score': 0.7729882001876831}]"
+7,2020-11-24 14:59:55+00:00,I think the skyrocketing COVID numbers make my point quite nicely.,"[{'label': 'Neutral', 'score': 0.5455172657966614}]"
+8,2020-11-24 14:59:55+00:00,"Dale Nally:  ""People are dying of COVID.  So funny!  I can't even.  ""","[{'label': 'Negative', 'score': 0.3524317443370819}]"
+9,2020-11-24 14:59:55+00:00,RT Our nation's frontline health care workers are under enormous strain. They deserve not just additional resources by the c...,"[{'label': 'Negative', 'score': 0.7375435829162598}]"
+10,2020-11-24 14:59:55+00:00,RT More lessons from  implementation of low technology to promote learning during the pandemic.,"[{'label': 'Neutral', 'score': 0.84908127784729}]"
+11,2020-11-24 14:59:55+00:00,"RT With Toronto in the Grey-#Lockdown level under provincial measures, #StayHome and limit contact to members of your house...","[{'label': 'Neutral', 'score': 0.848423182964325}]"
+12,2020-11-24 14:59:55+00:00,RT Do not read this affidavit from an IT expert. We know what is documented here is impossible as the Maricopa County Supervi...,"[{'label': 'Negative', 'score': 0.7459422945976257}]"
+13,2020-11-24 14:59:55+00:00,"RT Influenza death in the UK is down 96%. 
+
+Average influenza death - 17000
+
+UK influe...","[{'label': 'Negative', 'score': 0.5205084681510925}]"
+14,2020-11-24 14:59:55+00:00,Thats because they have plenty to hide.,"[{'label': 'Neutral', 'score': 0.4773683547973633}]"
+15,2020-11-24 14:59:55+00:00,RT A major Trump donor's company got a 3% government-backed pandemic loan. It sells title loans at a 350% annual rate.,"[{'label': 'Neutral', 'score': 0.7262146472930908}]"
+16,2020-11-24 14:59:55+00:00,Did get this special treatment too?,"[{'label': 'Neutral', 'score': 0.9289759397506714}]"
+17,2020-11-24 14:59:55+00:00,"Travel safely and avoid overcrowding this Christmas
+
+Sign up for crowding alerts and live updates on the move via 'Alert Me by Messenger'
+ 
+i power them through our unique tech which can look to the future
+
+#TravelWithConfidence","[{'label': 'Neutral', 'score': 0.5490270256996155}]"
+18,2020-11-24 14:59:55+00:00,"RT NYC increased its burial assistance to $1,700 from $900 in May. That is still short of the average $9,000 cost of a trad...","[{'label': 'Neutral', 'score': 0.8914145231246948}]"
+19,2020-11-24 14:59:55+00:00,A Man of wisdom,"[{'label': 'Positive', 'score': 0.8478444814682007}]"
+20,2020-11-24 14:59:55+00:00,Shut the fuck CNN russian sympathizing asses,"[{'label': 'Negative', 'score': 0.9210911989212036}]"
+21,2020-11-24 14:59:55+00:00,Thanks for your support. Please can you share this update re: open call poster design PS100 cash prize? #domesticabuse #domesticviolence #poster #opencall #design #global,"[{'label': 'Positive', 'score': 0.6501141786575317}]"
+22,2020-11-24 14:59:56+00:00,"RT Researchers analyzed COVID-19 infection rates in Kansas following a statewide mask mandate. 
+
+They found that counties tha...","[{'label': 'Neutral', 'score': 0.8295177817344666}]"
+23,2020-11-24 14:59:56+00:00,"RT Starmer proposed a ""circuit-breaker"" of two weeks. Johnson imposed a four week lockdown (albeit a little while later).
+
+I...","[{'label': 'Neutral', 'score': 0.90199214220047}]"
+24,2020-11-24 14:59:56+00:00,"RT We owe a great debt to the Mashpee Wampanoag Tribe and have, as a country, treated them miserably. If you would like to he...","[{'label': 'Negative', 'score': 0.9083005785942078}]"
+25,2020-11-24 14:59:56+00:00,"RT Russia's vaccine for #COVID19 also out yesterday--but I didn't report it because its 92% efficacy results ""don't pass the sm...","[{'label': 'Negative', 'score': 0.5926221609115601}]"
+26,2020-11-24 14:59:56+00:00,"It takes years for most vaccines  due to many reasons. Funding , people willing to take part in trials and legalities are common issues. Coronavirus strains changing has an impact on the flu vaccine and its rate of success.  Money and no legal recourse is the difference here","[{'label': 'Negative', 'score': 0.6418842077255249}]"
+27,2020-11-24 14:59:56+00:00,"RT A police officer was struck on the back of the neck with a glass bottle while on patrol in Soho closing time, hours before the n...","[{'label': 'Negative', 'score': 0.5124611854553223}]"
+28,2020-11-24 14:59:56+00:00,RT COVID-19: Weekly deaths in England and Wales highest since May,"[{'label': 'Negative', 'score': 0.6171087026596069}]"
+29,2020-11-24 14:59:56+00:00,"Unfortunately, the R strategy of downplaying the virus and demeaning mask-wearing and social distancing will not disappear with the new administration, and will impede our ability fo control the virus well into the future.","[{'label': 'Negative', 'score': 0.865653932094574}]"
+30,2020-11-24 14:59:56+00:00,RT The Papadopoulos house won't be in lockdown for thanksgiving. Neither should yours. This is America,"[{'label': 'Negative', 'score': 0.5350329875946045}]"
+31,2020-11-24 14:59:56+00:00,"RT Kentucky Fried Chicken is the latest fast food chain to redesign its restaurants for the Covid-19 era, with a tech revam...","[{'label': 'Neutral', 'score': 0.8733656406402588}]"
+32,2020-11-24 14:59:56+00:00,"RT Just posted an update of our July preprint ""Herd immunity thresholds for SARS-CoV-2 estimated from unfolding epidemics"". No...","[{'label': 'Neutral', 'score': 0.5784931182861328}]"
+33,2020-11-24 14:59:56+00:00,"RT Un-freaking-believable. Now more than ever, people are looking to elected leaders for signals on how to mitigate risk. Is i...","[{'label': 'Negative', 'score': 0.7702320218086243}]"
+34,2020-11-24 14:59:56+00:00,"RT EU secures 160 million doses of Moderna's COVID-19 vaccine
+
+#ARYNews #COVID19
+https://t.co/9puM9IFUDT","[{'label': 'Neutral', 'score': 0.9057159423828125}]"
+35,2020-11-24 14:59:56+00:00,"RT Why is your party filibustering $500 billion in COVID relief?
+
+And Joe Biden is cheering them on. Thinking that blocking relie...","[{'label': 'Negative', 'score': 0.8003154993057251}]"
+36,2020-11-24 14:59:56+00:00,"RT To be effectively opposed, the subject must be accurately described &amp; this portrait by of a person who gets...","[{'label': 'Neutral', 'score': 0.5303210020065308}]"
+37,2020-11-24 14:59:56+00:00,"Shame on this new legislator.  People are dying at record numbers here in MN.  ""Newly elected lawmaker vows to flout Minnesota COVID-19 rules"" -  @MeidasTouch @amyklobuchar @TinaSmithMN @AngieCraigMN @Ilhan ","[{'label': 'Negative', 'score': 0.9290968179702759}]"
+38,2020-11-24 14:59:56+00:00,RT NY Times flexes Its anti-anti-Communism on coronavirus 'misinformation' from the 'far right',"[{'label': 'Neutral', 'score': 0.7938588261604309}]"
+39,2020-11-24 14:59:56+00:00,"Looks exactly like a virus spreading. Oh, wait. ","[{'label': 'Negative', 'score': 0.7007890343666077}]"
+40,2020-11-24 14:59:56+00:00,"RT As Thanksgiving approaches, Covid-19 cases continue to rise in the United States. 
+
+Read the latest news about the pand...","[{'label': 'Neutral', 'score': 0.5194016695022583}]"
+41,2020-11-24 14:59:56+00:00,If you cared for the best interest of our country you would not let 225 thousand die because you insisted COVID was a hoax.,"[{'label': 'Negative', 'score': 0.8980768322944641}]"
+42,2020-11-24 14:59:56+00:00,"RT Dalits and Adivasis with hard-earned and loan-funded BTech, BEd, MBA, LLB and other degrees have lost their pre-lockdown j...","[{'label': 'Negative', 'score': 0.5077963471412659}]"
+43,2020-11-24 14:59:57+00:00,"But you realize that as long as he advocates for in person school during a pandemic, that ""acceptable loss"" is exactly what he's saying. He could be advocating for parental support so we can get through the pandemic more quickly, but he's not. He'd rather deny the risk.","[{'label': 'Negative', 'score': 0.6152153015136719}]"
+44,2020-11-24 14:59:57+00:00,"The #IATA #Forecast for 2020, 2021.","[{'label': 'Neutral', 'score': 0.9632423520088196}]"
+45,2020-11-24 14:59:57+00:00,"RT Lower your risk of Covid-19 
+Wear a mask, wash your hands, stay 6 feet away from others, and avoid large gatherings....","[{'label': 'Neutral', 'score': 0.7424330711364746}]"
+46,2020-11-24 14:59:57+00:00,LifePetitions - Petitions for a Culture of Life,"[{'label': 'Neutral', 'score': 0.8757246732711792}]"
+47,2020-11-24 14:59:57+00:00,"RT the very first ""stay the fuck home and play UT99"" stream will be on Thanksgiving, likely later in the day (prob 7PM EST...","[{'label': 'Neutral', 'score': 0.7341012358665466}]"
+48,2020-11-24 14:59:57+00:00,RT (CNN) - Americans need to be prepared for the possibility that they may feel a little unwell after they get a coronavirus v...,"[{'label': 'Neutral', 'score': 0.6215099692344666}]"
+49,2020-11-24 14:59:57+00:00,RT 'We are happy to work with any country to share our knowledge and data' -- New Zealand PM Jacinda Ardern says she will work...,"[{'label': 'Positive', 'score': 0.6748443245887756}]"
+50,2020-11-24 14:59:57+00:00,seriously do you believe that china created covid. Cause if you do you are clearly so stupid and delusional. Also not to mention how sucked up you are in conspericy theories.,"[{'label': 'Negative', 'score': 0.948354184627533}]"
+51,2020-11-24 14:59:57+00:00,"Hi, thank you for reaching out regarding the use of face masks by our Team Members &amp; customers. Our Team Members are social distancing &amp; supplied w/plexiglass shields, gloves, masks, face shields &amp; sanitizer. We are requiring face masks to be worn by Team Members &amp; customers.","[{'label': 'Neutral', 'score': 0.5649207830429077}]"
+52,2020-11-24 14:59:57+00:00,"It's......a global pandemic you absolute moron. America is one country out of over 200. 
+
+You're into environmental science and you support Trump? ","[{'label': 'Negative', 'score': 0.8584543466567993}]"
+53,2020-11-24 14:59:57+00:00,"RT Exciting announcement from launching ANTICOV
+
+Large adaptive clinical trial
+Will test several #COVID19 treatments...","[{'label': 'Positive', 'score': 0.8858678936958313}]"
+54,2020-11-24 14:59:57+00:00,"RT People across the country are going hungry, COVID is set to explode, and Mitch McConnell dismissed the Senate last week.
+
+I don't...","[{'label': 'Negative', 'score': 0.8912847638130188}]"
+55,2020-11-24 14:59:57+00:00,This is hilarious,"[{'label': 'Positive', 'score': 0.8234243988990784}]"
+56,2020-11-24 14:59:57+00:00,"VIDEO - Biden Covid Adviser: Take This Seriously, There Won't Be the Doctors and Nurses to Take Care of You ","[{'label': 'Negative', 'score': 0.7324745655059814}]"
+57,2020-11-24 14:59:57+00:00,"On the access to the #COVID19 vaccine, Ana Barreto 
+@afro_resistance asks ""So who is disposable? Historically it is us, black people""","[{'label': 'Neutral', 'score': 0.8012692332267761}]"
+58,2020-11-24 14:59:57+00:00,wow dangerousity covid 19 years old,"[{'label': 'Negative', 'score': 0.9020386934280396}]"
+59,2020-11-24 14:59:57+00:00,Anywhere after this pandemic ,"[{'label': 'Negative', 'score': 0.5738275647163391}]"
+60,2020-11-24 14:59:57+00:00,"You could probably go on some social  platform and find bikes easy. I think many bought them during the beginning of the pandemic, rode them once and then put them away not realizing they had to actually ride them.","[{'label': 'Neutral', 'score': 0.7580476403236389}]"
+61,2020-11-24 14:59:57+00:00,"RT VICTON Announces Postponement Of Comeback
+https://t.co/iHxSQaRQIp","[{'label': 'Neutral', 'score': 0.9131831526756287}]"
+62,2020-11-24 14:59:57+00:00,"RT #GujaratCoronaUpdate
+#COVID19 Dashboard
+1510 New cases
+1286 Discharged
+
+16 Deaths reported
+84,625 Tests carried out today
+T...","[{'label': 'Neutral', 'score': 0.7571673393249512}]"
+63,2020-11-24 14:59:57+00:00,"9am update: 197,848 confirmed #COVID19 cases in Alabama
+++1,961 more than Monday++
+- 6,843 in Baldwin County (84 deaths) per ADPH
+-19,548 in Mobile County (363 deaths) per MCHD","[{'label': 'Neutral', 'score': 0.7087609767913818}]"
+64,2020-11-24 14:59:58+00:00,"RT When will it end?
+
+The virus batted first in 2020 and dominated mankind. We bowled poorly
+
+Its nearing halftime it seems....","[{'label': 'Negative', 'score': 0.8579463362693787}]"
+65,2020-11-24 14:59:58+00:00,RT A major Trump donor's company got a 3% government-backed pandemic loan. It sells title loans at a 350% annual rate.,"[{'label': 'Neutral', 'score': 0.7262146472930908}]"
+66,2020-11-24 14:59:58+00:00,RT Three weeks ago 7 of us had Sunday dinner at my home. All 7 of us have Covid. I am the unlucky one fighting fo...,"[{'label': 'Negative', 'score': 0.8907697200775146}]"
+67,2020-11-24 14:59:58+00:00,Maybe more than 1 thing can be true at the same time:  1.  gratitude is good for us; 2.  Explicit direction to wear a mask from a trusted leader could help curb UT's covid explosion.,"[{'label': 'Positive', 'score': 0.7593124508857727}]"
+68,2020-11-24 14:59:58+00:00,RT No mayor has lost a dime of their paycheck because of COVID. No Governor has lost a dime of their paycheck because of COVI...,"[{'label': 'Negative', 'score': 0.5841449499130249}]"
+69,2020-11-24 14:59:58+00:00,"RT It gave me quite a jolt
+To see that Pepper &amp; Bolt
+Are in need of a new home
+So in you garden could they roam? 
+#Team...","[{'label': 'Neutral', 'score': 0.6661322712898254}]"
+70,2020-11-24 14:59:58+00:00,We need this now!!!!!!,"[{'label': 'Positive', 'score': 0.780651330947876}]"
+71,2020-11-24 14:59:58+00:00,RT UP. Cartoon for #COVIDIOTS #COVID #Covid_19,"[{'label': 'Neutral', 'score': 0.6324020028114319}]"
+72,2020-11-24 14:59:58+00:00,A 90%+ effectiveness rating on the recent Covid vaccine candidates puts it up there with the likes of Polio and Mumps.  A remarkable achievement in such a short amount of time.,"[{'label': 'Positive', 'score': 0.9460066556930542}]"
+73,2020-11-24 14:59:58+00:00,"Get the fuck over myocarditis.  It's nothing new!  Quit acting like this is something we've never seen before brought on by covid.  Myocarditis has long been associated with viral infections of all kinds.
+
+I hate stupid fear mongers like you.","[{'label': 'Negative', 'score': 0.9137447476387024}]"
+74,2020-11-24 14:59:58+00:00,"During a pandemic, during hard times, you guys are showing me how generous and how caring you can be.
+
+Thank you all for the DMs and please keep them coming! ","[{'label': 'Positive', 'score': 0.9301751852035522}]"
+75,2020-11-24 14:59:58+00:00,"RT ""When we look at this pandemic and we look at how are we going to get through, and how are we going to build back, we...","[{'label': 'Neutral', 'score': 0.7549970149993896}]"
+76,2020-11-24 14:59:58+00:00,"RT Sharing this ""thank you"" to all of the people participating in the COVID-19 vaccine trial. Because of your courage, #Sci...","[{'label': 'Positive', 'score': 0.9357137084007263}]"
+77,2020-11-24 14:59:58+00:00,RT Coronavirus must be too broke to be in Dubai,"[{'label': 'Negative', 'score': 0.8129276037216187}]"
+78,2020-11-24 14:59:58+00:00,"RT #BTS x Good Morning America
+
+@BTS_twt performs 'Dynamite' on 'GMA3'
+https://t.co/rZ7XpSj88c
+
+BTS on how they made new m...","[{'label': 'Neutral', 'score': 0.5838852524757385}]"
+79,2020-11-24 14:59:58+00:00,"RT Valid and basic quations asked by mam over strategy of Vaccine distribution.
+""We are not playing pol...","[{'label': 'Neutral', 'score': 0.8162450194358826}]"
+80,2020-11-24 14:59:58+00:00,"""Coronavirus should inspire us to rewild cities to better support our children"" via","[{'label': 'Neutral', 'score': 0.7173029184341431}]"
+81,2020-11-24 14:59:58+00:00,"Im so excited to be a part of #Freerangehumans heart work! I have not only found home in Freediving, but learning about the power of my breath and most importantly, the gift of being present... just yes! Watch here ----&gt;","[{'label': 'Positive', 'score': 0.9895641803741455}]"
+82,2020-11-24 14:59:58+00:00,"PS29 million for a festival of Brexit, during a pandemic, when we will still be in lockdown. 
+Brexit is looking even worst than I was expected it to be - what is there to celebrate?  
+This is a waste of money when people are dying. 
+Will the PM be giving the money to his mates?","[{'label': 'Negative', 'score': 0.9299602508544922}]"
+83,2020-11-24 14:59:59+00:00,"Sec. 6.  Effective Date.    This proclamation is effective at 5:00 p.m. eastern standard time on February 2, 2020.
+https://t.co/BrpDr5OqM9","[{'label': 'Neutral', 'score': 0.9431326985359192}]"
+84,2020-11-24 14:59:59+00:00,RT Call me old fashioned but when the President of the United States retweets Randy Quaid during a Pandemic and an Economic...,"[{'label': 'Neutral', 'score': 0.6453321576118469}]"
+85,2020-11-24 14:59:59+00:00,COVID-Related Nurse Shortage Hitting Hospitals,"[{'label': 'Negative', 'score': 0.7336258888244629}]"
+86,2020-11-24 14:59:59+00:00,"RT #FreebieFriday!!
+
+Stuck at home on Friday night in #Lockdown? Win the perfect snack combo 
+
+To enter, simply:
+
+ Flw us...","[{'label': 'Neutral', 'score': 0.5121960043907166}]"
+87,2020-11-24 14:59:59+00:00,"RT If you look at the past seven days, however, only seven other states have seen more people die than Indiana has, accord...","[{'label': 'Negative', 'score': 0.49508532881736755}]"
+88,2020-11-24 14:59:59+00:00,A Chicago alderman has proposed a $1.25 per package delivery tax on companies like Amazon -,"[{'label': 'Neutral', 'score': 0.903120219707489}]"
+89,2020-11-24 14:59:59+00:00,"RT I've heard 'the experts' saying that even if you take the vaccine, you should continue to wear a mask and socially distance....","[{'label': 'Neutral', 'score': 0.8090104460716248}]"
+90,2020-11-24 14:59:59+00:00,Tired of this Covid shit my fucking god,"[{'label': 'Negative', 'score': 0.9388715624809265}]"
+91,2020-11-24 14:59:59+00:00,"These Jersey Shore charities keep going, even in the pandemic. They could use your help. via","[{'label': 'Positive', 'score': 0.5374910235404968}]"
+92,2020-11-24 14:59:59+00:00,The Atlantic bubble bursts as COVID-19 cases rise.,"[{'label': 'Neutral', 'score': 0.5660079717636108}]"
+93,2020-11-24 14:59:59+00:00,"Let's actually make some changes to our physical environment !
+Make some streets car free, widen sidewalks and give people the streets!
+Let's create a #NewNormal with action, not talk.
+#LeadershipMatters #tinyislands #TrinidadandTobago","[{'label': 'Positive', 'score': 0.559242308139801}]"
+94,2020-11-24 14:59:59+00:00,RT this feature by is absolutely devastating (with a few notes of hope mixed in),"[{'label': 'Negative', 'score': 0.8972640037536621}]"
+95,2020-11-24 14:59:59+00:00,"As per the new rule , Pandemic is as per section 118A where R(0) is entire States population","[{'label': 'Neutral', 'score': 0.8292428851127625}]"
+96,2020-11-24 14:59:59+00:00,"These scans might help cut down on the time it takes for doctors to check the #COVID19 status of people having a stroke, new research shows.","[{'label': 'Neutral', 'score': 0.8318783640861511}]"
+97,2020-11-24 14:59:59+00:00,"RT The Governor of the Bank of England is 100% correct. Number 10 insiders, Gove and Sunak are increasingly worried.The bi...","[{'label': 'Neutral', 'score': 0.633574903011322}]"
+98,2020-11-24 14:59:59+00:00,"Manny is a Senior Business Analyst for Peak Support.
+
+#Honeymoon during the #pandemic?
+
+Dinner with &amp; with a #baby #elephant named Lulu?
+
+Read this month's Q&amp;A blog now to learn more about Manny.
+https://t.co/IlNk8XlVjG","[{'label': 'Neutral', 'score': 0.8248153328895569}]"
+99,2020-11-24 14:59:59+00:00,he also made the nursing home deaths worse by transferring covid positive elderly into nursing homes early on iirc.,"[{'label': 'Negative', 'score': 0.8541809916496277}]"
+100,2020-11-24 14:59:59+00:00,RT It has become clear during Trump's lack of transition that the only way that WE can get coronavirus relief is to vote...,"[{'label': 'Negative', 'score': 0.8214177489280701}]"
+101,2020-11-24 14:59:59+00:00,"As cases of COVID-19 continue to increase rapidly across the country, the safest way to celebrate Thanksgiving is at home.  Here are more suggestions on how to celebrate safely this holiday season...https://t.co/WMzDQM5Lpo","[{'label': 'Neutral', 'score': 0.7064093351364136}]"
+102,2020-11-24 14:59:59+00:00,RT Vice President-elect and I spent the afternoon meeting with a bipartisan group of mayors. It was just the start...,"[{'label': 'Neutral', 'score': 0.6217053532600403}]"
+103,2020-11-24 14:59:59+00:00,Your whole bench is pretty much on the COVID list ,"[{'label': 'Negative', 'score': 0.6920655369758606}]"
+104,2020-11-24 14:59:59+00:00,"RT Vaccination with #SputnikV will be free of charge for Russian citizens.
+#COVID19 #CovidVaccine","[{'label': 'Neutral', 'score': 0.8447954058647156}]"
+105,2020-11-24 14:59:59+00:00,Because there only testing for COVID19 ,"[{'label': 'Neutral', 'score': 0.5219982266426086}]"
+106,2020-11-24 15:00:00+00:00,RT And now it begins.. If you want to fly u MUST take the vaccine!!,"[{'label': 'Neutral', 'score': 0.6039052605628967}]"
+107,2020-11-24 15:00:00+00:00,"RT People across the country are going hungry, COVID is set to explode, and Mitch McConnell dismissed the Senate last week.
+
+I don't...","[{'label': 'Negative', 'score': 0.8912847638130188}]"
+108,2020-11-24 15:00:00+00:00,I stan the right man,"[{'label': 'Positive', 'score': 0.9260931015014648}]"
+109,2020-11-24 15:00:00+00:00,More than 40 meat processing plants across Indiana were recently awarded funding to help offset the impact of COVID-19. This industry is vital to our state's food supply chain. Click the link to learn which plants will receive this money. #3ToTweet,"[{'label': 'Positive', 'score': 0.6947025656700134}]"
+110,2020-11-24 15:00:00+00:00,"RT Conservative MP Laura Trott said: ""We're up to 500,000 tests a day"".
+On 2 November, labs had capacity for 521,016 test...","[{'label': 'Neutral', 'score': 0.912364661693573}]"
+111,2020-11-24 15:00:00+00:00,ion know one person on grand bahama who have/had covid .. ion know if that's a blessing or if y'all tricking me with these numbers because DA FUCK .,"[{'label': 'Negative', 'score': 0.9204568266868591}]"
+112,2020-11-24 15:00:00+00:00,Have you been approached?,"[{'label': 'Neutral', 'score': 0.9045448899269104}]"
+113,2020-11-24 15:00:00+00:00,"NEW at from Stephen Eide: Many people may not come back to the city, but if they spend more days in the communities they live, they may put down more roots there. There's no easy ""end of cities"" narrative here.","[{'label': 'Neutral', 'score': 0.8747530579566956}]"
+114,2020-11-24 15:00:00+00:00,"Number Of Banks Working With Marijuana Industry Continues To Drop Amid COVID, Federal Report Shows
+
+https://t.co/gMMwunW9tb","[{'label': 'Neutral', 'score': 0.6924120783805847}]"
+115,2020-11-24 15:00:00+00:00,"Guests are required to wear face coverings and follow social distancing protocols.
+https://t.co/Q8vk8aUhd0","[{'label': 'Neutral', 'score': 0.857651948928833}]"
+116,2020-11-24 15:00:00+00:00,"CSR Update: partnering with St. Petersburg, FL, for a holiday toy drive for families affected by COVID-19.
+
+https://t.co/V6dXVaFA3U","[{'label': 'Neutral', 'score': 0.900192141532898}]"
+117,2020-11-24 15:00:00+00:00," Winemakers have squeezed the best out of nature for centuries, but sensitive vines suffer from rising temperatures.
+
+ Now biodynamic viticulture is becoming more prevalent, offering a more natural approach for a post-pandemic world.
+
+https://t.co/LwEPBrS9wa","[{'label': 'Neutral', 'score': 0.7047823071479797}]"
+118,2020-11-24 15:00:00+00:00,"RT Join us for our Annual Turkey Giveaway on Tuesday, November 24, 2020 at Alice Harte! Free COVID -19 testing and flu shots...","[{'label': 'Positive', 'score': 0.5954070091247559}]"
+119,2020-11-24 15:00:00+00:00,"Jo Bhandal from writes about how Covid-19 is accelerating the drivers of LGBTQ+ youth homelessness and how akt responded.
+Read more from our partners here:
+https://t.co/PBnxRuNeX9","[{'label': 'Neutral', 'score': 0.6644859313964844}]"
+120,2020-11-24 15:00:00+00:00,"RT Something to be proud of! In a move to acknowledge PM Imran Khan's successful policies against Covid-19, World Economic Foru...","[{'label': 'Positive', 'score': 0.9479165077209473}]"
+121,2020-11-24 15:00:00+00:00,"#COVID19 is affecting the mental health of  #children, and #teenagers. #Socialization has stopped due to the #quarantine . Now that #schoolsreopening , the affect of the #pandemic on Teen's #mentalhealth is apparent. 
+We have tips on how to deal with this
+https://t.co/KhVy5fJKKC","[{'label': 'Negative', 'score': 0.6720221638679504}]"
+122,2020-11-24 15:00:00+00:00,"COVID cases are reaching critical levels here in Pennsylvania.
+ 
+Know the symptoms and how to take action if you or someone you care about gets sick.","[{'label': 'Negative', 'score': 0.7589211463928223}]"
+123,2020-11-24 15:00:00+00:00,"Student-teachers experience pandemic adjustments in the classroom
+https://t.co/n56MnQH5gt","[{'label': 'Neutral', 'score': 0.8730058073997498}]"
+124,2020-11-24 15:00:00+00:00,West Indies send inspection team to Bangladesh to assess Covid-19 plans and protocols,"[{'label': 'Neutral', 'score': 0.9217771291732788}]"
+125,2020-11-24 15:00:00+00:00,"""When so much is out of our control, the act of volunteering puts some control back in our hands.""","[{'label': 'Neutral', 'score': 0.7886693477630615}]"
+126,2020-11-24 15:00:00+00:00,Politics is a powerful force but it can be counteracted with data and logic. It requires two steps: Put the numbers in front of decision makers AND citizens. Ask each to make the best call. Then step back and watch the fireworks. #publichealth,"[{'label': 'Neutral', 'score': 0.7555950284004211}]"
+127,2020-11-24 15:00:00+00:00,"International air travel could come booming back next year but with a new rule: Travelers to certain countries must be vaccinated against the coronavirus before flying.
+
+https://t.co/UqK44TzlxX","[{'label': 'Neutral', 'score': 0.8007176518440247}]"
+128,2020-11-24 15:00:00+00:00,"Although not under the best circumstances, I feel we have really gotten to see Camilla come into her own. She's done an excellent job of keeping her patronage's at the forefront of all she does, &amp; when she is seen, it's not all about her. I've loved watching her throughout COVID.","[{'label': 'Positive', 'score': 0.9234931468963623}]"
+129,2020-11-24 15:00:00+00:00,"RT When will Democrats actually listen to the data, science &amp; facts regarding schooling during COVID-19?
+
+The data shows tha...","[{'label': 'Negative', 'score': 0.5757195353507996}]"
+130,2020-11-24 15:00:00+00:00,"2020 has been the toughest year we've ever had. With many of our vendors now in lockdown situations, we are asking for your support to help us and help our vendors through the Covid-19 pandemic this Christmas.
+
+https://t.co/us1a3sOwZh","[{'label': 'Negative', 'score': 0.6696585416793823}]"
+131,2020-11-24 15:00:00+00:00,I was just scrolling Twitter and just pops up in the photo of this news article haha. Girl I am seeing you EVERYWHERE. So excited for and proud of you!,"[{'label': 'Positive', 'score': 0.9880140423774719}]"
+132,2020-11-24 15:00:00+00:00,Experts say Thanksgiving gatherings could lead to an even bigger spike in sickness and death over the holidays.,"[{'label': 'Negative', 'score': 0.7225127220153809}]"
+133,2020-11-24 15:00:00+00:00,Our hero. Innalillah.. ,"[{'label': 'Positive', 'score': 0.9693263173103333}]"
+134,2020-11-24 15:00:00+00:00,Palm Beach is no exception to the changes in holiday shopping trends this year,"[{'label': 'Neutral', 'score': 0.7229602932929993}]"
+135,2020-11-24 15:00:01+00:00,"If you have symptoms of COVID-19 you must get tested. You can attend the drive-through test site at the LYCRA Company car park, the walk-through test site at Ulster University's Magee campus, or order a home test kit. 
+Visit for info on how to book a test.","[{'label': 'Neutral', 'score': 0.9112072587013245}]"
+136,2020-11-24 15:00:01+00:00,"Imagine looking into an injured or sick animal's eyes knowing that your ability to ease their pain and suffering has been strangled by COVID?  I lay awake each night praying that by the Grace of God, we will somehow get through this...  
+
+https://t.co/zzn6HwYKXJ","[{'label': 'Negative', 'score': 0.7678927779197693}]"

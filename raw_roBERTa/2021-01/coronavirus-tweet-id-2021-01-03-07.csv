@@ -1,0 +1,302 @@
+,created_at,full_text,sentiment_score
+0,2021-01-03 06:59:54+00:00,"RT COVID's mutant strain is scary.
+
+But people who judge someone's  intention, character, loyalty or faith are scarier.","[{'label': 'Negative', 'score': 0.858290433883667}]"
+1,2021-01-03 06:59:54+00:00,These are the ppl who deserve to get covid ,"[{'label': 'Negative', 'score': 0.899530827999115}]"
+2,2021-01-03 06:59:55+00:00,"RT Universal healthcare is not an expense, like quality education, it is an investment. Covid 19 demonstrated this to us. It is a...","[{'label': 'Neutral', 'score': 0.6349202990531921}]"
+3,2021-01-03 06:59:55+00:00,i dont get how people can support these ignorant tik tokers that dont give a shit ab the pandemic,"[{'label': 'Negative', 'score': 0.9435986280441284}]"
+4,2021-01-03 06:59:55+00:00,Yea dis covid shit ,"[{'label': 'Negative', 'score': 0.808871328830719}]"
+5,2021-01-03 06:59:55+00:00,"I am really inspired by the steps taken to end CORONA in Israel.
+-
+Together we shall win","[{'label': 'Positive', 'score': 0.963065505027771}]"
+6,2021-01-03 06:59:55+00:00,RT Why do y'all get mad when we tell y'all to be responsible during a pandemic  it's so weird,"[{'label': 'Negative', 'score': 0.8912274241447449}]"
+7,2021-01-03 06:59:55+00:00,"'Satinder, a safai karmachari (sanitation worker) in the city, has been living in the Sarai Kale Khan night shelter for the past four years. He complains that due to the increased number of people in the baseras, using the toilets has become a problem 1/","[{'label': 'Negative', 'score': 0.5192511081695557}]"
+8,2021-01-03 06:59:55+00:00,Lockdown ,"[{'label': 'Neutral', 'score': 0.8005195260047913}]"
+9,2021-01-03 06:59:55+00:00,"RT What skills are Indians learning for 2021 
+
+#MachineLearning #DataScience #Python #AI #100DaysOfCode...","[{'label': 'Neutral', 'score': 0.7589686512947083}]"
+10,2021-01-03 06:59:56+00:00,RT It's not by force stay at home.,"[{'label': 'Neutral', 'score': 0.6827261447906494}]"
+11,2021-01-03 06:59:56+00:00,"RT Happy new year, everyone! All the risks took with stockpiling the vaccine, have finally paid off. COVIS...","[{'label': 'Positive', 'score': 0.9539300203323364}]"
+12,2021-01-03 06:59:56+00:00,"RT Funeral services held for Rep.-elect Luke Letlow, who died after being stricken with COVID-19
+
+https://t.co/9qy0CO9bIa
+He...","[{'label': 'Neutral', 'score': 0.7708674669265747}]"
+13,2021-01-03 06:59:56+00:00,RT Tell Me More: Why is COVID-19 so dangerous?,"[{'label': 'Negative', 'score': 0.7733368277549744}]"
+14,2021-01-03 06:59:56+00:00,"RT ""Gradually losing a father to dementia is made doubly worse by the lack of contact due to Covid restrictions, and my family...","[{'label': 'Negative', 'score': 0.884853720664978}]"
+15,2021-01-03 06:59:56+00:00,RT Four Premier League players from Tottenham and West Ham ignored English lockdown regulations by gathering inside a hous...,"[{'label': 'Neutral', 'score': 0.5215551853179932}]"
+16,2021-01-03 06:59:56+00:00,RT Senate Education Committee Chairman Sherwin Gatchalian cited a report where learners are engaging in online sex for buyin...,"[{'label': 'Neutral', 'score': 0.7550543546676636}]"
+17,2021-01-03 06:59:56+00:00,"RT It's ironic that the $2 billion that the COVAX alliance needs to procure vaccines for poor countries like SA, is contain...","[{'label': 'Negative', 'score': 0.647566020488739}]"
+18,2021-01-03 06:59:56+00:00,"Please don't spread misinformation. Even if you take the vaccine, you still need to wear masks and practice social distancing.","[{'label': 'Neutral', 'score': 0.5975062251091003}]"
+19,2021-01-03 06:59:56+00:00,RT The much awaited #vaccine is finally here. On #TNIETalkroom we discuss the plans and challenges with the #COVID-19 #va...,"[{'label': 'Positive', 'score': 0.6722961664199829}]"
+20,2021-01-03 06:59:56+00:00,"RT Dear MP sir, impossible is possible under your guidance.
+Congratulations India !","[{'label': 'Positive', 'score': 0.9187875986099243}]"
+21,2021-01-03 06:59:56+00:00,"RT (50) Some US number of deaths from the CDC:
+2014/2626418
+2015/2712639
+2016/2744248
+2017/2813503
+2018/2839205
+2019/2854838...","[{'label': 'Neutral', 'score': 0.7972229719161987}]"
+22,2021-01-03 06:59:57+00:00,RT We are never getting out of this pandemic,"[{'label': 'Negative', 'score': 0.8871945142745972}]"
+23,2021-01-03 06:59:57+00:00,"RT 15 million people have lost their employer-based health care in the middle of a global pandemic, and barely half of House...","[{'label': 'Negative', 'score': 0.7961425185203552}]"
+24,2021-01-03 06:59:57+00:00,You have no idea what u are blabbering about,"[{'label': 'Negative', 'score': 0.8411856889724731}]"
+25,2021-01-03 06:59:57+00:00,"RT A decisive turning point to strengthen a spirited fight! 
+
+DCGI granting approval to vaccines of and","[{'label': 'Positive', 'score': 0.8783038258552551}]"
+26,2021-01-03 06:59:57+00:00,"RT Once covid is gone, I think we should normalize wearing a mask in public if you are sick.","[{'label': 'Neutral', 'score': 0.6643796563148499}]"
+27,2021-01-03 06:59:57+00:00,RT My uncle picked up bookbinding during the pandemic and his basement is my wonderland,"[{'label': 'Positive', 'score': 0.7060056328773499}]"
+28,2021-01-03 06:59:57+00:00,"#India authorized two #COVID-19 #vaccines on Sunday, paving the way for a huge inoculation program to stem the #coronavirus #pandemic in the world's second most populous country.
+
+#COVID19","[{'label': 'Neutral', 'score': 0.6250861287117004}]"
+29,2021-01-03 06:59:57+00:00,RT The coronavirus crisis is so severe in L.A. that Cedars-Sinai hospital was forced to delay a kidney transplant surgery for a 44...,"[{'label': 'Negative', 'score': 0.8039142489433289}]"
+30,2021-01-03 06:59:57+00:00,"Overtly left wing editorial bias and a rapacious appetite for clicks has destroyed journalistic integrity. Now they simply take a hasty position on a spurious claim, produce cut outs to lend credibility and publish. Irresponsible and dangerous.","[{'label': 'Negative', 'score': 0.9063252806663513}]"
+31,2021-01-03 06:59:57+00:00,RT People are literally partying themselves to death during this pandemic ,"[{'label': 'Negative', 'score': 0.8198750615119934}]"
+32,2021-01-03 06:59:57+00:00,Check out Ally's video! #TikTok #COVID19 ,"[{'label': 'Neutral', 'score': 0.7152668237686157}]"
+33,2021-01-03 06:59:57+00:00,RT We are in a pandemic?,"[{'label': 'Neutral', 'score': 0.6192211508750916}]"
+34,2021-01-03 06:59:57+00:00,"Covid's just a virus. Governments' responses--masks, social distancing, lockdowns, and the mass media fear campaign--are creating conditions for people to express their darker side. This was an intended result of the lockdown policy. Getting people prepped for the Great Reset.","[{'label': 'Negative', 'score': 0.8291347026824951}]"
+35,2021-01-03 06:59:57+00:00,This is a terrifying graph. The tiers clearly aren't working. We need a proper lockdown and we need it now.,"[{'label': 'Negative', 'score': 0.9317398071289062}]"
+36,2021-01-03 06:59:57+00:00,"RT Let this sink in:
+
+The U.S. Supreme Court hasn't met in person since March because of the pandemic.
+
+But five justices think...","[{'label': 'Neutral', 'score': 0.601594090461731}]"
+37,2021-01-03 06:59:58+00:00,"RT Thread
+
+Today &amp; I agreed the 2020 man of the year is for his leadership in response to CO...","[{'label': 'Positive', 'score': 0.5823461413383484}]"
+38,2021-01-03 06:59:58+00:00,"In the year just passed, the Covid-19 coronavirus outbreak slowed down activity in Trinidad and Tobago, bringing h...
+https://t.co/q83fJZvXJa...
+https://t.co/Rle35ymNdf","[{'label': 'Negative', 'score': 0.6309901475906372}]"
+39,2021-01-03 06:59:58+00:00,"Bulgarian Patriarch Neofit: With a New Hope We Enter the Door of 2021 | ""We hope and pray that the past 2020, which was a year of the unprecedented difficulties because of the pandemic caused by the new unknown virus, made us wiser,"" said Patriarch Neofit","[{'label': 'Positive', 'score': 0.8384323716163635}]"
+40,2021-01-03 06:59:58+00:00,"RT There are so many I meet, see, hear who are so frustrated &amp; helpless that the #COVID19 #pandemic in India did not create a hu...","[{'label': 'Negative', 'score': 0.9040126204490662}]"
+41,2021-01-03 06:59:58+00:00," #EkoRadioParty w/ 
+#Played >Suicide Love - 
+#COVID19 #lockdown #Radio","[{'label': 'Neutral', 'score': 0.8370074033737183}]"
+42,2021-01-03 06:59:58+00:00,"RT A decisive turning point to strengthen a spirited fight! 
+
+DCGI granting approval to vaccines of and","[{'label': 'Positive', 'score': 0.8783038258552551}]"
+43,2021-01-03 06:59:58+00:00,RT We don't care anymore.,"[{'label': 'Negative', 'score': 0.6086118221282959}]"
+44,2021-01-03 06:59:58+00:00,RT I hate this whole judging people for doing stuff during Covid,"[{'label': 'Negative', 'score': 0.903480052947998}]"
+45,2021-01-03 06:59:58+00:00,"RT Alhamdulillah, masih ada politikus yang berotak. 
+
+Finally, someone is sensible enough to come up with accessible nation...","[{'label': 'Positive', 'score': 0.5461118817329407}]"
+46,2021-01-03 06:59:59+00:00,"RT Happy New Year to all Dominicans home and abroad. I hope this year bring joy in your lives and in 2021 focus on the themes, ""...","[{'label': 'Positive', 'score': 0.9841019511222839}]"
+47,2021-01-03 06:59:59+00:00,RT oh my fucking god this pandemic is never going to end,"[{'label': 'Negative', 'score': 0.9420161843299866}]"
+48,2021-01-03 06:59:59+00:00,"RT pandemic aside, what's fun about this?","[{'label': 'Neutral', 'score': 0.497158020734787}]"
+49,2021-01-03 06:59:59+00:00,"my brain whenever I read ""air-powered costume"":","[{'label': 'Neutral', 'score': 0.8545457124710083}]"
+50,2021-01-03 06:59:59+00:00,"Due to famine flared by Covid an extra 186K kids likely to starve in 2021, bodies disfigured and faces expressionless without tears. Most dire in Yemen, in large part due to blockade by Saudi Arabia, backed by US under both Obama and Trump. 186K.","[{'label': 'Negative', 'score': 0.9140214920043945}]"
+51,2021-01-03 06:59:59+00:00,RT NEW: India becomes first country to report successful isolation and culture of UK variant of coronavirus - ICMR,"[{'label': 'Neutral', 'score': 0.8494139313697815}]"
+52,2021-01-03 06:59:59+00:00,"RT One of the most stylish and elegant birds I have ever seen.
+
+ Sean Graesser (IG)  
+
+#Weekend
+#natural 
+#bird 
+#StayAtHom...","[{'label': 'Positive', 'score': 0.9505107402801514}]"
+53,2021-01-03 06:59:59+00:00,"RT [| Mubeat Global Choice Awards: GAON FINAL ROUND FEMALE]
+
+Jan.3, As of 3:40PM KST | 
+Current Ranking:
+1. --...","[{'label': 'Neutral', 'score': 0.9216222167015076}]"
+54,2021-01-03 06:59:59+00:00,RT Why do y'all get mad when we tell y'all to be responsible during a pandemic  it's so weird,"[{'label': 'Negative', 'score': 0.8912274241447449}]"
+55,2021-01-03 06:59:59+00:00,"RT .@DrMarcSiegel joins me tonight to discuss the COVID battle, vaccine rollouts, and how an even more contagious strain of...","[{'label': 'Neutral', 'score': 0.9155815839767456}]"
+56,2021-01-03 06:59:59+00:00,RT Many government agencies will be working from home tomorrow with only essential personal in the offices. If you work in...,"[{'label': 'Neutral', 'score': 0.9160715341567993}]"
+57,2021-01-03 06:59:59+00:00,RT Why do y'all get mad when we tell y'all to be responsible during a pandemic  it's so weird,"[{'label': 'Negative', 'score': 0.8912274241447449}]"
+58,2021-01-03 06:59:59+00:00,"RT Drug regulator gives final approval for Covid-19 vaccines of SII, Bharat Biotech
+
+https://t.co/YnOs8jHYPH","[{'label': 'Neutral', 'score': 0.8673274517059326}]"
+59,2021-01-03 06:59:59+00:00,RT BJP has approved two Indian vaccines for COVID. My sources told that these vaccines interfere with chemical signalling...,"[{'label': 'Neutral', 'score': 0.5801689028739929}]"
+60,2021-01-03 06:59:59+00:00,RT India's drugs regulator approves Oxford's COVID-19 vaccine Covishield and Bharat Biotech's Covaxin for restricted emergency u...,"[{'label': 'Neutral', 'score': 0.9308682084083557}]"
+61,2021-01-03 06:59:59+00:00,"This was the perfect time for us as a family to go on a vacation to a warm climate place, but we did not since we are in a lockdown but it seems that politicians do not have to follow what the rest of us thought we had too.  So I guess SCREW your advisory!!","[{'label': 'Neutral', 'score': 0.40090256929397583}]"
+62,2021-01-03 06:59:59+00:00,RT 'Growing body of evidence' shows COVID-19 leaked from Chinese lab: US official,"[{'label': 'Neutral', 'score': 0.7257633805274963}]"
+63,2021-01-03 06:59:59+00:00,Oh yeah he's been going off but Ben and jo have been completely lockdown so far. Bens been by far the best perimeter defender in the league and embiid turned his defense up even more,"[{'label': 'Positive', 'score': 0.8115896582603455}]"
+64,2021-01-03 06:59:59+00:00,RT COVID cases are at their lowest level and a vaccine is around the corner. If this isn't the right time to open the col...,"[{'label': 'Negative', 'score': 0.6874088048934937}]"
+65,2021-01-03 06:59:59+00:00,RT Literally begging for a full lockdown if it means we'll be free by summer  I cannot have another summer stolen from me,"[{'label': 'Negative', 'score': 0.7044713497161865}]"
+66,2021-01-03 06:59:59+00:00,"No literally. I live in Australia and in my state we have I think 32 active cases and we have a household limit, no more than 15 people in a house at a time, borders between states are closed, mask are mandatory. Like it's harsh rules but results show when followed it works.","[{'label': 'Neutral', 'score': 0.6076551079750061}]"
+67,2021-01-03 06:59:59+00:00,That was not a covid safe cough,"[{'label': 'Negative', 'score': 0.7382422685623169}]"
+68,2021-01-03 06:59:59+00:00,"RT Perfect. 
+Then he can fly in that two driver Rafale which his govt will no doubt purchase &amp; take his poke.","[{'label': 'Positive', 'score': 0.7165017127990723}]"
+69,2021-01-03 07:00:00+00:00,"Online Event: Medical Covid-19 Benefit For Andrea Ceresa
+January 17, 2021 - 12:00PM to 8:00PM EST
+
+https://t.co/feKArHThQW
+
+#PrideParadenet #LGBTQ #LGBTQOnlineEvent #QueerWomenInMusic #QWIM","[{'label': 'Neutral', 'score': 0.855202853679657}]"
+70,2021-01-03 07:00:00+00:00,"'Agents of S.H.I.E.L.D' actress Chloe Bennet reveals she was diagnosed with #COVID19 after she woke up on Christmas morning 'unable to breathe' 
+
+https://t.co/eo40AzCR9z","[{'label': 'Negative', 'score': 0.7134122252464294}]"
+71,2021-01-03 07:00:00+00:00,"RT A decisive turning point to strengthen a spirited fight! 
+
+DCGI granting approval to vaccines of and","[{'label': 'Positive', 'score': 0.8783038258552551}]"
+72,2021-01-03 07:00:00+00:00,"COVID 2021: More Calamity Ahead?
+
+by Michael Roberts
+
+https://t.co/a980eo0qcI","[{'label': 'Neutral', 'score': 0.7903438806533813}]"
+73,2021-01-03 07:00:00+00:00,"The joint Wirra Jaya military exercise between Australia &amp; Indonesia has been conducted virtually for the first time due to the ongoing #COVID19 pandemic. 5th Bn operated from the #NT, and Tiger Bn from #Jateng -","[{'label': 'Neutral', 'score': 0.7883467674255371}]"
+74,2021-01-03 07:00:00+00:00,"MORE DETAILS: Officials are looking into a San Jose Kaiser staff member arriving into the emergency department wearing an air-powered costume on Christmas Day. 
+
+They say any exposure would have been accidental as the person had no COVID symptoms.
+https://t.co/ONQFDJ0iFz","[{'label': 'Neutral', 'score': 0.7963328957557678}]"
+75,2021-01-03 07:00:00+00:00,RT Trump Acting Sec Def orders carrier USS Nimitz home over the objections of the CENTCOM Commander and the Chairman JCS. Tom...,"[{'label': 'Neutral', 'score': 0.8829107284545898}]"
+76,2021-01-03 07:00:00+00:00,"for more info : : +90 212 809 03 70
+https://t.co/tfTBrurWRJ
+https://t.co/q6K2d9UnbC
+
+#MISK_INSAAT
+#ISTANBUL
+#TURKEY 
+#SAFETY
+#Stay_at_home
+#corona 
+#safe_place
+#stayhome","[{'label': 'Neutral', 'score': 0.8134176731109619}]"
+77,2021-01-03 07:00:00+00:00,"Toyota Central Motors requests you all to wear your masks while going out of home, in public places or at your work. Maintain social distance in all places. Together we can fight with this covid-19. Stay safe, stay informed!
+#toyotacentralmotors #toyotacentralsure #COVID19","[{'label': 'Neutral', 'score': 0.49925461411476135}]"
+78,2021-01-03 07:00:00+00:00,"RT Abortion was the number 1 cause of death globally in 2020 - Not Covid, hunger, heart disease or cancer. 
+
+It claimed the l...","[{'label': 'Negative', 'score': 0.8148810267448425}]"
+79,2021-01-03 07:00:00+00:00,"RT 350k dead... 
+1200 dollars 10 months ago
+Millions of covid cases
+Unfathomable corruption... Unacceptable.","[{'label': 'Negative', 'score': 0.9143253564834595}]"
+80,2021-01-03 07:00:00+00:00,So gaysoverc*vid is a pandemic era gossip girl  i c i c i c,"[{'label': 'Negative', 'score': 0.7209635376930237}]"
+81,2021-01-03 07:00:00+00:00,"Thoughts with their families and friends. 
+
+https://t.co/5mgVgYvqNY","[{'label': 'Neutral', 'score': 0.8740968704223633}]"
+82,2021-01-03 07:00:00+00:00,"Former CNN talk show host Larry King has been hospitalized with COVID-19 for more than a week, the news channel reported Saturday.
+--&gt;&gt;","[{'label': 'Negative', 'score': 0.6806809306144714}]"
+83,2021-01-03 07:00:00+00:00,"Coronavirus emerged in many places, Chinese foreign minister says","[{'label': 'Neutral', 'score': 0.6453390717506409}]"
+84,2021-01-03 07:00:00+00:00,"Larry King, 87, has been hospitalized for more than a week at Cedars Sinai Medical Center in Los Angeles, CNN reported.","[{'label': 'Neutral', 'score': 0.8127715587615967}]"
+85,2021-01-03 07:00:00+00:00,"Households in two sitios in the municipalities of Lezo and Numancia, Aklan are on granular enhanced community lockdown.
+
+https://t.co/tQ3lUKpum9","[{'label': 'Neutral', 'score': 0.8737730979919434}]"
+86,2021-01-03 07:00:00+00:00,"In the first Taste Wolverhampton of 2021, David King looks at the latest food &amp; drink news. For example, which was the surprise popular tipple of lockdown?
+Matt Pratt from will be sampling wine from a box, and we'll have the latest food alerts.
+10-12 every Sunday.","[{'label': 'Neutral', 'score': 0.7038078308105469}]"
+87,2021-01-03 07:00:00+00:00,"In the first Taste Wolverhampton of 2021, David King looks at the latest food &amp; drink news. For example, which was the surprise popular tipple of lockdown?
+Matt Pratt from will be sampling wine from a box, and we'll have the latest food alerts.
+10-12 every Sunday.","[{'label': 'Neutral', 'score': 0.7038078308105469}]"
+88,2021-01-03 07:00:00+00:00,"'She would scream in pain' | Parents warn of condition, weeks after COVID-19, that left 7-yr-old in ICU
+https://t.co/Apsv6IoG9x","[{'label': 'Negative', 'score': 0.7439411878585815}]"
+89,2021-01-03 07:00:00+00:00,"The Government has stressed the importance of shopping at your local supermarket.
+
+Here's the new rules you must follow! #shopping #coronavirus #berkshire #Lockdown #ASDA #aldi
+
+https://t.co/dhdGF4bNkV","[{'label': 'Neutral', 'score': 0.6956334710121155}]"
+90,2021-01-03 07:00:00+00:00,"15 of the Best New Hotels in #Asia.
+
+Despite the coronavirus's crushing impact on the hotel industry--along with travel as a whole--this year has nonetheless welcomed a host of new properties deserving of your attention. 
+
+https://t.co/Mh342TQQcD
+
+#NewHotels #Luxury","[{'label': 'Positive', 'score': 0.9360652565956116}]"
+91,2021-01-03 07:00:00+00:00,RT We are never getting out of this pandemic,"[{'label': 'Negative', 'score': 0.8871945142745972}]"
+92,2021-01-03 07:00:00+00:00,The City of Manila reported 32 new local COVID-19 cases bringing the total active cases to 295. (via Mayor Isko Moreno/@IskoMoreno),"[{'label': 'Neutral', 'score': 0.9076880812644958}]"
+93,2021-01-03 07:00:00+00:00,RT They must really want that law changed if they are willing to let the pandemic continue to escalate it in order to make...,"[{'label': 'Negative', 'score': 0.8854097127914429}]"
+94,2021-01-03 07:00:00+00:00,"RT Happy new year, everyone! All the risks took with stockpiling the vaccine, have finally paid off. COVIS...","[{'label': 'Positive', 'score': 0.9539300203323364}]"
+95,2021-01-03 07:00:01+00:00,"COVID 19 cases in India until : 03/01/2021 12:30
+
+Total Cases: 10325198 [+586]
+Active: 245795
+Recovered: 9927047 [+574]
+Deaths :149477 [+6]
+Total Tests: 174.9M
+
+Data- #COVID19inIndia #India #Bot","[{'label': 'Neutral', 'score': 0.7344556450843811}]"
+96,2021-01-03 07:00:01+00:00,"Good news we Have 2 vaccines now , 3rd vaccine maybe come soon still under trials
+
+Vaccines of Serum Institue of India ( covishield ) and Bharat Biotech ( covaxin ) are  granted permission for restricted use in emergency situation: #DCGI 
+
+#coronavirus #SundayMotivation","[{'label': 'Positive', 'score': 0.7454370856285095}]"
+97,2021-01-03 07:00:01+00:00,"RT The Israeli government has already vaccinated 10% of its citizens for the coronavirus, but as the occupying power it has not v...","[{'label': 'Neutral', 'score': 0.6720526218414307}]"
+98,2021-01-03 07:00:01+00:00,"Pedro Pierluisi vowed to achieve statehood for Puerto Rico and fight against poverty, corruption and COVID-19 after he was sworn in Saturday as the U.S. territory's new governor.
+
+https://t.co/gPCoYus60Y","[{'label': 'Neutral', 'score': 0.7360881567001343}]"
+99,2021-01-03 07:00:01+00:00,"Time: 07:00 * Temp: 3.1degC * Wind: NW 2.9 to 8.1mph * Pressure: 1018.8hPa * Rain: 0.0mm * Hum: 87% * ET: 0.0mm * Solar: 0.0W/m2 * UV Index: 0.0 * Sunrise: 08:44 * Sunset: 16:10 * Cloudbase: 920ft * #conlig, #bangor * #stayathome *","[{'label': 'Neutral', 'score': 0.9089019894599915}]"
+100,2021-01-03 07:00:01+00:00,RT My uncle picked up bookbinding during the pandemic and his basement is my wonderland,"[{'label': 'Positive', 'score': 0.7060056328773499}]"
+101,2021-01-03 07:00:01+00:00,"Current Conditions for #Sayre PA
+Temp: 32.7F
+Wind Chill: 32.7F
+Humidity: 89%
+Dew Point: 29.8F 
+Barometer: 30.211 inHg
+Wind: 1 mph from the NE
+Corona Virus Weekly Stats:
+Cases: 181.000000
+Deaths: 5.000000
+Survival: 98.000000
+#weewx #nepa #bradfordcounty","[{'label': 'Neutral', 'score': 0.8452819585800171}]"
+102,2021-01-03 07:00:01+00:00,"RT BREAKING: The United States has surpassed 350,000 coronavirus-related deaths.
+
+1/22/20 ""We have it totally under control.""...","[{'label': 'Neutral', 'score': 0.5798749327659607}]"
+103,2021-01-03 07:00:01+00:00,Spot on,"[{'label': 'Positive', 'score': 0.7193715572357178}]"
+104,2021-01-03 07:00:01+00:00,"Shout out to all the Nurse Leaders dealing with a mass exodus of staff nurses who took travel jobs for more pay. It's tough when staffing takes a dive, especially during a pandemic #keepgoing #hope #grit #Nursing #covid19  #NurseLeader #dontgiveup","[{'label': 'Neutral', 'score': 0.4476153552532196}]"
+105,2021-01-03 07:00:01+00:00,RT BREAKING: Thailand Reports 1st Case of UK Mutated Coronavirus Strain #Thailand #KE #COVID19,"[{'label': 'Neutral', 'score': 0.6647666692733765}]"
+106,2021-01-03 07:00:01+00:00,the pandemic started a year ago,"[{'label': 'Negative', 'score': 0.5986067056655884}]"
+107,2021-01-03 07:00:01+00:00,RT Literally begging for a full lockdown if it means we'll be free by summer  I cannot have another summer stolen from me,"[{'label': 'Negative', 'score': 0.7044713497161865}]"
+108,2021-01-03 07:00:02+00:00,he got covid...?,"[{'label': 'Neutral', 'score': 0.7654660940170288}]"
+109,2021-01-03 07:00:02+00:00,"RT Even #Ajith who has almost NIL market outside TN, would worry releasing his movies during this pandemic situation..
+
+#Vijay who...","[{'label': 'Neutral', 'score': 0.6162531971931458}]"
+110,2021-01-03 07:00:02+00:00,"RT : Increase COVID-19 Cases :- #Lockdown
+: Increase COVID-19 Cases :- #Unlock","[{'label': 'Neutral', 'score': 0.5834481120109558}]"
+111,2021-01-03 07:00:02+00:00,RT Four Premier League players from Tottenham and West Ham ignored English lockdown regulations by gathering inside a hous...,"[{'label': 'Neutral', 'score': 0.5215551853179932}]"
+112,2021-01-03 07:00:02+00:00,RT Hospitals Have no beds left ambulances are waiting outside for over seven hours in some cases and we have these stupid F...,"[{'label': 'Negative', 'score': 0.9237433671951294}]"
+113,2021-01-03 07:00:02+00:00,"RT So, we need Russian media to learn about this new development? ","[{'label': 'Neutral', 'score': 0.8608704209327698}]"
+114,2021-01-03 07:00:02+00:00,"Top stories of 2020:
+
+Samford Football player J.D. Beall goes through his day smiling, though these days his smile is hidden behind a coronavirus mask. Still, Beall's light shines through.
+
+""My joy doesn't come from others. It comes f...
+https://t.co/I8SoYMpgOc","[{'label': 'Positive', 'score': 0.7673400044441223}]"
+115,2021-01-03 07:00:02+00:00,RT The Yellow Crane Tower in #Wuhan bathes in the first rays of the morning sun.,"[{'label': 'Neutral', 'score': 0.8776178359985352}]"
+116,2021-01-03 07:00:02+00:00,"Prediction #3 of my 21 predictions for 2021.
+
+We'll have a new Worldwide day of remembrance for the victims of Covid-19.","[{'label': 'Neutral', 'score': 0.7947297692298889}]"
+117,2021-01-03 07:00:02+00:00,RT nag-aksaya ang digong govt ng taxpayer money for a 7-hr glitch para lang makapasok itong gunggong na ito bilang senador...,"[{'label': 'Negative', 'score': 0.520477831363678}]"
+118,2021-01-03 07:00:02+00:00,RT I'm 0/2 with stimulus checks like damn am I not in a pandemic,"[{'label': 'Negative', 'score': 0.8487692475318909}]"
+119,2021-01-03 07:00:02+00:00,"[  SERIES ] #Covid19 has exposed the shortcomings of #India's healthcare system. Read our latest series of 2020.
+https://t.co/RVygvInI6Q","[{'label': 'Negative', 'score': 0.8242788314819336}]"
+120,2021-01-03 07:00:02+00:00,There doesn't seem to be any record of a Dem politician dying of the Covid.  I'm just guessing it's both a mental and a behavioral difference.,"[{'label': 'Negative', 'score': 0.6630411148071289}]"
+121,2021-01-03 07:00:02+00:00,"President Trump: We will end the pandemic once and for all via 
+Some TRUTHFUL news","[{'label': 'Positive', 'score': 0.8653615713119507}]"
+122,2021-01-03 07:00:02+00:00,"RT ""It's mentally, physically and emotionally draining,"" said Kwan, of his and other hospitals across Los Angeles County....","[{'label': 'Negative', 'score': 0.49059635400772095}]"
+123,2021-01-03 07:00:02+00:00,"RT it's late and early 
+time is relative indoors
+i long for freedom 
+
+- haiku in the age of covid","[{'label': 'Negative', 'score': 0.542472779750824}]"
+124,2021-01-03 07:00:02+00:00,"Learn how to take care of your mental health during the pandemic.
+Sign up and enroll now for a free online course at by #GermanCooperation
+Free certification available after enrolling in courses. Visit the website for more details.
+
+#URCOURS","[{'label': 'Neutral', 'score': 0.6537221074104309}]"
+125,2021-01-03 07:00:02+00:00,"RT Things I can't believe still have to be repeated:
+
+- Ambulatory wheelchair users exist
+- Plastic straws are medically nec...","[{'label': 'Negative', 'score': 0.5848115086555481}]"
+126,2021-01-03 07:00:02+00:00,India Approves Oxford-AstraZeneca Covid-19 Vaccine and 1 Other,"[{'label': 'Neutral', 'score': 0.8891892433166504}]"
+127,2021-01-03 07:00:02+00:00,RT Why do y'all get mad when we tell y'all to be responsible during a pandemic  it's so weird,"[{'label': 'Negative', 'score': 0.8912274241447449}]"
+128,2021-01-03 07:00:02+00:00,Online healthcare e-commerce startups are building a healthy future,"[{'label': 'Positive', 'score': 0.9111245274543762}]"
+129,2021-01-03 07:00:02+00:00,"While we rejoice the approval of vaccine, we must not forget that we are not yet COVID free. Threat is still looming over our head. So please wear mask, wash/ sanitise hands regularly and maintain social distance. Vande Mataram ","[{'label': 'Neutral', 'score': 0.6385768055915833}]"
+130,2021-01-03 07:00:02+00:00,"RT pandemic aside, what's fun about this?","[{'label': 'Neutral', 'score': 0.497158020734787}]"
+131,2021-01-03 07:00:02+00:00,"Our safer travel pledge explains what we are doing to help you travel safely by train. #TravelSafely
+
+i More info https://t.co/KBAVCiGyb5","[{'label': 'Positive', 'score': 0.7120988368988037}]"
+132,2021-01-03 07:00:03+00:00,"Our safer travel pledge explains what we are doing to help you travel safely by train. #TravelSafely 
+
+i More info ","[{'label': 'Positive', 'score': 0.6655957698822021}]"
+133,2021-01-03 07:00:03+00:00,RT Who signed off on travel exemption for such a flight risk? #IC...,"[{'label': 'Negative', 'score': 0.4983670711517334}]"
+134,2021-01-03 07:00:03+00:00,"Our safer travel pledge explains what we are doing to help you travel safely by train. #TravelSafely
+
+i More info ","[{'label': 'Positive', 'score': 0.6572802066802979}]"
+135,2021-01-03 07:00:03+00:00,"RT .@WorldBank &amp; YOUTH BLOG COMPETITION: 
+
+Are you 16-19 years old and currently enrolled in a high school or second...","[{'label': 'Neutral', 'score': 0.9401422142982483}]"
+136,2021-01-03 07:00:03+00:00,"RT Is everyone who has EVER told a disabled person, ""It must be so nice getting to stay home all the time!"" embarrassed yet?
+
+B...","[{'label': 'Neutral', 'score': 0.4071750044822693}]"
+137,2021-01-03 07:00:03+00:00,my country is basically free from covid BUT PLEASE THOSE WHO ARENT PLEASE WEAR YOUR FUCKING MASK,"[{'label': 'Negative', 'score': 0.46157318353652954}]"
+138,2021-01-03 07:00:03+00:00,A lot of people had to leave their homes AND pets to go to the ER today with Covid-19 because of selfish jerks like you. Get over yourself!,"[{'label': 'Negative', 'score': 0.9507442116737366}]"
+139,2021-01-03 07:00:03+00:00,Honestly. I need a vacation.,"[{'label': 'Negative', 'score': 0.4789527356624603}]"

@@ -1,0 +1,294 @@
+,created_at,full_text,sentiment_score
+0,2020-11-14 02:59:54+00:00,"RT Arrest the parents. 
+
+Make an example of them. 
+
+","[{'label': 'Negative', 'score': 0.7442840337753296}]"
+1,2020-11-14 02:59:54+00:00,I LOVE HIM!,"[{'label': 'Positive', 'score': 0.9753606915473938}]"
+2,2020-11-14 02:59:54+00:00,RT stay-at-home orders are completely pointless without rent relief and universal income. people have to leave their homes to...,"[{'label': 'Negative', 'score': 0.8300067782402039}]"
+3,2020-11-14 02:59:54+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+4,2020-11-14 02:59:54+00:00,RT New York Attorney General says she's ready to sue the Trump Administration if New York doesn't receive the vac...,"[{'label': 'Neutral', 'score': 0.6929033994674683}]"
+5,2020-11-14 02:59:55+00:00,"I almost never make political comments, but when I do, I say things like ""rudderless leadership tack"" in U.S. Pandemic Deaths Likely to Double Sans Urgent Action by","[{'label': 'Negative', 'score': 0.6272664070129395}]"
+6,2020-11-14 02:59:55+00:00,"""Montgomery's execution process has been uncharacteristically rushed at every juncture.""
+
+After a denied appeal Aug. 3, Lisa's execution date was set just 74 days later -- a gap often 4.5 *years* for others.
+
+Now her lawyers have COVID-19.
+https://t.co/3eVNPj1NQC via","[{'label': 'Negative', 'score': 0.8782920837402344}]"
+7,2020-11-14 02:59:55+00:00,"RT The MSU Advanced Comics Class is back for Fall 2020! Instead of a comic tour, the class is going to be hosting an online...","[{'label': 'Neutral', 'score': 0.7625419497489929}]"
+8,2020-11-14 02:59:55+00:00,It's rare that I don't see my friends posting about their year-end #holidays during this time in #Singapore. How are you spending your #vacation back in Singapore? #COVID19,"[{'label': 'Neutral', 'score': 0.741415798664093}]"
+9,2020-11-14 02:59:55+00:00,RT ATTN Georgia: Please rid us of #CorruptKelly &amp; VOTE HER OUT,"[{'label': 'Negative', 'score': 0.5022107362747192}]"
+10,2020-11-14 02:59:55+00:00,"RT In March, Congress gave billions in COVID relief to the to help struggling businesses. The Fed pledged...","[{'label': 'Neutral', 'score': 0.7585802674293518}]"
+11,2020-11-14 02:59:55+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+12,2020-11-14 02:59:55+00:00,"RT This Deepavali, may all your powerful dreams transform into reality at lightning pace. Special wishes to lockdown #Thala De...","[{'label': 'Positive', 'score': 0.930732250213623}]"
+13,2020-11-14 02:59:55+00:00,"RT Percent of young American adults aged 18-24 who've been having suicidal thoughts:
+
+- before the pandemic: 3%
+
+- during Octo...","[{'label': 'Neutral', 'score': 0.555047869682312}]"
+14,2020-11-14 02:59:55+00:00,"America, please take note...","[{'label': 'Neutral', 'score': 0.5838210582733154}]"
+15,2020-11-14 02:59:55+00:00,'This is urgent and we need to be doing more': Sask. doctors say province's new COVID-19 measures fall short,"[{'label': 'Negative', 'score': 0.6671310067176819}]"
+16,2020-11-14 02:59:55+00:00,"RT ""It's a bit like the bushfires, Joe. Play it down as much as you can, belittle the people doing the work, point out you don'...","[{'label': 'Negative', 'score': 0.8810081481933594}]"
+17,2020-11-14 02:59:55+00:00,RT states trying to stop the spread of the coronavirus by making restaurants close at 10pm,"[{'label': 'Neutral', 'score': 0.6942682266235352}]"
+18,2020-11-14 02:59:55+00:00,"Happy Deepavali To You &amp; Your Family
+#happy #dewali #depavali #festival #ram #jayshreeram #pune #maharashtra #aurangabad #crackers #enjoy  #bhaubij #diwaliweek #stayhome #wishing #civilengineer #QualityEngineer #readymixconcrete 
+:-9762393346","[{'label': 'Positive', 'score': 0.961409330368042}]"
+19,2020-11-14 02:59:55+00:00,I really enjoyed chatting with you!,"[{'label': 'Positive', 'score': 0.9831427931785583}]"
+20,2020-11-14 02:59:55+00:00,RT RELEASE PEOPLE FROM PRISONS,"[{'label': 'Neutral', 'score': 0.7156000137329102}]"
+21,2020-11-14 02:59:55+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+22,2020-11-14 02:59:55+00:00,RT states trying to stop the spread of the coronavirus by making restaurants close at 10pm,"[{'label': 'Neutral', 'score': 0.6942682266235352}]"
+23,2020-11-14 02:59:56+00:00,"RT ""This administration will NOT be going into a lockdown. Lockdowns cost lives. The cures cannot be worse than the proble...","[{'label': 'Negative', 'score': 0.7724582552909851}]"
+24,2020-11-14 02:59:56+00:00,Wish I could doubt this.,"[{'label': 'Neutral', 'score': 0.45451879501342773}]"
+25,2020-11-14 02:59:56+00:00,"RT Please let's come together, respect each other, wear a mask, and thank our first responders.  They work tirelessly and...","[{'label': 'Positive', 'score': 0.751423180103302}]"
+26,2020-11-14 02:59:56+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+27,2020-11-14 02:59:56+00:00,Seventh person I now know lost to COVID...  Had a blast with Jim at the Shadow 50th reunion at Road America this year.  RIP Jim...,"[{'label': 'Neutral', 'score': 0.3636213541030884}]"
+28,2020-11-14 02:59:56+00:00,"RT Last 2 books I read: The Narcissm Epidemic (Twenge, Campbell), Character Disturbance (Simon) - the macro and mic...","[{'label': 'Neutral', 'score': 0.9324287176132202}]"
+29,2020-11-14 02:59:56+00:00,RT My blood boils every time Trump says China virus like he did today. He shouldn't have gotten a pass on that one and I can't...,"[{'label': 'Negative', 'score': 0.9366347193717957}]"
+30,2020-11-14 02:59:56+00:00,RT Reminder: COVID-19 recovery rate is currently within a range of 99.75%-99.875%. And the number continues to go higher....,"[{'label': 'Neutral', 'score': 0.7780424356460571}]"
+31,2020-11-14 02:59:56+00:00,"Best Video Ever
+
+Volume Up!","[{'label': 'Positive', 'score': 0.9696627855300903}]"
+32,2020-11-14 02:59:56+00:00,"RT I am alarmed by the surge in reported COVID-19 infections, hospitalizations, and fatalities. This crisis demands a robust and...","[{'label': 'Negative', 'score': 0.8920850157737732}]"
+33,2020-11-14 02:59:56+00:00,RT Almost one in five people who have had covid-19 go on to be diagnosed with a mental illness within three months of testing...,"[{'label': 'Negative', 'score': 0.5728665590286255}]"
+34,2020-11-14 02:59:56+00:00,"RT Paul saw COVID. But Paul thought this was a problem restricted to the ""blue parts of the state."" He thought it was outrageous...","[{'label': 'Negative', 'score': 0.750003457069397}]"
+35,2020-11-14 02:59:56+00:00,Please tell people to stay home,"[{'label': 'Neutral', 'score': 0.6953314542770386}]"
+36,2020-11-14 02:59:56+00:00,"RT Much  and THANKS to our Staff for taking on this project amidst:
+
+Freezing Temps  
+Snow  
+Furloughs 
+...","[{'label': 'Positive', 'score': 0.888469934463501}]"
+37,2020-11-14 02:59:56+00:00,"RT NEW VIDEO: Corrupt Senator Kelly Loeffler, the richest person in Congress, bought a private jet with our tax money. Wh...","[{'label': 'Negative', 'score': 0.7245756387710571}]"
+38,2020-11-14 02:59:57+00:00,"RT I'm re-watching Battlestar Galactica (because mood).
+
+Wear a fracking mask and, if you're cancel the fracki...","[{'label': 'Neutral', 'score': 0.7256840467453003}]"
+39,2020-11-14 02:59:57+00:00,#ThoughtRevolution - Beauty Inside The #CoronaVirus Pandemic : via,"[{'label': 'Neutral', 'score': 0.8800179362297058}]"
+40,2020-11-14 02:59:57+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+41,2020-11-14 02:59:57+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+42,2020-11-14 02:59:57+00:00,"RT COVID thrives in big gatherings. Here's how dangerous it is.
+
+7 people who DID NOT even attend a wedding in August died.
+
+W...","[{'label': 'Negative', 'score': 0.8898144960403442}]"
+43,2020-11-14 02:59:57+00:00,"If we let covid just kinda go do its thing and stop lockdowns and facemasks, how many people do you think will get infected","[{'label': 'Negative', 'score': 0.6481377482414246}]"
+44,2020-11-14 02:59:57+00:00,Thousands of Students Forced to Quarantine After Possible COVID Exposure,"[{'label': 'Negative', 'score': 0.677660346031189}]"
+45,2020-11-14 02:59:57+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+46,2020-11-14 02:59:57+00:00,"RT In March, Congress gave billions in COVID relief to the to help struggling businesses. The Fed pledged...","[{'label': 'Neutral', 'score': 0.7585802674293518}]"
+47,2020-11-14 02:59:57+00:00,I believe he stated that 'season' of COVID was over. Which it was.,"[{'label': 'Neutral', 'score': 0.7986189723014832}]"
+48,2020-11-14 02:59:57+00:00,"RT Yet, the Fed used COVID relief funding to purchase $1.3 billion of Exchange-Traded Funds (ETFs). ETFs are baskets of st...","[{'label': 'Neutral', 'score': 0.7736490964889526}]"
+49,2020-11-14 02:59:57+00:00,"RT Earthquakes, Typhoons, Volcanoes, Pandemic. What is happening to our country. Where is the government when u needed them.","[{'label': 'Negative', 'score': 0.9038751721382141}]"
+50,2020-11-14 02:59:57+00:00,"REMEMBER: Tenants in the City of Los Angeles who experience COVID-19 financial stress will continue to be protected from eviction by the City's existing tenant pandemic ordinance.
+
+Learn more about tenant protections: #renters","[{'label': 'Neutral', 'score': 0.7931100726127625}]"
+51,2020-11-14 02:59:57+00:00,Let him go work with the medical staff in a COVID unit for a week and perhaps they won't seem so restrictive,"[{'label': 'Neutral', 'score': 0.6793750524520874}]"
+52,2020-11-14 02:59:57+00:00,"Australia knows what it's doing.    Zero #covid19.
+
+While BC is still doing 'the economy' for some reason, policy could ease in a month after 15 days without a case","[{'label': 'Neutral', 'score': 0.6361814737319946}]"
+53,2020-11-14 02:59:57+00:00,"RT  Scam Warning 
+
+Delete immediately
+Do not click 
+
+#COVID19","[{'label': 'Negative', 'score': 0.7093098163604736}]"
+54,2020-11-14 02:59:57+00:00,RT Victoria has to be the only place in the entire world where you could have 15 days without a COVID-19 case amidst the g...,"[{'label': 'Neutral', 'score': 0.7370097637176514}]"
+55,2020-11-14 02:59:57+00:00,"RT Something extremely bogus is going on. Was tested for covid four times today. Two tests came back negative, two came back pos...","[{'label': 'Negative', 'score': 0.9247458577156067}]"
+56,2020-11-14 02:59:57+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+57,2020-11-14 02:59:57+00:00,"Pat Fermin Baskial engaged with the crew of a barbershop regarding anti-theft tips and strict observance of health standard protocols to prevent the spread of Covid-19 and disaster preparedness. 
+#TeamPNP
+#PNPKakampiMo
+#ToServeandProtect","[{'label': 'Neutral', 'score': 0.8447221517562866}]"
+58,2020-11-14 02:59:57+00:00,"RT I am alarmed by the surge in reported COVID-19 infections, hospitalizations, and fatalities. This crisis demands a robust and...","[{'label': 'Negative', 'score': 0.8920850157737732}]"
+59,2020-11-14 02:59:57+00:00,RT fuck loblaws and fuck galen weston.,"[{'label': 'Negative', 'score': 0.9218075275421143}]"
+60,2020-11-14 02:59:57+00:00,Losing Thanksgiving and Trump is very difficult along with covid lockdown and curfew in a blue state is more than I can deal with God help us all,"[{'label': 'Negative', 'score': 0.900630533695221}]"
+61,2020-11-14 02:59:57+00:00,"RT INT--CivilWarHumor HQ
+(Joe Hooker enters in a conical birthday hat, offering a flask.)
+""I dunno, general, with COVID ......","[{'label': 'Neutral', 'score': 0.9190816283226013}]"
+62,2020-11-14 02:59:57+00:00,RT It will be wonderful to have a President and Vice-President who trust science and scientists.,"[{'label': 'Positive', 'score': 0.9640448093414307}]"
+63,2020-11-14 02:59:57+00:00,"RT Please let's come together, respect each other, wear a mask, and thank our first responders.  They work tirelessly and...","[{'label': 'Positive', 'score': 0.751423180103302}]"
+64,2020-11-14 02:59:57+00:00,"RT K-pop boy band describe their latest EP as a teen account of how the lockdown shattered their world, and they hope...","[{'label': 'Neutral', 'score': 0.7420636415481567}]"
+65,2020-11-14 02:59:57+00:00,"RT If Dems thought like Republicans, a large group of Biden transition members would show up at HHS on Monday with cameras a...","[{'label': 'Neutral', 'score': 0.8832893967628479}]"
+66,2020-11-14 02:59:57+00:00,"RT #COVID19 is spreading at an alarming rate with a record 160k new US cases reported yesterday. 
+
+Hospitals are stretched...","[{'label': 'Negative', 'score': 0.7783699631690979}]"
+67,2020-11-14 02:59:57+00:00,"RT K-pop boy band describe their latest EP as a teen account of how the lockdown shattered their world, and they hope...","[{'label': 'Neutral', 'score': 0.7420636415481567}]"
+68,2020-11-14 02:59:57+00:00,"RT K-pop boy band describe their latest EP as a teen account of how the lockdown shattered their world, and they hope...","[{'label': 'Neutral', 'score': 0.7420636415481567}]"
+69,2020-11-14 02:59:57+00:00,RT The surge in coronavirus cases nationwide and revived restrictions on businesses haven't jolted stimulus talks back to life. Democ...,"[{'label': 'Negative', 'score': 0.7374668121337891}]"
+70,2020-11-14 02:59:57+00:00,"RT I am alarmed by the surge in reported COVID-19 infections, hospitalizations, and fatalities. This crisis demands a robust and...","[{'label': 'Negative', 'score': 0.8920850157737732}]"
+71,2020-11-14 02:59:57+00:00,"RT Alex, I'll take ""What is the Coronavirus?"" for $1000, pls ","[{'label': 'Neutral', 'score': 0.5853872895240784}]"
+72,2020-11-14 02:59:58+00:00,Tough Ironworker was emasculated by,"[{'label': 'Negative', 'score': 0.5028536915779114}]"
+73,2020-11-14 02:59:58+00:00,"RT I am alarmed by the surge in reported COVID-19 infections, hospitalizations, and fatalities. This crisis demands a robust and...","[{'label': 'Negative', 'score': 0.8920850157737732}]"
+74,2020-11-14 02:59:58+00:00,"RT Our new video, #CorruptKelly, is already trendin' at #4.  Crank it up!
+
+https://t.co/rP0nQG1akx","[{'label': 'Positive', 'score': 0.8137692213058472}]"
+75,2020-11-14 02:59:58+00:00,"RT For what it's worth, canceling our Thanksgiving celebrations to prevent the spread of COVID gives us a great opportunity to ta...","[{'label': 'Neutral', 'score': 0.5724784731864929}]"
+76,2020-11-14 02:59:58+00:00,"RT Typhoon Quinta, Oct 25
+Typhoon Rolly, Nov 1
+Typhoon Siony, Nov 7
+Typhoon Ulysses, Nov 11
+
+All of these IN THE MIDST OF...","[{'label': 'Neutral', 'score': 0.636422872543335}]"
+77,2020-11-14 02:59:58+00:00,RT Shelby Dept. close facilities after positive COVID-19 cases,"[{'label': 'Neutral', 'score': 0.5050190687179565}]"
+78,2020-11-14 02:59:58+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+79,2020-11-14 02:59:58+00:00,"RT America's coronavirus response, summed up in a photo","[{'label': 'Neutral', 'score': 0.6233887672424316}]"
+80,2020-11-14 02:59:58+00:00,"RT BREAKING: U.S. reports 170,000 new coronavirus cases, setting world record for 4th day in a row, because 73 million mo...","[{'label': 'Neutral', 'score': 0.5077671408653259}]"
+81,2020-11-14 02:59:58+00:00,"RT Why do you down play #COVID that has killed over 230,000 Americans.","[{'label': 'Negative', 'score': 0.9331914186477661}]"
+82,2020-11-14 02:59:58+00:00,"Sigh...everyone complains of waste, yet do nothing to impact it. Illinois has a structural deficit that was exacerbated by Rauner and COVID. is doing what many won't...again, I applaud him.","[{'label': 'Negative', 'score': 0.7169700264930725}]"
+83,2020-11-14 02:59:58+00:00,"RT Great news...I haven't danced on anyone's grave lately.....By the way, has anyone seen Herman Cain?   Alaska congressm...","[{'label': 'Positive', 'score': 0.7640489935874939}]"
+84,2020-11-14 02:59:58+00:00,RT .@jlsalinas7 said in a meeting with Johnson County area leaders and health professionals that UIHC is getting calls from...,"[{'label': 'Neutral', 'score': 0.9579454064369202}]"
+85,2020-11-14 02:59:58+00:00,RT no second stimulus. no lockdown. no mask mandate. no guidance on avoiding infection. no assistance to workers. no rent rel...,"[{'label': 'Negative', 'score': 0.7915724515914917}]"
+86,2020-11-14 02:59:58+00:00,RT states trying to stop the spread of the coronavirus by making restaurants close at 10pm,"[{'label': 'Neutral', 'score': 0.6942682266235352}]"
+87,2020-11-14 02:59:58+00:00,"RT This, from Biden's incoming Chief of Staff, did not age well.","[{'label': 'Negative', 'score': 0.8462079763412476}]"
+88,2020-11-14 02:59:58+00:00,"RT The #COVID19 epidemic is rapidly growing throughout the US. What happens now? Here I try to make some predictions, but mostly tr...","[{'label': 'Negative', 'score': 0.562670111656189}]"
+89,2020-11-14 02:59:58+00:00,RT Several dozen Secret Service officers have either tested positive for coronavirus or are self-isolating after close contact wit...,"[{'label': 'Neutral', 'score': 0.5246681571006775}]"
+90,2020-11-14 02:59:58+00:00,Listen to George ,"[{'label': 'Neutral', 'score': 0.8857892155647278}]"
+91,2020-11-14 02:59:58+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+92,2020-11-14 02:59:58+00:00,"The Hypocrisy is everywhere with our elected ""leaders""
+
+People need to get out, we need herd immunity and we'd have it already if it wasnt for this lockdown chicanery!
+
+#COVID #fearmongering #NWO","[{'label': 'Negative', 'score': 0.8543804287910461}]"
+93,2020-11-14 02:59:59+00:00,"Stay safe, stay home, stay positive, stay away from meee","[{'label': 'Neutral', 'score': 0.551349937915802}]"
+94,2020-11-14 02:59:59+00:00,"RT Please, don't travel for the Holidays. We are at the very beginning of a gargantuan surge in #COVID19 in the U.S.","[{'label': 'Negative', 'score': 0.7589632272720337}]"
+95,2020-11-14 02:59:59+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+96,2020-11-14 02:59:59+00:00,Can covid just end already,"[{'label': 'Negative', 'score': 0.8128534555435181}]"
+97,2020-11-14 02:59:59+00:00,RT I don't know how anyone can defend a system where the billionaire class increase their wealth by over a trillion dollar...,"[{'label': 'Negative', 'score': 0.8147080540657043}]"
+98,2020-11-14 02:59:59+00:00,"RT Three months ago today, 1 in 92 people in Wisconsin had gotten or currently had COVID.
+
+Two months ago today,  1 in 65.
+
+One...","[{'label': 'Neutral', 'score': 0.7818449139595032}]"
+99,2020-11-14 02:59:59+00:00,"RT FFS. Elon, you have symptoms and tested positive. 
+
+Just stay f*ck home and away from other people for the next 10 days and w...","[{'label': 'Negative', 'score': 0.7678999304771423}]"
+100,2020-11-14 02:59:59+00:00,"RT Pfizer vaccine sounds worse than covid for many young people--causing days of headache, fever &amp; muscle aches after 1st in...","[{'label': 'Negative', 'score': 0.9197492599487305}]"
+101,2020-11-14 02:59:59+00:00,"RT The 90+ crowd in PA showed one helluva voter reg surge during a pandemic.
+
+This is data-driven, circumstantial evidence of b...","[{'label': 'Neutral', 'score': 0.6188655495643616}]"
+102,2020-11-14 02:59:59+00:00,RT its time to go back to paranoid-level covid precautions and in your heart you know this is true.,"[{'label': 'Neutral', 'score': 0.5016360878944397}]"
+103,2020-11-14 02:59:59+00:00,it's been a pandemic for more than half of the year,"[{'label': 'Negative', 'score': 0.7960464954376221}]"
+104,2020-11-14 02:59:59+00:00,"RT Like how we used Covid-19 as a predicate to put a moratorium on election integrity laws, and ""social distancing"" to pre...","[{'label': 'Negative', 'score': 0.5172293186187744}]"
+105,2020-11-14 02:59:59+00:00,"U.S.A  became more scary on COVID 19 PANDEMIC on dt 13/11/2020 
+
+Daily new cases 183527
+
+Death  1395","[{'label': 'Negative', 'score': 0.7244844436645508}]"
+106,2020-11-14 02:59:59+00:00,"RT I just got a super weird phone call. It said ""This is a system test. Do not leave your home. Stay safe and do not leave yo...","[{'label': 'Negative', 'score': 0.7308814525604248}]"
+107,2020-11-14 02:59:59+00:00,"RT Can we get some silence, and some legislation, and less grandstanding and virtue signalling from you, before we lose b...","[{'label': 'Negative', 'score': 0.614328145980835}]"
+108,2020-11-14 02:59:59+00:00,"Avoiding Lease Default Through Tenant Representation #CRE #TenantRep #TenantTips #Leasing #Default #COVID-19 
+https://t.co/clW4l3Lx57","[{'label': 'Neutral', 'score': 0.7424464821815491}]"
+109,2020-11-14 02:59:59+00:00,RT pay people to stay home,"[{'label': 'Negative', 'score': 0.5170370936393738}]"
+110,2020-11-14 02:59:59+00:00,RT Y'all adapting to covid is weird as hell,"[{'label': 'Negative', 'score': 0.8312575221061707}]"
+111,2020-11-14 02:59:59+00:00,RT no second stimulus. no lockdown. no mask mandate. no guidance on avoiding infection. no assistance to workers. no rent rel...,"[{'label': 'Negative', 'score': 0.7915724515914917}]"
+112,2020-11-14 02:59:59+00:00,"Last Update: 10M Recorded  Cases on Sunday, Nov. 8th, 2020
+
+Prior Rate per 1M New COVID19 Cases: 1wk + 3 days. 
+
+ +10.81M Cases as of Friday, Nov.13th. 10pm EST
+
+Possible New Rate: 5 days
+
+Cc:
+@NYCMayor
+@NYGovCuomo
+@JoeBiden
+@KamalaHarris","[{'label': 'Neutral', 'score': 0.9257311224937439}]"
+113,2020-11-14 02:59:59+00:00,"RT They are using Covid to crash western economies and implement communist policies. 
+
+That's what's going on.","[{'label': 'Negative', 'score': 0.8309474587440491}]"
+114,2020-11-14 02:59:59+00:00,"RT I am alarmed by the surge in reported COVID-19 infections, hospitalizations, and fatalities. This crisis demands a robust and...","[{'label': 'Negative', 'score': 0.8920850157737732}]"
+115,2020-11-14 02:59:59+00:00,RT Social distancing and wearing a mask for over 25 years #BreakingNewsFromCrystalLake,"[{'label': 'Neutral', 'score': 0.8372674584388733}]"
+116,2020-11-14 02:59:59+00:00,"RT NEW VIDEO: Corrupt Senator Kelly Loeffler, the richest person in Congress, bought a private jet with our tax money. Wh...","[{'label': 'Negative', 'score': 0.7245756387710571}]"
+117,2020-11-14 02:59:59+00:00,Secret Service Struck Once more by Coronavirus Outbreak,"[{'label': 'Negative', 'score': 0.7182260155677795}]"
+118,2020-11-14 02:59:59+00:00,".@GovRicketts needs to resign. He has failed Nebraska time and time again, but his inability to do even the bare minimum during a pandemic is unforgivable. People are dying and Pete doesn't care.","[{'label': 'Negative', 'score': 0.9458152055740356}]"
+119,2020-11-14 03:00:00+00:00,RT Corona Virus explained in craft terms: you and 9 friends are crafting. 1 is using glitter. How many projects have glitt...,"[{'label': 'Neutral', 'score': 0.8146998286247253}]"
+120,2020-11-14 03:00:00+00:00,"So wierd. If they only knew how easy this thing spreads and the lifelong impact that night occur....nah, they are too stupid for that. Jesus blood, baby. Religion is to blame...We have a looonnnnggggg way to go on COVID.","[{'label': 'Negative', 'score': 0.9380471110343933}]"
+121,2020-11-14 03:00:00+00:00,You're a terrible person!  Wear your damn mask.  you're one the reasons COVID-19 is raging.  Be a leader and put your mask on your damn face or resign before you cause more senseless deaths.,"[{'label': 'Negative', 'score': 0.9608643651008606}]"
+122,2020-11-14 03:00:00+00:00,RT DeSantis hires Ohio Uber driver to rig COVID stats,"[{'label': 'Neutral', 'score': 0.709316074848175}]"
+123,2020-11-14 03:00:00+00:00,RT This is VERY important! Listen to Wanda! Love her!  Please do not go to these marches (there are supposed to be more of th...,"[{'label': 'Positive', 'score': 0.8055542707443237}]"
+124,2020-11-14 03:00:00+00:00,"Caleb Cage, director of Nevada's COVID-19 Task Force, said some local leaders have adopted a politically expedient but irresponsible strategy to criticize even the least intrusive efforts to protect Nevadans from a recent dramatic spike in cases statewide.
+https://t.co/3Jq9ZoFv93","[{'label': 'Negative', 'score': 0.5284549593925476}]"
+125,2020-11-14 03:00:00+00:00,"FRM MENTEE: got HC (corona) deal closed+officially funded 2day-???? bank much easier to work with- $3M deal, 1M seller finance,put down $150K,got back $400K working capital 2 pay professionals+bonus-B/C Covid,SBA pays 1st 6-month payments, another $140K (DSP:YA DEALS GETTING DUN)","[{'label': 'Positive', 'score': 0.6369357705116272}]"
+126,2020-11-14 03:00:00+00:00,I quietly travelled across the country twice during lockdown. ,"[{'label': 'Neutral', 'score': 0.8685766458511353}]"
+127,2020-11-14 03:00:00+00:00,"1 in 5 #COVID19 deaths in 14 countries in the region are linked to diabetes, one of the conditions that increase the risk of severe illness and death among patients infected with the virus, said","[{'label': 'Negative', 'score': 0.7141429781913757}]"
+128,2020-11-14 03:00:00+00:00,"Health Cabinet Secretary Mutahi Kagwe told the committee on Wednesday that the NHIF would not foot Covid-19 medical bills for insured Kenyans. 
+
+https://t.co/tfHph4bgxY","[{'label': 'Neutral', 'score': 0.7073094248771667}]"
+129,2020-11-14 03:00:00+00:00,"Though the #NavajoNation struggled with a high number of #COVID19 cases, a quick and rigorous strategy leveraging the nation's unique culture helped get the rate of infections, deaths, and hospitalizations under control","[{'label': 'Neutral', 'score': 0.6308562159538269}]"
+130,2020-11-14 03:00:00+00:00," If there's one thing we can all agree on, it's that 2020 hasn't exactly been a walk in the park. The COVID-19 pa...","[{'label': 'Negative', 'score': 0.530791699886322}]"
+131,2020-11-14 03:00:00+00:00,The 2020 Global Advisory Board Meeting held by Tsinghua School of Public Policy and Management came at a time of great importance as China begins its 14th Five Year Plan in a world combating the #coronavirus pandemic. For more:,"[{'label': 'Positive', 'score': 0.5355116724967957}]"
+132,2020-11-14 03:00:00+00:00,"Nevada Governor Steve Sisolak said he has tested positive for COVID-19 as the virus surges to record levels in Nevada and across the U.S. on Friday.
+
+https://t.co/K9rGTHtcPy","[{'label': 'Neutral', 'score': 0.6926379203796387}]"
+133,2020-11-14 03:00:00+00:00,President Donald Trump on Friday hailed developments in the race for a vaccine for the resurgent coronavirus.,"[{'label': 'Neutral', 'score': 0.545991063117981}]"
+134,2020-11-14 03:00:00+00:00,"The first wave was horrible. The ""Second Wave"" of #covid19 Is MUCH MUCH Worse","[{'label': 'Negative', 'score': 0.950310468673706}]"
+135,2020-11-14 03:00:00+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+136,2020-11-14 03:00:00+00:00,Three games featuring teams in the top 5 of The poll on this weekend's schedule are either postponed or canceled. | By,"[{'label': 'Neutral', 'score': 0.5398042798042297}]"
+137,2020-11-14 03:00:00+00:00,"Watch in #Gujarati: Support family and friends in quarantine / isolation by keeping physical distance. Keep in touch online.
+
+@NSWHealth &amp; #PinkSari Inc. on keeping loved ones safe
+
+https://t.co/5AWdE2SdYP
+
+https://t.co/ktYF2sRIcn
+
+#Diwali #gujraatii","[{'label': 'Neutral', 'score': 0.8237386345863342}]"
+138,2020-11-14 03:00:00+00:00,"Over 80 People Arrested In Kisumu For Flouting Covid Protocols
+https://t.co/e0Zi5kkfhx","[{'label': 'Neutral', 'score': 0.5792802572250366}]"
+139,2020-11-14 03:00:00+00:00,".@fordnation The fact you think we believe you saying someone thanked you over your handling of Covid, even though her parents both died in LTC is laughable.  Answer the actual question.","[{'label': 'Negative', 'score': 0.9223846793174744}]"
+140,2020-11-14 03:00:00+00:00,These Are The Last COVID-Free Countries On Earth,"[{'label': 'Neutral', 'score': 0.6728093028068542}]"
+141,2020-11-14 03:00:00+00:00,"Dari head of Corporate Communications 
+
+mengutip transkrip ""...during the COVID-19 period we cut a lot of fat [the word ""fat"" is an investor metaphor refer to business investment to projects or marketing efforts that was spent ineffectively]""","[{'label': 'Neutral', 'score': 0.49138423800468445}]"
+142,2020-11-14 03:00:00+00:00,"RT 170,000 cases today.
+
+We are so, so fucked from Thanksgiving to Christmas","[{'label': 'Negative', 'score': 0.9150129556655884}]"
+143,2020-11-14 03:00:00+00:00,RT so very glad to hear that is enacting red zone restrictions on Monday,"[{'label': 'Positive', 'score': 0.9507358074188232}]"
+144,2020-11-14 03:00:00+00:00,Please #WearAMask. #COVID19 is not joke!,"[{'label': 'Negative', 'score': 0.4877258837223053}]"
+145,2020-11-14 03:00:00+00:00,i can't think of a single penis joke that is worth leaving the house for during a pandemic.,"[{'label': 'Negative', 'score': 0.8810794949531555}]"
+146,2020-11-14 03:00:00+00:00,"Organizers said 'Drew Holcomb: A Benefit for Our Theatres' will raise money for both the Lyric and the Alabama, which have struggled during the COVID-19 pandemic.","[{'label': 'Neutral', 'score': 0.7228721976280212}]"
+147,2020-11-14 03:00:00+00:00,"RT Please let's come together, respect each other, wear a mask, and thank our first responders.  They work tirelessly and...","[{'label': 'Positive', 'score': 0.751423180103302}]"
+148,2020-11-14 03:00:00+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+149,2020-11-14 03:00:01+00:00,"Twas a game changer.
+I look fly as fuck on zoom.","[{'label': 'Positive', 'score': 0.9674969911575317}]"
+150,2020-11-14 03:00:01+00:00,"""I think we all can be honest, that people are not adhering to the mitigation measures, period.""","[{'label': 'Negative', 'score': 0.7507705688476562}]"
+151,2020-11-14 03:00:01+00:00,"2020.11.13
+#FridayThe13th &amp; done with work. Time for #TheMandalorian, #GBBO, &amp; foods. Maybe even #HaveABeerPlayAVideoGameSomething.
+
+#TyrannosaurusTeacher #Pandemica #Education #Teaching #teachinginapandemic #COVID19","[{'label': 'Positive', 'score': 0.5631946325302124}]"
+152,2020-11-14 03:00:01+00:00,"The NFL is on track for home teams to have a losing overall record for the first time since before the 1970 merger.
+
+https://t.co/DaVLXESXXk","[{'label': 'Negative', 'score': 0.5172544717788696}]"
+153,2020-11-14 03:00:01+00:00,"RT BREAKING
+
+Democrat Nevada Governor Steve Sisolak has tested positive for COVID-19","[{'label': 'Neutral', 'score': 0.7547841668128967}]"
+154,2020-11-14 03:00:01+00:00,The Charles Morris Nursing Home and Rehabilitation Center In Squirrel Hill will be closing in January because of coronavirus and a lack of Medicaid reimbursements.,"[{'label': 'Negative', 'score': 0.7612546682357788}]"
+155,2020-11-14 03:00:01+00:00,"Officials said the prison is testing inmates regularly but did not specify how often.
+
+ ","[{'label': 'Neutral', 'score': 0.9149222373962402}]"
+156,2020-11-14 03:00:01+00:00,Hospital CEO Brad Griffin said he was proud of the way the staff adapted to changing requirements in handling issues arising from the coronavirus pandemic.,"[{'label': 'Positive', 'score': 0.6995859742164612}]"
+157,2020-11-14 03:00:01+00:00,"RT In March, Congress gave billions in COVID relief to the to help struggling businesses. The Fed pledged...","[{'label': 'Neutral', 'score': 0.7585802674293518}]"
+158,2020-11-14 03:00:01+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+159,2020-11-14 03:00:01+00:00,"RT One regret is that governors have no support from Washington-- no payments from McConnell for bar owners if they close, no hel...","[{'label': 'Negative', 'score': 0.8471879959106445}]"
+160,2020-11-14 03:00:01+00:00,"RT Oh hell, man, I'm so sorry to read this. He looks like a baller leatherneck and I'm sure he was proud of you. Rest easy, Mari...","[{'label': 'Negative', 'score': 0.6170708537101746}]"
+161,2020-11-14 03:00:01+00:00,And now I dare you to undergo a test for previous corona family virus and also for  HIV. Be ready to be amazed.,"[{'label': 'Neutral', 'score': 0.5806171298027039}]"
+162,2020-11-14 03:00:01+00:00,"May the lights of Diwali Diyas fill your home with wealth, happiness, and everything that Brings You Joy! I wish you and your entire family a very very Happy Diwali!
+#HappyDiwali  #Diwalicelebration #DiwaliDhamaka #DiwaliNight
+#StaySafe #WearAMask","[{'label': 'Positive', 'score': 0.9873658418655396}]"
+163,2020-11-14 03:00:01+00:00,Flying and the coronavirus: How risky is it? Here's what the science says. - Vox CID_bf98090411f4ce25cb233cd04f5b4c88&amp;utm_source=cm_email&amp;utm_term=How%20risky%20is%20air%20travel%20in%20the%20pandemic%20Heres%20what%20the%20science%20says,"[{'label': 'Neutral', 'score': 0.7516575455665588}]"
+164,2020-11-14 03:00:01+00:00,"I should add, she DID wear a mask where she was forced (shops, etc).","[{'label': 'Neutral', 'score': 0.6952551603317261}]"
+165,2020-11-14 03:00:01+00:00,"RT The ""Chinese Flu"" is looking very American.","[{'label': 'Negative', 'score': 0.7202956080436707}]"
+166,2020-11-14 03:00:01+00:00,#ForzaVale #globalmobility #teaparty 1 author encyclopedia site:Can Rape Epidemic be stopped,"[{'label': 'Neutral', 'score': 0.7172768712043762}]"
+167,2020-11-14 03:00:01+00:00,"University BCMs have sought out ways to serve students quarantined due to a positive COVID-19 test. Care packages and meals have been provided for those that were contained in their small dorm rooms by other BCM students and local churches.
+https://t.co/XZSqaFhW4b","[{'label': 'Neutral', 'score': 0.8363904356956482}]"
+168,2020-11-14 03:00:01+00:00,"As cases surge in Lafayette County, where unbeaten Odessa had to cancel its football season, health officials the worst is yet to come: 
+https://t.co/H4gvrzslt5","[{'label': 'Negative', 'score': 0.6845279335975647}]"
+169,2020-11-14 03:00:01+00:00,"The report from Southwest added to fears that the spreading virus cases will hurt travel demand heading into Thanksgiving, a key period for airlines.","[{'label': 'Negative', 'score': 0.697201132774353}]"
+170,2020-11-14 03:00:02+00:00,"RT I am deeply concerned about the state of the COVID pandemic
+
+Why? 
+
+Because gap between how bad things are and how little w...","[{'label': 'Negative', 'score': 0.8712216019630432}]"
+171,2020-11-14 03:00:02+00:00,RT Can we please get people stimulus checks and mortgage relief and rent forgiveness and small business support and free testing and...,"[{'label': 'Neutral', 'score': 0.5623658895492554}]"
+172,2020-11-14 03:00:02+00:00,"RT NEW: has confirmed 170,473 new cases of COVID-19 in the U.S. today. That number may increase as states and counti...","[{'label': 'Neutral', 'score': 0.6339378356933594}]"
+173,2020-11-14 03:00:02+00:00,Ryan Mulcahy worked helping people get organ transplants. The 42-year-old died Saturday of COVID-19.,"[{'label': 'Negative', 'score': 0.6117185354232788}]"
+174,2020-11-14 03:00:02+00:00,"Health officials in Washington are urging people to stop gathering with friends and family, especially in 13 days for Thanksgiving.","[{'label': 'Neutral', 'score': 0.8253896832466125}]"

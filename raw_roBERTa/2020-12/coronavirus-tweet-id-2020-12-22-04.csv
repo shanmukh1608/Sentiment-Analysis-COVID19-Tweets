@@ -1,0 +1,336 @@
+,created_at,full_text,sentiment_score
+0,2020-12-22 03:59:54+00:00,Also not sure on the 1 in every 1000 but North Dakota itself has lost 1 in every 800. Florida raided a house because the woman was reporting real covid statistics and showing that Florida was lying. Shits rough over here,"[{'label': 'Negative', 'score': 0.8217049241065979}]"
+1,2020-12-22 03:59:54+00:00,Probably juggling this issue and the impending covid related recession (due in March according to ANZ).  Trying not to completely crash the housing market as that would really fuck things up.  Why am I even arguing this? I didn't even vote for Labour.,"[{'label': 'Negative', 'score': 0.8296632170677185}]"
+2,2020-12-22 03:59:54+00:00,"I feel fine, I stopped coughing and there's no more headache. But I just can't taste or smell. I'm 100% sure that I have covid though. I just need to get tested asap","[{'label': 'Negative', 'score': 0.6963946223258972}]"
+3,2020-12-22 03:59:55+00:00,how much I miss life pre covid...,"[{'label': 'Negative', 'score': 0.8255667090415955}]"
+4,2020-12-22 03:59:55+00:00,"Didn't you know that in November 2019, an Italian child was already infected?In Wuhan is December and January","[{'label': 'Neutral', 'score': 0.4929439127445221}]"
+5,2020-12-22 03:59:55+00:00,RT Whoa--Scientists have raised possibility that the increase in transmission is maybe due to kids. A new detail on UK  mutat...,"[{'label': 'Neutral', 'score': 0.6763755679130554}]"
+6,2020-12-22 03:59:55+00:00,"my mom lost her job due to covid-19, while going through a divorce with my dad. we've been trying to get back on our feet as much as we can &amp; she always tries her best to provide her all to my 2 siblings &amp; I. This money would be a huge help! $isaiahrico #KKWHoliday ","[{'label': 'Positive', 'score': 0.6030281186103821}]"
+7,2020-12-22 03:59:55+00:00,RT What does the Kennedy Center have to do with covid?,"[{'label': 'Neutral', 'score': 0.8088192939758301}]"
+8,2020-12-22 03:59:55+00:00,RT Family members of unauthorized immigrants are now eligible to get stimulus checks under the $900 billion deal reached last ni...,"[{'label': 'Neutral', 'score': 0.8735510110855103}]"
+9,2020-12-22 03:59:55+00:00,"RT the new COVID relief bill includes:
+
+- $4'000'000'000 for navy weapons
+- $2'000'000'000 for air force missiles
+- $500'000'000...","[{'label': 'Neutral', 'score': 0.826714277267456}]"
+10,2020-12-22 03:59:55+00:00,"RT Wow they just tried to sneak that shit in with your $600 huh...
+""If passed, illegal streaming of works including movies and...","[{'label': 'Negative', 'score': 0.8607004880905151}]"
+11,2020-12-22 03:59:55+00:00,"RT We're supposedly the greatest country in the world, but we cant help our citizens..","[{'label': 'Negative', 'score': 0.8920313119888306}]"
+12,2020-12-22 03:59:55+00:00,"RT With COVID cases surging worse than ever, getting vaccinated is one of the most important things we can do. But until the...","[{'label': 'Neutral', 'score': 0.5210970640182495}]"
+13,2020-12-22 03:59:55+00:00,"Another deadly virus that mutated the #coronavirus is known to be reported in many parts of the world. In such a situation, the only way forward is to follow the instructions given by the health  officials.#StaySafe #WearAMask #CoronavirusStrain #COVID20 #COVID19 #secondwave","[{'label': 'Negative', 'score': 0.727796733379364}]"
+14,2020-12-22 03:59:55+00:00,"RT ""Millions of low-income schoolchildren have gone almost an entire semester without receiving federal payments to help thei...","[{'label': 'Negative', 'score': 0.7773450613021851}]"
+15,2020-12-22 03:59:55+00:00,RT Destroying records to cover up political interference in life and death matters is beyond the pale,"[{'label': 'Negative', 'score': 0.8519760966300964}]"
+16,2020-12-22 03:59:55+00:00,"RT It's interesting to watch my GOP colleagues who refused to wear a mask or practice social distancing, and who attended ""...","[{'label': 'Neutral', 'score': 0.7291529178619385}]"
+17,2020-12-22 03:59:55+00:00,Hope everyone is doing well down in Sydney town!,"[{'label': 'Positive', 'score': 0.9173514246940613}]"
+18,2020-12-22 03:59:55+00:00,"RT Today, I received the COVID-19 vaccine.
+
+To the scientists and researchers who worked tirelessly to make this possible -- than...","[{'label': 'Positive', 'score': 0.8970048427581787}]"
+19,2020-12-22 03:59:55+00:00,"RT JUST IN: EU approves Pfizer COVID-19 vaccine, vaccinations to start Dec. 27","[{'label': 'Neutral', 'score': 0.8897708058357239}]"
+20,2020-12-22 03:59:55+00:00,"RT With COVID cases surging worse than ever, getting vaccinated is one of the most important things we can do. But until the...","[{'label': 'Neutral', 'score': 0.5210970640182495}]"
+21,2020-12-22 03:59:55+00:00,A 'godsend' or not 'worth the effort'? Monoclonal antibodies divide overwhelmed Covid doctors,"[{'label': 'Negative', 'score': 0.5881441235542297}]"
+22,2020-12-22 03:59:55+00:00,"RT The word ""missile"" appears 19 times in the COVID Relief Bill. 
+
+""Aircraft"" appears 208 times. 
+
+""Munition"" 46 times.
+
+""we...","[{'label': 'Neutral', 'score': 0.5002095103263855}]"
+23,2020-12-22 03:59:55+00:00,RT Never forget that Senate Republicans stalled a COVID relief bill for nearly nine months. Mitch McConnell only finally...,"[{'label': 'Negative', 'score': 0.6755404472351074}]"
+24,2020-12-22 03:59:56+00:00,"Now that my family has Covid and I can't go visit them this Christmas, I wish an Iris would come to my life and let me stay in her home in Surrey. #NYCtoSurrey #TheHoliday","[{'label': 'Negative', 'score': 0.6533716320991516}]"
+25,2020-12-22 03:59:56+00:00,"RT So it's misleading to say the ""COVID relief bill"" contains money for Israel. In fact, this money comes out of the bill to fu...","[{'label': 'Negative', 'score': 0.7178698182106018}]"
+26,2020-12-22 03:59:56+00:00,RT [BREAKING] Singapore Airlines (SIA) has delivered the first shipment of Pfizer-BioNTech Covid-19 vaccines to Singapore to...,"[{'label': 'Neutral', 'score': 0.9194310903549194}]"
+27,2020-12-22 03:59:56+00:00,Agree,"[{'label': 'Neutral', 'score': 0.6540251970291138}]"
+28,2020-12-22 03:59:56+00:00,RIP Buffstreamz,"[{'label': 'Negative', 'score': 0.5001053810119629}]"
+29,2020-12-22 03:59:56+00:00,"RT The new COVID relief bill contains $500,000,000 for Israel.","[{'label': 'Neutral', 'score': 0.8307254910469055}]"
+30,2020-12-22 03:59:56+00:00,"RT GOP: ""We can't do $1200 checks. That's irresponsible. Think of the deficit.""
+
+Also GOP: ""As part of a COVID deal we are allocating...","[{'label': 'Negative', 'score': 0.7596400380134583}]"
+31,2020-12-22 03:59:56+00:00,I'm jonesing for a that vaccine!,"[{'label': 'Positive', 'score': 0.5277901887893677}]"
+32,2020-12-22 03:59:56+00:00,Shocker that you anti-Semites are pushing this garbage....this thread debunks/clears it up:,"[{'label': 'Negative', 'score': 0.9398007392883301}]"
+33,2020-12-22 03:59:56+00:00,"12/19  Narita airport
+30s man : Undisclosed : Undisclosed
+No symptoms
+
+40s man : Aichi : 
+No symptoms
+
+50s man : Tokyo : 
+No symptoms
+
+10s man : Undisclosed : Undisclosed
+No symptoms
+
+#Japan #COVID19 #coronavirus","[{'label': 'Neutral', 'score': 0.7818726897239685}]"
+34,2020-12-22 03:59:56+00:00,"Well if you say so! You were SO RIGHT about covid being fake, so why wouldn't I believe you??? 325k just dropped dead from a lil cough huh?","[{'label': 'Negative', 'score': 0.8334827423095703}]"
+35,2020-12-22 03:59:56+00:00,RT How a risky bet on experimental biotechnology led to a COVID-19 vaccine,"[{'label': 'Neutral', 'score': 0.5281607508659363}]"
+36,2020-12-22 03:59:56+00:00,Neither stay home and cook breakfast,"[{'label': 'Neutral', 'score': 0.7198671698570251}]"
+37,2020-12-22 03:59:56+00:00,"Ban them. Stop flights. White House considers Covid testing requirement for travelers from UK
+https://t.co/pO45CNkkbJ","[{'label': 'Negative', 'score': 0.5553086996078491}]"
+38,2020-12-22 03:59:56+00:00,RT Never forget that Senate Republicans stalled a COVID relief bill for nearly nine months. Mitch McConnell only finally...,"[{'label': 'Negative', 'score': 0.6755404472351074}]"
+39,2020-12-22 03:59:56+00:00,"RT Today, I received the COVID-19 vaccine.
+
+To the scientists and researchers who worked tirelessly to make this possible -- than...","[{'label': 'Positive', 'score': 0.8970048427581787}]"
+40,2020-12-22 03:59:56+00:00,RT Republican lawmakers who downplayed coronavirus concerns face backlash over early vaccinations htt...,"[{'label': 'Neutral', 'score': 0.5183719396591187}]"
+41,2020-12-22 03:59:56+00:00,"RT Today, I received the COVID-19 vaccine.
+
+To the scientists and researchers who worked tirelessly to make this possible -- than...","[{'label': 'Positive', 'score': 0.8970048427581787}]"
+42,2020-12-22 03:59:56+00:00,"RT What would get us killed first?
+A. Coronavirus
+B. The police
+C. The incompetence of this government","[{'label': 'Negative', 'score': 0.8868162035942078}]"
+43,2020-12-22 03:59:56+00:00," In case people haven't heard... My province, Ontario, is going back into Covid Lockdown. We're in the red again. The numbers are boomin' because o' the anti-maskers specifically. If ye see these shitty people marchin' in Toronto (Ontario)...","[{'label': 'Negative', 'score': 0.9178527593612671}]"
+44,2020-12-22 03:59:56+00:00,RT Remember when people said 5G causes Covid-19? We've passed through a lot this year.,"[{'label': 'Negative', 'score': 0.6462633609771729}]"
+45,2020-12-22 03:59:56+00:00,"RT Sydney: on a knife edge, waiting to see if we're going to have a super spreader event
+
+Me: trying to keep my dog from go...","[{'label': 'Neutral', 'score': 0.537215530872345}]"
+46,2020-12-22 03:59:56+00:00,"RT DJs don't qualify for unemployment, most of us haven't received a penny all pandemic. I haven't seen anyone complain bou...","[{'label': 'Negative', 'score': 0.7402871251106262}]"
+47,2020-12-22 03:59:56+00:00,RT Whoa--Scientists have raised possibility that the increase in transmission is maybe due to kids. A new detail on UK  mutat...,"[{'label': 'Neutral', 'score': 0.6763755679130554}]"
+48,2020-12-22 03:59:56+00:00,"Ontario-wide lockdown: Entire province to shut down on Dec. 26, students move to online learning via","[{'label': 'Neutral', 'score': 0.701161801815033}]"
+49,2020-12-22 03:59:56+00:00,RT It just gets better and better.,"[{'label': 'Positive', 'score': 0.9700077772140503}]"
+50,2020-12-22 03:59:57+00:00,"RT The whole package is a sell out.    I'm voting no.   Dozens of problems.  5,500 pages long and 2 hours to review.  This is...","[{'label': 'Negative', 'score': 0.9475117921829224}]"
+51,2020-12-22 03:59:57+00:00,Senate passes Omni Covid and the fund goes to POTUS desk,"[{'label': 'Neutral', 'score': 0.8524796962738037}]"
+52,2020-12-22 03:59:57+00:00,"RT On Monday, the Los Angeles County Health Department finally dropped the county's COVID restrictions against religious gatherin...","[{'label': 'Neutral', 'score': 0.8810092806816101}]"
+53,2020-12-22 03:59:57+00:00,RT A Pandemic Of 'Russian Hacking',"[{'label': 'Neutral', 'score': 0.580451488494873}]"
+54,2020-12-22 03:59:57+00:00,"RT The new COVID relief bill contains $500,000,000 for Israel.","[{'label': 'Neutral', 'score': 0.8307254910469055}]"
+55,2020-12-22 03:59:57+00:00,Post Covid keep that casamigos out of my hand ,"[{'label': 'Negative', 'score': 0.6682700514793396}]"
+56,2020-12-22 03:59:57+00:00,"RT Sir wants to make sure that no one gets left behind because of HIV/AIDS or COVID-19, and that's why he's the w...","[{'label': 'Neutral', 'score': 0.6297773718833923}]"
+57,2020-12-22 03:59:57+00:00,"RT VaxView has been updated for December 21. We are now north of 20,000 doses administered. #COVID19 #Canada #vaccine
+
+https://t....","[{'label': 'Neutral', 'score': 0.877246081829071}]"
+58,2020-12-22 03:59:57+00:00,My nephew is a doctor on a covid ward in Jerusalem. Got his vaccine today. It's a much smaller country and it seems like they're moving faster to inoculate the country,"[{'label': 'Neutral', 'score': 0.600286066532135}]"
+59,2020-12-22 03:59:57+00:00,Coronavirus relief legislation includes $10M for 'gender programs' in Pakistan #FoxBusiness,"[{'label': 'Neutral', 'score': 0.8215797543525696}]"
+60,2020-12-22 03:59:57+00:00,"RT ""This Covid Relief Bill Doesn't Cover Shit! Do we really think $600 is going stop an eviction? Feed A Family? Pay Hospital...","[{'label': 'Negative', 'score': 0.9157342314720154}]"
+61,2020-12-22 03:59:57+00:00,"RT They laughed at a pandemic, mocked wearing masks, pushed false cures and made sure they were the first in line for the vacc...","[{'label': 'Negative', 'score': 0.8779380917549133}]"
+62,2020-12-22 03:59:57+00:00,"Less than what COVID's mortality rate could be if left unchecked. One ""evil"" here is less than the other. A lockdown is the lesser evil.","[{'label': 'Negative', 'score': 0.7848100066184998}]"
+63,2020-12-22 03:59:57+00:00,Senior Living Center receives first doses of Moderna COVID vaccine,"[{'label': 'Neutral', 'score': 0.8543080687522888}]"
+64,2020-12-22 03:59:57+00:00,"WOOOOOOOOOOOW i was gonna ask u too about covid  , woooow cant beleive was it tooo hard how do u feel now","[{'label': 'Negative', 'score': 0.7674426436424255}]"
+65,2020-12-22 03:59:58+00:00,"RT Today, I received the COVID-19 vaccine.
+
+To the scientists and researchers who worked tirelessly to make this possible -- than...","[{'label': 'Positive', 'score': 0.8970048427581787}]"
+66,2020-12-22 03:59:58+00:00,"RT Who the hell is sitting on the board at the Smithsonian and the Kennedy Center? In each Coronavirus stimulus package, mil...","[{'label': 'Negative', 'score': 0.6917572617530823}]"
+67,2020-12-22 03:59:58+00:00,"I am absolutely infuriated by this *covid stimulus* legislation, aka cash grab free for all. All pork, all day long. Our gvt is a derailed, runaway train. Completely out of control sh*t show of entitlement and greed. Just awful. PLEASE veto this garbage!","[{'label': 'Negative', 'score': 0.949493944644928}]"
+68,2020-12-22 03:59:58+00:00,"December 21, 2020 | 10:56 PM
+
+ #Republicans / #GOP CONTROL the U.S. Senate
+ Donald J. #Trump 
+ #Trump Administration
+
+#COVID19 in U.S.
+
+DEATHS = 326,772
+
+INFECTIONS = 18,473,716
+
+https://t.co/DTxFyAyLnU |","[{'label': 'Neutral', 'score': 0.8183495402336121}]"
+69,2020-12-22 03:59:58+00:00,"RT Today, I received the COVID-19 vaccine.
+
+To the scientists and researchers who worked tirelessly to make this possible -- than...","[{'label': 'Positive', 'score': 0.8970048427581787}]"
+70,2020-12-22 03:59:58+00:00,"RT Over 15.4 million minks have been slaughtered so far over fears of a coronavirus mutation, of which 4 million mink were burie...","[{'label': 'Negative', 'score': 0.8894763588905334}]"
+71,2020-12-22 03:59:58+00:00,worst steelers performance while trailing by 7 pts i have ever seen ... ever ... in 2020 ... on a monday night in december ... during a pandemic ... on espn ...,"[{'label': 'Negative', 'score': 0.9464961290359497}]"
+72,2020-12-22 03:59:58+00:00,RT earlier while waiting to get my COVID test,"[{'label': 'Neutral', 'score': 0.8693208694458008}]"
+73,2020-12-22 03:59:58+00:00,"you say ""survival,"" how exactly do people not in the millions of deaths from coronavirus ""survive""?","[{'label': 'Negative', 'score': 0.7469428181648254}]"
+74,2020-12-22 03:59:58+00:00,"Those that have no soul, have no shame.","[{'label': 'Negative', 'score': 0.7913451194763184}]"
+75,2020-12-22 03:59:58+00:00,"RT Most law firms don't do this, nor do they have sophisticated functions in business development to communicate this &amp; CLOSE...","[{'label': 'Negative', 'score': 0.5727401971817017}]"
+76,2020-12-22 03:59:58+00:00,"RT ""This bill is nothing more than a bunch of special interests thrown into one and sprinkled with #COVID relief."" #ampFW ht...","[{'label': 'Negative', 'score': 0.853759765625}]"
+77,2020-12-22 03:59:58+00:00,My group at Pfizer is planning a midsummer 2021 Christmas party because covid. Definitely more fun than zoom.,"[{'label': 'Positive', 'score': 0.8993648290634155}]"
+78,2020-12-22 03:59:58+00:00,"The PHI Union hs called on authorities to immediately seal all the provinces to prevent movement, atleast till Jan. 1 as a large influx of people are leaving the WP for the holidays. Warns if movement continues repercussions will be seen in Jan with a spike in #COVID19 #SriLanka","[{'label': 'Neutral', 'score': 0.6434252858161926}]"
+79,2020-12-22 03:59:58+00:00,RT,"[{'label': 'Neutral', 'score': 0.6457453966140747}]"
+80,2020-12-22 03:59:58+00:00,"RT the new COVID relief bill includes:
+
+- $4'000'000'000 for navy weapons
+- $2'000'000'000 for air force missiles
+- $500'000'000...","[{'label': 'Neutral', 'score': 0.826714277267456}]"
+81,2020-12-22 03:59:58+00:00,San Francisco COVID rules: No kissing on dates!,"[{'label': 'Neutral', 'score': 0.6479801535606384}]"
+82,2020-12-22 03:59:58+00:00,This motherfucker is proof karma takes too long,"[{'label': 'Negative', 'score': 0.9464607238769531}]"
+83,2020-12-22 03:59:58+00:00,"RT Need a reason to wear a mask? 
+Watch this 
+https://t.co/oYQd3zvAXL","[{'label': 'Neutral', 'score': 0.8406071066856384}]"
+84,2020-12-22 03:59:58+00:00,"RT You're getting a one-time $600 check to survive a pandemic, but hey, at least lobbyists can get their three-martini lunches d...","[{'label': 'Neutral', 'score': 0.48297348618507385}]"
+85,2020-12-22 03:59:58+00:00,RT I never again want tho hear that it's only BLM protesters who riot and smash windows. It's always been a lie.,"[{'label': 'Negative', 'score': 0.9188865423202515}]"
+86,2020-12-22 03:59:59+00:00,"RT The covid stimulus package includes $100 million for ""gender programs"" in Pakistan........
+
+$600 for you.","[{'label': 'Neutral', 'score': 0.6211417317390442}]"
+87,2020-12-22 03:59:59+00:00,RT Nauseating reading this Covid bill - we throw around hundreds of millions of dollars like it's candy.  Propping up the enti...,"[{'label': 'Negative', 'score': 0.8708814382553101}]"
+88,2020-12-22 03:59:59+00:00,RT From shit like this &amp; Congressmen/women who downplayed the crisis &amp; even lied about its lethality getting the vaccine first...,"[{'label': 'Negative', 'score': 0.9012093544006348}]"
+89,2020-12-22 03:59:59+00:00,"RT This is how I explained the Relief Package to my 8-year-old...
+
+I loaned $700 to my friend, and then Covid hit. I lost my job...","[{'label': 'Negative', 'score': 0.617792546749115}]"
+90,2020-12-22 03:59:59+00:00,"RT Remember, those who are shutting down our economy haven't missed a paycheck since lockdown began. We are not in this toget...","[{'label': 'Negative', 'score': 0.5501730442047119}]"
+91,2020-12-22 03:59:59+00:00,"RT Thank you so much, . You put America first more than any Democrat in the house.
+Also thanks to","[{'label': 'Positive', 'score': 0.9719828963279724}]"
+92,2020-12-22 03:59:59+00:00,"RT They laughed at a pandemic, mocked wearing masks, pushed false cures and made sure they were the first in line for the vacc...","[{'label': 'Negative', 'score': 0.8779380917549133}]"
+93,2020-12-22 03:59:59+00:00,"RT Joe Biden, wife receive #Pfizer Covid-19 vaccine jab publicly 
+#COVID19 #coronavirus #CovidVaccine #JoeBiden #TV9News","[{'label': 'Neutral', 'score': 0.8587127923965454}]"
+94,2020-12-22 03:59:59+00:00,RT Pelosi calls $600 COVID-19 payments to Americans 'significant'; social media lights her up | Just The News,"[{'label': 'Positive', 'score': 0.5446202158927917}]"
+95,2020-12-22 03:59:59+00:00,RT Employers will no longer have to provide paid sick leave to workers who get infected with COVID-19 after Senate Majority Leader Mi...,"[{'label': 'Negative', 'score': 0.5763223171234131}]"
+96,2020-12-22 03:59:59+00:00,"RT $600 is a slap in the face to every American struggling due to the pandemic. You deserve better.
+
+I voted against the 5,5...","[{'label': 'Negative', 'score': 0.9147579073905945}]"
+97,2020-12-22 03:59:59+00:00,"RT After trump bragged endlessly about banning travel from China, you have to wonder why he won't ban the UK while their covid...","[{'label': 'Neutral', 'score': 0.5611386895179749}]"
+98,2020-12-22 03:59:59+00:00,"RT the new COVID relief bill includes:
+
+- $4'000'000'000 for navy weapons
+- $2'000'000'000 for air force missiles
+- $500'000'000...","[{'label': 'Neutral', 'score': 0.826714277267456}]"
+99,2020-12-22 03:59:59+00:00,"RT Went through #illini athletics COVID-19 testing this morning. No COVID! 
+
+But here's how the UI's testing helped contain CO...","[{'label': 'Neutral', 'score': 0.755011260509491}]"
+100,2020-12-22 03:59:59+00:00,"They're at 80+ yes votes for the govt funding / Covid relief package, so that's a wrap ...","[{'label': 'Positive', 'score': 0.7402427196502686}]"
+101,2020-12-22 03:59:59+00:00,"RT I like Israel, but why the hell are we giving them $500,000,000 in the COVID relief bill?","[{'label': 'Negative', 'score': 0.8931797742843628}]"
+102,2020-12-22 03:59:59+00:00,"RT There have been a lot of news articles about the flight I was on, but in my opinion this one from shi...","[{'label': 'Neutral', 'score': 0.8218564987182617}]"
+103,2020-12-22 03:59:59+00:00,"More than 600 doctors and more than 1000 frontline workers have lost their lives due to covid. They are more prone to severe disease as they get high viral load in hospitals, so it's important to vaccinated them ASAP. EU, US, UK, SA all have approved Pfizer, why are we waiting???","[{'label': 'Negative', 'score': 0.7224820256233215}]"
+104,2020-12-22 03:59:59+00:00,"RT ""The woman pictured is Dr. Kizzmekia Corbett, the lead scientist for coronavirus vaccine research at the National Institu...","[{'label': 'Neutral', 'score': 0.9429423213005066}]"
+105,2020-12-22 03:59:59+00:00,"RT $600 is a slap in the face to every American struggling due to the pandemic. You deserve better.
+
+I voted against the 5,5...","[{'label': 'Negative', 'score': 0.9147579073905945}]"
+106,2020-12-22 03:59:59+00:00,RT Thank you,"[{'label': 'Positive', 'score': 0.8909158706665039}]"
+107,2020-12-22 03:59:59+00:00,Wait...what? Pretty sure illegal streaming already a felony. Guess they're going to enforce it more now...And here I thought 3/31 was just an April Fools joke,"[{'label': 'Negative', 'score': 0.872499406337738}]"
+108,2020-12-22 03:59:59+00:00,"RT The Post has assessed that 90% of COVID-19 deaths--undercount included, over 360,000 deaths--are attributable to Trump malf...","[{'label': 'Negative', 'score': 0.6466534733772278}]"
+109,2020-12-22 03:59:59+00:00,"RT Republicans in Congress who are complaining about the cost of stimulus should take a long, hard look at the cost of a...","[{'label': 'Negative', 'score': 0.53886479139328}]"
+110,2020-12-22 04:00:00+00:00,"RT Who the hell is sitting on the board at the Smithsonian and the Kennedy Center? In each Coronavirus stimulus package, mil...","[{'label': 'Negative', 'score': 0.6917572617530823}]"
+111,2020-12-22 04:00:00+00:00,"RT Is the new UK variant the same as the new South African variant (501Y.V2)?
+
+No.
+
+They both share the same mutation in spike...","[{'label': 'Neutral', 'score': 0.8815507888793945}]"
+112,2020-12-22 04:00:00+00:00,"RT Data is key...ministers don't tell us this truth that huge numbers of hospital Covid cases are in fact caught in hospital,...","[{'label': 'Negative', 'score': 0.5845057964324951}]"
+113,2020-12-22 04:00:00+00:00,I kinda feel bad for him ngl. The pandemic went on for so long he forgot how to communicate like a coherent human and think properly...,"[{'label': 'Negative', 'score': 0.9009153842926025}]"
+114,2020-12-22 04:00:00+00:00,bro I think I got Covid  but I don't wanna go to hospital because I feel like they gone make me sicker!,"[{'label': 'Negative', 'score': 0.9047361016273499}]"
+115,2020-12-22 04:00:00+00:00,Dougs theory: too many in the drive through of McDonald's. Must lockdown. Need more Big Macs,"[{'label': 'Neutral', 'score': 0.5694916844367981}]"
+116,2020-12-22 04:00:00+00:00,"Again, GA: please, please, please make sure you vote for your Dem Senate candidates so this petty man can stop messing up life for the rest of the country.","[{'label': 'Negative', 'score': 0.7450878620147705}]"
+117,2020-12-22 04:00:00+00:00,sad that I will not be able to give my grandpa who died from COVID the DL Hughley book about how he kept touring despite having passed out onstage from COVID,"[{'label': 'Negative', 'score': 0.767844557762146}]"
+118,2020-12-22 04:00:00+00:00,"Commercial Leasing During COVID-19: Direct vs Sublease #CRE #COVID-19 #Leasing #Subleasing 
+https://t.co/j9Psi1hrZX","[{'label': 'Neutral', 'score': 0.8935467600822449}]"
+119,2020-12-22 04:00:00+00:00,"[NEW] #UnityinAction - Model good behaviour for social distancing, mask wearing and sanitising so that others can follow 
+https://t.co/WM0E2CmTOS","[{'label': 'Neutral', 'score': 0.6514148712158203}]"
+120,2020-12-22 04:00:00+00:00,"Running out of time and excuses, Congress took up a $900 billion virus pandemic relief package that would finally deliver long-sought cash to businesses and individuals and resources to vaccinate.
+
+https://t.co/AsTzSGV3TZ","[{'label': 'Positive', 'score': 0.5287461280822754}]"
+121,2020-12-22 04:00:00+00:00,"In this study published by researchers investigated the association between common patient characteristics &amp; mortality across all ages among #COVID19 patients. 
+
+#epitwitter #IDTwitter 
+
+https://t.co/ZdGwLndAFN","[{'label': 'Neutral', 'score': 0.9205452799797058}]"
+122,2020-12-22 04:00:00+00:00,RT glad someone is having a productive lockdown,"[{'label': 'Positive', 'score': 0.8864163160324097}]"
+123,2020-12-22 04:00:00+00:00,"RT Before the election...
+
+1 Biden was a vaccine denier
+
+2 Kamala was a vaccine denier 
+
+3 Pelosi denied the Americ...","[{'label': 'Neutral', 'score': 0.6432345509529114}]"
+124,2020-12-22 04:00:00+00:00,"New #mutations of the covid-19 virus found in the UK and South Africa have put the world on alert. How does this development affect the #pandemic and vaccines?
+https://t.co/p3TXsVACsm","[{'label': 'Neutral', 'score': 0.5751694440841675}]"
+125,2020-12-22 04:00:00+00:00,"Roy Mikkelsen of Auburn (born in Norway)
+
+c. 1937
+
+Roy was a former National Ski Jump Champion and Winter Olympian.
+
+#ChristmasTree 
+#Christmas 
+#ChristmasGift 
+#ShopLocal 
+#ShopPlacer 
+#COVID19 
+#WinterSolstice","[{'label': 'Neutral', 'score': 0.8462859392166138}]"
+126,2020-12-22 04:00:00+00:00,"In the first 14 weeks of #COVID19, #healthcarespending decreased by $2.7 billion per week. See how this could impact the industry long term.","[{'label': 'Negative', 'score': 0.5874308347702026}]"
+127,2020-12-22 04:00:00+00:00,Leaders of both parties are claiming victory for a $900 billion COVID-19 relief measure. Here's a look at what's actually in the package.,"[{'label': 'Positive', 'score': 0.59511798620224}]"
+128,2020-12-22 04:00:00+00:00,"VACCINE ROLLOUT: President-elect Biden rolled up his sleeve to receive Pfizer's COVID-19 vaccine, hoping to reassure Americans the treatment is safe, as nearly six million doses of the Moderna vaccine are now on the move in the U.S. reports.","[{'label': 'Positive', 'score': 0.7603735327720642}]"
+129,2020-12-22 04:00:00+00:00,"Looking for the latest in #COVID19 #vaccine developments? We've compiled updated science and evidence-based resources on the status of vaccinations, including what physicians should know. Stay up to date: #VaccinesWork","[{'label': 'Neutral', 'score': 0.7905906438827515}]"
+130,2020-12-22 04:00:00+00:00,"The COVID-19 pandemic will certainly come to define the year 2020, not only to the rich and powerful but all the country, as it affected and infected both affluent and less affluent #Covid19InSA #Covid19SA #Covid19 #secondwave South Africa #secondwave","[{'label': 'Negative', 'score': 0.7237025499343872}]"
+131,2020-12-22 04:00:00+00:00,"""When the virus changes its method of attack, we must change our method of defense"" 
+https://t.co/R07Qx0gIRc","[{'label': 'Neutral', 'score': 0.7847349047660828}]"
+132,2020-12-22 04:00:00+00:00,"RT $600 is a slap in the face to every American struggling due to the pandemic. You deserve better.
+
+I voted against the 5,5...","[{'label': 'Negative', 'score': 0.9147579073905945}]"
+133,2020-12-22 04:00:00+00:00,Pink's #COVID19 quarantine has included everything from a bad drunken haircut to a fractured ankle.,"[{'label': 'Negative', 'score': 0.8426410555839539}]"
+134,2020-12-22 04:00:00+00:00,"Now that staycations are allowed, why not book yourself a room at a Covid-safe hotel for a day or the weekend to dust yourself off, stretch, and get some air?
+
+https://t.co/0D2jZnd6wN","[{'label': 'Neutral', 'score': 0.7237930297851562}]"
+135,2020-12-22 04:00:00+00:00,The next smart watch?,"[{'label': 'Neutral', 'score': 0.8218698501586914}]"
+136,2020-12-22 04:00:00+00:00,"Hong Kong, India Ban Flights from the U.K.
+
+Fears over a more infectious variant of Covid-19 have prompted authorities to cut key air links with #Britain.
+
+https://t.co/lwuRArT8aD
+
+#COVID19 #TravelBan #HongKong #India","[{'label': 'Negative', 'score': 0.603162944316864}]"
+137,2020-12-22 04:00:00+00:00,The best thing about #StayHome!,"[{'label': 'Positive', 'score': 0.9843276143074036}]"
+138,2020-12-22 04:00:00+00:00,"Protesters have gathered after Iraq devalued its currency by over a fifth. Iraq's finance minister defended the measure, saying foreign currency reserves could have run out in six or seven months. The move sparked panic buying of dollars and supplies.
+https://t.co/DWtlpAgne1","[{'label': 'Negative', 'score': 0.8208974003791809}]"
+139,2020-12-22 04:00:00+00:00,"In the US, #COVID19 has exposed social and health inequalities, with Blacks and Latinos suffering disproportionately higher infection and death rates. Though vaccines are approved, a recent study shows communities of color are skeptical about the shots. Dan Williams reports.","[{'label': 'Negative', 'score': 0.76713627576828}]"
+140,2020-12-22 04:00:00+00:00,"#RightsUnderLockdown: While online attacks were common even before the pandemic started, women journalists in Asia have become the favored targets. shares her experiences in this podcast:","[{'label': 'Neutral', 'score': 0.6677461862564087}]"
+141,2020-12-22 04:00:00+00:00,"RT This is why Congress needs time to actually read this package before voting on it.
+
+Members of Congress have not read this bill. I...","[{'label': 'Negative', 'score': 0.6062142252922058}]"
+142,2020-12-22 04:00:00+00:00,"RT Every American left and right should be calling for a #VETO of this stimulus ""deal""-- which provides MORE funding to forei...","[{'label': 'Neutral', 'score': 0.7720432877540588}]"
+143,2020-12-22 04:00:00+00:00,President-elect Joe Biden on Monday received his first dose of the coronavirus vaccine on live television as part of a growing effort to convince the American public the inoculations are safe.,"[{'label': 'Positive', 'score': 0.6350430250167847}]"
+144,2020-12-22 04:00:00+00:00,"RT $600 is a slap in the face to every American struggling due to the pandemic. You deserve better.
+
+I voted against the 5,5...","[{'label': 'Negative', 'score': 0.9147579073905945}]"
+145,2020-12-22 04:00:00+00:00,"It's the season of gift-giving.
+https://t.co/khgJ1jd6ET","[{'label': 'Positive', 'score': 0.6043113470077515}]"
+146,2020-12-22 04:00:01+00:00,"RT $600 is a slap in the face to every American struggling due to the pandemic. You deserve better.
+
+I voted against the 5,5...","[{'label': 'Negative', 'score': 0.9147579073905945}]"
+147,2020-12-22 04:00:01+00:00,Coronavirus causes 'record fall' in fossil-fuel emissions in 2020 #Carbon #Emissions,"[{'label': 'Negative', 'score': 0.7510100603103638}]"
+148,2020-12-22 04:00:01+00:00,"Great way to end 2020 with some good news from SGN and John Krasinski. 
+
+If you didn't catch the SGN videos at the start of the pandemic you have to watch the rest of his episodes
+
+Happy holidays everyone!","[{'label': 'Positive', 'score': 0.9648110866546631}]"
+149,2020-12-22 04:00:01+00:00,"Please Pray For My Cousins 
+They Lost Their StepFather this Morning losing he's battle due to COVID and pneumonia. He was a Very Loving, Sweet &amp; Kind Man.
+RIP Uncle Clifton.","[{'label': 'Negative', 'score': 0.5104871988296509}]"
+150,2020-12-22 04:00:01+00:00,"That's a lot of ""COVID relief"" that isn't actually going to the American people. ","[{'label': 'Negative', 'score': 0.8497822284698486}]"
+151,2020-12-22 04:00:01+00:00,Watch for Tulsi:;,"[{'label': 'Neutral', 'score': 0.7532336115837097}]"
+152,2020-12-22 04:00:01+00:00,"RT We've had a 5,500 page page bill for a little over an hour now. Instead of getting COVD relief out to people months ago...","[{'label': 'Negative', 'score': 0.8918935060501099}]"
+153,2020-12-22 04:00:01+00:00,"RT stimulus $600/american
+israel $500 million
+weapons $6 billion 
+candles $3,600
+space force $2 billion
+
+someone who is g...","[{'label': 'Neutral', 'score': 0.7399678826332092}]"
+154,2020-12-22 04:00:01+00:00,"RT ""We are a country under attack on three fronts today: One, a raging and worsening coronavirus pandemic. Two, an unprecedent...","[{'label': 'Negative', 'score': 0.8949254751205444}]"
+155,2020-12-22 04:00:01+00:00,so you vote NO against the people getting anything?,"[{'label': 'Negative', 'score': 0.7929499745368958}]"
+156,2020-12-22 04:00:01+00:00,"RT $600 is a slap in the face to every American struggling due to the pandemic. You deserve better.
+
+I voted against the 5,5...","[{'label': 'Negative', 'score': 0.9147579073905945}]"
+157,2020-12-22 04:00:01+00:00,RT Raise your hand if your Congressman/Senator should VOTE NO on the COVID stimulus bill. ,"[{'label': 'Neutral', 'score': 0.6178531050682068}]"
+158,2020-12-22 04:00:01+00:00,"RT Ritual blood letting and economic self-flagellation. California will be no better off on covid deaths per capita (and far,...","[{'label': 'Negative', 'score': 0.8980193734169006}]"
+159,2020-12-22 04:00:02+00:00,THAT IS INSANE!!!! OMG! ,"[{'label': 'Negative', 'score': 0.5726542472839355}]"
+160,2020-12-22 04:00:02+00:00,"Current Conditions for #Sayre PA
+Temp: 34.3F
+Wind Chill: 34.3F
+Humidity: 96%
+Dew Point: 33.3F 
+Barometer: 29.771 inHg
+Wind: 1 mph from the S
+Corona Virus Weekly Stats:
+Cases: 279.000000
+Deaths: 3.000000
+Survival: 98.000000
+#weewx #nepa #bradfordcounty","[{'label': 'Neutral', 'score': 0.8442798852920532}]"
+161,2020-12-22 04:00:02+00:00,"RT Today, I received the COVID-19 vaccine.
+
+To the scientists and researchers who worked tirelessly to make this possible -- than...","[{'label': 'Positive', 'score': 0.8970048427581787}]"
+162,2020-12-22 04:00:02+00:00,"RT Illegal streaming is a felony, an overreaching copyright law could fine content creators up to 30K, you might get $600. Eve...","[{'label': 'Negative', 'score': 0.8830828666687012}]"
+163,2020-12-22 04:00:02+00:00,"RT Opposing $600 benefits to those who lost work in the pandemic, Sen. Kelly Loeffler said people ""needed to get back to work...","[{'label': 'Negative', 'score': 0.7472752928733826}]"
+164,2020-12-22 04:00:02+00:00,"RT Myocarditis and congestive heart failure in a 21-year-old following a mild COVID infection.
+
+Not just about mortality.","[{'label': 'Negative', 'score': 0.7401157021522522}]"
+165,2020-12-22 04:00:02+00:00,RT Thank you,"[{'label': 'Positive', 'score': 0.8909158706665039}]"
+166,2020-12-22 04:00:02+00:00,I think Alabama is gonna have some covid issues. That's gonna be interesting.,"[{'label': 'Neutral', 'score': 0.5773013234138489}]"
+167,2020-12-22 04:00:02+00:00,"Since Dec. 16, California has hit a record of more than 60,000 new confirmed COVID cases.","[{'label': 'Neutral', 'score': 0.6727668642997742}]"
+168,2020-12-22 04:00:02+00:00,"RT GOP: ""We can't do $1200 checks. That's irresponsible. Think of the deficit.""
+
+Also GOP: ""As part of a COVID deal we are allocating...","[{'label': 'Negative', 'score': 0.7596400380134583}]"
+169,2020-12-22 04:00:02+00:00,RT My stepfather was found unresponsive at the nursing home this morning. He was transferred to the hospital and put on a vent...,"[{'label': 'Negative', 'score': 0.6045663952827454}]"
+170,2020-12-22 04:00:02+00:00,"RT To my fellow Democrats,
+
+Ten of millions went to bat for you on November 3.
+
+And you rewarded them with $600 in the middle...","[{'label': 'Neutral', 'score': 0.5071966052055359}]"
+171,2020-12-22 04:00:02+00:00,"RT Opposing $600 benefits to those who lost work in the pandemic, Sen. Kelly Loeffler said people ""needed to get back to work...","[{'label': 'Negative', 'score': 0.7472752928733826}]"
