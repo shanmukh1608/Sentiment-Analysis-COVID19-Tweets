@@ -7,7 +7,7 @@ Team Members:
 4. Shanmukh Karra - skarra33
 5. Sai Sri Harsha Pinninti - spinninti6
 
-# Midterm Report
+# Final Report
 
 ## Links 
 * [Presentation Video](https://gtvault.sharepoint.com/:v:/s/ML7641Group/EbxlMAj5A85InPjVNTXYOxsB57fuOYIhNaEYB0DQmTki7Q?e=aSr94n)(Proposal)
