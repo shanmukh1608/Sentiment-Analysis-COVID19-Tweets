@@ -119,7 +119,7 @@ The purpose of these two sources of randomness is to decrease the variance of th
 The MLP or multi layer perceptron is a form of a fully connected artificial neural network. It uses backpropagation for updating its parameters and It is capable of separating points that are not linearly separable by utilizing non-linear activation functions.
 
 #### SVM
-It is a supervised learning algorithm that is effective in high dimensional spaces. It aims at defining a hyperplane/hyperplanes separating each class of data points while maximizing the margin between the support vectors. New points are then classified based on which side of the hyperplane they fall on. It is relatively memory efficient but has an expensive time complexity of $O(n^3).
+It is a supervised learning algorithm that is effective in high dimensional spaces. It aims at defining a hyperplane/hyperplanes separating each class of data points while maximizing the margin between the support vectors. New points are then classified based on which side of the hyperplane they fall on. It is relatively memory efficient but has an expensive time complexity of $O(n^3)$.
 
 ## Results and Discussion
 
