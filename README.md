@@ -62,6 +62,10 @@ After the data was preprocessed, we converted the tweets into vectors to feed in
 
 ## Methods
 
+### Exploratory Data Analysis
+
+![Vader Pos](EDA\ Pictures/roberta_neg.png)
+
 ### Unsupervised Learning
 We used the following unsupervised learning algorithms:
 * Principal Component Analysis (PCA)
