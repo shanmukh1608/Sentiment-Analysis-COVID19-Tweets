@@ -64,7 +64,10 @@ After the data was preprocessed, we converted the tweets into vectors to feed in
 
 ### Exploratory Data Analysis
 
-![Vader Pos](EDA Pictures/roberta_neg.png)
+<p align="center">
+  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/9bb8f5e70ab67aac60573ee8d685869763cbce9a/edapics/roberta_pos.png"/></p>
+<h4 align="center">Table 1 - Topic Modeling Results for First Wave</h4>
+
 
 ### Unsupervised Learning
 We used the following unsupervised learning algorithms:
