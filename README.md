@@ -114,15 +114,21 @@ C_{UMass}(w_{i}, w_{j}) = \log \frac{D(w_{i}, w_{j}) + 1}{D(w_{i})},
 ``` 
 where D(w<sub>i</sub>,w<sub>j</sub>) indicates how many times words w<sub>i</sub> and w<sub>j</sub> appear together in documents, and D(w<sub>i</sub>) is how many times word w<sub>i</sub> appeared alone. We calculate the global coherence of the topic as the average pairwise coherence scores on the top N words which describe the topic. For the gensim implementation of the UMass Coherence Score, a more negative value indicates a better topic coherence.
 * CV Coherence Score: It creates content vectors of words using their co-occurrences and, after that, calculates the score using normalized pointwise mutual information (NPMI) and the cosine similarity. A larger value indicates better topic coherence.
-* UCI Coherence Score: This coherence score is based on sliding windows and the pointwise mutual information of all word pairs using top N words by occurrence. Instead of calculating how often two words appear in the document, we calculate the word co-occurrence using a sliding window. It means that if our sliding window has a size of 10, for one particular word w_{i}, we observe only 10 words before and after the word w<sub>i</sub>. The UCI coherence between words w<sub>i</sub> and w<sub>j</sub> is defined as 
+* UCI Coherence Score: This coherence score is based on sliding windows and the pointwise mutual information of all word pairs using top N words by occurrence. Instead of calculating how often two words appear in the document, we calculate the word co-occurrence using a sliding window. It means that if our sliding window has a size of 10, for one particular word w<sub>i</sub>, we observe only 10 words before and after the word w<sub>i</sub>. The UCI coherence between words w<sub>i</sub> and w<sub>j</sub> is defined as 
 ```math
 C_{UCI}(w_{i}, w_{j}) = \log \frac{P(w_{i}, w_{j}) + 1}{P(w_{i}) \cdot P(w_{j})} 
 ```
 where P(w) is probability of seeing word w in the sliding window and P(w<sub>i</sub>, w<sub>j</sub>) is probability of seeing words w<sub>i</sub> and w<sub>j</sub> together in the sliding window.
 
-#### UMass Coherence Score
-#### CV Coherence Score
-#### UCI Coherence Score
+In order to analyze the shift in people's emotions towards COVID-19 over multiple waves, we implement the topic models independently for the first and the second COVID-19 waves. The topic modeling results for the first wave are summarized in the table below. LDA_BERT corresponds to the LDA model that has been run on data cleaned and labled using roBERTa while LDA_VADER corresponds to the LDA model that has been implemented on data processed using the VADER model. Similarly, LSA_BERT and LSA_VADER correspond to LSA models implemented on data obtained after being processed by roBERTa and VADER models respectively. The number of topics or clusters for the LDA models were fixed at 3 based on domain heuristics. It is assumed that these topics will capture tweets representing the positive, negative, and neutral sentiments of the people. Thus, the tweets data has been modeled into 3 topics/clusters. However, LSA being a simpler model may not capture the non-linear dependencies in the data and model the 3 topics appropriately. Thus, for LSA, we run the topic model for the number of topics/clusters ranging from 2 to 
+
+|Model	  |No. of Topics	 | UMass Coherence Score |	CV Coherence Score |	UCI Coherence Score |
+|LDA_BERT	| 3	             | -3.520704581	         |  0.2928482936	     |    0.04519712077     |
+|LDA_VADER|	3	             |  -3.610224525	       |  0.2706889428	     |    -0.07458269286    |
+|LSA_BERT	| 7              |	-4.128453703	       |  0.346167002	       |    -0.9805364877     |
+|LSA_VADER|	10             |	-4.454721729	       |  0.3036853252	     |    -0.9353867443     |
+
+####
 
 ### Supervised Learning
 We also used several different metrics to compare the performance of the models like :
