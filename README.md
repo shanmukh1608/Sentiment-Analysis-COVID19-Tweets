@@ -82,7 +82,10 @@ where U represents the document-topic matrix. Essentially, its values show the s
 * Encode the words/documents with the derived topics: We use the information obtained from SVD to decide what each derived topic represents and determine which documents belong to which topic.
 
 ##### Latent Dirichlet Allocation (LDA)
-
+Latent Dirichlet Allocation (LDA) is used as a Topic Modeling technique. It uses Dirichlet distribution to find topics for each document model and words for each topic model. The LDA makes two key assumptions:
+* Documents are a mixture of topics
+* Topics are a mixture of tokens (or words)
+The aim behind LDA is to find topics that the document belongs to, on the basis of words contained in it. It assumes that documents with similar topics will use a similar group of words. This enables the documents to map the probability distribution over latent topics where the topics are probability distributions.
 
 ### Supervised Learning
 We trained our data on several machine learning algorithms including :
@@ -94,6 +97,13 @@ We trained our data on several machine learning algorithms including :
 
 ## Results and Discussion
 
+### Unsupervised Learning
+To evaluate the topic coherence of the various topics obtained from the different topic modeling algorithms, we make use of the:
+* UMass Coherence Score: It calculates how often two words, w_{i} and w_{j} appear together in the corpus and it is defined as \begin{equation*} C_{UMass}(w_{i}, w_{j}) = \log \frac{D(w_{i}, w_{j}) + 1}{D(w_{i})}, \end{equation*} where D(w_{i}, w_{j}) indicates how many times words w_{i} and w_{j} appear together in documents, and D(w_{i}) is how many time word w_{i} appeared alone. We calculate the global coherence of the topic as the average pairwise coherence scores on the top N words which describe the topic. For the gensim implementation of the UMass Coherence Score, a more negative value indicates a better topic coherence.
+* CV Coherence Score: 
+* UCI Coherence Score
+
+### Supervised Learning
 We also used several different metrics to compare the performance of the models like :
 * Accuracy
 * Precision
