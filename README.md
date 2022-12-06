@@ -108,7 +108,7 @@ We trained our data on several machine learning algorithms including :
 
 ### Unsupervised Learning
 To evaluate the topic coherence of the various topics obtained from the different topic modeling algorithms, we make use of the:
-* UMass Coherence Score: It calculates how often two words, $ w_{i} $ and w_{j} appear together in the corpus and it is defined as 
+* UMass Coherence Score: It calculates how often two words, `$ w_{i} `$ and w_{j} appear together in the corpus and it is defined as 
 ```math 
 C_{UMass}(w_{i}, w_{j}) = \log \frac{D(w_{i}, w_{j}) + 1}{D(w_{i})},
 ``` 
