@@ -134,6 +134,9 @@ Table 1 elaboartes the different coherence metrics for each of the models. The U
 
 However, these metrics do not provide us with human-interpretable topic models. As a result, we cannot compare the shift in people's emotions from one COVID-19 wave to another. For this purpose, we make use of wordclouds. The topic models provide us with terms/tokens that model each topic. We can use these to create wordclouds that can help us to easily capture the essence of the different topics in each wave. 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47854124/205947809-fefec6f1-a858-4d77-b14b-2604dc253f8f.png"/> <img src="https://user-images.githubusercontent.com/47854124/205947809-fefec6f1-a858-4d77-b14b-2604dc253f8f.png"/></p>
+<h4 align="center">Table 2 - Topic Modeling Results for Second Wave</h4>
 
 ####
 
