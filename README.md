@@ -231,8 +231,6 @@ Accuracy =  0.589
 
 ##### Final Tuned
 
-tuned with n_estimators parameter
-
 Accuracy =  0.750
 
 |         |precision |   recall  |f1-score  |   support|
