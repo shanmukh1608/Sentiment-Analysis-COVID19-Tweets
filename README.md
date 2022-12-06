@@ -104,6 +104,23 @@ We trained our data on several machine learning algorithms including :
 * Neural Network (MLP)
 * SVM
 
+#### Multinomial Naive Bayes
+MultinomialNB implements the naive Bayes algorithm for multinomially distributed data, and is one of the two classic naive Bayes variants used in text classification.
+The distribution is parametrized by vectors $\theta_y=(\theta_{y1},....\theta_{yn})$ for each class y, where n is the number of features (in text classification, the size of the vocabulary) and $\theta_{yi}$ is the probability $P(x_i|y)$ of feature i appearing in a sample belonging to class y.
+
+#### Decision Tree
+Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation.
+
+#### Random Forest
+In random forests, each tree in the ensemble is built from a sample drawn with replacement (bootstrap sample) from the training set. Furthermore, when splitting each node during the construction of a tree, the best split is found either from all input features or a random subset of size max_features.
+The purpose of these two sources of randomness is to decrease the variance of the forest estimator. Individual decision trees typically exhibit high variance and tend to overfit.
+
+#### Neural Network (MLP)
+The MLP or multi layer perceptron is a form of a fully connected artificial neural network. It uses backpropagation for updating its parameters and It is capable of separating points that are not linearly separable by utilizing non-linear activation functions.
+
+#### SVM
+It is a supervised learning algorithm that is effective in high dimensional spaces. It aims at defining a hyperplane/hyperplanes separating each class of data points while maximizing the margin between the support vectors. New points are then classified based on which side of the hyperplane they fall on. It is relatively memory efficient but has an expensive time complexity of $O(n^3).
+
 ## Results and Discussion
 
 ### Unsupervised Learning
