@@ -29,12 +29,10 @@ Using Clustering and Topic Modeling [2], we also wish to find the prevalent topi
 
 We will use supervised machine learning models to predict the sentiment of a tweet. We will build these models by using sentiment scores that we will compute using various models (like TextBlob, Vader, roBERTa etc.) and compare the performance of the different supervised models.
 
-## Data Collection
+## Data Collection and Preparation
 
 ### Dataset
 Rabindra Lamsal’s [3] dataset comprises 2 Billion plus tweets along with a sentiment score for each tweet. For this project, we will hydrate a subset of the tweets from each wave and use it for our model ([Dataset Link](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset)). The sentiment scores in the dataset were calculated using uncleaned tweets. However, we felt that we could do better by removing the stopwords and utilizing cleaned data for our training to build more accurate models.
-
-## Methods
 
 ### Data Preparation
 The dataset in the link consists of unhydrated tweets, which means that they only contain the tweet ID related to COVID-19 tweets. Once the tweet data is fetched using the API, it is returned in the form of a nested dictionary with the sublevels consisting of the retweets and comments to that particular tweet. Most of this data is not useful to our study and we have only considered the actual tweet text itself for the analysis of the sentiment score.
@@ -61,6 +59,8 @@ We ran [cardiffnlp/twitter-roberta-base-sentiment-latest](cardiffnlp/twitter-rob
 
 ### Data Processing
 After the data was preprocessed, we converted the tweets into vectors to feed into our models. We applied the Bag of Words representation using the CountVectorizer from Scikit Learn. We limited our features to 500 as we didn't find a sharp increase in accuracy with greater number of features and we ran into RAM limitations when training models with more than 500 features. We then standardized features by subtracting the mean and scaling to unit variance using StandardScaler from Scikit Learn. Standardization of a dataset is a common preprocessing technique for many machine learning estimators: they might behave badly if the individual features do not more or less look like standard normally distributed data. The data was divided into an 80:20 split for training and testing respectively.
+
+## Methods
 
 ### Unsupervised Learning
 We used the following unsupervised learning algorithms:
@@ -143,7 +143,7 @@ In order to analyze the shift in people's emotions towards COVID-19 over multipl
   <img src="https://user-images.githubusercontent.com/47854124/205942796-93ccb92e-34a5-4aa1-8a40-8c43808f2161.png"/></p>
 <h4 align="center">Table 1 - Topic Modeling Results for First Wave</h4>
 
-Table 1 elaboartes the different coherence metrics for each of the models. The UMass Coherence Score is an intrinsic measure while the CV Coherence Score and the UCI Coherence Score are extrinsic measures that consider external benchmark datasets while evaluating topic coherence. Based on a combination of the three coherence scores, we can conclude that the LSA_BERT model results in the most coherent topics for the first wave. Table 2 summarizes the topic modeling results obtained for the second wave. For the second wave, the best topic coherence is obtained for 6 clusters for the LSA_BERT model, while LSA_VADER produces the best topic coherence for 8 clusters. Based on the different coherence measures for the different topic models, we can observe that the LSA_BERT model results in the most coherent topics for the second wave.
+Table 1 elaborates the different coherence metrics for each of the models. The UMass Coherence Score is an intrinsic measure while the CV Coherence Score and the UCI Coherence Score are extrinsic measures that consider external benchmark datasets while evaluating topic coherence. Based on a combination of the three coherence scores, we can conclude that the LSA_BERT model results in the most coherent topics for the first wave. Table 2 summarizes the topic modeling results obtained for the second wave. For the second wave, the best topic coherence is obtained for 6 clusters for the LSA_BERT model, while LSA_VADER produces the best topic coherence for 8 clusters. Based on the different coherence measures for the different topic models, we can observe that the LSA_BERT model results in the most coherent topics for the second wave.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/47854124/205947809-fefec6f1-a858-4d77-b14b-2604dc253f8f.png"/></p>
@@ -330,7 +330,7 @@ Accuracy =  0.667
 
 
 ## Conclusion
-In the study so far, we have processed about 6 months of data representing the tweets during multiple waves of COVID-19. We have experimented with different Language Models to obtain sentiment scores for the twitter data including TextBlob, Vader and roBERTa. On deeper inspection of the results we found that roBERTa provided the best results for sentiment classification . We have utilized PCA for feature selection and have trained several supervised models to compare their performance in classifying the sentiment of these tweets. The models were compared using four different metrics. We found that Random Forest performs better than the rest of the models with only the Neural Network (MLP) showing a comparable performance based on the metrics that we have tested. We believe it performed best because of its nature as an ensemble model which combines multiple decision trees to reduce the generalization error of the prediction. Naive bayes performed the worst relatively and the neural network will probably perform better when more data is fed into the model.
+In the study, we processed about 6 months of data representing the tweets during multiple waves of COVID-19. We experimented with different Language Models, including TextBlob, Vader and roBERTa, to obtain sentiment scores for the Twitter data. On deeper inspection of the results, we found that roBERTa provided the best results for sentiment classification. However, we ran our models on all three sets of data. We ran three unsupervised learning algorithms (PCA, LSA, and LDA). We utilized PCA for feature selection, and LSA and LDA for topic modeling. The topic modeling results were evaluated using three different metrics (UMass coherence score, CV coherence score, and UCI coherence score), and demonstrated using tables and visualizations such as word clouds and bar graphs (using pyLDAvis). For supervised learning, we trained several supervised models (multinomial Naive Bayes, decision tree, random forest, SVM, etc.) to compare their performance in classifying the sentiment of these tweets. The models were compared using four different metrics (accuracy, precision, recall, and F1-score). The detailed results were demonstrated above, but the summary is that ____ performed best because of ______. 
 
 ## References
 [1] Kaur, H., Ahsaan, S.U., Alankar, B. et al. “A Proposed Sentiment Analysis Deep Learning Algorithm for Analyzing COVID-19 Tweets.” Inf Syst Front 23, 1417–1429 (2021). https://doi.org/10.1007/s10796-021-10135-7. 
