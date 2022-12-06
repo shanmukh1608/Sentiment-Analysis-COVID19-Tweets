@@ -39,16 +39,23 @@ Rabindra Lamsal’s [3] dataset comprises 2 Billion plus tweets along with a sen
 ### Data Preparation
 The dataset in the link consists of unhydrated tweets, which means that they only contain the tweet ID related to COVID-19 tweets. Once the tweet data is fetched using the API, it is returned in the form of a nested dictionary with the sublevels consisting of the retweets and comments to that particular tweet. Most of this data is not useful to our study and we have only considered the actual tweet text itself for the analysis of the sentiment score.
 
-The data was sourced using the "twarc" module which allows us to retrieve data by referencing the tweet id through twitter's API. Twitter's API times out the python script after a certain number of requests or when the rate of requests to the server exceeds a certain amount. We tried solving this by exploring other modules such as "tweepy" and "twint". tweepy ran into the same issue as twarc as both utilize twitter's API for their data , twint on the other hand is deprecated after twitter's update to API version 2.0. We finally resolved this issue by running the program using twarc on multiple systems using different API keys.
+The data was sourced using the "twarc" module which allows us to retrieve data by referencing the tweet id through twitter's API. Twitter's API times out the python script after a certain number of requests or when the rate of requests to the server exceeds a certain amount. We tried solving this by exploring other modules such as "tweepy" and "twint". tweepy ran into the same issue as twarc as both utilize twitter's API for their data, twint on the other hand is deprecated after twitter's update to API version 2.0. We finally resolved this issue by running the program using twarc on multiple systems using different API keys.
 
 The amount of tweets in the dataset was too large for us to handle on local machines. The unhydrated tweets for one year amounts to approximately 6 Gigabytes of Data. The data was further split into approximately 800 text files for each month in the year.
 
-To process this data,we first identified the relevant months based on the waves of the COVID-19 pandemic and then hydrated a representative sample of the tweets from each month and stored it in "jsonl" format for easier sharing. The tweet data at this point comprised of various languages, the tweets were filtered by english to maintain homogeneity, all the words were converted to lowercase, punctuation and stop words were removed. Some of the tweets returned contained only either blank spaces or empty strings, we dropped these rows as they constituted a very small percentage of our dataset (0.1%).
+To process this data, we first identified the relevant months based on the waves of the COVID-19 pandemic and then hydrated a representative sample of the tweets from each month and stored it in "jsonl" format for easier sharing. The tweet data at this point comprised of various languages, so tweets were filtered by English to maintain homogeneity. Some of the tweets returned contained only either blank spaces or empty strings, we dropped these rows as they constituted a very small percentage of our dataset (0.1%).
 
-To understand the sentiment of our tweets they were then passed to TextBlob which is a lexicon based sentiment analyzer that can be used for sentiment analysis. These values formed the truth labels for our dataset. For modeling, we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png"/></p>
-<h4 align="center">Fig.1 - Distribution of Labels in the Sample Dataset</h4>
+To understand the sentiment of our tweets, we used three methods. Each of the methods assigned sentiment scores, which formed the truth labels for our dataset. For modeling, we created a subset of our data consisting of equal proportions of positive, negative and neutral tweets.
+
+#### TextBlob
+The words in the tweets were converted to lowercase, the punctuation and stop words were removed, and the text was then lemmatized using spaCy. The tweets with cleaned text were then then passed to [TextBlob](https://textblob.readthedocs.io/en/dev/index.html) which is a lexicon based sentiment analyzer that can be used for sentiment analysis. 
+
+#### VADER (Valence Aware Dictionary for Sentiment Reasoning)
+[VADER](https://github.com/cjhutto/vaderSentiment) is a model used for text sentiment analysis that is sensitive to both polarity (positive/negative) and intensity (strength) of emotion. VADER takes text as input and returns a dictionary with scores in four categories (negative, neutral, positive, and compound). VADER is known for being specifically attuned to sentiments expressed in social media. The tweets were passed to VADER without cleaning/lemmatization, as the VADER documents recommend using un-cleaned data.
+
+#### Twitter-roBERTa-base for Sentiment Analysis
+We ran [cardiffnlp/twitter-roberta-base-sentiment-latest](cardiffnlp/twitter-roberta-base-sentiment-latest), which is a roBERTa-base model trained on ~124M tweets from January 2018 to December 2021 finetuned for sentiment analysis. It returns scores in three categories (negative, neutral, positive), and also recommends using un-cleaned data. Therefore, we passed tweets to the model without cleaning/lemmatization.
+
 <!-- <p align="center"><figcaption>Fig.1 - Distribution of Labels in the Sample Dataset</figcaption></p> -->
 <!-- ![alt text](https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png)[alt] -->
 
