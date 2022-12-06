@@ -84,7 +84,7 @@ Therefore, the learning of LSA for latent topics includes matrix decomposition o
 Steps for Latent Semantic Analysis:
 * Convert raw text into a document-term matrix: Before deriving topics from documents, the text has to be converted into a document-term matrix. We do this using the Bag of Words approach from the gensim python library. 
 * Implement Truncated Singular Value Decomposition: We use the gensim lsimodel to implement fast truncated SVD (Singular Value Decomposition). This operation decomposes the document-term matrix A. Mathematically, this can be stated as:
-$$ A_{n X m} = U_{n X r}S_{r X r}V^T_{m X r} $$
+<MATH> A_{n X m} = U_{n X r}S_{r X r}V^T_{m X r} </MATH>
 where U represents the document-topic matrix. Essentially, its values show the strength of association between each document and its derived topics. The matrix has n x r dimensions, with n representing the number of documents and r representing the number of topics. S represents a diagonal matrix that evaluates the strength of each topic in the collection of documents. The variable V represents the word-topic matrix. Its values show the strength of association between each word and the derived topics.
 * Encode the words/documents with the derived topics: We use the information obtained from SVD to decide what each derived topic represents and determine which documents belong to which topic.
 
