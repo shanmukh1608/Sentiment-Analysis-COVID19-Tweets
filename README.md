@@ -73,7 +73,9 @@ To reduce the number of features in our model further, we used the unsupervised 
 
 #### Topic Modeling
 Topic Modeling helps in automatically organizing, understanding, searching, and summarizing large sets of documents. Topic modeling is an unsupervised learning technique that can be used to find word patterns in a set of documents. It clusters the word groupings and related expressions that best represent a cluster. Hence, Topic Modeling can be used to discover abstract topics in a collection of documents.
-
+```math
+\sqrt{3}
+```
 ##### Latent Semantic Analysis (LSA)
 Latent Semantic Analysis is one of the foundational techniques used in Topic Modeling. The core idea is to decompose a matrix of documents and terms into two separate matrices - 
 * A document-topic matrix
@@ -84,7 +86,7 @@ Therefore, the learning of LSA for latent topics includes matrix decomposition o
 Steps for Latent Semantic Analysis:
 * Convert raw text into a document-term matrix: Before deriving topics from documents, the text has to be converted into a document-term matrix. We do this using the Bag of Words approach from the gensim python library. 
 * Implement Truncated Singular Value Decomposition: We use the gensim lsimodel to implement fast truncated SVD (Singular Value Decomposition). This operation decomposes the document-term matrix A. Mathematically, this can be stated as:
-<MATH> A_{n X m} = U_{n X r}S_{r X r}V^T_{m X r} </MATH>
+$$ A_{n X m} = U_{n X r}S_{r X r}V^T_{m X r} $$
 where U represents the document-topic matrix. Essentially, its values show the strength of association between each document and its derived topics. The matrix has n x r dimensions, with n representing the number of documents and r representing the number of topics. S represents a diagonal matrix that evaluates the strength of each topic in the collection of documents. The variable V represents the word-topic matrix. Its values show the strength of association between each word and the derived topics.
 * Encode the words/documents with the derived topics: We use the information obtained from SVD to decide what each derived topic represents and determine which documents belong to which topic.
 
