@@ -64,9 +64,26 @@ After the data was preprocessed, we converted the tweets into vectors to feed in
 
 ### Exploratory Data Analysis
 
+Before feeding our dataset into machine learning models, it was imperative that we carefully studied and understood the dataset that we collected to maximize the information gained from the features of our dataset. Using exploratory data analysis we were able to investigate the dataset in terms of the 3 sentiment scoring models (TextBlob, Vader, RoBERTa) as well as across the 2 waves of Covid-19.
+
+Our dataset consisted of 660977 tweets related to Covid-19 spanning more than 6 months. We used only English language tweets to aid our models and the tweets had an average length of 11.94 words and 80.4 characters. Across the three sentiment scoring models, we noticed that TextBlob and Vader labeled the tweets more or less evenly across the 3 labels whereas RoBERTa’s labeling was skewed more towards the Neutral/Negative spectrum.
+
+|          | Positive | Neutral | Negative |
+|----------|----------|---------|----------|
+| TextBlob | 263146   | 251824  | 146007   |
+| Vader    | 271747   | 166268  | 222691   |
+| roBERTa  | 79961    | 315880  | 264865   |
+
+Upon further investigation of RoBERTa’s labeling, we also noticed that the model labeled a tweet as positive only if the tweet was extremely positive whereas it labeled a tweet as negative with a more even distribution of scoring as evidenced below. 
+
 <p align="center">
   <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/9bb8f5e70ab67aac60573ee8d685869763cbce9a/edapics/roberta_pos.png"/></p>
-<h4 align="center">Table 1 - Topic Modeling Results for First Wave</h4>
+<h4 align="center">RoBERTa Positive Score Distribution</h4>
+
+<p align="center">
+  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/b511bde878d2ac02ad72a2cc27acc93a806fd34c/edapics/roberta_neg.png"/></p>
+<h4 align="center">RoBERTa Negative Score Distribution</h4>
+
 
 
 ### Unsupervised Learning
