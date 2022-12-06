@@ -84,6 +84,15 @@ Upon further investigation of RoBERTa’s labeling, we also noticed that the mod
   <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/b511bde878d2ac02ad72a2cc27acc93a806fd34c/edapics/roberta_neg.png"/></p>
 <h4 align="center">RoBERTa Negative Score Distribution</h4>
 
+Another aspect of the data that we investigated was the prevalent keywords used in Positive and Negative tweets and how they were similar/different. The word clouds we plotted for both labels helped us answer this question. A lot of the keywords used in the tweets were overlapping for both Positive and Negative word clouds with common words like Masks, Lockdown, Vaccinations occurring in both sets of tweets. However, the two word clouds also showed subtle differences amongst them. The negatively labeled tweets had negatively inclined keywords like Hate, Death, sad, hospital, etc and the positively labeled tweets had keywords like Family, Care, Love, etc. The word clouds can be found below :
+
+<p align="center">
+  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/d8bf51f270642995126595d38a3bbac0e22b522a/edapics/pos_vader_all.png"/></p>
+<h4 align="center">Positive Word Cloud</h4>
+
+<p align="center">
+  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/d8bf51f270642995126595d38a3bbac0e22b522a/edapics/neg_vader_all.png"/></p>
+<h4 align="center">Negative Word Cloud</h4>
 
 
 ### Unsupervised Learning
