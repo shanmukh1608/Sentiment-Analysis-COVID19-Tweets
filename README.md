@@ -10,10 +10,10 @@ Team Members:
 # Final Report
 
 ## Links 
-* [Presentation Video](https://gtvault.sharepoint.com/:v:/s/ML7641Group/EbxlMAj5A85InPjVNTXYOxsB57fuOYIhNaEYB0DQmTki7Q?e=aSr94n)(Proposal)
-* [Presentation (PPT)](https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw?e=h4C4Md)(Proposal)
-* [Gantt Chart](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EbdIFInSHgtCnq1xi3FxrikBSQiLFQ_IHpAhqi9xQHOyHw?e=84Ur5Y)(Proposal)
-* [Proposal Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ)(updated)
+* [Presentation Video](https://gtvault.sharepoint.com/:v:/s/ML7641Group/EbxlMAj5A85InPjVNTXYOxsB57fuOYIhNaEYB0DQmTki7Q?e=aSr94n) (Proposal)
+* [Presentation (PPT)](https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw?e=h4C4Md) (Proposal)
+* [Gantt Chart](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EbdIFInSHgtCnq1xi3FxrikBSQiLFQ_IHpAhqi9xQHOyHw?e=84Ur5Y) (Proposal)
+* [Final Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ) (Updated)
 
 ## Introduction/Background
 Social media is playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
@@ -27,12 +27,14 @@ Using the wealth of data available to us online, we seek to identify the shift i
 
 Using Clustering and Topic Modeling [2], we also wish to find the prevalent topics that were being discussed with respect to COVID-19 and analyze the sentiment around those topics. We plan on studying how these sentiments changed during various waves of the pandemic. 
 
-We will use supervised machine learning models to predict the sentiment of a tweet. We will build these models by using sentiment scores that we will compute using various models (like TextBlob, Vader etc.) and compare the performance of the different supervised models.
+We will use supervised machine learning models to predict the sentiment of a tweet. We will build these models by using sentiment scores that we will compute using various models (like TextBlob, Vader, roBERTa etc.) and compare the performance of the different supervised models.
 
-## Methods
+## Data Collection
 
 ### Dataset
 Rabindra Lamsal’s [3] dataset comprises 2 Billion plus tweets along with a sentiment score for each tweet. For this project, we will hydrate a subset of the tweets from each wave and use it for our model ([Dataset Link](https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset)). The sentiment scores in the dataset were calculated using uncleaned tweets. However, we felt that we could do better by removing the stopwords and utilizing cleaned data for our training to build more accurate models.
+
+## Methods
 
 ### Data Preparation
 The dataset in the link consists of unhydrated tweets, which means that they only contain the tweet ID related to COVID-19 tweets. Once the tweet data is fetched using the API, it is returned in the form of a nested dictionary with the sublevels consisting of the retweets and comments to that particular tweet. Most of this data is not useful to our study and we have only considered the actual tweet text itself for the analysis of the sentiment score.
@@ -53,10 +55,27 @@ To understand the sentiment of our tweets they were then passed to TextBlob whic
 ### Data Processing
 After the data was preprocessed, we converted the tweets into vectors to feed into our models. We applied the Bag of Words representation using the CountVectorizer from Scikit Learn. We limited our features to 500 as we didn't find a sharp increase in accuracy with greater number of features and we ran into RAM limitations when training models with more than 500 features. We then standardized features by subtracting the mean and scaling to unit variance using StandardScaler from Scikit Learn. Standardization of a dataset is a common preprocessing technique for many machine learning estimators: they might behave badly if the individual features do not more or less look like standard normally distributed data. The data was divided into an 80:20 split for training and testing respectively.
 
-#### Unsupervised Learning
+### Unsupervised Learning
+We used the following unsupervised learning algorithms:
+* Principal Component Analysis (PCA)
+* Latent Semantic Analysis (LSA)
+* Latent Dirichlet Allocation (LDA)
+
+#### Principal Component Analysis (PCA)
 To reduce the number of features in our model further, we used the unsupervised learning technique Principal Component Analysis (PCA). PCA uses the Singular Value Decomposition of the data to project it to a lower dimensional space. Instead of manually setting the number of components, we set the variance of the input that is supposed to be explained by the generated components to 95%. PCA returned 419 features which we then used to train our models.
 
-#### Supervised Learning
+#### Topic Modeling
+Topic Modeling helps in automatically organizing, understanding, searching, and summarizing large sets of documents. Topic modeling is an unsupervised learning technique that can be used to find word patterns in a set of documents. It clusters the word groupings and related expressions that best represent a cluster. Hence, Topic Modeling can be used to discover abstract topics in a collection of documents.
+
+##### Latent Semantic Analysis (LSA)
+Latent Semantic Analysis is one of the foundational techniques used in Topic Modeling. The core idea is to decompose a matrix of documents and terms into two separate matrices - 
+* A document-topic matrix
+* A topic-term matrix
+
+
+##### Latent Dirichlet Allocation (LDA)
+
+### Supervised Learning
 We trained our data on several machine learning algorithms including :
 * Multinomial Naive Bayes
 * Decision Tree
