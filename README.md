@@ -127,6 +127,7 @@ where U represents the document-topic matrix. Essentially, its values show the s
 Latent Dirichlet Allocation (LDA) is used as a Topic Modeling technique. It uses Dirichlet distribution to find topics for each document model and words for each topic model. The LDA makes two key assumptions:
 * Documents are a mixture of topics
 * Topics are a mixture of tokens (or words)
+
 The aim behind LDA is to find topics that the document belongs to, on the basis of words contained in it. It assumes that documents with similar topics will use a similar group of words. This enables the documents to map the probability distribution over latent topics where the topics are probability distributions.
 
 ### Supervised Learning
