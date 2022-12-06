@@ -152,7 +152,7 @@ However, these metrics do not provide us with human-interpretable topic models. 
 
 The wordclouds clearly indicate a shift in people's tweets as COVID-19 progresses from one wave to the next. The topics in the first wave mostly revolve around lockdowns, work from home, wearing masks, the COVID-19 pandemic, vaccines, and new cases. However, the emphasis on lockdowns and masks reduces in the second wave. The second wave is characterized by topics like the omicron variant, vaccine mandates and the booster dose.
 
-The LDA topic models were explored in further depth by using the pyLDAvis python package. This helped us produce interactive visualizations
+The LDA topic models were explored in further depth by using the pyLDAvis python package. This helped us produce interactive visualizations that map the intertopic distance and show the estimated term frequency within each topic along with the overall freuency of the terms for the top sailent terms for that topic. This supports human interpretation of the topics modeled by the LDA model.
 
 ![image](https://user-images.githubusercontent.com/47854124/205978833-3ef43fe9-99cf-4a01-99af-95824d308d2c.png)
 
