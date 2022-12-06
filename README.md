@@ -16,7 +16,7 @@ Team Members:
 * [Final Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ) (Updated)
 
 ## Introduction/Background
-Social media is playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
+Social media, such as Twitter, are playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. People use social media to express their emotions and thoughts over the happenings of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
 
 With the onset of 2020, came the COVID-19 pandemic. Over a series of multiple waves, it prompted governments to frame new policies like social distancing and pushed most forms of human contact to the online world. In this project, we aim to analyze people’s sentiments towards COVID-19 over various waves and build a classifier to predict the sentiment of COVID related tweets. 
 
