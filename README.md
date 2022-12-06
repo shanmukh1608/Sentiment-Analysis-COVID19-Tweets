@@ -173,25 +173,25 @@ The SVM classifier was not able to train to completion due to the time complexit
 
 ### Final Models
 
-We ran an updated model with data from roBERTa as Textblob didnt give accurate sentiment scores and labels to our data.
+We ran an updated model with data from roBERTa as Textblob didnt give accurate sentiment scores and labels to our data. The results below include those from an initial run with default parameters for each of the models and a final model with optimized hyperparameters.
 
 #### MultinomialNB
--we included more relevant features (800) to provide more context to ML models
--and we tweaked the smoothing parameter and found that the optimal value is 1.
+Accuracy =  0.641
 
-Accuracy =  0.6414635992129559
-Classification Report
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
 |Negative   |    0.63   |  0.68    |   0.66   |  52823  |
 |Positive   |    0.68   |  0.66    |   0.67   |  63446  |
 |Neutral    |  0.50     |  0.44    |   0.47   |  15871  |
 
-#### DT
-#### Intial
 
-Accuracy =  0.5453004389284093
-Classification Report
+#### Decision Tree
+For the optimization of parameters we first trained a tree with max depth and then pruned the tree with cost complexity pruning to find an effective alpha to produce significant results while minimizing training time.
+
+##### Intial
+
+Accuracy =  0.545
+
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
 |Negative   |    0.61   |  0.32    |    0.42   |  52823  |
@@ -199,9 +199,9 @@ Classification Report
 |Neutral    |  0.53    |  0.05    |   0.09   |  15871  |
  
            
-#### Final
+##### Final
 
-Accuracy =  0.6006735280762827
+Accuracy =  0.601
 Classification Report
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
@@ -212,23 +212,29 @@ Classification Report
            
            
 #### Random Forest
+The inital random forest was built with a max depth of 10 to check performance. It did not appear to capture the complex patterns in the data so we removed the limit on the depth to allow the decision trees to capture more patterns.
 
-#### Initial
+|Hyperparameters| Initial | Final|
+|---------------|---------------|---------------|
+|max_depth      | 'None' | 10|
+|max_features   | "all" | "sqrt"|
 
-Accuracy =  0.5893824731345543
-Classification Report
+##### Initial
+
+Accuracy =  0.589
+
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
 |Negative   |     0.69    | 0.41     |    0.51   |  52823  |
 |Positive   |   0.56    |  0.89     |  0.68   |  63446  |
 |Neutral    |  0.95   |  0.02    |  0.03    |  15871  |
 
-#### Final Tuned
+##### Final Tuned
 
 tuned with n_estimators parameter
 
-Accuracy =  0.7502043287422431
-Classification Report
+Accuracy =  0.750
+
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
 |Negative   |     0.74    | 0.77     |    0.76   |  52823  |
@@ -237,9 +243,11 @@ Classification Report
 
            
 #### MLP Classifer
+For the MLP the inital model was built with 100 layers and second model was built with 10 layers. We did not find significant changes in performance between the models.
 
-Accuracy =  0.6657635840774936
-Classification Report
+##### Initial
+Accuracy =  0.666
+
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
 |Negative   |     0.68    | 0.66    |    0.67   |  52823  |
@@ -247,10 +255,10 @@ Classification Report
 |Neutral    |  0.68   |  0.29    |  0.41   |  15871  |
 
                 
-# Final
+##### Final
 
-Accuracy =  0.6669517178749811
-Classification Report
+Accuracy =  0.667
+
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
 |Negative   |     0.68    | 0.65    |    0.67   |  52823  |
