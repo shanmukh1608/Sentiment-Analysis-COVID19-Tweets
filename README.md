@@ -132,20 +132,23 @@ Table 1 elaboartes the different coherence metrics for each of the models. The U
   <img src="https://user-images.githubusercontent.com/47854124/205947809-fefec6f1-a858-4d77-b14b-2604dc253f8f.png"/></p>
 <h4 align="center">Table 2 - Topic Modeling Results for Second Wave</h4>
 
-However, these metrics do not provide us with human-interpretable topic models. As a result, we cannot compare the shift in people's emotions from one COVID-19 wave to another. For this purpose, we make use of wordclouds. The topic models provide us with terms/tokens that model each topic. We can use these to create wordclouds that can help us to easily capture the essence of the different topics in each wave. 
+However, these metrics do not provide us with human-interpretable topic models. As a result, we cannot compare the shift in people's emotions from one COVID-19 wave to another. For this purpose, we make use of wordclouds. The topic models provide us with terms/tokens that model each topic. We can use these to create wordclouds that can help us to easily capture the essence of the different topics in each wave. Figure 2 shows the wordcloud obtained from the topics modeled by LSA_BERT for the first wave, while Figure 3 shows the wordcloud corresponding to the second wave as modeled by LSA_BERT. Figure 4 shows the wordcloud corresponding to the first wave as modeled by LDA_VADER, while Figure 5 corresponds to the wordcloud obtained from the topics modeled by LDA_VADER for the second wave.
 
-<div class="float-container">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47854124/205974062-de69cc8a-ad98-4fed-822e-777f82dcf6f5.png"/></p>
+<h4 align="center">Figure 2 - LSA_BERT wordcloud for First Wave</h4>
 
-  <div class="float-child green">
-    Float Column 1
-  </div>
-  
-  <div class="float-child blue">
-    Float Column 2
-  </div>
-  
-</div>
-####
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47854124/205974446-f64142f5-5680-4ec9-a588-cbca60394ece.png"/></p>
+<h4 align="center">Figure 3 - LSA_BERT wordcloud for Second Wave</h4>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47854124/205974611-7994755d-ef75-4949-98d0-1ddc51e1cb6f.png"/></p>
+<h4 align="center">Figure 4 - LDA_VADER wordcloud for First Wave</h4>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/47854124/205974823-30900796-1466-48af-a29c-8296d8800ad7.png"/></p>
+<h4 align="center">Figure 5 - LDA_VADER wordcloud for Second Wave</h4>
 
 ### Supervised Learning
 We also used several different metrics to compare the performance of the models like :
