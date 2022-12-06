@@ -108,13 +108,17 @@ We trained our data on several machine learning algorithms including :
 
 ### Unsupervised Learning
 To evaluate the topic coherence of the various topics obtained from the different topic modeling algorithms, we make use of the:
-* UMass Coherence Score: It calculates how often two words, w<sub>i</sub> and w_{j} appear together in the corpus and it is defined as 
+* UMass Coherence Score: It calculates how often two words, w<sub>i</sub> and w<sub>j</sub> appear together in the corpus and it is defined as 
 ```math 
 C_{UMass}(w_{i}, w_{j}) = \log \frac{D(w_{i}, w_{j}) + 1}{D(w_{i})},
 ``` 
-where ```math D(w_{i}, w_{j}) ``` indicates how many times words ```math w_{i}``` and ```math w_{j}``` appear together in documents, and ```math D(w_{i}) ``` is how many time word ```math w_{i} ``` appeared alone. We calculate the global coherence of the topic as the average pairwise coherence scores on the top N words which describe the topic. For the gensim implementation of the UMass Coherence Score, a more negative value indicates a better topic coherence.
+where D(w<sub>i</sub>,w<sub>j</sub>) indicates how many times words w<sub>i</sub> and w<sub>j</sub> appear together in documents, and D(w<sub>i</sub>) is how many times word w<sub>i</sub> appeared alone. We calculate the global coherence of the topic as the average pairwise coherence scores on the top N words which describe the topic. For the gensim implementation of the UMass Coherence Score, a more negative value indicates a better topic coherence.
 * CV Coherence Score: It creates content vectors of words using their co-occurrences and, after that, calculates the score using normalized pointwise mutual information (NPMI) and the cosine similarity. A larger value indicates better topic coherence.
-* UCI Coherence Score: This coherence score is based on sliding windows and the pointwise mutual information of all word pairs using top N words by occurrence. Instead of calculating how often two words appear in the document, we calculate the word co-occurrence using a sliding window. It means that if our sliding window has a size of 10, for one particular word w_{i}, we observe only 10 words before and after the word w_{i}. The UCI coherence between words w_{i} and w_{j} is defined as \begin{equation*} C_{UCI}(w_{i}, w_{j}) = \log \frac{P(w_{i}, w_{j}) + 1}{P(w_{i}) \cdot P(w_{j})}. \end{equation*} where P(w) is probability of seeing word w in the sliding window and P(w_{i}, w_{j}) is probability of appearing words w_{i} and w_{j} together in the sliding window.
+* UCI Coherence Score: This coherence score is based on sliding windows and the pointwise mutual information of all word pairs using top N words by occurrence. Instead of calculating how often two words appear in the document, we calculate the word co-occurrence using a sliding window. It means that if our sliding window has a size of 10, for one particular word w_{i}, we observe only 10 words before and after the word w<sub>i</sub>. The UCI coherence between words w<sub>i</sub> and w<sub>j</sub> is defined as 
+```math
+C_{UCI}(w_{i}, w_{j}) = \log \frac{P(w_{i}, w_{j}) + 1}{P(w_{i}) \cdot P(w_{j})} 
+```
+where P(w) is probability of seeing word w in the sliding window and P(w<sub>i</sub>, w<sub>j</sub>) is probability of seeing words w<sub>i</sub> and w<sub>j</sub> together in the sliding window.
 
 #### UMass Coherence Score
 #### CV Coherence Score
