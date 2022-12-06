@@ -188,6 +188,12 @@ Accuracy =  0.641
 #### Decision Tree
 For the optimization of parameters we first trained a tree with max depth and then pruned the tree with cost complexity pruning to find an effective alpha to produce significant results while minimizing training time.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/112896256/201557655-4bacd6ef-4a40-4445-8838-40d2f81f8029.png"/></p>
+<h4 align="center">Fig.1 - Distribution of Labels in the Sample Dataset</h4>
+<!-- <p align="center"><figcaption>Fig.1 - Distribution of Labels in the Sample Dataset</figcaption></p> -->
+<!-- ![alt text](https://user-images.githubusercontent.com/112896256/205878433-6f4cdda1-5c3c-487b-9081-d684f4486fe6.png)[alt] -->
+
 ##### Intial
 
 Accuracy =  0.545
