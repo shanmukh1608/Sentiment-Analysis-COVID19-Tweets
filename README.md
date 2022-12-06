@@ -121,6 +121,7 @@ We also used several different metrics to compare the performance of the models 
 * Recall
 * F1-score
 
+### Preliminary Models
 #### Multinomial Naive Bayes
 
 The Multinomial Naive Bayes Model achieved an Accuracy of 0.693.
@@ -131,6 +132,7 @@ The Multinomial Naive Bayes Model achieved an Accuracy of 0.693.
 | negative     | 0.73      | 0.62   | 0.67     | 8088    |
 | neutral      | 0.65      | 0.78   | 0.70     | 8042    |
 | Positive     | 0.72      | 0.69   | 0.70     | 7870    |
+
 
 
 #### Decision Tree
@@ -169,8 +171,95 @@ The Neural Network (MLP) achieved an Accuracy of 0.748.
 
 The SVM classifier was not able to train to completion due to the time complexity being (O(n_samples^2 * n_features)). Since this is a language based dataset it is important to retain features to capture the sentiment of the tweet effectively. The training time for SVM cannot be reduced further without sacrificing information.
 
+### Final Models
+
+We ran an updated model with data from roBERTa as Textblob didnt give accurate sentiment scores and labels to our data.
+
+#### MultinomialNB
+-we included more relevant features (800) to provide more context to ML models
+-and we tweaked the smoothing parameter and found that the optimal value is 1.
+
+Accuracy =  0.6414635992129559
+Classification Report
+|         |precision |   recall  |f1-score  |   support|
+|----------|-----------|----------|----------|---------|
+|Negative   |    0.63   |  0.68    |   0.66   |  52823  |
+|Positive   |    0.68   |  0.66    |   0.67   |  63446  |
+|Neutral    |  0.50     |  0.44    |   0.47   |  15871  |
+
+#### DT
+#### Intial
+
+Accuracy =  0.5453004389284093
+Classification Report
+|         |precision |   recall  |f1-score  |   support|
+|----------|-----------|----------|----------|---------|
+|Negative   |    0.61   |  0.32    |    0.42   |  52823  |
+|Positive   |    0.53   |  0.85     |   0.65   |  63446  |
+|Neutral    |  0.53    |  0.05    |   0.09   |  15871  |
+ 
+           
+#### Final
+
+Accuracy =  0.6006735280762827
+Classification Report
+|         |precision |   recall  |f1-score  |   support|
+|----------|-----------|----------|----------|---------|
+|Negative   |    0.60   |  0.56    |    0.58   |  52823  |
+|Positive   |    0.60   |  0.73     |  0.66   |  63446  |
+|Neutral    |  0.62   |  0.22    |   0.33   |  15871  |
+
+           
+           
+#### Random Forest
+
+#### Initial
+
+Accuracy =  0.5893824731345543
+Classification Report
+|         |precision |   recall  |f1-score  |   support|
+|----------|-----------|----------|----------|---------|
+|Negative   |     0.69    | 0.41     |    0.51   |  52823  |
+|Positive   |   0.56    |  0.89     |  0.68   |  63446  |
+|Neutral    |  0.95   |  0.02    |  0.03    |  15871  |
+
+#### Final Tuned
+
+tuned with n_estimators parameter
+
+Accuracy =  0.7502043287422431
+Classification Report
+|         |precision |   recall  |f1-score  |   support|
+|----------|-----------|----------|----------|---------|
+|Negative   |     0.74    | 0.77     |    0.76   |  52823  |
+|Positive   |   0.75    |  0.81     |  0.78   |  63446  |
+|Neutral    |  0.82   |  0.43    |  0.56    |  15871  |
+
+           
+#### MLP Classifer
+
+Accuracy =  0.6657635840774936
+Classification Report
+|         |precision |   recall  |f1-score  |   support|
+|----------|-----------|----------|----------|---------|
+|Negative   |     0.68    | 0.66    |    0.67   |  52823  |
+|Positive   |   0.66    |  0.77     |  0.71   |  63446  |
+|Neutral    |  0.68   |  0.29    |  0.41   |  15871  |
+
+                
+# Final
+
+Accuracy =  0.6669517178749811
+Classification Report
+|         |precision |   recall  |f1-score  |   support|
+|----------|-----------|----------|----------|---------|
+|Negative   |     0.68    | 0.65    |    0.67   |  52823  |
+|Positive   |   0.66    |  0.78     |  0.71   |  63446  |
+|Neutral    |  0.68   |  0.29    |  0.41   |  15871  |
+
+
 ## Conclusion
-In the study so far, we have processed about 6 months of data representing the tweets during multiple waves of COVID-19. We have utilized PCA for feature selection and have trained several supervised models to compare their performance in classifying the sentiment of these tweets. The models were compared using four different metrics. We found that Random Forest performs better than the rest of the models with only the Neural Network (MLP) showing a comparable performance based on the metrics that we have tested. We believe it performed best because of its nature as an ensemble model which combines multiple decision trees to reduce the generalization error of the prediction. Naive bayes performed the worst relatively and the neural network will probably perform better when more data is fed into the model.
+In the study so far, we have processed about 6 months of data representing the tweets during multiple waves of COVID-19. We have experimented with different Language Models to obtain sentiment scores for the twitter data including TextBlob, Vader and roBERTa. On deeper inspection of the results we found that roBERTa provided the best results for sentiment classification . We have utilized PCA for feature selection and have trained several supervised models to compare their performance in classifying the sentiment of these tweets. The models were compared using four different metrics. We found that Random Forest performs better than the rest of the models with only the Neural Network (MLP) showing a comparable performance based on the metrics that we have tested. We believe it performed best because of its nature as an ensemble model which combines multiple decision trees to reduce the generalization error of the prediction. Naive bayes performed the worst relatively and the neural network will probably perform better when more data is fed into the model.
 
 ## References
 [1] Kaur, H., Ahsaan, S.U., Alankar, B. et al. “A Proposed Sentiment Analysis Deep Learning Algorithm for Analyzing COVID-19 Tweets.” Inf Syst Front 23, 1417–1429 (2021). https://doi.org/10.1007/s10796-021-10135-7. 
