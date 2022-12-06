@@ -253,7 +253,7 @@ For the optimization of parameters we first trained a tree with max depth and th
 <h4 align="center">Fig.1 - Distribution of Labels in the Sample Dataset</h4>
 
 
-##### Intial
+##### Initial
 
 Accuracy =  0.545
 
