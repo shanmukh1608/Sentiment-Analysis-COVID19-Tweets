@@ -97,7 +97,7 @@ Another aspect of the data that we investigated was the prevalent keywords used 
 Finally, we also wanted to analyze the difference in themes between the 2 waves. As an example, we look at word clouds of negatively labeled tweets from wave 1 and 2 below. We noticed that the conversation surrounding Covid-19 had also changed in between waves. The first wave used keywords like Trump, lockdown, government whereas the second wave saw a decrease in interest in those keywords and saw new keywords like Omicron, vaccinations and variants.
 
 <p align="center">
-  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/cc3ac1d534da65d6eaecf4db8df6d0515857942c/edapics/neg_vader_1.png"/></p>
+  <img src="edapics/neg_vader_1.png"/></p>
 <h4 align="center">Wave 1 Word Cloud</h4>
 
 <p align="center">
