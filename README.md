@@ -77,7 +77,7 @@ Our dataset consisted of 660977 tweets related to Covid-19 spanning more than 6 
 Upon further investigation of RoBERTa’s labeling, we also noticed that the model labeled a tweet as positive only if the tweet was extremely positive whereas it labeled a tweet as negative with a more even distribution of scoring as evidenced below. 
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/44746109/206121971-908cbd89-fc67-4588-8d0f-92c7efb50dc8.png)"/></p>
+  <img src="https://user-images.githubusercontent.com/44746109/206121971-908cbd89-fc67-4588-8d0f-92c7efb50dc8.png"/></p>
 <h4 align="center">RoBERTa Positive Score Distribution</h4>
 
 <p align="center">
