@@ -10,10 +10,9 @@ Team Members:
 # Final Report
 
 ## Links 
-* [Presentation Video](https://gtvault.sharepoint.com/:v:/s/ML7641Group/EbxlMAj5A85InPjVNTXYOxsB57fuOYIhNaEYB0DQmTki7Q?e=aSr94n) (Proposal)
-* [Presentation (PPT)](https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw?e=h4C4Md) (Proposal)
-* [Gantt Chart](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EbdIFInSHgtCnq1xi3FxrikBSQiLFQ_IHpAhqi9xQHOyHw?e=84Ur5Y) (Proposal)
-* [Final Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ) (Updated)
+* [Presentation Video](https://youtu.be/TV82gs31doo)
+* [Presentation (PPT)](https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw)
+* [Final Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ)
 
 ## Introduction/Background
 Social media, such as Twitter, are playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. People use social media to express their emotions and thoughts over the happenings of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
@@ -311,7 +310,6 @@ Accuracy =  0.545
 ##### Final
 
 Accuracy =  0.601
-Classification Report
 |         |precision |   recall  |f1-score  |   support|
 |----------|-----------|----------|----------|---------|
 |Negative   |    0.60   |  0.56    |    0.58   |  52823  |
