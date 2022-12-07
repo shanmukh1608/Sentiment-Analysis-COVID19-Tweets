@@ -77,31 +77,31 @@ Our dataset consisted of 660977 tweets related to Covid-19 spanning more than 6 
 Upon further investigation of RoBERTa’s labeling, we also noticed that the model labeled a tweet as positive only if the tweet was extremely positive whereas it labeled a tweet as negative with a more even distribution of scoring as evidenced below. 
 
 <p align="center">
-  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/9bb8f5e70ab67aac60573ee8d685869763cbce9a/edapics/roberta_pos.png"/></p>
+  <img src="(https://user-images.githubusercontent.com/44746109/206121971-908cbd89-fc67-4588-8d0f-92c7efb50dc8.png)"/></p>
 <h4 align="center">RoBERTa Positive Score Distribution</h4>
 
 <p align="center">
-  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/b511bde878d2ac02ad72a2cc27acc93a806fd34c/edapics/roberta_neg.png"/></p>
+  <img src="https://user-images.githubusercontent.com/44746109/206121852-3b4536ac-05c7-43fd-aee9-f13bb4964b2e.png"/></p>
 <h4 align="center">RoBERTa Negative Score Distribution</h4>
 
 Another aspect of the data that we investigated was the prevalent keywords used in Positive and Negative tweets and how they were similar/different. The word clouds we plotted for both labels helped us answer this question. A lot of the keywords used in the tweets were overlapping for both Positive and Negative word clouds with common words like Masks, Lockdown, Vaccinations occurring in both sets of tweets. However, the two word clouds also showed subtle differences amongst them. The negatively labeled tweets had negatively inclined keywords like Hate, Death, sad, hospital, etc and the positively labeled tweets had keywords like Family, Care, Love, etc. The word clouds can be found below :
 
 <p align="center">
-  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/d8bf51f270642995126595d38a3bbac0e22b522a/edapics/pos_vader_all.png"/></p>
+  <img src="https://user-images.githubusercontent.com/44746109/206122196-d9f7f62c-aad1-4f2b-aa1d-b4efb1bac8a1.png"/></p>
 <h4 align="center">Positive Word Cloud</h4>
 
 <p align="center">
-  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/d8bf51f270642995126595d38a3bbac0e22b522a/edapics/neg_vader_all.png"/></p>
+  <img src="https://user-images.githubusercontent.com/44746109/206122263-e90a7bc4-510c-474c-ab48-1d8f6f49a325.png"/></p>
 <h4 align="center">Negative Word Cloud</h4>
 
 Finally, we also wanted to analyze the difference in themes between the 2 waves. As an example, we look at word clouds of negatively labeled tweets from wave 1 and 2 below. We noticed that the conversation surrounding Covid-19 had also changed in between waves. The first wave used keywords like Trump, lockdown, government whereas the second wave saw a decrease in interest in those keywords and saw new keywords like Omicron, vaccinations and variants.
 
 <p align="center">
-  <img src="edapics/neg_vader_1.png"/></p>
+  <img src="https://user-images.githubusercontent.com/44746109/206122522-7bd56a51-40e7-462c-a2dc-f271c4061191.png"/></p>
 <h4 align="center">Wave 1 Word Cloud</h4>
 
 <p align="center">
-  <img src="https://github.com/shanmukh1608/CS7641-MLProject-Group11/blob/cc3ac1d534da65d6eaecf4db8df6d0515857942c/edapics/neg_vader_2.png"/></p>
+  <img src="https://user-images.githubusercontent.com/44746109/206122719-3bfc2b04-231b-4991-8e18-fe562562431b.png"/></p>
 <h4 align="center">Wave 2 Word Cloud</h4>
 
 
