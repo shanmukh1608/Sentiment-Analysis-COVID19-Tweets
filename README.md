@@ -1,33 +1,11 @@
 # Sentiment Analysis of COVID-19 Tweets
-Group 11 - ML 7641 (Fall 2022)
-Team Members:
-1. Harsha Vaddi - hvaddi3
-2. Manvith M Reddy - mreddy43
-3. Sagar Nandkumar Badlani -  sbadlani6
-4. Shanmukh Karra - skarra33
-5. Sai Sri Harsha Pinninti - spinninti6
 
-# Final Report
+## Introduction
 
-## Links 
-* [Presentation Video](https://youtu.be/TV82gs31doo)
-* [Presentation (PPT)](https://gtvault.sharepoint.com/:p:/s/ML7641Group/EUCvL7UlyMdMrA_VuXuei-YBbCf5Tpr_toKxK279LwYtnw)
-* [Final Contribution Table](https://gtvault.sharepoint.com/:x:/s/ML7641Group/EchOkDl_VaZHjKQVxjNw9wYBqydS3j0OZ3XNJyqozGo6sQ?e=aWZGDQ)
+This project analyzed tweet sentiments over multiple ‘waves’ of COVID-19 using Twitter data from 2020 to 2022. Tweet sentiments were computed using three different pre-trained NLP models (TextBlob, VADER, and roBERTa). 6 different supervised nad unsupervised learning techniques were implemented and compared using coherence scores and performance metrics. 
 
-## Introduction/Background
-Social media, such as Twitter, are playing an increasingly great role in individuals’ lives and in connecting people to the rest of the world. People use social media to express their emotions and thoughts over the happenings of the world. It is becoming impossible for people to stay on top of the world’s happenings without the help of social media [1].
-
-With the onset of 2020, came the COVID-19 pandemic. Over a series of multiple waves, it prompted governments to frame new policies like social distancing and pushed most forms of human contact to the online world. In this project, we aim to analyze people’s sentiments towards COVID-19 over various waves and build a classifier to predict the sentiment of COVID related tweets. 
-
-Kaur et al. [1] propose a Hybrid Heterogeneous SVM algorithm for COVID-19 tweet sentiment analysis and evaluate its performance against SVM and RNN. Muhammad et al. [2] have compared the performance of different machine learning and deep learning algorithms including SVM, CNN, LSTM, and KNN.
-
-## Problem Definition
-Using the wealth of data available to us online, we seek to identify the shift in people’s emotions towards COVID-19 by tweet sentiment analysis over multiple waves. This allows for a better understanding and handling of the pandemic for any future waves and serves as a base on how people would react during the times of epidemic, helping governments to put necessary safeguards in place.
-
-Using Clustering and Topic Modeling [2], we also wish to find the prevalent topics that were being discussed with respect to COVID-19 and analyze the sentiment around those topics. We plan on studying how these sentiments changed during various waves of the pandemic. 
-
-We will use supervised machine learning models to predict the sentiment of a tweet. We will build these models by using sentiment scores that we will compute using various models (like TextBlob, Vader, roBERTa etc.) and compare the performance of the different supervised models.
-
+[Presentation Video](https://youtu.be/TV82gs31doo)
+  
 ## Data Collection and Preparation
 
 ### Dataset
@@ -374,10 +352,3 @@ Accuracy =  0.667
 
 ## Conclusion
 In the study, we processed about 6 months of data representing the tweets during multiple waves of COVID-19. We experimented with different Language Models, including TextBlob, Vader and roBERTa, to obtain sentiment scores for the Twitter data. On deeper inspection of the results, we found that roBERTa provided the best results for sentiment classification. However, we ran our models on all three sets of data. We ran three unsupervised learning algorithms (PCA, LSA, and LDA). We utilized PCA for feature selection, and LSA and LDA for topic modeling. The topic modeling results were evaluated using three different metrics (UMass coherence score, CV coherence score, and UCI coherence score), and demonstrated using tables and visualizations such as word clouds and bar graphs (using pyLDAvis). For supervised learning, we trained several supervised models (multinomial Naive Bayes, decision tree, random forest, SVM, etc.) to compare their performance in classifying the sentiment of these tweets. The models were compared using four different metrics (accuracy, precision, recall, and F1-score). The detailed results were demonstrated above, but the summary is that Random Forest Model performed best because of its ability to handle big data with numerous variables running into thousands. It can also to a degree automatically balance data sets when a class is more infrequent than other classes in the data. Overall, applying all these methods helped highlight the general shift in public sentiment towards COVID-19 as the pandemic evolved.
-
-## References
-[1] Kaur, H., Ahsaan, S.U., Alankar, B. et al. “A Proposed Sentiment Analysis Deep Learning Algorithm for Analyzing COVID-19 Tweets.” Inf Syst Front 23, 1417–1429 (2021). https://doi.org/10.1007/s10796-021-10135-7. 
-
-[2] Mujahid, Muhammad, Ernesto Lee, Furqan Rustam, Patrick Bernard Washington, Saleem Ullah, Aijaz Ahmad Reshi, and Imran Ashraf. "Sentiment analysis and topic modeling on tweets about online education during COVID-19." Applied Sciences 11, no. 18 (2021): 8438.
-
-[3] Rabindra Lamsal, March 13, 2020, "Coronavirus (COVID-19) Tweets Dataset", IEEE Dataport, doi: https://dx.doi.org/10.21227/781w-ef42.
