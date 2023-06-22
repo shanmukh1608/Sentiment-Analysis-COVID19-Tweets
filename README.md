@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project analyzed tweet sentiments over multiple ‘waves’ of COVID-19 using Twitter data from 2020 to 2022. Tweet sentiments were computed using three different pre-trained NLP models (TextBlob, VADER, and roBERTa). 6 different supervised nad unsupervised learning techniques were implemented and compared using coherence scores and performance metrics. 
+This project analyzed tweet sentiments over multiple ‘waves’ of COVID-19 using Twitter data from 2020 to 2022. Tweet sentiments were computed using three different pre-trained NLP models (TextBlob, VADER, and roBERTa). 6 different supervised and unsupervised learning techniques were implemented and compared using coherence scores and performance metrics. 
 
 [Presentation Video](https://youtu.be/TV82gs31doo)
   
